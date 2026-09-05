@@ -56,7 +56,7 @@ layout_action_executable_blocks {
 
 element {
   interactable = true
-  source = ModPack Made By [Tokimi](https://linktr.ee/iamtokimi)%n%
+  source = True Bastards ModPack%n%
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -248,7 +248,7 @@ element {
 
 element {
   interactable = true
-  source = [Discord](https://discord.gg/cozycord)
+  source = [Discord](https://discord.com/channels/659137486332887071/1545689118858809375)
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -751,7 +751,7 @@ element {
 
 element {
   button_element_executable_block_identifier = d6b9e901-bc6d-49f1-9daf-a10b1aa30e40-1746034700687
-  [executable_action_instance:88342c2b-1d9d-4212-8376-10bef705d4c9-1746035031294][action_type:openlink] = https://discord.gg/qHB5D9uzHe
+  [executable_action_instance:88342c2b-1d9d-4212-8376-10bef705d4c9-1746035031294][action_type:openlink] = https://discord.com/channels/659137486332887071/1545689118858809375
   [executable_block:d6b9e901-bc6d-49f1-9daf-a10b1aa30e40-1746034700687][type:generic] = [executables:88342c2b-1d9d-4212-8376-10bef705d4c9-1746035031294;]
   backgroundnormal = [source:local]/config/fancymenu/assets/discord_button.png
   backgroundhovered = [source:local]/config/fancymenu/assets/selected_discord_button.png
@@ -1956,4 +1956,3 @@ vanilla_button {
   is_hidden = false
   automated_button_clicks = 0
 }
-

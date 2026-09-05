@@ -270,7 +270,7 @@ element {
 
 element {
   button_element_executable_block_identifier = d6b9e901-bc6d-49f1-9daf-a10b1aa30e40-1746034700687
-  [executable_action_instance:88342c2b-1d9d-4212-8376-10bef705d4c9-1746035031294][action_type:openlink] = discord.gg/cozycord
+  [executable_action_instance:88342c2b-1d9d-4212-8376-10bef705d4c9-1746035031294][action_type:openlink] = https://discord.com/channels/659137486332887071/1545689118858809375
   [executable_block:d6b9e901-bc6d-49f1-9daf-a10b1aa30e40-1746034700687][type:generic] = [executables:88342c2b-1d9d-4212-8376-10bef705d4c9-1746035031294;]
   backgroundnormal = [source:local]/config/fancymenu/assets/discord_button.png
   backgroundhovered = [source:local]/config/fancymenu/assets/selected_discord_button.png
@@ -1084,4 +1084,3 @@ vanilla_button {
   is_hidden = false
   automated_button_clicks = 0
 }
-

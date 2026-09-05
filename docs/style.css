@@ -1,0 +1,10 @@
+:root { --bg:#171512; --panel:#28231d; --panel-light:#362e25; --text:#f4ead7; --muted:#c5b79f; --accent:#e2a84b; --accent-dark:#9d6a29; }
+* { box-sizing:border-box; }
+body { margin:0; color:var(--text); background:linear-gradient(#171512aa,#171512ee),url('assets/daytime.png') center top/cover fixed; font:16px/1.6 system-ui,sans-serif; }
+.site-header { padding:2.5rem 1rem 1.5rem; text-align:center; background:linear-gradient(135deg,#3b2d1dcc,#171512dd); }
+.site-header img { width:min(420px,80%); height:auto; }
+.site-header h1 { margin:0; color:var(--accent); } .site-header p { margin:.35rem 0 0; color:var(--muted); }
+nav { display:flex; flex-wrap:wrap; justify-content:center; gap:.5rem; padding:.75rem 1rem; background:var(--panel); }
+nav a { padding:.35rem .75rem; color:var(--text); text-decoration:none; border-radius:4px; } nav a:hover { background:var(--accent-dark); }
+main { width:min(900px,calc(100% - 2rem)); margin:2rem auto; } section { margin:1rem 0; padding:1.25rem; background:var(--panel); border:1px solid var(--panel-light); border-radius:8px; }
+h2 { margin-top:0; color:var(--accent); } a { color:var(--accent); } li { margin:.35rem 0; } footer { padding:2rem 1rem; color:var(--muted); text-align:center; }
