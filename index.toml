@@ -3534,10 +3534,6 @@ hash = "87d51459b462a4f98ad65d63666656934511f3ddb3793b43a63252084d87efd5"
 metafile = true
 
 [[files]]
-file = "mods/balm-fabric-1.20.1-7.3.38.jar"
-hash = "0f4c8aefb655d6e042176b842eed38dbde5e352d732a5e8ad98f9e965360c66f"
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
 metafile = true
