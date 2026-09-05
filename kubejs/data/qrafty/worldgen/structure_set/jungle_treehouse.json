@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "qrafty:jungle_treehouse",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1383555620,
+    "spacing": 35,
+    "separation": 20
+  }
+}

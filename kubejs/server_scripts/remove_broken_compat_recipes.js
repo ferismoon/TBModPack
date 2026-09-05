@@ -14,5 +14,5 @@ ServerEvents.recipes(event => {
     'create:crushing/compat/biomeswevegone/blue_nether_quartz_ore'
   ]
 
-  brokenRecipes.forEach(id => event.remove({ id }))
+  brokenRecipes.forEach(id => event.remove({ id: id }))
 })

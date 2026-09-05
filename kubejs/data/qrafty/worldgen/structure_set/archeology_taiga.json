@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "qrafty:archeology_taiga",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 2021517266,
+    "spacing": 22,
+    "separation": 13
+  }
+}

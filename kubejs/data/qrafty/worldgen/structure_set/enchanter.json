@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "qrafty:enchanter",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1789663967,
+    "spacing": 5,
+    "separation": 1
+  }
+}

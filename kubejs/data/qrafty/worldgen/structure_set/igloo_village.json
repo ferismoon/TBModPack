@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "qrafty:igloo_village",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1835899104,
+    "spacing": 25,
+    "separation": 15
+  }
+}

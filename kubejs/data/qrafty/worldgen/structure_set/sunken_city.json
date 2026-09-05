@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "qrafty:sunken_city",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 397773546,
+    "spacing": 30,
+    "separation": 12
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "qrafty:birk_fort",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 183323485,
+    "spacing": 25,
+    "separation": 15
+  }
+}

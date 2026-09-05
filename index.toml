@@ -2450,7 +2450,7 @@ hash = "bdb2ee5c09b868f2e92d83757bbd483784fd20e8115ff0151a39fb69472331fc"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
-hash = "43ec4108801c769182de3ee0c03a27f99a3635e354d7d03c3148cc136af48668"
+hash = "43a7a5e92860134938ba15b5b83bad64cc751cd5422c4f79608209731fc2211c"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -3329,6 +3329,478 @@ file = "kubejs/config/common.properties"
 hash = "a2d93fd4fe37ace988afd9fb21cf95fdbcc138424060f262fb29654744866baf"
 
 [[files]]
+file = "kubejs/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
+hash = "4c486e17adfcbe847f0ad2d618f54feb7e46ef178bc908fadb262188ec4d4e00"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_beam.json"
+hash = "9bcf1215db417c6e076fea1ecfaf9ee39367ea649c45f8b3e7442458a528f7ab"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_block.json"
+hash = "2c27b6a933fa41e4fb6e34cc4bc53fbe439c68295c1dbc518745c70187784d60"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_block_from_slabs.json"
+hash = "d960083dde3ad1c2d02ef76aa70962d2ff3933957c2c6c1dc22e98c07956ecdb"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_board.json"
+hash = "1c6cec4f980a19ae9eb1d79c16b8bc125effc05d72b44c909a2434ed550a8d66"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_box.json"
+hash = "74162f04fcc6dea465dc306fa957dc0a08f74b1825ad823b28e3f0bd6cdba5cb"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_byte.json"
+hash = "b1c8286ab846f9b859a73965542d3862d791e362882f35d53518808965d0df76"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_byte_panel.json"
+hash = "504cd5579ebfa906b5949b2176f7bc92386a19556a0431fe114575b2c6680455"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_catwalk.json"
+hash = "c6c5fc1830333392ba618cc90719379b7e04707fe4663eeccb34e12acc9dc6ff"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_cogwheel.json"
+hash = "5fd4da010952333946dd2678d30930aa3cc5a092309bc0476c4897817e659d6e"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_corner_slice.json"
+hash = "af6873e7de5db70908975e10ad1976e3050ba702fef1529c09a410b0bb5c2fd6"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_door.json"
+hash = "34bf84c1d1e960edb728aec7594d3fa834e076fc1ef351df78e74aae619fb61d"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_fence.json"
+hash = "20bcd515368258d961d9f50bbf977fed64ae2a6740e099cdc7b9e7a264d482fd"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_fence_gate.json"
+hash = "7c80816034b04df2aa4abc0ee1c3528ba09312e70d2db1efce96f0b2796d59b9"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_flat_pane.json"
+hash = "60a53d24de44ea674991fd12006b57d8d15591ee4cca3801f9ce89a5e41f9c5c"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_flat_pane_from_conversion.json"
+hash = "3367ae0c96fdad3c7fcf83feab0ff8f0409c0c75adf7dcad2c710aa23422285c"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_fluid_pipe.json"
+hash = "6827f753561e5a41be0143cd55d9e2c4590f7a8ca8d1101eda9d36b75fb6d517"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_folding_door.json"
+hash = "cbab3843e4609dbbdcfac26b2efaa5393493bf4f80e1de8def0cc9110bc0181b"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_folding_door_from_conversion.json"
+hash = "ce552445429202d800e3c8431ea1f7d395979ab93413442a76ad753e3e637133"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_ghost_block.json"
+hash = "8c7bccfbca68dfbe76b3413b4e1988c76a448227968d8e3542f1ddf6673e01d7"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_half_layer.json"
+hash = "672a3ec0ad98a0abb63af08ae1e6d60644e86e20cd65e82d7bd41668cd3f916b"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_half_layer_from_conversion.json"
+hash = "2239715e41a6eb828727f85e2b9e0ff0e4fd2366093b6ce1dece5f5ed154432d"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_half_panel.json"
+hash = "5b9b0eabfa452132d6d43faf249ff539b45d1129c6bcfb5fa28cb6a10f77403a"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_heavy_weighted_pressure_plate.json"
+hash = "cffb876768b3469b389a5e5a0eb14df65c1de38bae56b9381645a63d852dc0d0"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_iron_door.json"
+hash = "4c1747d2e7c329408a3f236a48809802b4824e2096530b470f51051e4b26cd79"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_iron_trapdoor.json"
+hash = "e7354f744108d163f0c33f5a20756557e7761067d7ee95f856d07fa017324e7b"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_ladder.json"
+hash = "f00b22f13f7456c6070e70b2083c90db257213deccc20eae864da99de41dd9e2"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_large_cogwheel.json"
+hash = "ff7dcbaeb59ffea6a4dea059ff8125734504c4fefabc0ef645082ddc77396953"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_layer.json"
+hash = "8f6c6d411bd9d26b03b99b766927ea92a4e159eecaa9a4d73da7f9e37fce924c"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_layer_from_half_layers.json"
+hash = "6dc53755db1b2c8e8045fbeeb2f653c838880e8d75e34ba56a98db85729c9b0c"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_light_weighted_pressure_plate.json"
+hash = "4f4dbb3fa982aa2afc54fb71bfa4b0e0ed69811a1ada1edc6496e8fed81def67"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_pane.json"
+hash = "b03497a0b2d2d43bc19c3d42d76a33e929f451adeda2c86c347b29b4db66a3f6"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_pane_from_conversion.json"
+hash = "f8f4ff7b925e7f08b083bd4f67a146502131aa8f5623945f0a54b40c76fac324"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_panel_from_conversion.json"
+hash = "974f0ec535890edb6703450329fa04529d4e652f8074272cddee207ab82509af"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_panel_from_half_panels.json"
+hash = "57e9796329e67f7caa77e71082f974fe8a127870a3aeb6f52ec9a690613b7929"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_shaft.json"
+hash = "06b0d73265c689dc2a766ee0a8fab0fc3de32eb23a0acc3987200947ceb611b3"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_slab.json"
+hash = "f362dc28fc4ee0451ad4458cf0b2c78d50762f63241360e37a7912df561a04b8"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_slab_from_beams.json"
+hash = "625863b0bb9d38143e16ca7f52412d04043e2d1e53910a5bb17fbe683e16a018"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_slab_from_panels.json"
+hash = "6112da70d8fc9feb6d5b495ff9727a1c10209ad10b5ad3c7c51e722aa5a32588"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_slab_from_steps.json"
+hash = "308fccd581faa228f9e6ed2cac76cf8364dba6903f9b4a089502eaa632d4dc9c"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_slice.json"
+hash = "791ccd0c0c13cf5c8540bfd6578d408e86ebb10b2a77848bd818385653ef24e5"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_slice_from_conversion.json"
+hash = "6af602aa492a11b1e314df2ccc8c9b3c4b29dd55d304f603ad378e7d7d6a2045"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_sliding_door.json"
+hash = "caee18ea1d468e5a7ab0202f41b601480533a76f043cd57fe7a576d942788b68"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_sliding_door_from_conversion.json"
+hash = "15911e789a7a11fb49b0ea1c9e1f941f0830e07d16280d913b9112b5f48f80a6"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_slope.json"
+hash = "b3c9d9f3a5634b5205d333f4dbd6fb4f4c7302e1579b0a3cc00b63f55fe95a65"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_slope_from_conversion.json"
+hash = "c1470e90979f1859727af193386bc748472602879a8b5a58405452e42e0f9fc4"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_slope_layer.json"
+hash = "f632ef8e66ce23ea0045dcd07962949d0481e9c00ae515d300022b4945d27366"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_stacked_half_layer.json"
+hash = "f2baa2181a57563d4ae3ef45b4330d08e59b57a07152d83b6c5e086642953ab7"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_stacked_half_layer_from_conversion.json"
+hash = "6b3ea614f3a60c094522987ffbb53fac9dde8b757dd7713786ce3bb0f8651bce"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_stairs.json"
+hash = "4bebe7253fd6b37272b292941424f68f69eb147bee2de642ca3b538e21931a39"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_stairs_from_conversion.json"
+hash = "259fca9d313f8438e082f4755f9a5796b3e58cbd12973954e60769202829deec"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_step_from_conversion.json"
+hash = "cb97c1ebca51e41557b9df760563e577bedad2910b5afa36bcdc0e69b63cac9b"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_stone_button.json"
+hash = "c708a1d41d892a16e4099b6bb312dfbcfc3215041b4f5426bb20983fb296d00a"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_stone_pressure_plate.json"
+hash = "022cddc015d54a90f8a9139001b11ab28acf850627f9541469c1e20c4dd8ed64"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_trapdoor.json"
+hash = "e6764c6d2ee6aa09e4e4dfdaeaf5814045d885fef4f7f7f5a37701b5fdba7662"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_trapdoor_from_conversion.json"
+hash = "cf71e1970931580ad82f97f9fb88441a8c3bd0a2648a1e7dc0211a6c55514a90"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_vertical_half_layer.json"
+hash = "bfaac8a5b6421023a6df79a05aa595bb8bdc71445286f88daf8db1d699ea63da"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_vertical_half_layer_from_conversion.json"
+hash = "99dc47efbfc3b71234f9da8417fc0770ce20929bf83631747fee6f8da3a66a77"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_vertical_slice.json"
+hash = "c9fadde45a6639675d2a397248e827977bfc073d47520aef9cff3e510234aebc"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_vertical_slice_from_conversion.json"
+hash = "c9f4d137f2b8c2ac7fddd0fcb860f5f94b46f6925d37d3a7988617011ab971f6"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_vertical_slope.json"
+hash = "fc3998993a57f4c15ab996a1d4ed513cfc060b1a47c169cdf2b9621b49b719ba"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_vertical_slope_from_conversion.json"
+hash = "c8cbbc699e4be4038d0f7f8182c2365c9e2ce7520a2b6340e1e1c71e0335efc0"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_vertical_stairs.json"
+hash = "705d8475e2f214eba3ae722bc33a38c453f03ec6051a415d6f7726932b4d81d8"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_vertical_stairs_from_conversion.json"
+hash = "64eee6c9df177c55e3e9f0569e3b3d74dda93aec9ad101fdfebe4f3c72fce857"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_vertical_step.json"
+hash = "9c6ac0bf1f442e6a77d561d7755297a1647a3204ae58716afeb44d16f4803b7d"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_vertical_step_from_conversion.json"
+hash = "a4095c42eb9cb8e30ff619de929a4b228d70190c878f2ef7fc4ccf889f86e4e6"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_wall.json"
+hash = "9cf7fda0ba2c35656130b8665e696209a94dff91e953c632516d10e3500341ae"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_wooden_button.json"
+hash = "1cba3aff105756852ea4cde05748d8a23dc3c88831bbe1aa0617a75bf2095daf"
+
+[[files]]
+file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_wooden_pressure_plate.json"
+hash = "17e1f5d4087ce1e342f762afba44f8922d77776bf882489e5b1892b4c0d4d24c"
+
+[[files]]
+file = "kubejs/data/joshie/worldgen/structure_set/village_ocean.json"
+hash = "45b8a379f60abe6eb02719a93eec4bc9984c95e22741a2e2e7b070dc25bdff26"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/worldgen/structure_set/mangrove_pond.json"
+hash = "d0f375da17b3a24b0fc6db55cf182f58f411ca3b3f54bb8cdbe05dba7c16c325"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/worldgen/structure_set/meadow_pillager_outpost.json"
+hash = "c565857043fd194e8b138834810814c86f1ac27dfae5f9787eea94459baea8bc"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/worldgen/structure_set/vinery.json"
+hash = "f3afb7c38e20a357158609c1869d2db1b72898575f4a29fff9774a0ede56cb30"
+
+[[files]]
+file = "kubejs/data/meadow/worldgen/structure_set/bench.json"
+hash = "87b20c02b6ac21da37c4cc40dec6d22f8143614699520d69c4257ebdf68c6962"
+
+[[files]]
+file = "kubejs/data/meadow/worldgen/structure_set/chalet.json"
+hash = "3e5a6ca217e6823a823b46582d7eadeba4713a465e915155760ce53d3306c638"
+
+[[files]]
+file = "kubejs/data/mns/worldgen/structure_set/medium_house_2.json"
+hash = "ca39eb02f6b39bcd6e317577b4f8eb594e1abe4da0d81abaa843b7f27d58733b"
+
+[[files]]
+file = "kubejs/data/nova_structures/worldgen/structure_set/badlands_miner_outpost.json"
+hash = "642eaffcd98f189fbcd4a05255b98214b095322452dfe7a3bfcd5a3c345f2218"
+
+[[files]]
+file = "kubejs/data/nova_structures/worldgen/structure_set/jungle_ruins.json"
+hash = "b85cddd38506d55b46450b88074a4009d297f1ccd0a5041eeba544bdb6567ee3"
+
+[[files]]
+file = "kubejs/data/nova_structures/worldgen/structure_set/nether_camps.json"
+hash = "3a16ac54f2c9dea792d3c347a6b5c6e1bdc1520ba518498a5b8da5a5a42f2a0c"
+
+[[files]]
+file = "kubejs/data/nova_structures/worldgen/structure_set/villages_jungle.json"
+hash = "b706841e7bcd81df6c637dc90aa970f83f4276aa51d38fdc3afc542d8e13fc35"
+
+[[files]]
+file = "kubejs/data/nova_structures/worldgen/structure_set/villages_swamp.json"
+hash = "12252a5bf67cd736b185e9608b4c5106f82b07ec184b5a097dc02540fbf2fe42"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/archeology.json"
+hash = "7bdd6976295eb20e3e1751b33bdaa8e6884cd3eb33cf989b2fb96d866fa6fc7d"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/archeology_taiga.json"
+hash = "4f73800c2ddc01c3473f2206b8408c88e4cbeee9d4886033048776566bfc6803"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/bamboo.json"
+hash = "73f834ea5937c38a2e3f4fbcf609199f25cff0e1f15f5959fce2e52c6966a0d6"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/birk_fort.json"
+hash = "2b97676c83add0ec4fe1932ce79a3289ff04b0ecca695b4bdfa3ec22fdcf9da7"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/bunker.json"
+hash = "bc984d3cbc8af76815b8802ae5dabe862d09a57574f817b88e22783a915fb96e"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/buried_villager.json"
+hash = "c0eb8dd5a45007941da6597a6f864e985336ec977720fa57606038c0f49b7c43"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/camp.json"
+hash = "8ccf013e95ea26ba676f3a516845132b280015ebc60aa23119dc85b8f3f8468a"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/enchanter.json"
+hash = "951258c47b0d7b6499b1b68467aa10427bbf7c174c9bf8333871d33b8d706727"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/exogino.json"
+hash = "a491d7e27b469798ec332f0b25075a105b45fb473d7b329cd0388465d514294a"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/farm.json"
+hash = "3c571d5d0847f5cc48d4a0b721aca8259062bda4e8d6a3930643e2cb84f0bc27"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/fort.json"
+hash = "e95e3b3f11dc1e953f4ab7ab8af704c6db3e0a105ca518fc19379bc91461fe7c"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/graveyard.json"
+hash = "1240134685e20977af9260598028ad60fe2bbe878000fda95e4099484d60d1aa"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/hobbit_hole.json"
+hash = "e52fbe9bac9618a82f1665e444f83409487bba4699e013ef6146baf9e1ad223b"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/ice_fort.json"
+hash = "289853eecce6e4fe78683e202d31afd11289bf848ef58933695d0014b0d45ba8"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/igloo_village.json"
+hash = "7e0ee07214f5ad660ef916f9b26c40b8720d2f063443a8f5e5d39ee5d1af13eb"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/jungle_treehouse.json"
+hash = "1cf990732a150d5e6ea87e5d80dc6afd89141d78e1d14a91c2480371bcab9f7a"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/lush_ice.json"
+hash = "d4445c3d996292b76310ba7680405a72e13c951bd62f5defd3f9433ce0c013d1"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/mangrove_watchtower.json"
+hash = "377bf27c17010d92ed15d13415ad5c468cc213e9c1e2878a7a56fc4eb4a02e3b"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/maya.json"
+hash = "9e492aeba2f4bd185080fa015fdc903364b8ac8d81c2d81191cdbf5fd85ad343"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/oasis.json"
+hash = "8dc1c8b432429f1019de3ccd76ca4ddb79e251014723e7e842df789aeb5a16c3"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/orbital.json"
+hash = "bafbfbb18d0275f114bf4027e2840225ee87416c6a2d490bc04eaa4f7517d8a9"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/overworld_leak.json"
+hash = "a9bd5691ac63e05cf5a2e7226c08619c4c3c99a65aa2002bbbfebcc726c20eb3"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/plains.json"
+hash = "00761b08b53a449b78978c6336aac4ed94f169d0525771d73c46db3e60b3ce83"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/railroad.json"
+hash = "12f0af8705bfdb14037a6854a97b16a9ab2b0dbc3006c35ec235c69c3dac1bcd"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/relict.json"
+hash = "1c614daf6b1f899203df5e763b1b5249e54b2172e178a843e809064bc9970212"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/stelzen.json"
+hash = "7233714362348b878613d81c8773a376d3002f5062ed2ad2e78425c904d724bb"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/stonehedge.json"
+hash = "db7cc8b495d881abfc0135d532065aa378f179fac82c2c7498fd975d5ab58648"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/sunken_city.json"
+hash = "cd92dd7fbfdf52d726db75b31f7156f81748e671d45de0fc4afad361e74c23f5"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/termite_hill.json"
+hash = "23650c3808a35274c4331a2029819ac91ae2673329395cffbd89d57d7f76be83"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/tower.json"
+hash = "6a24e4c15becd11cdebef363fc4a4d81892fa0ae155d14807f184e72183745c3"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/tsumago.json"
+hash = "6a9700c22d6900cc1493fa9d9bec87368bd3a3e7fd51c2878770405016168018"
+
+[[files]]
+file = "kubejs/data/qrafty/worldgen/structure_set/well.json"
+hash = "a82fc04e7cd6b9a8984ba66f422332ab640c5b46b501c2c9f9ae99b152ef1f3f"
+
+[[files]]
+file = "kubejs/data/spawn/worldgen/structure_set/ant_mount.json"
+hash = "3b7be17eeac625043087ea2d6290f8eb72172a253ef5d6d774a35f10d23ef8db"
+
+[[files]]
+file = "kubejs/data/structory/worldgen/structure_set/ruin_quiet.json"
+hash = "5674348e5fa6d4ffc06f7c8d61fb47b4cbb3291fc5ba97c62d51edf7b81d9fcf"
+
+[[files]]
+file = "kubejs/data/structory_towers/worldgen/structure_set/end_towers.json"
+hash = "3bb85b725c049b2ac4aee89703c24a3652bea444a4db85b2cbf63f806cda528c"
+
+[[files]]
+file = "kubejs/data/structory_towers/worldgen/structure_set/towers.json"
+hash = "0cb0eba061cb3257211f65e341600cec56158733129768893110a50bdd40029d"
+
+[[files]]
+file = "kubejs/data/towns_and_towers/worldgen/structure_set/towers.json"
+hash = "b78e4e681598c8329e488858c45434770476bb2a48a0428777a405f80ce50133"
+
+[[files]]
 file = "kubejs/server_scripts/amethyst.js"
 hash = "e7e98d1778363e6200959a113cfd62a5f0a2bfd8b4c18aa6b95cd868e750a8e2"
 
@@ -3349,6 +3821,10 @@ file = "kubejs/server_scripts/flour.js"
 hash = "d37b0f74bdb57db810c54adb9b710bfc8e84c2495fe9805654b90d70b2ce8e71"
 
 [[files]]
+file = "kubejs/server_scripts/furnace_fix.js"
+hash = "88fd2ed247e6d8dc32834335e198b261baf0fcd6d0ed0aac159fee80ab75e0de"
+
+[[files]]
 file = "kubejs/server_scripts/hats.js"
 hash = "d4f1564313f386ee1ee1b361f83868aea67ff610e1f1e6e296786ae49f3aab4a"
 
@@ -3362,7 +3838,7 @@ hash = "0436d417c045aa7d4a90c52de725808451ce07463811fc1143ff7eca671a233b"
 
 [[files]]
 file = "kubejs/server_scripts/remove_broken_compat_recipes.js"
-hash = "93ed6feb2ff596ff111960f5c234a7cd4cb6457a8b33b47b1e7940a21c68084f"
+hash = "d883003da6d0a8cd5673f8f4f0b7cc9b36c5d9b86fbee6a9e7cfda39be5c1632"
 
 [[files]]
 file = "kubejs/server_scripts/resin.js"

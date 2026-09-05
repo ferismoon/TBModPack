@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "qrafty:railroad",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1731023094,
+    "spacing": 35,
+    "separation": 20
+  }
+}
