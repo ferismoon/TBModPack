@@ -4599,6 +4599,11 @@ hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
 metafile = true
 
 [[files]]
+file = "mods/modrinth-logo-mod.pw.toml"
+hash = "13d7daac5fa9d056c6e7a459ec55c87b102def7c04458b80ede14e7510c1d9d8"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "cab08dbfdb35a984888bab3ab25fd4cd62ab5cc2fa1ce659f699391eafac804e"
 metafile = true
