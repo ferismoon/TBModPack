@@ -5007,11 +5007,6 @@ hash = "965cc232b9a9dc01d209427b9f9b91adc0c14d5fefadab258dd26a974b7e00fd"
 metafile = true
 
 [[files]]
-file = "mods/shuttfup.pw.toml"
-hash = "bbf71f2ad0b56b1d19350d35af5f0b09df5bae5ec8067004f9d600c27a043e0a"
-metafile = true
-
-[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "71d22734792f98b1f9f93fccfce7febd3d98b14578d7f67bf856099344853d68"
 metafile = true
