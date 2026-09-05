@@ -7,7 +7,7 @@ ServerEvents.recipes(event => {
     ],
     tool: {
       type: 'farmersdelight:tool',
-      item: 'hexalia:stone_dagger',
+      item: 'hexalia:athame',
       damage: 1 // This makes the dagger lose 1 durability per use
     },
     result: [
@@ -26,7 +26,7 @@ ServerEvents.recipes(event => {
     ],
     tool: {
       type: 'farmersdelight:tool',
-      item: 'hexalia:stone_dagger',
+      item: 'hexalia:athame',
       damage: 1
     },
     result: [

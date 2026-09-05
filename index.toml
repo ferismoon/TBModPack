@@ -3349,10 +3349,6 @@ file = "kubejs/server_scripts/flour.js"
 hash = "d37b0f74bdb57db810c54adb9b710bfc8e84c2495fe9805654b90d70b2ce8e71"
 
 [[files]]
-file = "kubejs/server_scripts/furnace_fix.js"
-hash = "88fd2ed247e6d8dc32834335e198b261baf0fcd6d0ed0aac159fee80ab75e0de"
-
-[[files]]
 file = "kubejs/server_scripts/hats.js"
 hash = "d4f1564313f386ee1ee1b361f83868aea67ff610e1f1e6e296786ae49f3aab4a"
 
@@ -3362,11 +3358,15 @@ hash = "d3433fe3a605391187e16000ff57a30b417970ac8cedf824117c32823a7eaac5"
 
 [[files]]
 file = "kubejs/server_scripts/misc.js"
-hash = "ee0d2cae8ebccf921efe40691df39ba023e3107931a8ee64fefa3e10bce3465e"
+hash = "0436d417c045aa7d4a90c52de725808451ce07463811fc1143ff7eca671a233b"
+
+[[files]]
+file = "kubejs/server_scripts/remove_broken_compat_recipes.js"
+hash = "93ed6feb2ff596ff111960f5c234a7cd4cb6457a8b33b47b1e7940a21c68084f"
 
 [[files]]
 file = "kubejs/server_scripts/resin.js"
-hash = "111eb712101e160e96a7d6ff8d3125f6c0df3909428fad53eb26401d0c36e599"
+hash = "16a97c47270d5957fa5b1606c2b7e38a8166f6df58fc8510bdf88536706c8e4a"
 
 [[files]]
 file = "kubejs/server_scripts/supplementaries_presents.js"

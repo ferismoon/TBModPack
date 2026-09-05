@@ -17,3 +17,7 @@ ServerEvents.recipes(event => {
         ]
     )
 })
+
+ServerEvents.blockLootTables(event => {
+  event.addSimpleBlock('dustydecorations:cooking_pot')
+})
