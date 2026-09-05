@@ -694,7 +694,7 @@ hash = "9c94b61bade4eb0fecd436761b1085fc807112effd9b3b12520128bd8edc2156"
 
 [[files]]
 file = "config/fancymenu/assets/christmas_1k.png"
-hash = "333b27e803edbda1d363c2460c14742c81c41ec5b61dcea48d5c14b9259c44dd"
+hash = "23153b3b82d0e9cd0005563958d94cc5c9e7ddb4eb3f8d8950d1f51dae16ddb6"
 
 [[files]]
 file = "config/fancymenu/assets/cursor.png"
@@ -726,7 +726,7 @@ hash = "7e9dc16a19285fc6c9424f91f171d15212c8ccdcd79b485a83be6092bf7c0b09"
 
 [[files]]
 file = "config/fancymenu/assets/halloween.png"
-hash = "0771dbcb84b23235db30c0912913a88321765044eac52d626280b71db4e2a253"
+hash = "23153b3b82d0e9cd0005563958d94cc5c9e7ddb4eb3f8d8950d1f51dae16ddb6"
 
 [[files]]
 file = "config/fancymenu/assets/homestead_night_christmas.png"
@@ -762,7 +762,7 @@ hash = "375605c1af78ae6db292b76c02f63c761c96260c8c56b4bcc6acf12cae6b86ce"
 
 [[files]]
 file = "config/fancymenu/assets/logo_main.png"
-hash = "5a5341d7d6aa72e50e93c4ef3a517dee3005d073458c4294ef1c8dd4233ad6b5"
+hash = "23153b3b82d0e9cd0005563958d94cc5c9e7ddb4eb3f8d8950d1f51dae16ddb6"
 
 [[files]]
 file = "config/fancymenu/assets/macos.icns"
@@ -778,7 +778,7 @@ hash = "539af6a5ea2f04ab89bf4e43308e86822669d7e09389946cd49ed4b5ed8ba012"
 
 [[files]]
 file = "config/fancymenu/assets/nighttime.png"
-hash = "39b4efef74fab1ad28cd7b7a34c8686da0a503708224381ce430b26a2e83af8d"
+hash = "e51ea7e0f1de5bbeec5e68ed3309737ea111be10cefbfe5a4aa8683167b1f96f"
 
 [[files]]
 file = "config/fancymenu/assets/noftb_button.png"
@@ -878,7 +878,7 @@ hash = "d0021532df9622867336c53f8bf596f12b7d56f04e52d3a660ed9d49c46ffd39"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "e4f70418c758cc1e1c605854494a26e1b007f94e334fc51538d12e5532b97140"
+hash = "82fb23e040524531b856c273573ea540c549800e608fec3a3cef1b86b84e4766"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_night.txt"
@@ -3414,32 +3414,8 @@ hash = "f9a59df2232ac145a6d3d5a8d170860afd36610150bd115c65fdd8ab26812c5f"
 metafile = true
 
 [[files]]
-file = "mods/Clumps-fabric-1.20.1-12.0.0.4.jar"
-hash = "2eb70931dee86cef68c8538b8284c684225964632cd10e636ea938af6f66e6f7"
-
-[[files]]
-file = "mods/Configurable-mc1.20.1-v1.3.1.jar"
-hash = "84bac40ecd0f0a47760048f757161c8c2c9b17ae67391dc739e4b4d499350310"
-
-[[files]]
-file = "mods/Decorative Lamps-1.20.1-1.7.4.jar"
-hash = "1942ffb7ee58102347a916fa4b261b64b52e7e7049e08c7559b68984f7de3ca1"
-
-[[files]]
 file = "mods/SignCopy-Fabric-1.20.1-1.1.1.jar"
 hash = "dab6f13e28c033f275cfaff1400b2a66f909cd18ab0797c0db03b6b680034bb8"
-
-[[files]]
-file = "mods/SmartBrainLib-fabric-1.20.1-1.15.jar"
-hash = "a9146583bb64ab303015a9f8165eb11da670d45a957ba93b9d11b8d53b17438e"
-
-[[files]]
-file = "mods/Stfu-1.2.3.jar"
-hash = "97f323cb0ae3b23b99abae5f8195e0a4ac34376801c0dc91574301b1ed5e38c1"
-
-[[files]]
-file = "mods/StorageDrawers-fabric-1.20.1-12.14.3.jar"
-hash = "bdd39641d1d86e0e04acaa17aa6e764c158c09be45b15f4aa5a9be43f207e1a1"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -3647,7 +3623,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
 metafile = true
 
 [[files]]
@@ -3681,8 +3662,9 @@ hash = "e3228250fc238887bbad209f3d9173fff2418870fb35614ac860a4cd4f430337"
 metafile = true
 
 [[files]]
-file = "mods/common-networking-fabric-1.0.5-1.20.1.jar"
-hash = "64e8819c575f4df670de740013ea6cd7b184f6fd08606098b82ed3a70b78b605"
+file = "mods/common-network.pw.toml"
+hash = "720abb80fb6b6585322ee0d10fafd3b4ee6fe2997d2053b4f6f685cd7ed02ea5"
+metafile = true
 
 [[files]]
 file = "mods/configurable.pw.toml"
@@ -3691,7 +3673,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "e1b96a7b1d81aa26642379484ff427392dcc11e01d8d780d302f6db0f6af97d7"
+hash = "cb0dfc7dd9564e738a739f9b05fb62668515d881c7d8241acb212408affaad30"
 metafile = true
 
 [[files]]
@@ -3860,6 +3842,11 @@ hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true
 
 [[files]]
+file = "mods/decorative-lamps.pw.toml"
+hash = "8b8b6d897ba0c2d5a035373cc776d67af78528b4d8790d8a26b244bcf98dd171"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "4ce03e0ebdf2444f2be9dfc46636342a99484b0f1d0099c23feff3efba6a70ff"
 metafile = true
@@ -3990,8 +3977,9 @@ hash = "d8518de92c1b5e8d7dd66f259b157e402869234e10d9bf6d940ade5269b37e4f"
 metafile = true
 
 [[files]]
-file = "mods/expandeddelight-0.3.2.jar"
-hash = "f9f6dba8922ea30d58399c0042adf98c95f54988d5731cb594685c4ba803ce9a"
+file = "mods/expanded-delight.pw.toml"
+hash = "0f6f3fd47bcc2ceb48037121a2691d2af6478a5a2f0b8c78c7287f41442059da"
+metafile = true
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
@@ -4079,8 +4067,9 @@ hash = "f6c6e280cfce270efaa09e0127981666ee97413083f794b3d5b313c1b5c02dfd"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseloadingscreen-2.1.1.jar"
-hash = "0ef803a80eab2db985cb9a2e8520d474e4199dd1506f6f96421334eb1275e342"
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "17eabc56becff8f22111ba01a5d3d04e0e4249f98f54c570bbafaa4f92f4faf5"
+metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
@@ -4188,8 +4177,9 @@ hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
 metafile = true
 
 [[files]]
-file = "mods/harvestableflowers-1.1.0+1.20.1.jar"
-hash = "68c80a635c8cd43b2fa9c5c95138298c88c55ea1bd2fac678acc5cc54bb82e68"
+file = "mods/harvestable-flowers.pw.toml"
+hash = "24c7e9bdee4234607c71d07e7bcbff0a149da129524b33b65748ed6652dbc0e6"
+metafile = true
 
 [[files]]
 file = "mods/hearth-and-home.pw.toml"
@@ -4352,8 +4342,9 @@ hash = "deaaa55bf9867d23cd96e96a7cc7d33a301c7831c21a285b5776252019121f8b"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights-4.4.0+1.20.1.jar"
-hash = "074d6c79e002790b696ebcfdd4ff2a2d57ec55228f93b47e952eeebd5baf5301"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "f806c627494c30432939f0e152b6c630a2933da2e68497f96240fb02807eb253"
+metafile = true
 
 [[files]]
 file = "mods/lavender-api.pw.toml"
@@ -4511,8 +4502,9 @@ hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
 metafile = true
 
 [[files]]
-file = "mods/mastercutter-1.1.jar"
-hash = "805e44310427c27380757bc876ce403123a91bf49566d8880009f917a657cd21"
+file = "mods/mastercutter.pw.toml"
+hash = "b4612aac2548a55f1edce6ca5d772956dc4a603217de6cd526dce9b1fbb46d8d"
+metafile = true
 
 [[files]]
 file = "mods/mavapi.pw.toml"
@@ -4575,8 +4567,9 @@ hash = "5383f39c26454484a6a76265fa79aead51b39ef75b36585232b077102c778d67"
 metafile = true
 
 [[files]]
-file = "mods/mob_explosion_griefing-1.1.0_1.20.x.jar"
-hash = "55571d27518aa68c5822752d89672b1b8997a52c1ffb4006044662c3041c2397"
+file = "mods/mobexplosiongriefinggamerule.pw.toml"
+hash = "5cd5b407af996651be955d14489a345149b85d5f434f4a789fcd9833b3be2869"
+metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
@@ -4631,6 +4624,11 @@ metafile = true
 [[files]]
 file = "mods/more-enchantment-info.pw.toml"
 hash = "733150678a251e06a74e3a9dcac2b9ad3230419f3bad7210d590bc7864ec1438"
+metafile = true
+
+[[files]]
+file = "mods/more-pumpkins!.pw.toml"
+hash = "e7a0c547e76584b478268fc0565f2aa3db9b91a2f228610b23aac7f21c40085a"
 metafile = true
 
 [[files]]
@@ -4829,8 +4827,14 @@ hash = "73a40c196ac4a55c872155eee997c652c8948daf63e3c4eedcf97594e1c2e7bb"
 metafile = true
 
 [[files]]
-file = "mods/pneumonocore-1.2.1+1.20+A.jar"
-hash = "20a4d6df5df8359036a043ad9d50780d18a1b11c49aac032fb3fedbc652fe2cb"
+file = "mods/pneumono_core.pw.toml"
+hash = "a050490e6e461915f15eaa62b1d5f54781103f19d5389752bfd6a521364476b6"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_umbrellas.pw.toml"
+hash = "0e225028bfd3a3a65ac4f7239e7aff556cba730bde440c1d560be5a3a7cd4ed3"
+metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
@@ -4843,8 +4847,9 @@ hash = "c00b65bfe8d9dacc012dc8d05a4771f1216a327ab7992b9e6e904715e08ae170"
 metafile = true
 
 [[files]]
-file = "mods/preferred-gamerules-1.1.1+1.19.4.jar"
-hash = "0d42aee3846403880ff6e79ea76fb19f767d9d05b0acaae84f8bbd7d2d165e20"
+file = "mods/preferred-gamerules.pw.toml"
+hash = "1348184baa1f4fc4f0115889dc4c5d49d50ca53307bb55fd98fcc12008731b21"
+metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
@@ -4855,10 +4860,6 @@ metafile = true
 file = "mods/prism-fabric.pw.toml"
 hash = "0f4cbc95a3ba8b72b62fdae171933c59a6e4f87ec6e03b26e8d0dd2a0150f5ca"
 metafile = true
-
-[[files]]
-file = "mods/pumpkinsAccelerated-1.20.1.jar"
-hash = "c785d41ea6c106ffcc8da05b893e32b453394fb967613cae6186626d97926bca"
 
 [[files]]
 file = "mods/puzzle.pw.toml"
@@ -4931,8 +4932,9 @@ hash = "a116a957979bef668d77dac972459154865cb116e80e19011589bd6dfdfa1ba6"
 metafile = true
 
 [[files]]
-file = "mods/ridingmousefix-1.0.0.jar"
-hash = "2b8ece7374899f7244dc51539aa3743874aac7392fca1c016695aa36533fa50a"
+file = "mods/ridingmousefix.pw.toml"
+hash = "744a2e2834469f3f10062c210da2ae6b41877c5a5deef0fde11d92e1416cadfa"
+metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
@@ -5005,6 +5007,11 @@ hash = "965cc232b9a9dc01d209427b9f9b91adc0c14d5fefadab258dd26a974b7e00fd"
 metafile = true
 
 [[files]]
+file = "mods/shuttfup.pw.toml"
+hash = "bbf71f2ad0b56b1d19350d35af5f0b09df5bae5ec8067004f9d600c27a043e0a"
+metafile = true
+
+[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "71d22734792f98b1f9f93fccfce7febd3d98b14578d7f67bf856099344853d68"
 metafile = true
@@ -5025,13 +5032,19 @@ hash = "68e000d1cca40964cd1c31c067e2b7250f12381413346be9fd6f847db1fb2604"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "3f46e3aeb46331bd999c099da6b07a5d161ccbd791b6f8317feaa3a8a4275d45"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "e642204cd9db1c72232e94071ae5e104dcb04b4cf40990ed84f8f5df3272a3af"
 metafile = true
 
 [[files]]
-file = "mods/smoothscroll-2.2.3.1+1.20.1.jar"
-hash = "ec0c6156f20df2d2e8b74564505bbab997bd5f932ba5d032780eb1a318420e35"
+file = "mods/smooth-scroll.pw.toml"
+hash = "f985288dc5af3c5fde96f303509839f1836c2a9716c321eb7910b90563413aa3"
+metafile = true
 
 [[files]]
 file = "mods/sodium-embeddium-options-mod-compat.pw.toml"
@@ -5099,8 +5112,9 @@ hash = "ce1da4f25a0e2b2b8a53adbef61283f1ac3e46df26603c2229133e1bb7422fce"
 metafile = true
 
 [[files]]
-file = "mods/spuds-shops-1.20.1-1.9.0.jar"
-hash = "f8533b0d3921d18015c5a2fe481867fae4b4f970680c5e44e67165eca9fe74a1"
+file = "mods/spuds-shops.pw.toml"
+hash = "ced6fc15e8e1db49a6d6dce2c8d1341eaa547cf6d60216e32744eb03fab84182"
+metafile = true
 
 [[files]]
 file = "mods/squish.pw.toml"
@@ -5120,6 +5134,11 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "9905e1007bcc77dede4b008e2361262c2c5cff5031017db2b913ed7b0a713d83"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "a7cff3a04db0673f1a5a9513015c83ae0a6bee936a8c6a1ed08ae12e0e3ba2f6"
 metafile = true
 
 [[files]]
@@ -5173,8 +5192,9 @@ hash = "0fa6e96cf6d8de33052716172499983140588b8e79b22b5a848bf39102ea46cf"
 metafile = true
 
 [[files]]
-file = "mods/swingthrough-1.0.6+1.20.jar"
-hash = "821de822a898d9e28337bee043fa338df58d509d155097f75760362ccb16517e"
+file = "mods/swingthrough.pw.toml"
+hash = "7512ad9cbcbe6f6b1abf4f6b9911636c9cef8bb966792a2f8ece795e08dbda4c"
+metafile = true
 
 [[files]]
 file = "mods/tameableminisheep.pw.toml"
@@ -5206,12 +5226,13 @@ hash = "69de4325ba4dfcf9dca1b78f54f2aed2a1f47d6353644065b88a2404cfb153a9"
 metafile = true
 
 [[files]]
-file = "mods/tia-1.20-1.1-fabric.jar"
-hash = "ebf631eb18c66dd796f85627d61aa4d9da5efd180a29d49258422ae88d0eb918"
-
-[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "b998bc85c8cdd0a6b2c07ec18aebcceb43244a2446bc221f4ee10cadb6f0ba1c"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "1bddd2c7698c383126833f6ce562321349a5a9d5ba4e82342c94471e5f7b0694"
 metafile = true
 
 [[files]]
@@ -5225,8 +5246,9 @@ hash = "a4cfb5083b9d014b87293d694d62f61ba3c64c6903885d7c1d46f46cc581f589"
 metafile = true
 
 [[files]]
-file = "mods/too-cheap-1.4.0+mc1.20.jar"
-hash = "34a92b6ecbe9a2bc4ca1000ad6f46a1ed079802c784f39c087a5b98287d2ca38"
+file = "mods/too-cheap.pw.toml"
+hash = "80b7caec8d9682a9f0cb9bdad35c1946fed7493834b72bc288c2ae030885ee2f"
+metafile = true
 
 [[files]]
 file = "mods/tool-stats.pw.toml"
@@ -5288,8 +5310,9 @@ hash = "695bf2fdb7fc8298b7652a9b53189be0e959bf72f4eb1be85d6cb65b4624afef"
 metafile = true
 
 [[files]]
-file = "mods/umbrellas-1.4.2+1.20+A.jar"
-hash = "8d233a9a8c2fbeb62a6df165d8cb21aa78ccd2c895bc47f2cbf8f2e471268023"
+file = "mods/typewriter-daycounter.pw.toml"
+hash = "b43d84d2d1cd580128cf670622dd50dd1d23e81741f09c62e66ebaef1d0b8d39"
+metafile = true
 
 [[files]]
 file = "mods/universal-bone-meal.pw.toml"
@@ -5325,10 +5348,6 @@ metafile = true
 file = "mods/visuality.pw.toml"
 hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
 metafile = true
-
-[[files]]
-file = "mods/vr_typewriter_daycounter_v1.jar"
-hash = "0d6ba90f7c86bf6cc4bd61a9d71877bffed09b7892eee61bccee7a1b1068db88"
 
 [[files]]
 file = "mods/waystones.pw.toml"
