@@ -2,11 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "11718cf829fbdddb99cdaae5836657c0e1e5b31e67065a0fe571163c796bfc79"
-
-[[files]]
-file = "config/.puzzle_cache/mojangstudios.png"
-hash = "1ba862a28dc0478ca94a0f2bf8689f4b6294ed2886dee3fdf9a10f4029110fa5"
+hash = "3f211dc1ee3cca0b2724c942c55144e91494eee3db2650f0785390b9861f324b"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -3542,8 +3538,8 @@ file = "mods/balm-fabric-1.20.1-7.3.38.jar"
 hash = "0f4c8aefb655d6e042176b842eed38dbde5e352d732a5e8ad98f9e965360c66f"
 
 [[files]]
-file = "mods/balm-fabric.pw.toml"
-hash = "6ce0e62fd963c7508f6ce085bb14d7119b60486d363c0464e99b1f147266e3d7"
+file = "mods/balm.pw.toml"
+hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
 metafile = true
 
 [[files]]
@@ -4052,11 +4048,6 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "0ad3dbdddcb7af96b8b91eab02a68b6bd9f69fa365765560bfac2d4051e65ad7"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "aaa36ced8b19c7afde89d65c82fc7b85874a683214d8d77da8fe3a89f28e5cba"
 metafile = true
 
 [[files]]
