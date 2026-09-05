@@ -3329,6 +3329,26 @@ file = "kubejs/config/common.properties"
 hash = "a2d93fd4fe37ace988afd9fb21cf95fdbcc138424060f262fb29654744866baf"
 
 [[files]]
+file = "kubejs/data/beachparty/loot_tables/chests/buried_treasure.json"
+hash = "6c36943065ed311e71a3b6fe8853f7ebcaf4badb6d0fe297e84e47da209209a5"
+
+[[files]]
+file = "kubejs/data/beachparty/loot_tables/chests/shipwreck_supply.json"
+hash = "53fe785048c633772f78710a54f8d3718d5faf0885ade6626d0a94faf9b5477e"
+
+[[files]]
+file = "kubejs/data/beachparty/loot_tables/chests/shipwreck_treasure.json"
+hash = "29972fcdeef45e7a7cc5b9f62d2abe3f456358373539603cf3dbfeddb2632fd3"
+
+[[files]]
+file = "kubejs/data/beachparty/loot_tables/chests/underwater_ruin_big.json"
+hash = "ef0b4445cff64066350b92dcea4ce60c646a5a164c6e0d108658ca4049e2e451"
+
+[[files]]
+file = "kubejs/data/beachparty/loot_tables/chests/underwater_ruin_small.json"
+hash = "42eea7aa80d821994ebc8b1e1d3945198b2f23e683fff604ddc1e14c36006256"
+
+[[files]]
 file = "kubejs/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
 hash = "4c486e17adfcbe847f0ad2d618f54feb7e46ef178bc908fadb262188ec4d4e00"
 
@@ -3605,8 +3625,32 @@ file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_wooden_pressu
 hash = "17e1f5d4087ce1e342f762afba44f8922d77776bf882489e5b1892b4c0d4d24c"
 
 [[files]]
+file = "kubejs/data/dustydecorations/loot_tables/blocks/pot.json"
+hash = "506517a1a07f6d0a703501da5313574855336fd435721eec68913f53d2871add"
+
+[[files]]
+file = "kubejs/data/incendium/loot_tables/castle/barrel/generic.json"
+hash = "02db500ee06e53d85f10ecc2d800183d18b070e881e3e563478c58efc450b350"
+
+[[files]]
+file = "kubejs/data/incendium/loot_tables/castle/king_statue.json"
+hash = "02db500ee06e53d85f10ecc2d800183d18b070e881e3e563478c58efc450b350"
+
+[[files]]
+file = "kubejs/data/incendium/loot_tables/castle/tower_barrel.json"
+hash = "ca9fe1c8912aff202231b7e4307bd2d821c7e369c5e25dfc006c8cd7f4c30f9a"
+
+[[files]]
 file = "kubejs/data/joshie/worldgen/structure_set/village_ocean.json"
 hash = "45b8a379f60abe6eb02719a93eec4bc9984c95e22741a2e2e7b070dc25bdff26"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/loot_tables/chests/crimson_vinery.json"
+hash = "fe5971334550e11dac1139cc995f01df2bcd2321489201de643b5381a27fc5c4"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/loot_tables/chests/warped_vinery.json"
+hash = "1ca5c746a33dcc23f6fc273b4ddfcf76fe37ebdc0b34393c8253c9c8259f6194"
 
 [[files]]
 file = "kubejs/data/letsdoaddon-structures/worldgen/structure_set/mangrove_pond.json"
