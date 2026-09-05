@@ -3,11 +3,11 @@ filename = "Crossbow-Enchants-1.4.0+1.20-1.20.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f00b7f8d38ccd2bd494b7b44f3b739152b1e7745"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oc8u3EXG/versions/P3mXGV1V/Crossbow-Enchants-1.4.0%2B1.20-1.20.4.jar"
+hash-format = "sha512"
+hash = "c253c644979f64f2f101e97d29e6cb5c54d5a62176152f83bfa36280e9390a86beb7b6396c0bb0ef4a3ee28d07067b6effc6e06e21d30d4c73d3db4649d9e17d"
 
 [update]
-[update.curseforge]
-file-id = 5880315
-project-id = 1063275
+[update.modrinth]
+mod-id = "oc8u3EXG"
+version = "P3mXGV1V"
