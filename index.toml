@@ -714,7 +714,7 @@ hash = "5d43ca3cec01a044a31c8c861498f146e01a82c8d5219d87a16d3cfa8fd174bb"
 
 [[files]]
 file = "config/fancymenu/assets/daytime.png"
-hash = "2136b5b831de135511379f9ee93d3c89485ddcc7e8c7d617907ed19718a97ae7"
+hash = "e51ea7e0f1de5bbeec5e68ed3309737ea111be10cefbfe5a4aa8683167b1f96f"
 
 [[files]]
 file = "config/fancymenu/assets/discord_button.png"
@@ -730,11 +730,11 @@ hash = "0771dbcb84b23235db30c0912913a88321765044eac52d626280b71db4e2a253"
 
 [[files]]
 file = "config/fancymenu/assets/homestead_night_christmas.png"
-hash = "e80d1cf267cfd438ac8d551fa8c11600d79db295458d1931258070182e560495"
+hash = "e51ea7e0f1de5bbeec5e68ed3309737ea111be10cefbfe5a4aa8683167b1f96f"
 
 [[files]]
 file = "config/fancymenu/assets/homestead_night_halloween.png"
-hash = "421450eb9445b29e0ca83b5b5312cc45978c8937f334004120c51779feefc079"
+hash = "e51ea7e0f1de5bbeec5e68ed3309737ea111be10cefbfe5a4aa8683167b1f96f"
 
 [[files]]
 file = "config/fancymenu/assets/icon16.png"
@@ -6299,7 +6299,7 @@ hash = "fa6ec1fe3d14f871dcf2b04578f084238a4ee9e3b958c1ddd437c9721699195b"
 
 [[files]]
 file = "resourcepacks/Homestead GUI/pack.png"
-hash = "cbd14c8d14bf6e1775e398513dd0f2649d66e1495d532f0f50d847e2c7833858"
+hash = "3555ad9fc2dae8a33bbcd1c5317c4d74ea51b16decb11a3cbccee07d0a88b030"
 
 [[files]]
 file = "resourcepacks/Nobushleaves.zip"
