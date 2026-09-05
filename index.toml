@@ -4020,6 +4020,11 @@ hash = "72166fa3dd8c98b4d9626b397d4d585b2601b5fa32d8dc6bab0c08133baaa9fc"
 metafile = true
 
 [[files]]
+file = "mods/blahaj-replushed.pw.toml"
+hash = "3d549a6eb082a3e5b7987b3beeb149d3c59e42266788b9f6999d19f30545aaf2"
+metafile = true
+
+[[files]]
 file = "mods/block-runner.pw.toml"
 hash = "097c0b00c5d5b8f7566b617ec082ffcb5c5a5400bbe2d727039c34ca7e7379a0"
 metafile = true
@@ -4997,11 +5002,6 @@ metafile = true
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "23d22e2bb728da48524537c154ea1b28a9ed4c21f63824fa7758cf98690c4b72"
-metafile = true
-
-[[files]]
-file = "mods/mcr_blahaj.pw.toml"
-hash = "62830320ba2a100ac8e5d497b18cdcc9ae4311f71cbcbc8a3dce55178dc58de5"
 metafile = true
 
 [[files]]
