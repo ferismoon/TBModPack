@@ -5351,7 +5351,7 @@ metafile = true
 
 [[files]]
 file = "mods/welcome-screen.pw.toml"
-hash = "e73843a11da4429047d08f4c490dc9eed36cc87356e6820150a9a8040be4a1c5"
+hash = "789bf6ee0eb7cd180345653165acc0aaf386d22fb160173dfd90a9bc4fe49928"
 metafile = true
 
 [[files]]
