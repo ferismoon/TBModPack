@@ -1,0 +1,13 @@
+name = "Spawn"
+filename = "spawn-1.0.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14b097ed2774dfb119f3397a754e59e34333d344"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4861638
+project-id = 935694

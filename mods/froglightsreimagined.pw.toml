@@ -1,0 +1,13 @@
+name = "FroglightsReimagined"
+filename = "froglightsreimagined-0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01bb18490ab335ecd11f3488b9f5dd4985e9286c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7262718
+project-id = 1361021

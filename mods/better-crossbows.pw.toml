@@ -1,0 +1,13 @@
+name = "Better Crossbows"
+filename = "Better-Crossbows-Fabric-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d78b55f5c537b058cd406f40856508447e7f3d52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8015229
+project-id = 1402632

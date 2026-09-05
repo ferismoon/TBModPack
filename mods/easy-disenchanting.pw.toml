@@ -1,0 +1,13 @@
+name = "Easy Disenchanting"
+filename = "easydisenchanting-fabric-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "245263174cf0b745e6651d888fedb99292968781"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6537110
+project-id = 1266689

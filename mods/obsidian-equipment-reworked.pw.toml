@@ -1,0 +1,13 @@
+name = "Obsidian Equipment Reworked"
+filename = "obsidianequipmentrework-fabric-1.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c93bd86233890628383c3a2eff84ac65ed1c8f0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8795715
+project-id = 1468750

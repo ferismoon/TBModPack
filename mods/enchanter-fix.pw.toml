@@ -1,0 +1,13 @@
+name = "Enchanter Fix"
+filename = "enchanter_fix-1.8+mc1.20-1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72f05f07a4c027025967b7d1bf10c862ca9c515c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7560419
+project-id = 1076285

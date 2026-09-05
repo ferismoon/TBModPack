@@ -1,0 +1,13 @@
+name = "Peaceful Hunger | UPDATED"
+filename = "peaceful_hunger-fabric-1.20.1-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f41f6e124a34088728cff29d4c686144f746eccb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7108486
+project-id = 1034453

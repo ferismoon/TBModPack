@@ -1,0 +1,13 @@
+name = "Tooltip Overhaul"
+filename = "tooltipoverhaul-fabric-1.20.1-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f639fdfe98b1231e6faecdcb2bb75c8388311e62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8380593
+project-id = 1327508

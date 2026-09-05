@@ -1,0 +1,13 @@
+name = "Gliders"
+filename = "gliders-fabric-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91af47fc22ef9343c8cc6cb30106bd21ff764317"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7349610
+project-id = 828331

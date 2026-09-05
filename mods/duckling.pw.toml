@@ -1,0 +1,13 @@
+name = "Duckling"
+filename = "duckling-fabric-1.20.4-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff219c21d3a8eee8b3db2da53dfd93bc5944bbcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5256598
+project-id = 597248

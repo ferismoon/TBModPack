@@ -1,0 +1,13 @@
+name = "RemoveBlockOutline"
+filename = "removeblockoutline-1.1.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16c9cba60b2b7b68e63932ae36f0cc8ef3d238a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4594764
+project-id = 626748

@@ -1,0 +1,13 @@
+name = "Create: Dragons Plus"
+filename = "create-dragons-plus-fabric-1.20.1-1.11.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb055b82d04de545e5136f8ae44fc24709c731a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8799590
+project-id = 1216624

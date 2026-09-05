@@ -1,0 +1,13 @@
+name = "TameableMossbloom"
+filename = "TameableMossbloom-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "123fb945f0faf9dcdf5976aa930374a0e394a3d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6916540
+project-id = 1332717

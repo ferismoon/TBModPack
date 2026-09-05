@@ -1,0 +1,13 @@
+name = "Sun and Moon Celestial Configuration"
+filename = "celesteconfig-fabric-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c33467134a135c8034b5c1679434a0c0db8becd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7478501
+project-id = 656398

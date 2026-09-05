@@ -1,0 +1,13 @@
+name = "Storage Labels"
+filename = "labels-1.20-2.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b78a2631d02db2b51d4514851f4f50d75573f21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6201652
+project-id = 688223

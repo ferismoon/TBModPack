@@ -1,0 +1,13 @@
+name = "DarkSmelting - RPG Smelt Armor, Tools, Weapons"
+filename = "darksmelting-fabric-1.20.1-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7f177a68150b9f15270600a2d72595625ad7365"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5041738
+project-id = 908418

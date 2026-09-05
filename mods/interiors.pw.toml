@@ -1,0 +1,13 @@
+name = "Create: Interiors"
+filename = "interiors-1.20.1-fabric-0.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "429a2dea60c4efe3eaa172e59b2847b1b9c67e56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7338638
+project-id = 906239

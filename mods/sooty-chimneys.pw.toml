@@ -1,0 +1,13 @@
+name = "Sooty Chimneys"
+filename = "sootychimneys-fabric-1.20.1-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e38654fe497f10740dc31443cc492418a0b13faa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7671378
+project-id = 634005

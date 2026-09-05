@@ -1,0 +1,13 @@
+name = "Just Outdoor Stuffs"
+filename = "JustOutdoorStuffs-1.20.1-fabric-v1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dae3ef0d94aa76f73f0b5b871b15fd0c8a2687e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4693387
+project-id = 896219

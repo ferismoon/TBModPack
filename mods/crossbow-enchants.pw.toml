@@ -1,0 +1,13 @@
+name = "Crossbow Enchants"
+filename = "Crossbow-Enchants-1.4.0+1.20-1.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f00b7f8d38ccd2bd494b7b44f3b739152b1e7745"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5880315
+project-id = 1063275
