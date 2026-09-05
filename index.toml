@@ -3082,7 +3082,7 @@ hash = "ebef10b2bbbc025766fb34b1cd31c46f3fbc3d35454144aa8e2a3dca3f33a01b"
 
 [[files]]
 file = "config/wirelessredstone.json"
-hash = "f1ede1ac8ebd1bfc1ae74453a9faefb180f0c848d5d5e6e35fb6e1c375d2d2b0"
+hash = "333c3aeb9541a803004f34dede1be133d9273ffbc415850b1a41f98280859330"
 
 [[files]]
 file = "config/worldeditcui.config.json"
@@ -4022,6 +4022,11 @@ file = "mods/balm-fabric-1.20.1-7.3.38.jar"
 hash = "0f4c8aefb655d6e042176b842eed38dbde5e352d732a5e8ad98f9e965360c66f"
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "2357bfccf8245507b0ca6fcef9ae13930b2b1bea028eb9970e7392abbf7d8b16"
 metafile = true
@@ -4052,6 +4057,16 @@ hash = "3ec39275606ec3fa45f7681ebac003c5cab962e77de1cf60d8a241639c736df2"
 metafile = true
 
 [[files]]
+file = "mods/betterend.pw.toml"
+hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
+metafile = true
+
+[[files]]
+file = "mods/betterenddelight.pw.toml"
+hash = "fa62adbafa3f86a8cd1ca92ae4833c6f7951d2247c2fe45821f1e20c12be337c"
+metafile = true
+
+[[files]]
 file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
 hash = "72166fa3dd8c98b4d9626b397d4d585b2601b5fa32d8dc6bab0c08133baaa9fc"
 metafile = true
@@ -4074,6 +4089,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "6ea88bc4fee5cd750982121bcd2193281192e8a23bfe0c4582545c9bdb7fdde3"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "c603294c194b869fd14d2cdda3f0663f0137b1127b1fd2b627b3945854ef96c4"
 metafile = true
 
 [[files]]
@@ -4449,11 +4469,6 @@ metafile = true
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
 hash = "5c2480212de53b3e0fb0adb82ea1fa1774ee93a5d41f7a735a8ead101803339d"
-metafile = true
-
-[[files]]
-file = "mods/eldritch-end.pw.toml"
-hash = "b16cb71b880e3c2ca691a0521aa612c732b2ea35d4c99861e567100c6261f6d3"
 metafile = true
 
 [[files]]
@@ -5472,6 +5487,11 @@ hash = "c64a8fbf1392d22d2bc2dd13d5b09304210aefc033d371ab4276e75cc10d56ae"
 metafile = true
 
 [[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "5ea9af6c853c3bf5302b4aa77e2ecd1de430d762e707ee52604498c6ce5915d7"
+metafile = true
+
+[[files]]
 file = "mods/sawmill.pw.toml"
 hash = "f6da78a493781359587345267ec576d4bd75724935a8795a79883612192d368e"
 metafile = true
@@ -5942,11 +5962,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons-fabric.pw.toml"
 hash = "e20fd212ab36de5e8e10adc05087ccb28861d05afeab8f7ab5a22b4c1197ceea"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-end-island-fabric.pw.toml"
-hash = "a24a457628010726f99089cf342eceebab5d0d76168af2705686b79f92b80964"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "BetterEndDelight"
+filename = "BetterEndDelight-0.4.0-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eAXhQySJ/versions/LcWlcQ8t/BetterEndDelight-0.4.0-alpha.jar"
+hash-format = "sha512"
+hash = "e6235f7a0b9bafdcc48644bb6e19a65c78eb9431302671533b7a46a3ea12b6243cf1e17b24406a677eacdbdc9fa1c0ccb269e46129b16b4f96242a07787e035e"
+
+[update]
+[update.modrinth]
+mod-id = "eAXhQySJ"
+version = "LcWlcQ8t"
