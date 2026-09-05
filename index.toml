@@ -5190,6 +5190,11 @@ hash = "db3f4317e9de688ec9d1881547b2eb877a2162891d5ff4895e278c0826d09af2"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "95a3e4926b406df108ae3da7deeda518a39c1ac5b5ad79ff296c576f16734d58"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "f7fecabdb990da94fe8fa700313c32d005f4cc87749f0d9b423b7049cc7d1cbd"
 metafile = true
