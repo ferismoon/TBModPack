@@ -573,54 +573,6 @@ file = "config/easymagic-server.toml"
 hash = "b5b4774de9cdf5168b8219feab227b3de1c0816fef1832388cf5254fea9be789"
 
 [[files]]
-file = "config/eldritch_end/biomes/hasturian_wastes.json"
-hash = "ec91aae0a2dfa35ab09f78f2e0a15105eebd59e9b9e2f534f2596be04ac00ad8"
-
-[[files]]
-file = "config/eldritch_end/biomes/primordial_abyss.json"
-hash = "b2551666672706f6d286e0fc01a27ba4ad08b13a88bb5c5413cf21950cc85f53"
-
-[[files]]
-file = "config/eldritch_end/bosses/hastur.json"
-hash = "cbaa3036c058f6fec9432ed52c2f4d6c2b9d4fb10505f31ecf5f19429af99be0"
-
-[[files]]
-file = "config/eldritch_end/bosses/the_eye_v2.json5"
-hash = "1ca38494d3f3939c447044986b734bf6446eb2f4e37a5aecd863f5a162cc50f6"
-
-[[files]]
-file = "config/eldritch_end/bosses/the_faceless.json5"
-hash = "407a7e3a76b660550f45515bfedaf545bf3ec6596c4f373bb7a35c1500eac6f7"
-
-[[files]]
-file = "config/eldritch_end/eldritch_end-client.json"
-hash = "d934f43bae3525923c6b6c79cf76014bb6a2c3b341122ce3b80b938bd4a66e28"
-
-[[files]]
-file = "config/eldritch_end/entities/aberration.json"
-hash = "2a3c4143705789845b780263b2e46ffbd2c891e1bcb95bdf9c570e3a07a66886"
-
-[[files]]
-file = "config/eldritch_end/entities/dendler.json"
-hash = "bf4afb846701594f6498b32ade50d7e655bbafe28a9a2410619f3f40c16bdf04"
-
-[[files]]
-file = "config/eldritch_end/entities/tentacle.json"
-hash = "ac78c7af5eab647cabdbae58ed7c05fab77151ce05dd8a6ac721c9711ed95cae"
-
-[[files]]
-file = "config/eldritch_end/items/xal.json"
-hash = "5deae5ded95864b17a9b39059865c5f3bdc470f67efe742643de1fa1eaa0542b"
-
-[[files]]
-file = "config/eldritch_end/mechanics/corruption.json5"
-hash = "ed26886b29d89a9358654728cb83a6727ff9678f63927bc0935f06b5ec61ab3f"
-
-[[files]]
-file = "config/eldritch_end/mechanics/infusions.json5"
-hash = "6ae4b34b6aafc9101cb2f72d607f316a22cd1a4d53061e3186f37edc709b54e2"
-
-[[files]]
 file = "config/emojiful.json"
 hash = "7eaad91440b8bec1158393c8c859edc737c3ec68fca19f6c2cc872fbd0c3a2fd"
 
@@ -1470,7 +1422,7 @@ hash = "9f47188c54e174d814ba0277e8af61625fbb2a3b67f32f77d94db4375780c19a"
 
 [[files]]
 file = "config/letmedespawn.json"
-hash = "62bc543ca210653481556bf3319166c160222c08b7efa5f92d5541c000a241b1"
+hash = "746b234aafad522e2695434e0cd610bbc2e27ff35bcb1d44012c097b9558314d"
 
 [[files]]
 file = "config/libgui.json5"
@@ -1731,10 +1683,6 @@ hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
 [[files]]
 file = "config/openloader/data/Repurposed_Structures-VillagersPlus_v3.zip"
 hash = "592e56cf4c9f4bba6f7c7585003c9b223d73737e9ab3c7d8c5a0273a8a489b8d"
-
-[[files]]
-file = "config/openloader/data/eldritch_end_etyr_recipe_fix-1.20.1_1.0.zip"
-hash = "07548af8661c3a4615ed1bbd9b305f1459f5f2de76e05f5b8c7f242e14c8c3a4"
 
 [[files]]
 file = "config/openloader/data/iron_chests_pickaxe_tag.zip"
