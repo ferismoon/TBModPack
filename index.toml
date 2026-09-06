@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "3f211dc1ee3cca0b2724c942c55144e91494eee3db2650f0785390b9861f324b"
+hash = "a2b00ea01de00ad96fe026daeb69327b65bc1615f503d0d832832ca4f52bd07d"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -4109,8 +4109,18 @@ hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "cf60b86757655bfb8bd49a59975caecea566938c9a446575ed62dca9b077d32d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "d02f8f8da843ad46aa1dfa9967d8fbcfd363d9b0240aec31366ed390122ee369"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "04f19d2bdf2812a1183353350e808a6c6cb7ce129c70a1aed3a084d0313e648c"
 metafile = true
 
 [[files]]
@@ -5803,6 +5813,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fancy-beds.pw.toml"
 hash = "538db46556a042007d6811878f3d5762c9720d9e8056d34a5b933c87e36b84e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
