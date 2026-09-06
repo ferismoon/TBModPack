@@ -3405,14 +3405,6 @@ file = "kubejs/startup_scripts/shiitake_mushroom_soup.js"
 hash = "46f7c9b0eb9a4fde4461184ad9b649e25998178cc396e66d11e5be0b1ffd4626"
 
 [[files]]
-file = "loading-logo-forced-relocation-draft.png"
-hash = "68b508657ff58ac4ac5f994954b22a8525fb632b3e2473677e00a49f4eac7312"
-
-[[files]]
-file = "logo-forced-relocation-black.png"
-hash = "28aa5da28f0df631885fdfcb6dcd70c9cb4357fc6041e7f109b70f8ed6cddab4"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "f9a59df2232ac145a6d3d5a8d170860afd36610150bd115c65fdd8ab26812c5f"
 metafile = true
@@ -5492,10 +5484,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "8c34bee0bf7d371e8d97aa690f52cc61bdafe0e99aacc21b1beeb9a983588de8"
 metafile = true
-
-[[files]]
-file = "nighttime-forced-relocation.png"
-hash = "327afbd83978d0ed8d6b986158c7a4fde63f19ae61424361bec2f66813a5e651"
 
 [[files]]
 file = "patchouli_books/homestead/book.json"
