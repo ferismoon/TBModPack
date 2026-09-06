@@ -3270,7 +3270,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/client_scripts/retire_toolshed_hammers.js"
-hash = "e21cd0751e2225ab885c90871f201406bd977d551a0b0f942131fe95168af69b"
+hash = "12a10e8e030393dface6e6948265a6eab38eee281dc62b8489d1161f568a05f9"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -4478,11 +4478,6 @@ hash = "2bb7b96f9b856485b40ae5783f30dee9fb64e666b06445ff094970a434ffe53c"
 metafile = true
 
 [[files]]
-file = "mods/extra-thicc-packets.pw.toml"
-hash = "4abe2f719878f0ac44b288cd2804da49d487b9d5481fd0217bd396284bf43725"
-metafile = true
-
-[[files]]
 file = "mods/extreme-sound-muffler-fabric-official.pw.toml"
 hash = "1f81416eed72a30721de1afb35cfd47d1b5e5a00bd1f83e1889ba1fa0330533c"
 metafile = true
@@ -4830,11 +4825,6 @@ metafile = true
 [[files]]
 file = "mods/lavender-api.pw.toml"
 hash = "505b2a92d050a7debdf7d72938d673fb8ab4c3ebfdb1714573a03ae02b5a0897"
-metafile = true
-
-[[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
 metafile = true
 
 [[files]]
