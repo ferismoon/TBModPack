@@ -13,7 +13,7 @@ layout-meta {
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/nighttime.png
+  image_path = [source:local]/config/fancymenu/assets/background.png
   slide = false
   repeat_texture = false
   parallax = false
