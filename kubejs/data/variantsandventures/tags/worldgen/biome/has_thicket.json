@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:rainforest",
+    "biomeswevegone:fragment_jungle",
+    "natures_spirit:tropical_woods"
+  ]
+}

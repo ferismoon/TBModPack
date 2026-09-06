@@ -1,0 +1,14 @@
+{
+  "type": "biome_modifier:add_spawns",
+  "biomes": [
+    "regions_unexplored:saguaro_desert",
+    "biomeswevegone:mojave_desert",
+    "natures_spirit:scorched_dunes"
+  ],
+  "spawners": {
+    "weight": 75,
+    "minCount": 2,
+    "maxCount": 2,
+    "type": "creeperoverhaul:desert_creeper"
+  }
+}

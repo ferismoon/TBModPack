@@ -1,0 +1,12 @@
+{
+  "type": "biome_modifier:add_spawns",
+  "biomes": [
+    "regions_unexplored:bamboo_forest"
+  ],
+  "spawners": {
+    "weight": 75,
+    "minCount": 2,
+    "maxCount": 2,
+    "type": "creeperoverhaul:bamboo_creeper"
+  }
+}

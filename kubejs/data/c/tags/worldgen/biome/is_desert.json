@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:atacama_outback",
+    "biomeswevegone:mojave_desert",
+    "biomeswevegone:windswept_desert",
+    "natures_spirit:blooming_dunes",
+    "natures_spirit:drylands",
+    "natures_spirit:lively_dunes",
+    "natures_spirit:scorched_dunes",
+    "natures_spirit:stratified_desert",
+    "regions_unexplored:joshua_desert",
+    "regions_unexplored:outback",
+    "regions_unexplored:saguaro_desert"
+  ]
+}

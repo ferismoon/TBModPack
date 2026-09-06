@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:crag_gardens",
+    "biomeswevegone:howling_peaks",
+    "natures_spirit:alpine_highlands",
+    "natures_spirit:blooming_highlands",
+    "natures_spirit:dusty_slopes",
+    "natures_spirit:red_peaks",
+    "natures_spirit:sleeted_slopes",
+    "natures_spirit:snowcapped_red_peaks",
+    "regions_unexplored:arid_mountains",
+    "regions_unexplored:highland_fields",
+    "regions_unexplored:icy_heights",
+    "regions_unexplored:mountains",
+    "regions_unexplored:pine_slopes",
+    "regions_unexplored:towering_cliffs",
+    {
+      "id": "#minecraft:is_mountain",
+      "required": false
+    }
+  ]
+}

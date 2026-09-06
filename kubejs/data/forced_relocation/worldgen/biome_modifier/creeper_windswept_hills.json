@@ -1,0 +1,13 @@
+{
+  "type": "biome_modifier:add_spawns",
+  "biomes": [
+    "biomeswevegone:dacite_ridges",
+    "natures_spirit:shrubby_highlands"
+  ],
+  "spawners": {
+    "weight": 75,
+    "minCount": 2,
+    "maxCount": 2,
+    "type": "creeperoverhaul:hills_creeper"
+  }
+}

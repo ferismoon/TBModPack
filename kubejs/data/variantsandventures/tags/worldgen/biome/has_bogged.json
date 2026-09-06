@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:fungal_fen",
+    "biomeswevegone:cypress_swamplands",
+    "natures_spirit:marsh"
+  ]
+}

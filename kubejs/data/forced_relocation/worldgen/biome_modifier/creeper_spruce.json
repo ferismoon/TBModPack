@@ -1,0 +1,13 @@
+{
+  "type": "biome_modifier:add_spawns",
+  "biomes": [
+    "biomeswevegone:coniferous_forest",
+    "natures_spirit:boreal_taiga"
+  ],
+  "spawners": {
+    "weight": 75,
+    "minCount": 2,
+    "maxCount": 2,
+    "type": "creeperoverhaul:spruce_creeper"
+  }
+}

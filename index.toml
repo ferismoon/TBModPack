@@ -2825,6 +2825,166 @@ file = "kubejs/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.j
 hash = "4c486e17adfcbe847f0ad2d618f54feb7e46ef178bc908fadb262188ec4d4e00"
 
 [[files]]
+file = "kubejs/data/c/tags/worldgen/biome/badlands.json"
+hash = "60bba483e194c39aba9a5bc71bafc312f27639f2d027bc0cb38dca9ae430d34b"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/beach.json"
+hash = "03ac4a186457729e63309bb21e670dd02650dd0c21051a7a29e8109a04a545e2"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/deep_ocean.json"
+hash = "442b84b43b1222af0b95f4a6df01823961f5a00fe63e0b0f8225a00228defb94"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/desert.json"
+hash = "b0dec10705474295f73bca1d7745da8a9aae81b322fd8c319ed4088d0f028ab6"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/floral.json"
+hash = "9b4d0f1525d7d2adcc059fc133b629106d9816468354aa5b818d76d1b925f41b"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/forest.json"
+hash = "cfd9e71ba0dddc2085c0b4c5595484e503a813c884752996fd4c8f007d577ad5"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/hill.json"
+hash = "3f831ce16be70d172b2f82591695a635a8cc353bc6fe195e19dcfb6d6c85d158"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/in_jungle.json"
+hash = "5421b26e152a3fff35a067ecfc5e719b4631d748cf3e7e0b10bde0708e6574c7"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_badlands.json"
+hash = "60bba483e194c39aba9a5bc71bafc312f27639f2d027bc0cb38dca9ae430d34b"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_beach.json"
+hash = "03ac4a186457729e63309bb21e670dd02650dd0c21051a7a29e8109a04a545e2"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_deep_ocean.json"
+hash = "442b84b43b1222af0b95f4a6df01823961f5a00fe63e0b0f8225a00228defb94"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_desert.json"
+hash = "b0dec10705474295f73bca1d7745da8a9aae81b322fd8c319ed4088d0f028ab6"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_floral.json"
+hash = "9b4d0f1525d7d2adcc059fc133b629106d9816468354aa5b818d76d1b925f41b"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_forest.json"
+hash = "cfd9e71ba0dddc2085c0b4c5595484e503a813c884752996fd4c8f007d577ad5"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_hill.json"
+hash = "3f831ce16be70d172b2f82591695a635a8cc353bc6fe195e19dcfb6d6c85d158"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_jungle.json"
+hash = "1d05f7322e7f5ddac7bd22ba330a63ff48d7f5d96e1d0f79288a3a7529c50617"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_mountain.json"
+hash = "75bbca03586b566d91031c73f60e0428a05fe40ac8e5480a7f13c8d2fe85db08"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_mushroom.json"
+hash = "129b449610574a5d511de5989300494f3d3285f0882116f3d10f8b135c5e5fd9"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_ocean.json"
+hash = "95f5efebb0a1cc1d47ef6847c4030a802ba5721bb8feb59a9e02943f999de03e"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_plains.json"
+hash = "f68e65ccf7bc35811ce7763ccdbbbdfc4cd779b311b688fb3d95ad0ac6ba362f"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_river.json"
+hash = "ba959e87052796924e93fe15ca3aa5f3a6b5e903bc606fdc19f246e64297a7ff"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_savanna.json"
+hash = "5e88a8c5b6a795b584fcda4ccb3049ea5348a0f2dc0580a1082013a2a7dba5a2"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_snowy.json"
+hash = "351ab0134ef437a944c707682240c19546fb9f86d044e8b899478e9d7b9150b0"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_swamp.json"
+hash = "b6f6022516d2206a97410236aa3efd83ced47e66942a3235a8305b344a29044b"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_taiga.json"
+hash = "f3b0427cfaf4c33b5bc8b6d549e58d329d74d56bd2aa43b69fdfc869e7727f98"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/jungle.json"
+hash = "1d05f7322e7f5ddac7bd22ba330a63ff48d7f5d96e1d0f79288a3a7529c50617"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/mountain.json"
+hash = "75bbca03586b566d91031c73f60e0428a05fe40ac8e5480a7f13c8d2fe85db08"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/mushroom.json"
+hash = "129b449610574a5d511de5989300494f3d3285f0882116f3d10f8b135c5e5fd9"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/ocean.json"
+hash = "95f5efebb0a1cc1d47ef6847c4030a802ba5721bb8feb59a9e02943f999de03e"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/plains.json"
+hash = "f68e65ccf7bc35811ce7763ccdbbbdfc4cd779b311b688fb3d95ad0ac6ba362f"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/river.json"
+hash = "ba959e87052796924e93fe15ca3aa5f3a6b5e903bc606fdc19f246e64297a7ff"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/savanna.json"
+hash = "5e88a8c5b6a795b584fcda4ccb3049ea5348a0f2dc0580a1082013a2a7dba5a2"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/snowy.json"
+hash = "351ab0134ef437a944c707682240c19546fb9f86d044e8b899478e9d7b9150b0"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/swamp.json"
+hash = "b6f6022516d2206a97410236aa3efd83ced47e66942a3235a8305b344a29044b"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/taiga.json"
+hash = "f3b0427cfaf4c33b5bc8b6d549e58d329d74d56bd2aa43b69fdfc869e7727f98"
+
+[[files]]
+file = "kubejs/data/classic_caravans/tags/worldgen/biome/has_desert_caravan.json"
+hash = "3f4c0c66b058cf3dcf8322a913c01602db6ca7a1728dc859540315816cd01c64"
+
+[[files]]
+file = "kubejs/data/classic_caravans/tags/worldgen/biome/has_jungle_caravan.json"
+hash = "5421b26e152a3fff35a067ecfc5e719b4631d748cf3e7e0b10bde0708e6574c7"
+
+[[files]]
+file = "kubejs/data/classic_caravans/tags/worldgen/biome/has_plains_caravan.json"
+hash = "0123a0d70fac7ceed19ad0788ee93d98e599aac98fab78f9746b6d30d36de50f"
+
+[[files]]
+file = "kubejs/data/classic_caravans/tags/worldgen/biome/has_snow_caravan.json"
+hash = "8dcf3662866d4b8e4f5af13274ac119359fcaf3cf3ff5375904d4023122b2df6"
+
+[[files]]
+file = "kubejs/data/classic_caravans/tags/worldgen/biome/has_swamp_caravan.json"
+hash = "048f54a8d1fe3df5db5bbe2ddc813479cdc92aa106fb8beb4e8ad988c28268c1"
+
+[[files]]
 file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_beam.json"
 hash = "9bcf1215db417c6e076fea1ecfaf9ee39367ea649c45f8b3e7442458a528f7ab"
 
@@ -3097,8 +3257,100 @@ file = "kubejs/data/copycats/advancements/recipes/crafting/copycat_wooden_pressu
 hash = "17e1f5d4087ce1e342f762afba44f8922d77776bf882489e5b1892b4c0d4d24c"
 
 [[files]]
+file = "kubejs/data/creeperoverhaul/tags/worldgen/biome/is_darkforest.json"
+hash = "68b48eaf3ad172d096d61f391ec197a645b701ebc24a39720e439a7d501d746a"
+
+[[files]]
+file = "kubejs/data/creeperoverhaul/tags/worldgen/biome/is_mushroom.json"
+hash = "61e227a76b3730af48fd0461d21adc6fe6e2c320879ae2b9ad61ac5ef1a8d85f"
+
+[[files]]
 file = "kubejs/data/dustydecorations/loot_tables/blocks/pot.json"
 hash = "506517a1a07f6d0a703501da5313574855336fd435721eec68913f53d2871add"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/badlands_spawns.json"
+hash = "1ec2affe593c2943e76b87930b7b85a226229ef2641080774a65c7a8882b7c79"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/cave_spawns.json"
+hash = "5ce573bba80dbc16e57ec675d4a2775036f3e8db98daeb91d08af92cc5bb63d4"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/dark_oak_spawns.json"
+hash = "68b48eaf3ad172d096d61f391ec197a645b701ebc24a39720e439a7d501d746a"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/desert_spawns.json"
+hash = "37d491dd186a4428ef03939f99bb04e5b2b40b74793d2bdbdeeda441b3c864c7"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/flower_fields_spawns.json"
+hash = "78d4f0a0032684cbddde6162d1cb50204588dcbf2e7878b41f68c709f8f70e12"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/ice_spikes_spawns.json"
+hash = "118042cb2cf0a1e90467f4932510827fcee2ea643575c2496d6b829549881e11"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/mushroom_fields_spawns.json"
+hash = "61e227a76b3730af48fd0461d21adc6fe6e2c320879ae2b9ad61ac5ef1a8d85f"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/savanna_spawns.json"
+hash = "d8ef99b7915609157d3c3af22313d65652700d419b6e0a7d8c1d452a170da68e"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/snowy_spawns.json"
+hash = "1cf74aa202280ddb8ec217e2385ddfd53cddb3cc01a1e4d0ee7106092b82b9f2"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/soulsand_valley_spawns.json"
+hash = "9654bd212975d8c3d5e14687578e2bac496297096baa3fd14a36330be2aa67ea"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/swamp_spawns.json"
+hash = "6ce356b2065c582866f306a5bb7b5b27b59cacadb4d1eb26220b5a9ace5deccd"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/warped_forest_spawns.json"
+hash = "9a4d347cc606c3ce2599d4170afd3f3bf34c40a17e477be7e772e004520ad6ed"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/windswept_hills_spawns.json"
+hash = "f8e655566963cce7e5f7637a8bc168cb507b6fd85900a9042f1e8c7cc9ac986b"
+
+[[files]]
+file = "kubejs/data/forced_relocation/worldgen/biome_modifier/creeper_badlands.json"
+hash = "ee17867a0ca5d214c8e33912da0ed536c151c804455dbd0ba166fdf49260d553"
+
+[[files]]
+file = "kubejs/data/forced_relocation/worldgen/biome_modifier/creeper_bamboo.json"
+hash = "412e4e09df6d7a2d27b0a4ca7cb64f56c56d43b45e1998cfd888aca217097d4b"
+
+[[files]]
+file = "kubejs/data/forced_relocation/worldgen/biome_modifier/creeper_cave.json"
+hash = "78d43702e43e9431338a2d5a1b228b0427512889af8318e9169b6fa2bd583aa0"
+
+[[files]]
+file = "kubejs/data/forced_relocation/worldgen/biome_modifier/creeper_desert.json"
+hash = "44a28d43f631b585dd6644cb16e8b7f5216bcb9d7b8424ad1f0b8cbf62f73b1a"
+
+[[files]]
+file = "kubejs/data/forced_relocation/worldgen/biome_modifier/creeper_jungle.json"
+hash = "212fa022533ac8950f75597f86b5088199a65b1c81a649e0b6dd2775ff11fc75"
+
+[[files]]
+file = "kubejs/data/forced_relocation/worldgen/biome_modifier/creeper_spruce.json"
+hash = "f1b4f6ce2d808aae33ac10390994c813ca37186bd8e479cba78e1bf8187a026d"
+
+[[files]]
+file = "kubejs/data/forced_relocation/worldgen/biome_modifier/creeper_swamp.json"
+hash = "8d3549d8b4183d6865955c4a2855b67b45f519b43ae314974012d144e9380dc4"
+
+[[files]]
+file = "kubejs/data/forced_relocation/worldgen/biome_modifier/creeper_windswept_hills.json"
+hash = "c60e3ff76a68bbe2bbadb69a09670090889e1cfccc673e57bf54206de3058f81"
 
 [[files]]
 file = "kubejs/data/homestead/worldgen/biome_modifier/mystical_elk_spawns.json"
@@ -3323,6 +3575,34 @@ hash = "0cb0eba061cb3257211f65e341600cec56158733129768893110a50bdd40029d"
 [[files]]
 file = "kubejs/data/towns_and_towers/worldgen/structure_set/towers.json"
 hash = "b78e4e681598c8329e488858c45434770476bb2a48a0428777a405f80ce50133"
+
+[[files]]
+file = "kubejs/data/variantsandventures/tags/worldgen/biome/has_bogged.json"
+hash = "e5ed00d07a310c665089ee4d2c4beac2c1245352419af28699b84af14357289a"
+
+[[files]]
+file = "kubejs/data/variantsandventures/tags/worldgen/biome/has_gelid.json"
+hash = "65aa6315d01cf941a0cdc6b0a3b25c7eee0a86302679639e57f1589e5a22eb64"
+
+[[files]]
+file = "kubejs/data/variantsandventures/tags/worldgen/biome/has_husk.json"
+hash = "37d491dd186a4428ef03939f99bb04e5b2b40b74793d2bdbdeeda441b3c864c7"
+
+[[files]]
+file = "kubejs/data/variantsandventures/tags/worldgen/biome/has_parched.json"
+hash = "37d491dd186a4428ef03939f99bb04e5b2b40b74793d2bdbdeeda441b3c864c7"
+
+[[files]]
+file = "kubejs/data/variantsandventures/tags/worldgen/biome/has_stray.json"
+hash = "65aa6315d01cf941a0cdc6b0a3b25c7eee0a86302679639e57f1589e5a22eb64"
+
+[[files]]
+file = "kubejs/data/variantsandventures/tags/worldgen/biome/has_thicket.json"
+hash = "dae11298655b3a01970c4f77c7214e5c7ca13848d06626e8a2094d11fd7a932a"
+
+[[files]]
+file = "kubejs/data/variantsandventures/tags/worldgen/biome/has_verdant.json"
+hash = "dae11298655b3a01970c4f77c7214e5c7ca13848d06626e8a2094d11fd7a932a"
 
 [[files]]
 file = "kubejs/server_scripts/amethyst.js"

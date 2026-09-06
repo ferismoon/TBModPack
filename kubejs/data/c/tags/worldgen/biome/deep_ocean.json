@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:hyacinth_deepsregions_unexplored:hyacinth_deeps",
+    {
+      "id": "#minecraft:is_deep_ocean",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:allium_shrubland",
+    "biomeswevegone:amaranth_grassland",
+    "biomeswevegone:coconino_meadow",
+    "biomeswevegone:crimson_tundra",
+    "biomeswevegone:firecracker_chaparral",
+    "biomeswevegone:prairie",
+    "biomeswevegone:pumpkin_valley",
+    "biomeswevegone:rose_fields",
+    "biomeswevegone:temperate_grove",
+    "natures_spirit:alpine_clearings",
+    "natures_spirit:prairie",
+    "natures_spirit:shrubland",
+    "regions_unexplored:barley_fields",
+    "regions_unexplored:clover_plains",
+    "regions_unexplored:flower_fields",
+    "regions_unexplored:grassland",
+    "regions_unexplored:poppy_fields",
+    "regions_unexplored:prairie",
+    "regions_unexplored:pumpkin_fields",
+    "regions_unexplored:rocky_meadow",
+    "regions_unexplored:shrubland"
+  ]
+}

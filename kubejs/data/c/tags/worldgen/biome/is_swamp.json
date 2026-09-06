@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:bayou",
+    "biomeswevegone:cypress_swamplands",
+    "biomeswevegone:cypress_wetlands",
+    "biomeswevegone:white_mangrove_marshes",
+    "natures_spirit:bamboo_wetlands",
+    "natures_spirit:marsh",
+    "natures_spirit:tropical_basin",
+    "natures_spirit:wisteria_forest",
+    "regions_unexplored:bayou",
+    "regions_unexplored:fen",
+    "regions_unexplored:fungal_fen",
+    "regions_unexplored:marsh",
+    "regions_unexplored:old_growth_bayou"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:bayou",
+    "biomeswevegone:cypress_swamplands",
+    "natures_spirit:marsh"
+  ]
+}

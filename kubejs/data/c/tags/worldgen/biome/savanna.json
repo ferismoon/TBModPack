@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:araucaria_savanna",
+    "biomeswevegone:baobab_savanna",
+    "biomeswevegone:ironwood_gour",
+    "natures_spirit:arid_savanna",
+    "regions_unexplored:baobab_savanna",
+    "regions_unexplored:dry_bushland",
+    "regions_unexplored:steppe",
+    {
+      "id": "#minecraft:is_savanna",
+      "required": false
+    }
+  ]
+}

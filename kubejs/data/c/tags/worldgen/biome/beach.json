@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:basalt_barrera",
+    "biomeswevegone:dacite_shore",
+    "biomeswevegone:rainbow_beach",
+    "natures_spirit:tropical_shores",
+    "regions_unexplored:grassy_beach",
+    "regions_unexplored:gravel_beach",
+    {
+      "id": "#minecraft:is_beach",
+      "required": false
+    }
+  ]
+}

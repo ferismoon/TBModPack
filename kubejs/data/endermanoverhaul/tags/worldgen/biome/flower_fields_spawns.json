@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:flower_fields",
+    "biomeswevegone:rose_fields",
+    "natures_spirit:lavender_fields"
+  ]
+}

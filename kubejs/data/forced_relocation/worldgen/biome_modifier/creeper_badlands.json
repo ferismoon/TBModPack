@@ -1,0 +1,14 @@
+{
+  "type": "biome_modifier:add_spawns",
+  "biomes": [
+    "biomeswevegone:rugged_badlands",
+    "biomeswevegone:sierra_badlands",
+    "biomeswevegone:red_rock_valley"
+  ],
+  "spawners": {
+    "weight": 75,
+    "minCount": 2,
+    "maxCount": 2,
+    "type": "creeperoverhaul:badlands_creeper"
+  }
+}

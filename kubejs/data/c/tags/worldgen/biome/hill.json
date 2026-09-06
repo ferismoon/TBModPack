@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:icy_heights",
+    "regions_unexplored:towering_cliffs",
+    {
+      "id": "#minecraft:is_hill",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "biome_modifier:add_spawns",
+  "biomes": [
+    "biomeswevegone:cypress_swamplands"
+  ],
+  "spawners": {
+    "weight": 75,
+    "minCount": 2,
+    "maxCount": 2,
+    "type": "creeperoverhaul:swamp_creeper"
+  }
+}

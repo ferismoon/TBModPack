@@ -1,0 +1,12 @@
+{
+  "type": "biome_modifier:add_spawns",
+  "biomes": [
+    "natures_spirit:tropical_woods"
+  ],
+  "spawners": {
+    "weight": 75,
+    "minCount": 2,
+    "maxCount": 2,
+    "type": "creeperoverhaul:jungle_creeper"
+  }
+}

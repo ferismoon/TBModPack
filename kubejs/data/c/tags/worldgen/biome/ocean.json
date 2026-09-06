@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "biomeswevegone:dead_sea",
+    "biomeswevegone:lush_stacks",
+    "regions_unexplored:rocky_reef",
+    {
+      "id": "#minecraft:is_ocean",
+      "required": false
+    }
+  ]
+}

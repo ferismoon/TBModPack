@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "regions_unexplored:saguaro_desert",
+    "biomeswevegone:mojave_desert",
+    "natures_spirit:scorched_dunes"
+  ]
+}
