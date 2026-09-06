@@ -1,14 +1,14 @@
-# True Bastards Homestead
+# True Bastards
 
 A private modded Minecraft pack created for the **True Bastards Discord server**.
 
-True Bastards Homestead is based on **Tokimi's Homestead**, expanded and customised for our own server with additional mods, structures, Create content, recipes, configuration changes and assorted questionable decisions.
+True Bastards is a custom survival pack for our server, with additional mods, structures, Create content, recipes, configuration changes and assorted questionable decisions.
 
-The aim is to keep the relaxed homestead and exploration feel of the original pack while giving us considerably more things to build, automate, discover and inevitably break.
+The aim is to provide a relaxed survival and exploration experience with plenty to build, automate, discover and inevitably break.
 
 ## What We've Added
 
-Our version expands the original pack with:
+The pack includes:
 
 - ⚙️ Expanded **Create** content and automation
 - 🏚️ Additional structures and exploration
@@ -33,9 +33,9 @@ If the pack has been updated, only the files that have changed will be downloade
 ### New Players
 
 1. Install **Prism Launcher**
-2. Import the provided **True Bastards Homestead** instance
+2. Import the provided **True Bastards** instance
 3. Sign into your Minecraft account
-4. Launch **True Bastards Homestead**
+4. Launch **True Bastards**
 5. Cause problems
 
 Updates after the initial installation are automatic.
@@ -50,9 +50,9 @@ Players should therefore **not manually update mods through Prism** unless speci
 
 ## Credits
 
-**True Bastards Homestead** is based on **Tokimi's Homestead**.
+This pack is maintained for the private True Bastards server.
 
-Full credit goes to Tokimi and the original modpack authors for the foundation of the pack, and to the individual Minecraft mod developers whose work makes the pack possible.
+Credit belongs to the individual Minecraft mod developers whose work makes the pack possible.
 
 Our version contains additional mods, configuration changes, custom recipes and other modifications made specifically for the True Bastards server.
 
