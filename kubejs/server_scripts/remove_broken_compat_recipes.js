@@ -1,5 +1,11 @@
 ServerEvents.recipes(event => {
   const brokenRecipes = [
+    // Create compatibility recipes referencing unavailable BWG materials.
+    'create:crushing/compat/biomeswevegone/ametrine_ore',
+    'create:crushing/compat/biomeswevegone/pervaded_netherrack',
+    'create:crushing/compat/biomeswevegone/anthracite_ore',
+    'create:crushing/compat/biomeswevegone/lignite_ore',
+    'create:crushing/compat/biomeswevegone/emeraldite_ore',
     'create:milling/compat/biomeswevegone/compat/biomeswevegone/winter_cyclamen',
     'create:crushing/compat/biomeswevegone/blue_nether_gold_ore',
     'create:milling/compat/biomeswevegone/orchid',

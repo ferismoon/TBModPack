@@ -3830,7 +3830,7 @@ hash = "0436d417c045aa7d4a90c52de725808451ce07463811fc1143ff7eca671a233b"
 
 [[files]]
 file = "kubejs/server_scripts/remove_broken_compat_recipes.js"
-hash = "d883003da6d0a8cd5673f8f4f0b7cc9b36c5d9b86fbee6a9e7cfda39be5c1632"
+hash = "3b13a4d99a96cb031b44c93a3bbf3bfb36fddedafc4d96490ff8d7677ccea7e4"
 
 [[files]]
 file = "kubejs/server_scripts/resin.js"
