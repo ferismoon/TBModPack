@@ -5070,11 +5070,6 @@ hash = "f985288dc5af3c5fde96f303509839f1836c2a9716c321eb7910b90563413aa3"
 metafile = true
 
 [[files]]
-file = "mods/sodium-embeddium-options-mod-compat.pw.toml"
-hash = "1c148411c0dc54c5a4f743fd9cca7b919a1b88ea1f5a657694f7250968ddd917"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7e247fc51fae1fdaf7cca7a94f7222341d6673b68941a933adafaa4b921ec2b2"
 metafile = true
