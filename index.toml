@@ -3269,6 +3269,10 @@ file = "kubejs/client_scripts/example.js"
 hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
+file = "kubejs/client_scripts/retire_toolshed_hammers.js"
+hash = "e21cd0751e2225ab885c90871f201406bd977d551a0b0f942131fe95168af69b"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "10c796dad0e37f594a5a8faf64f93a4c78f838f84632d248bbeff982b980f3c9"
 
@@ -3835,6 +3839,10 @@ hash = "3b13a4d99a96cb031b44c93a3bbf3bfb36fddedafc4d96490ff8d7677ccea7e4"
 [[files]]
 file = "kubejs/server_scripts/resin.js"
 hash = "16a97c47270d5957fa5b1606c2b7e38a8166f6df58fc8510bdf88536706c8e4a"
+
+[[files]]
+file = "kubejs/server_scripts/retire_toolshed_hammers.js"
+hash = "9e85e00a44f622fbe3c1a623ec371c0310ac1985b1ea7a7c1c915d523f49e761"
 
 [[files]]
 file = "kubejs/server_scripts/supplementaries_presents.js"
@@ -4760,18 +4768,8 @@ hash = "47a303fa55cd817c02d02b2a30f5e1b17fade72602b9cf70de35871cefbb741f"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "4b63da96e653cb5aa19a74b647fd2b573ae29e5ed0e40be40638dd8f86e05bbb"
-metafile = true
-
-[[files]]
 file = "mods/jump-over-fences-forge.pw.toml"
 hash = "fa82b4c7cf2b2b3a3a3d0b5afbd624d8036f6201a9c1854f3ba3c0c8feb254f9"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "73ec62a15461103461fa494918b94f8d0babc9215d2770e7074450a67eb049f6"
 metafile = true
 
 [[files]]
@@ -4781,7 +4779,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "423740850b00b21a2b1f37f9d2e8816774351369d9fd1e1ebae08c053da760ed"
+hash = "f7b3aba2dca57d128e82bb453cd00b706f48a6cb084d4db4ac252dc0d9e9642d"
 metafile = true
 
 [[files]]
@@ -5390,6 +5388,11 @@ hash = "82ecb0967d7b662d5e955411af6cb06ee1e9c5fb73bd2ce658660aced8791169"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "633401d73fbb4ff69645fe671ca8ca2621d87a4e2e444e5642d985fe15db20ae"
 metafile = true
@@ -5427,6 +5430,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "5d2caa7d03903815bb397a6ad4d52a183cc08e05d6a8c767953c9c5b04e828bb"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "77403277f00e432aed26bf311388fe78eedd1298c01bcfed641750d597597dd3"
 metafile = true
 
 [[files]]
@@ -13624,11 +13632,3 @@ hash = "fa022a9302f25401a854a85a7e67bfe850769d59ebf3c1d7355814f09468e924"
 [[files]]
 file = "shaderpacks/MID ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/shadowcomp.csh"
 hash = "1ff2a3529f60f4cdf66e2e8ac09d90813ce479ef340c18440deeccf845141ff3"
-
-[[files]]
-file = "kubejs/client_scripts/retire_toolshed_hammers.js"
-hash = "e21cd0751e2225ab885c90871f201406bd977d551a0b0f942131fe95168af69b"
-
-[[files]]
-file = "kubejs/server_scripts/retire_toolshed_hammers.js"
-hash = "9e85e00a44f622fbe3c1a623ec371c0310ac1985b1ea7a7c1c915d523f49e761"

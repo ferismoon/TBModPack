@@ -3,11 +3,11 @@ filename = "justenoughbreeding-fabric-1.20.1-3.0.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "3e24766aada8e3cac14bd61d2d802596e6da49cc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9Pk89J3g/versions/NaT5F7p7/justenoughbreeding-fabric-1.20.1-3.0.1.jar"
+hash-format = "sha512"
+hash = "c51319a497cf4aeb0bdcad94e2338f48b8645d4ab4bb00bd38eb599df477f03d1ef783108f8d6d35943245f5d2a1a32b31de0534a27fb89817a1e4b3c83e3270"
 
 [update]
-[update.curseforge]
-file-id = 8133829
-project-id = 899386
+[update.modrinth]
+mod-id = "9Pk89J3g"
+version = "NaT5F7p7"

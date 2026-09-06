@@ -1,5 +1,5 @@
-// Hide retired hammers in JEI; existing items remain usable.
-JEIEvents.hideItems(event => {
+// Hide retired hammers in REI; existing items remain usable.
+REIEvents.hide('item', event => {
   [
     'tokimistoolshed:wooden_hammer',
     'tokimistoolshed:stone_hammer',
