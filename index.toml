@@ -3845,6 +3845,11 @@ hash = "2c83736b530eef20fb13c3524ed8c30ae690de3ea851c0e16f9972f0cb9d3be6"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "20e6e39afc3881c4d6530f33208ecf55014c2dc420f742c3fa2ca450c9b110af"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
@@ -3995,6 +4000,11 @@ hash = "4e659377f3db8a81ba68a2701d94da5ec28e640e10204c9717395dd4f2750054"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "fab5d7420de7216e160ad3c2ce7b3c06ae3008ddb432b564579d43a7f9130075"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "3db01f03285d98d66a7669ec36b3a6735d8bc6ea1880fbd5e156448da7845f40"
 metafile = true
@@ -4120,6 +4130,11 @@ hash = "8fe2cb6a509cd81553bd5b20f19585decf8ca2beb3ae6098ce8b65517873e6b7"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "77cefdee0e11fd22a8de11f02763cbfe06ee5b0edadac151cda51b61749927e3"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "d40878c1475688e3bb12cf5b041bee7585a9176a55f4bce68444da3a3127a168"
 metafile = true
@@ -4181,7 +4196,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "d3237427c060742b9b724e0a65d57074c430f06d4f3dadf857ea5252602c8fe4"
+hash = "930bb7150387995f4764a33a41bc1dde3f0e977c0432010e96ea2076fcf6d85d"
 metafile = true
 
 [[files]]
@@ -4860,6 +4875,11 @@ hash = "cd050be690b2634679b27db3d3792555f0a8878429760db78272837d5487d821"
 metafile = true
 
 [[files]]
+file = "mods/pillager-caravans.pw.toml"
+hash = "0234f3f58158fe3616909b90fac74f6f4c58f2ceca69c33ebaae821287d323c3"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "73a40c196ac4a55c872155eee997c652c8948daf63e3c4eedcf97594e1c2e7bb"
 metafile = true
@@ -4951,12 +4971,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "8c72cc6704cd3062268260d0760bfb6152f463ca00783f8f8872c7706e3eec30"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
@@ -5373,6 +5393,11 @@ hash = "fc1901a872857ae3ee83cb892157ea3d18ce04c3c9e353f998bc1f2ac43b3905"
 metafile = true
 
 [[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "9b3fe2517fd75fb6e45b75cb0cceadb485866d8bc0d802bb6ad9a839717eaaa3"
+metafile = true
+
+[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "26abe43f2212a3fd943798d445db6bf9f8ecba76c4e8f7fe45ed703ff8d77645"
 metafile = true
@@ -5429,7 +5454,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "eac5d5405a7020336980c31c15aab41e0a8fd6881f53deca8ad07c247e968206"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
