@@ -61,7 +61,7 @@ element {
   source = ModPack Made By Moonie
   source_mode = direct
   shadow = true
-  scale = 1.0
+  scale = 0.75
   base_color = #FFFFFFFF
   text_border = 2
   line_spacing = 2
@@ -134,7 +134,7 @@ element {
   source = Pack Version Release 1.2
   source_mode = direct
   shadow = true
-  scale = 1.0
+  scale = 0.75
   base_color = #FF5733
   text_border = 2
   line_spacing = 2
@@ -406,71 +406,7 @@ element {
   advanced_horizontal_tilt_mode = false
 }
 
-element {
-  button_element_executable_block_identifier = 9651f5d2-b131-440c-b838-022b08fb5789-1749516026752
-  [executable_action_instance:0a1e661c-6705-4f8f-8fd0-caf0fd031454-1749516093017][action_type:toggle_layout] = universal_layout
-  [executable_block:9651f5d2-b131-440c-b838-022b08fb5789-1749516026752][type:generic] = [executables:0a1e661c-6705-4f8f-8fd0-caf0fd031454-1749516093017;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/cursor_on.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/cursor_off.png
-  restartbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  navigatable = true
-  widget_active_state_requirement_container_identifier = 726c89a6-217b-4971-ba25-3936c14b4be7-1749516026752
-  [loading_requirement_container_meta:726c89a6-217b-4971-ba25-3936c14b4be7-1749516026752] = [groups:][instances:]
-  is_template = false
-  template_apply_width = false
-  template_apply_height = false
-  template_apply_posx = false
-  template_apply_posy = false
-  template_apply_opacity = false
-  template_apply_visibility = false
-  template_apply_label = false
-  template_share_with = buttons
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-  element_type = custom_button
-  instance_identifier = 9b9eba46-3bf2-4b88-abee-59ba523605ad-1749516281181
-  custom_element_layer_name = Cursor
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = every_time
-  fade_in_speed = 5.0
-  fade_out = every_time
-  fade_out_speed = 5.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1084
-  sticky_anchor = false
-  anchor_point = element
-  anchor_point_element = 247659ef-4664-4133-81af-0f338db24d5a-1744413863262
-  x = -1
-  y = 57
-  width = 20
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 78699549-fa8d-48cd-8e35-394cbc738525-1749516026751
-  [loading_requirement_container_meta:78699549-fa8d-48cd-8e35-394cbc738525-1749516026751] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity_v2 = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
-  rotation_degrees = 0.0
-  advanced_rotation_mode = false
-  vertical_tilt_degrees = 0.0
-  advanced_vertical_tilt_mode = false
-  horizontal_tilt_degrees = 0.0
-  advanced_horizontal_tilt_mode = false
-}
+
 
 element {
   source = Click Me For Mod Menu!

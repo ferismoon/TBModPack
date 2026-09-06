@@ -398,7 +398,7 @@ hash = "37f3bbf0adb04001cfb813938d4ace3c4d8f62021dbffecc562f2c1ebcfae56c"
 
 [[files]]
 file = "config/cozystudioscore.json"
-hash = "320e0b03602415a55a0e9654fb3b34a2dbe92870643d40b0717edae6b8f2f079"
+hash = "1a5b9ac6cb8d1d13a754b47e1aa154105aa34dd3c740bfd6f743f6083c1f1ba7"
 
 [[files]]
 file = "config/cozystudioscore/auto_ftb_mods.json"
@@ -410,7 +410,7 @@ hash = "67e26bf4530d76c481a4098311ede7ed1ab1ca226fe52a0ba842e1c627759019"
 
 [[files]]
 file = "config/cozystudioscore/general.json"
-hash = "ec85c2d94017b4356d550e372374a2533f484d6db079ec44b5e2ef432f17c14c"
+hash = "82a0461ad4064a05669ae820b00ade8b34ea46707a07d4478d2818ae86ea0bbe"
 
 [[files]]
 file = "config/cozystudioscore/kiln.json"
@@ -522,7 +522,7 @@ hash = "4a5d25e0bd986db0774877075da95b86ebb96a67f1c954ee91684e95b90e6541"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "dfc5b524e068a211f8a4a17e2de908241403ee2d13bfce84979e18fb30859f03"
+hash = "e3e45ae1db10b4703dd9c658bff4847bc414f7b8895f6ed0977c160a4a893807"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -685,6 +685,14 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "60b2d2a0b45b7fee284091164d0238b2c286d821b3764dc1ac927c86563de8ab"
 
 [[files]]
+file = "config/fancymenu/customization/ModMenuOptionsScreen-background.txt"
+hash = "e595e63001f11d7cd5925f17b2ce71dd747c260d39ca63f8d187290ee30125ff"
+
+[[files]]
+file = "config/fancymenu/customization/ModsScreen-background.txt"
+hash = "51ac9174c12d54d33a0239fbfc1358c0d25f218049bb747e0363c4bacf0d3821"
+
+[[files]]
 file = "config/fancymenu/customization/controls_screen_layout.txt"
 hash = "a1b484d957641390e02c6c424bc7db58660f49e44d292ec4a7ff827b5a27a02f"
 
@@ -695,6 +703,14 @@ hash = "dcaeb1b4d836d8adb2b7906ceb50796b6c23f6f48e3c2cf5e80ae5a7f3c6fb52"
 [[files]]
 file = "config/fancymenu/customization/hanging_sign_edit_screen_layout.txt"
 hash = "6692ca585386384f58a5998c3855cd1378629487e3272f55bc33e68aa9557f1e"
+
+[[files]]
+file = "config/fancymenu/customization/multiplayer_screen_background.txt"
+hash = "9f60e4486a31fe692ef83e5d7119e4862cf229c3e2ba041de9007407862191e2"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_background.txt"
+hash = "df9f569c964947203616a861e00849506ea26056644ddad9232870ebf245407f"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
@@ -710,7 +726,7 @@ hash = "d0021532df9622867336c53f8bf596f12b7d56f04e52d3a660ed9d49c46ffd39"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "9e7eaf8bb73642150aef435290803ecb8012b52041b0f781dd5e2abbbca94b78"
+hash = "d43d496dc932c2fd04871e10713f364cd6a85295dcf7d754d1ef97f9528a65b0"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"

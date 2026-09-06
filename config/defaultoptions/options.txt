@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","subtle_effects:biome_color_water_particles","resources/ftbquests","resources/homestead","resources/patchouli","minecraft:supporteatinganimation","natures_spirit:emissive_ores_compatibility","spelunkery:better_vanilla_gems","continuity:default","continuity:glass_pane_culling_fix","resources/Icon_Xaero\u0027s_1.2_HF.zip","resources/cubic-sun-moon-v1.8.1a.zip","file/Stay_True_1.20.zip","file/Homestead GUI","resources/Homestead Essentials"]
+resourcePacks:["create:dynamic_data","vanilla","fabric","Moonlight Mods Dynamic Assets","subtle_effects:biome_color_water_particles","resources/ftbquests","resources/homestead","resources/patchouli","file/Fancy_Beds-v4.1.zip","minecraft:supporteatinganimation","natures_spirit:emissive_ores_compatibility","spelunkery:better_vanilla_gems","continuity:default","continuity:glass_pane_culling_fix","file/bushy-leaves-1-6-5.zip","file/Stay_True_1.20.zip","file/cubic-sun-moon-v1.8.5.zip","file/Icon Xaero\u0027s 1.22.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Apple Skin Retextured.zip","file/TrueBastardsGUI","file/FreshAnimations_v1.10.4.zip","vanillabackport:freshly_animated"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

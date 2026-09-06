@@ -1,5 +1,5 @@
 {
-  "showTitleScreenCredits": true,
+  "showTitleScreenCredits": false,
   "peacefulHunger": true,
   "enableMasonTrades": true,
   "maxStackSizeOverride": 64
