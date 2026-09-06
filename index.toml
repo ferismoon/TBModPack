@@ -2549,6 +2549,10 @@ file = "config/rightclickharvest.json5"
 hash = "6eb5169563472ae96184c94e9f42ff7d76fdba403ed3190ffb308e817ea0a21e"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "0183b2f2ff4501d694fe88b3f052b22e2749e4a2e689f706f700d220c11d969e"
+
+[[files]]
 file = "config/rrls.toml"
 hash = "9b0a7f60429c0026ea544b18201e6953338a95013aa3dd3bdcbda339f6b42cf6"
 
@@ -6804,6 +6808,11 @@ hash = "3555ad9fc2dae8a33bbcd1c5317c4d74ea51b16decb11a3cbccee07d0a88b030"
 [[files]]
 file = "resourcepacks/Nobushleaves.zip"
 hash = "a957b0ff9f5e679574a0c88a26a35f2dc3d20a2f524378f85c5159d18e7b7d8f"
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "9ccdca7ead50871101f8cf380df89a160261859c7e640c3477170f95f1a515c3"
+metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-beds.pw.toml"
