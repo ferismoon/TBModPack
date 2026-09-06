@@ -1,0 +1,13 @@
+name = "AppleSkin Retextured"
+filename = "Apple Skin Retextured.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GG04dqmF/versions/hcKOuaRA/Apple%20Skin%20Retextured.zip"
+hash-format = "sha512"
+hash = "94a4eb7b86cf6a84dfeb217667924eff126e120dd8ea8b25a2fa74c374a7a0de5919998a129567faab55eae640fbdd7b769862cc9aa2d0361bf702f7472f9232"
+
+[update]
+[update.modrinth]
+mod-id = "GG04dqmF"
+version = "hcKOuaRA"

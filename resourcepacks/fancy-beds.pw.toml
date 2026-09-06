@@ -1,6 +1,6 @@
 name = "Fancy Beds"
 filename = "Fancy_Beds-v4.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
