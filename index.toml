@@ -1681,356 +1681,8 @@ file = "config/openloader/data/qrafty's-end-villages.zip"
 hash = "dd6350beeee214329b2bd3de0a6f4aefe204821370ce58ca41834840ef059117"
 
 [[files]]
-file = "config/openloader/data/tokimi.-Tokimi-emojiful-datapack.zip"
-hash = "8d0d45677ec24162c138699da4fa4e9f006edde480dbc5b8cccd18751d4f6cc2"
-
-[[files]]
 file = "config/openloader/data/v6qraftyfied.zip"
 hash = "ead6c1837186b8581894ef49023e44d19ae2d3582da0cf9c15367360f05a1149"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/block/cogwheel.json"
-hash = "0f1604de788ef7d671e9505f42a1c945785b04d21a92604c43e3881de68fcc9d"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/block/cogwheel_shaft.json"
-hash = "af12751a8d03e04a6a201b50a5da4a21ec49636163d829e613079e6772d28c30"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/block/cogwheel_shaftless.json"
-hash = "eaeeab63c52c4c6c16436da9c702b25b7327b0f57f206ba6bb6c12c63159a896"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/block/goggles.json"
-hash = "5ca937c31aad150c98266bace3f13e6886abea3783ad4d577066233478cf95e4"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/block/large_cogwheel.json"
-hash = "5502478155125f95d742f8cf8cf97812680ab79b2f937c3f8033e7ef3ef3e249"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/block/large_cogwheel_shaftless.json"
-hash = "c9cdfff706f96303f423482b176957cc622a8bd089633cc32b22fd4cd71a4c5d"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/block/mechanical_crafter/arrow.json"
-hash = "96f62b5283972da3dd7124a15b1e72cf9f8b85200364ecdde8e8874ba04f0ce7"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/block/mechanical_crafter/block.json"
-hash = "7acc30bd3603cc8756637590e4967e29bca82791fe4728db8ff18732e44a0c4d"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/block/mechanical_crafter/item.json"
-hash = "846671fa45b3ebd8dbf6e46ed0db9b1c0353397f0da19e14380170a325b0958b"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/block/mechanical_crafter/lid.json"
-hash = "2463dd1c73cfaa040bcd29a8d3eb456c56840e8f14f7648c44a1993bef8a1454"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/models/item/wrench/item.json"
-hash = "07711c885a73f3869992915f38971909fc7826b2e9d198f02de692f0bbf1f56c"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/block/axis.png"
-hash = "dec7ce78a1f3f298ec4935402fc91956fedd6bcc5f89cbf5afbdb0d3b4388ac4"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/block/axis_top.png"
-hash = "1c639f8e5c42344a6030b821528220e8776ee1a52d7bf44bf8836e2f97d5e23b"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/block/brass_casing.png"
-hash = "2a3f5f9b2228f93a6e0be28e8426c0ad8955880c778e86a7af6ec218a8c3f56d"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/block/cogwheel.png"
-hash = "254f9f888df14ad599e7028baecd1296eccb5c35311e753e9129e74abde2f665"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/block/cogwheel_axis.png"
-hash = "d12a55284678c616de7383508015d4ebb1834e00afa086c9c23a051c4e4f4fe5"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/block/crafter_front.png"
-hash = "c15307214bc71185a2a7cb606a0c5ba5e13c5c1d4f123940852cceece5df15dd"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/block/crafter_side.png"
-hash = "f21aa71046f4c038e08010896daa702b2dbb073a554881a937b98d051e9d3cfa"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/block/crafter_side_connected.png"
-hash = "5a135adba9dd6ea91bf19f886405b47855b6f4d86507cda9a8ebc0813e27128f"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/block/crafter_thingies.png"
-hash = "2a5162a02de77dc6cd87e4fc7fbd08fa753816126e7e9891d934199990108d7a"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/block/large_cogwheel.png"
-hash = "6358e7c6e372410d8d903461c6cde8146baf23d8d7b936585c777e81ad8c4b22"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/item/dough.png"
-hash = "3dada5871dcc7f201f2ffd7b3026f2b125630b50d992cc3879006238c2b42fbd"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/item/goggles_model.png"
-hash = "2e00488d5e34b0db0f024742281720bad7b4e26896c9b935ca95043438b18f60"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/create/textures/item/wrench.png"
-hash = "2397a2146ae637d4e3b6bbc0ed2c99025cadc26a55dabe11d1fabbf490aab696"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/block/copper_block.png"
-hash = "55ada6eab1a2967b5c448cb5bcb27b8467e4c7d05d4572233e63ba8049b1e2a6"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/block/cut_copper.png"
-hash = "1b4345b786b7834938b60a88ec5c8f4e8e4dc7c6ea512d92319851fea6b371d4"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/block/exposed_copper.png"
-hash = "b49c29ac8333153f9fc5d5aabacde06b7c9496c101b3b98e245638823380ac6d"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/block/exposed_cut_copper.png"
-hash = "9a2cd9237e256ae640805ecd33634495a569b1091d815397b719bea9dace8753"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/block/oxidized_copper.png"
-hash = "db29019c73cea0a9b57f40440156a5a7b8fedf2cc7b8fcd097e15bbc3acf4b75"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/block/oxidized_cut_copper.png"
-hash = "41bbd8cebabe2f6141930aef7c0419498a3dad41396daa7980521bd4151b96b7"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/block/weathered_copper.png"
-hash = "5f48a901260fed35fb4df976be6dc3c6be91329da9267b5835127b756adc8496"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/block/weathered_cut_copper.png"
-hash = "a847072c50b2a0f3688bb7538322366cfbbf0a6c8fd548be96a0e5e2fa8f9870"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/gui/accessibility.png"
-hash = "e6e2341763066846d664921ec15f3e8250b4b37221dbf5f9e4d0771e97d71ffe"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/gui/light_dirt_background.png"
-hash = "c36a89cb43e4df494a57f39ccbd0bbb82aaadf6d583de97acda4d516026912f2"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/gui/options_background.png"
-hash = "793289cc7c13644373496be40fe3d4896c26b31c7375ce4644d97a18f743921d"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/gui/widgets.png"
-hash = "bd2fa0986a5cff7014105c59595e5a670c77cb838884eb9b9f247032887a42c0"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/item/copper_ingot.png"
-hash = "9f4bdaa06809ec1fc38139ad84c192c71013479c71c1e2904ff9f3ef9935aeb3"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/item/empty_armor_slot_boots.png"
-hash = "b1a113d6e35af234730cf9dcb37240f5fab257a6487af58f063ec31ca09b497f"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/item/empty_armor_slot_chestplate.png"
-hash = "98c337ab976b3d4f8bb05edd3a0db3e813cc86e65f4a2791e97a776d87039e15"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/item/empty_armor_slot_helmet.png"
-hash = "caba89344d3313ffdaffc176610fda6c074ba377fdf4c41f364887f416607d2e"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/item/empty_armor_slot_leggings.png"
-hash = "b29c5ba7e94a85069fad6e28fcbc266c689176018a84807d744770698f435f85"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/item/empty_armor_slot_shield.png"
-hash = "c94e7ae070bfc9cc7b58e0ea6a16c1c21e63c8511889d8608d4cb7af0cc78428"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/minecraft/textures/item/raw_copper.png"
-hash = "e25539be112d3ced2948ab659eb801f3f1d0ba65565f0e368eb61f1c7e763815"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/modrinth_logo_mod/lang/en_us.json"
-hash = "db2ed9321f02d39183dd7e48c6019f95889de0101d9993b3f3030682c521b07a"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/modrinth_logo_mod/models/item/modrinth_logo.json"
-hash = "e92842e1d197782ade3ff2d3e7d4336c1df90cbc899c4ddf041ac52fc93ae982"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/modrinth_logo_mod/textures/item/jhkw0ve1_400x400-fotor-bg-remover-202309257208.png"
-hash = "a5f07c7827b6f08d1c787afd08476628bd207e0195d1d425851cb1c6d82369a7"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/lang/en_us.json"
-hash = "a0509db0ae2dbb3dbc54ad30dfb6b466f6e949bd4ab311d4bb522d273732defa"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/daniel_plushie.png"
-hash = "211a782440522cdbba7134a441114e992d6c5fe35fcf0e1ce875e9efa5408682"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/gamerpotion_plushie.png"
-hash = "ba35d4780bc7b7bc8357cc2119596ef157983f80dc6b8327c06dfaa88bf4cac5"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/gamerpotion_plushie_rare.png"
-hash = "b27f0c4509187b9c6720fe5ef20454473ff31773dee479cd2c1d6ca622163b8e"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/geode_plushie.png"
-hash = "e9a31c09310c3c9c22821ecffff7b8ab39d4e7e538e72d47e98e8b208c460270"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/joosh_plushie.png"
-hash = "aeedc00270a5bf65f82e6a1c965e91631f320cc7bb73b063ee24c7c3fbbc9ddd"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/june_plushie.png"
-hash = "a09b5cd33bdd0bc3b20560dac75762e01e9b433d7ad590a79a6fd20ae38abb3e"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/nyf_plushie.png"
-hash = "0ba71e9fdf9065b4a7316d75e353c93b17edd37b98c7ab773c8e2ce0e22a58cf"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/rocris_plushie.png"
-hash = "631ea0493e0b21f8fa827c716dc6ff91a4d63d47af389c165fb255aa92f902f5"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/silk_plushie.png"
-hash = "506dc501580154d801081eac75f4fe7b5764599e6daed75494ea9c79a195dd3e"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/sirjain_plushie.png"
-hash = "1cba271cd04886d47fb66658d49809ec8489b022df0c6fe021f68c2f2404b6ff"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/sirjain_plushie_rare.png"
-hash = "ae0d6432a40c853485537147b57fa796a823a239750b5ba77af830df0b6d812b"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/sizableshrimp_plushie.png"
-hash = "15f6215121fd7e5be47710a5eac9c8d697d7480405846538121a574d91a80ae4"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/perfectplushies/textures/block/tslat_plushie.png"
-hash = "c4a4a78dbf416631f0d0465f4115031498f010ad8d42d09de6a268cdbe37cd39"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/lang/en_us.json"
-hash = "c9ef168b19c66859cc94240abf983466b50af6964290abdef55b6cd76be1ba74"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_1.png"
-hash = "b70e37aaed2364a58b4be797e52989e2740458f229ec0ba85f9ed3d36aa37b2d"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_10.png"
-hash = "56adcba571bdf4cadb2fda023a97af09831db1cd06db28ae701fe43997e2d53a"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_11.png"
-hash = "b954c5712a695c199448ff0ba8e058363cabed2f90df2d2e0ad0927917f78dbe"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_12.png"
-hash = "092503243aa44b32a09fc3dc761ab30137b7a6dc8a089b3f4c4d063065e8cdb8"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_13.png"
-hash = "2fafc22a5d7efe1a57e223ffe72eaf92424a21a89e179bab64c0241c85faaba3"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_14.png"
-hash = "5fd6c998382f6adc8fd1071909410aba159b1b260a8433d05626fbf90bafa546"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_15.png"
-hash = "39532e853b0bbacd00d25b0686d0a3c1f0461469d26e61c1a727f4d3935b895a"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_16.png"
-hash = "8a77cfe9c29de609ac0b9feed8634a1216d76e4f08ddac036a050992f9b69eca"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_17.png"
-hash = "ad5bda7f8a37b472be2b96e843c0e26fe3aa3ad7a585aa2ed64185982658939a"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_18.png"
-hash = "8e60c86fdf311a5a02cd19b3bf8895875b47b385cf37b11de071bbf2fa12ea7d"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_19.png"
-hash = "708a399c18bff8d94cb0815ecefeb354ee1e2a4d79a796abb8c01454df852200"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_2.png"
-hash = "105fb52a020854f26f08a9c2c0a03d839607264c47ce0fa17eddef02e867495a"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_20.png"
-hash = "d794283c5c59e6d9b166cc4c69be6649a7f9ab323058e7d82d77c3235dde8135"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_21.png"
-hash = "85f2ee336ac28f6d06159f755759862c23e6bd63e6f9c6e61f56fb1da1436605"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_3.png"
-hash = "4187b2f768186fa6aaa359aad40bfc850c7404572f603de2a4b96799273187b8"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_4.png"
-hash = "eb96f819d2f99c2cfe82569304bd5f5430da58f87d4c037f57aa907e226c0769"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_5.png"
-hash = "4668d5049309f6d4ee08d58ae91a5f0310172bea7884ea41fec7c1f26522adb2"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_6.png"
-hash = "f803643f898ebecad8686423f724094819cbf5222bf480eb8a7f589289ec0a9e"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_7.png"
-hash = "ead74f7206e21b221af33e583d5a600896968a87a7d42a92ed22a51e5f28f264"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_8.png"
-hash = "198880a892c7488eac881126844c8f5677a78dc65646396a8931cac65e25261a"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/assets/phomesteadplushies/textures/block/homestead_player_9.png"
-hash = "52a7b717839e398f650f78b0f74fe552b6c92d3a2182263cbaa1004f906df79b"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/pack.mcmeta"
-hash = "c8c1f4cf7084f3287bbcd713cc0cdde3d3211b650a7079406c901a36cdaadf2d"
-
-[[files]]
-file = "config/openloader/resources/Homestead Essentials/pack.png"
-hash = "cbd14c8d14bf6e1775e398513dd0f2649d66e1495d532f0f50d847e2c7833858"
-
-[[files]]
-file = "config/openloader/resources/Icon_Xaero's_1.2_HF.zip"
-hash = "b5dab9f9e06dda3c4ba7453c8235a9e8d6474a4321119b515f635ab7162800f0"
-
-[[files]]
-file = "config/openloader/resources/cubic-sun-moon-v1.8.1a.zip"
-hash = "f1d55443bde40cd482f3d1194d16b8fe2320f21ab48200f71eb4e9e686c44d72"
 
 [[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/beer_mug_recipe.png"
@@ -4437,11 +4089,6 @@ hash = "6a5b173c5c5eea2577b050672c4982fd1fd5c1decbb2ddb76ba6a51e72e00129"
 metafile = true
 
 [[files]]
-file = "mods/emojiful.pw.toml"
-hash = "9e58bc37851da235aeb6462b331205e0c68790a207cc1c96f014e8adc5858e2f"
-metafile = true
-
-[[files]]
 file = "mods/enchanter-fix.pw.toml"
 hash = "5b451d1770a3b436cbe3b9ac4ea7d4f87903ccca9e101d97d2c56f06f30a0582"
 metafile = true
@@ -6014,6 +5661,106 @@ file = "patchouli_books/welcome/en_us/entries/welcome/welcome.json"
 hash = "4e3b91aca1c6d4f65b2c67ce65461cc60701dff9d166fcff58578c76a991fc00"
 
 [[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/modrinth_logo_mod/lang/en_us.json"
+hash = "db2ed9321f02d39183dd7e48c6019f95889de0101d9993b3f3030682c521b07a"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/modrinth_logo_mod/models/item/modrinth_logo.json"
+hash = "e92842e1d197782ade3ff2d3e7d4336c1df90cbc899c4ddf041ac52fc93ae982"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/modrinth_logo_mod/textures/item/jhkw0ve1_400x400-fotor-bg-remover-202309257208.png"
+hash = "c7342362fe97cbb90adc26f9d171593685c376956b6641aabf81c9dbea25a768"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/lang/en_us.json"
+hash = "c9ef168b19c66859cc94240abf983466b50af6964290abdef55b6cd76be1ba74"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_1.png"
+hash = "b70e37aaed2364a58b4be797e52989e2740458f229ec0ba85f9ed3d36aa37b2d"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_10.png"
+hash = "56adcba571bdf4cadb2fda023a97af09831db1cd06db28ae701fe43997e2d53a"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_11.png"
+hash = "b954c5712a695c199448ff0ba8e058363cabed2f90df2d2e0ad0927917f78dbe"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_12.png"
+hash = "092503243aa44b32a09fc3dc761ab30137b7a6dc8a089b3f4c4d063065e8cdb8"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_13.png"
+hash = "2fafc22a5d7efe1a57e223ffe72eaf92424a21a89e179bab64c0241c85faaba3"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_14.png"
+hash = "5fd6c998382f6adc8fd1071909410aba159b1b260a8433d05626fbf90bafa546"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_15.png"
+hash = "39532e853b0bbacd00d25b0686d0a3c1f0461469d26e61c1a727f4d3935b895a"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_16.png"
+hash = "8a77cfe9c29de609ac0b9feed8634a1216d76e4f08ddac036a050992f9b69eca"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_17.png"
+hash = "ad5bda7f8a37b472be2b96e843c0e26fe3aa3ad7a585aa2ed64185982658939a"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_18.png"
+hash = "8e60c86fdf311a5a02cd19b3bf8895875b47b385cf37b11de071bbf2fa12ea7d"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_19.png"
+hash = "708a399c18bff8d94cb0815ecefeb354ee1e2a4d79a796abb8c01454df852200"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_2.png"
+hash = "105fb52a020854f26f08a9c2c0a03d839607264c47ce0fa17eddef02e867495a"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_20.png"
+hash = "d794283c5c59e6d9b166cc4c69be6649a7f9ab323058e7d82d77c3235dde8135"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_21.png"
+hash = "85f2ee336ac28f6d06159f755759862c23e6bd63e6f9c6e61f56fb1da1436605"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_3.png"
+hash = "4187b2f768186fa6aaa359aad40bfc850c7404572f603de2a4b96799273187b8"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_4.png"
+hash = "eb96f819d2f99c2cfe82569304bd5f5430da58f87d4c037f57aa907e226c0769"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_5.png"
+hash = "4668d5049309f6d4ee08d58ae91a5f0310172bea7884ea41fec7c1f26522adb2"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_6.png"
+hash = "f803643f898ebecad8686423f724094819cbf5222bf480eb8a7f589289ec0a9e"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_7.png"
+hash = "ead74f7206e21b221af33e583d5a600896968a87a7d42a92ed22a51e5f28f264"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_8.png"
+hash = "198880a892c7488eac881126844c8f5677a78dc65646396a8931cac65e25261a"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_9.png"
+hash = "52a7b717839e398f650f78b0f74fe552b6c92d3a2182263cbaa1004f906df79b"
+
+[[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/slots/key.png"
 hash = "f007d54209f86c214d1c82457175858cf13b7b8e1971e21e74f4caa10d681dc9"
 
@@ -6044,6 +5791,11 @@ hash = "3414b4284ea069687227c8ffd3640164a517a6e8893fbd30e2217e91bf9d63ab"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "9ccdca7ead50871101f8cf380df89a160261859c7e640c3477170f95f1a515c3"
 metafile = true
@@ -6051,6 +5803,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fancy-beds.pw.toml"
 hash = "538db46556a042007d6811878f3d5762c9720d9e8056d34a5b933c87e36b84e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "0fb23766919c354cfb5c5348329e7bac823dfd58d1a9660fcbfc0ab1506dc233"
 metafile = true
 
 [[files]]
