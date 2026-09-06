@@ -669,10 +669,6 @@ file = "config/fancymenu/assets/mojang_title_homestead.png"
 hash = "c6b08118010ebbae7d70026dc7220bf727730f8d24d95f8a5039194cc998370e"
 
 [[files]]
-file = "config/fancymenu/assets/noftb_button.png"
-hash = "3fe2da4bd46bbbd0f277ac74e661137215bdf367aebb5a77e7e831a8d75040cb"
-
-[[files]]
 file = "config/fancymenu/assets/text_only_logo.png"
 hash = "4cf06410f120680826cf5554547522a91a6494e1edea9682bb31b2af68b1fa0e"
 
@@ -714,7 +710,7 @@ hash = "df9f569c964947203616a861e00849506ea26056644ddad9232870ebf245407f"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "835cdeeec1dbdba98f005f1ca464c5c9cf31a1c7c4fcb7a7ea19ca8e1152bd7f"
+hash = "54a7c5af7206fc62ca69d6360d8ae9a2c26f3f81aa61f3fd3bcad6d294676129"
 
 [[files]]
 file = "config/fancymenu/customization/plush_update_popup_layout.txt"
