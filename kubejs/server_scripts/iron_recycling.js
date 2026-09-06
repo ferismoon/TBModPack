@@ -7,7 +7,7 @@ ServerEvents.recipes(event => {
     'chainmail_leggings', 'chainmail_boots', 'iron_door', 'iron_trapdoor', 'bucket'
   ].map(name => ({ item: 'minecraft:' + name }))
   for (const method of ['smelting', 'blasting']) {
-    const recipeId = 'minecraft:iron_nugget_from_' + method
+    var recipeId = 'minecraft:iron_nugget_from_' + method
     event.remove({ id: recipeId })
     event.custom({
       type: 'minecraft:' + method,

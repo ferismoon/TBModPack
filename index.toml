@@ -3826,7 +3826,7 @@ hash = "d3433fe3a605391187e16000ff57a30b417970ac8cedf824117c32823a7eaac5"
 
 [[files]]
 file = "kubejs/server_scripts/iron_recycling.js"
-hash = "5abd11c189456a46d3bb72c11b9d9da2467c2cbb651ba9601923c7680b77269f"
+hash = "b48b05f74bacfe400b08e40f364cf3b362aee1d712b526f23f4079841b9b0c6e"
 
 [[files]]
 file = "kubejs/server_scripts/misc.js"
