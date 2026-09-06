@@ -45,7 +45,7 @@ layout_action_executable_blocks {
 
 element {
   interactable = true
-  source = It is recommended to have at &lleast &6&l4096MB of Allocated RAM
+  source = It is recommended to have at &lleast &6&l6144MB of Allocated RAM
   source_mode = direct
   shadow = true
   scale = 0.7
