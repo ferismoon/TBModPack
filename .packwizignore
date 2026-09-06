@@ -1,3 +1,5 @@
 
 # Website files are published by GitHub Pages, not installed by Packwiz.
 /docs/**
+
+/index.html
