@@ -3241,34 +3241,6 @@ file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
 
 [[files]]
-file = "docs/assets/daytime.png"
-hash = "e51ea7e0f1de5bbeec5e68ed3309737ea111be10cefbfe5a4aa8683167b1f96f"
-
-[[files]]
-file = "docs/assets/logo_main.png"
-hash = "23153b3b82d0e9cd0005563958d94cc5c9e7ddb4eb3f8d8950d1f51dae16ddb6"
-
-[[files]]
-file = "docs/changelog.html"
-hash = "c77cddd7f0e79738e96906da8fdfa75a1a1942b79839b816ee93097d58cd6791"
-
-[[files]]
-file = "docs/getting-started.html"
-hash = "e7fd797747ad32aff94ccb91f50bca9ace0a9d0ccc2655ee16ef5d146fb73de4"
-
-[[files]]
-file = "docs/index.html"
-hash = "8ae403744c8b15d32e5bddcbea14a4e08cf111fda90477016ab3454b1d313de9"
-
-[[files]]
-file = "docs/mod-wikis.html"
-hash = "446abe8c70d3b2b5806829e2a0e159f88275096c024fe932e35f7f8ba043a72b"
-
-[[files]]
-file = "docs/style.css"
-hash = "903f2192a8430d22079b05c29ed71f3203b2e235f1337b3214baf344e17ec275"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
