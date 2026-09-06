@@ -401,7 +401,7 @@
 					id: "2D58E23BCCD0B90C"
 					item: {
 						Count: 1
-						id: "tokimistoolshed:diamond_hammer"
+						id: "justhammers:diamond_hammer"
 						tag: {
 							Damage: 0
 						}

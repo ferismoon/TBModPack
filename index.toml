@@ -970,7 +970,7 @@ hash = "053e4ae6297b0e66793179fc8e28d185b92a8770cce9d1a3f27ac57d7747e650"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/catch_of_the_day.snbt"
-hash = "cee66470f629fb34c97313d86c3ab6c3ec8a861348b631ef004a99fda5f0b869"
+hash = "c2a1ccecfb3b1e36374dd5a07105e8ceaa2889316d574d80193eb76e9777fb4b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/deep_dark_secrets.snbt"
@@ -13624,3 +13624,11 @@ hash = "fa022a9302f25401a854a85a7e67bfe850769d59ebf3c1d7355814f09468e924"
 [[files]]
 file = "shaderpacks/MID ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6/shaders/world1/shadowcomp.csh"
 hash = "1ff2a3529f60f4cdf66e2e8ac09d90813ce479ef340c18440deeccf845141ff3"
+
+[[files]]
+file = "kubejs/client_scripts/retire_toolshed_hammers.js"
+hash = "e21cd0751e2225ab885c90871f201406bd977d551a0b0f942131fe95168af69b"
+
+[[files]]
+file = "kubejs/server_scripts/retire_toolshed_hammers.js"
+hash = "9e85e00a44f622fbe3c1a623ec371c0310ac1985b1ea7a7c1c915d523f49e761"
