@@ -4190,11 +4190,6 @@ hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
 metafile = true
 
 [[files]]
-file = "mods/geckoanimfix.pw.toml"
-hash = "d9bc365329387195c963b1ace8bbb175504e9552783788c0b01c11a5c48e832b"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "930bb7150387995f4764a33a41bc1dde3f0e977c0432010e96ea2076fcf6d85d"
 metafile = true
