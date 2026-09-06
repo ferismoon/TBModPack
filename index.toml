@@ -3820,11 +3820,6 @@ hash = "67df59760fd54cc84dbba5de95b19d1d8f8cd5df28acf73e7175e95f6ec51368"
 metafile = true
 
 [[files]]
-file = "mods/createbetterfps.pw.toml"
-hash = "7c5872fe419bfc0b0d7735cf08c2dd8e1e7a7d24ad8a667290ebe4da71587a87"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "2c83736b530eef20fb13c3524ed8c30ae690de3ea851c0e16f9972f0cb9d3be6"
 metafile = true
