@@ -1,0 +1,13 @@
+name = "IllagerBlabber"
+filename = "illagerblabber-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WS4FswTq/versions/gQa2R55z/illagerblabber-1.0.0.jar"
+hash-format = "sha512"
+hash = "82a994b3b54e39774afd51b053261fc024706c6377ecf8450b5bab9823f989f0b634e6dc4ee7485680bcd0a052a194ee6bf1151bc1b8f02b1fa7ebab44442b7e"
+
+[update]
+[update.modrinth]
+mod-id = "WS4FswTq"
+version = "gQa2R55z"
