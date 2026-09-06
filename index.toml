@@ -1645,18 +1645,6 @@ file = "config/openloader/data/Dungeons and Taverns 3.0.3.fix.zip"
 hash = "3f21f341e56f98c01f144c981ea209a1cef06521de3a2e7e1b9706754949527e"
 
 [[files]]
-file = "config/openloader/data/Homestead DarkSmelting.zip"
-hash = "739e29e9bce96c4df1b32b687cabd25322b8a02106e7f050a31411d907791fe7"
-
-[[files]]
-file = "config/openloader/data/Homestead Mod Configurations.zip"
-hash = "f035a0c0c2e02e41f7292f3d6b9ecd1dab095ecad5880f879339576e1e7991cb"
-
-[[files]]
-file = "config/openloader/data/Homestead Spelunkery.zip"
-hash = "c691691c7da759c263a2474f19470cc0d1c91fd4060b883b54d8460a4b39ce5d"
-
-[[files]]
 file = "config/openloader/data/Icon_Xaero's_1.2_HF.zip"
 hash = "b5dab9f9e06dda3c4ba7453c8235a9e8d6474a4321119b515f635ab7162800f0"
 
@@ -3581,6 +3569,10 @@ file = "kubejs/data/dustydecorations/loot_tables/blocks/pot.json"
 hash = "506517a1a07f6d0a703501da5313574855336fd435721eec68913f53d2871add"
 
 [[files]]
+file = "kubejs/data/homestead/worldgen/biome_modifier/mystical_elk_spawns.json"
+hash = "a7cf788a8804e0fc149b1deb10b0cb32c81259a2491f28f1702f853776a321d8"
+
+[[files]]
 file = "kubejs/data/incendium/loot_tables/castle/barrel/generic.json"
 hash = "02db500ee06e53d85f10ecc2d800183d18b070e881e3e563478c58efc450b350"
 
@@ -3781,6 +3773,10 @@ file = "kubejs/data/spawn/worldgen/structure_set/ant_mount.json"
 hash = "3b7be17eeac625043087ea2d6290f8eb72172a253ef5d6d774a35f10d23ef8db"
 
 [[files]]
+file = "kubejs/data/spelunkery/worldgen/configured_feature/diamond_ore_lava.json"
+hash = "08d2e9191701ad0c214b69a96d345d9612e07ce62ec3dd8646d8c268422469bb"
+
+[[files]]
 file = "kubejs/data/structory/worldgen/structure_set/ruin_quiet.json"
 hash = "5674348e5fa6d4ffc06f7c8d61fb47b4cbb3291fc5ba97c62d51edf7b81d9fcf"
 
@@ -3827,6 +3823,10 @@ hash = "d4f1564313f386ee1ee1b361f83868aea67ff610e1f1e6e296786ae49f3aab4a"
 [[files]]
 file = "kubejs/server_scripts/hops_based_beer.js"
 hash = "d3433fe3a605391187e16000ff57a30b417970ac8cedf824117c32823a7eaac5"
+
+[[files]]
+file = "kubejs/server_scripts/iron_recycling.js"
+hash = "5abd11c189456a46d3bb72c11b9d9da2467c2cbb651ba9601923c7680b77269f"
 
 [[files]]
 file = "kubejs/server_scripts/misc.js"
