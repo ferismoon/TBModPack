@@ -3,6 +3,7 @@
 /docs/**
 /mod-dev/**
 /index.html
+/.nojekyll
 
 # Local development caches and repository metadata are not pack content.
 /.gradle-user/**
