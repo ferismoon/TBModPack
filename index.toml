@@ -394,7 +394,7 @@ hash = "1a5b9ac6cb8d1d13a754b47e1aa154105aa34dd3c740bfd6f743f6083c1f1ba7"
 
 [[files]]
 file = "config/cozystudioscore/auto_ftb_mods.json"
-hash = "df668e8b975e98a4698a4d9750831cfc841bb29a529d3a8c59bf04ba0fcca0f9"
+hash = "5c754425678e3a994a86906659ae9a54b26f0948cda44e7901bdd67ee82985df"
 
 [[files]]
 file = "config/cozystudioscore/fernling.json"
@@ -883,6 +883,10 @@ hash = "3fd575409a99262ddf1f1a91e68bd365ee5d3630813ef68b2d7ca0c3152996ae"
 [[files]]
 file = "config/ftbquests/quests/chapters/seasoned_and_settled.snbt"
 hash = "7f2b517dc5145ff76efebb8aa86c47ae0b2c76ca588ed77ba4f3f5b055bb3104"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/server_plushies.snbt"
+hash = "4e371709c4824096df9e1756d16ad92098eba17bc23065f707b9a142dc7b6eb4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/shaped_with_care.snbt"
@@ -3892,7 +3896,7 @@ metafile = true
 
 [[files]]
 file = "mods/cozystudios-core.pw.toml"
-hash = "e27b425ba9d3caeef614de5d37379a9f247adf838fa9d36fe9a2e090e75e3048"
+hash = "04ed2956008ff734099ee3ea389712efd7077cb73ec86d31dacff495370f6f7f"
 metafile = true
 
 [[files]]
@@ -5697,7 +5701,7 @@ hash = "c7342362fe97cbb90adc26f9d171593685c376956b6641aabf81c9dbea25a768"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/lang/en_us.json"
-hash = "c9ef168b19c66859cc94240abf983466b50af6964290abdef55b6cd76be1ba74"
+hash = "cc8382b05c23f6fb765affb0b82502a729ab04d721fab33b7b1ef68462afc4fb"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_1.png"
@@ -5754,6 +5758,30 @@ hash = "d794283c5c59e6d9b166cc4c69be6649a7f9ab323058e7d82d77c3235dde8135"
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_21.png"
 hash = "85f2ee336ac28f6d06159f755759862c23e6bd63e6f9c6e61f56fb1da1436605"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_22.png"
+hash = "401b6578ddcbbf2efdd37b899472bb417b1acebd4f8290f3b0009acb0fa5ba9d"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_23.png"
+hash = "61d5bb05549f03bd3b04eb6116bb6a3111180d10715f0f8d17ad8ebee40452f8"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_24.png"
+hash = "029e0c75def90ef1207693bb70ab8425f807446f3ed5247b7467efe3171ccdf0"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_25.png"
+hash = "69c952f3d5236c9c27774fba950b03e36556343fa014b11c85d8584573478344"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_26.png"
+hash = "b833a3757c420345873a1a1ee7eae1c5ed4a4e26f74c6af9069a57251bf46066"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_27.png"
+hash = "0305aad439a98a252acc4849fe989b91de9ba8c2fd7041af9835f9250de22d0c"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/homestead_player_3.png"

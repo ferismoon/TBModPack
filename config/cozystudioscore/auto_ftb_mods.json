@@ -1,5 +1,5 @@
 {
-  "enableAutoFtbMods": true,
+  "enableAutoFtbMods": false,
   "ftbTeamsHash": "515a933d22c60d0f9c249a6eef02402afc2695ac",
   "ftbLibraryHash": "c7813af51352624f56b4604f2e431684f1e2c563",
   "ftbEssentialsHash": "460ec092156d6b457bd91dc463ac1ee49e22442d",

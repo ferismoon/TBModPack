@@ -1,0 +1,121 @@
+{
+	filename: "server_plushies"
+	group: ""
+	icon: "phomesteadplushies:homestead_player_22"
+	id: "6B741A2D90000001"
+	title: "Server Plushies"
+	order_index: 24
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6B741A2D90000100"
+			title: "JadedStar"
+			icon: "phomesteadplushies:homestead_player_22"
+			description: ["A little JadedStar for your home!" "" "Tick the task, then claim your plushie reward. One of each per player."]
+			tasks: [{
+				id: "6B741A2D90000101"
+				title: "Claim JadedStar's plushie"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "6B741A2D90000102"
+				type: "item"
+				item: "phomesteadplushies:homestead_player_22"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "6B741A2D90000110"
+			title: "GnomeData"
+			icon: "phomesteadplushies:homestead_player_23"
+			description: ["A little GnomeData for your home!" "" "Tick the task, then claim your plushie reward. One of each per player."]
+			tasks: [{
+				id: "6B741A2D90000111"
+				title: "Claim GnomeData's plushie"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "6B741A2D90000112"
+				type: "item"
+				item: "phomesteadplushies:homestead_player_23"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "6B741A2D90000120"
+			title: "Jester58267"
+			icon: "phomesteadplushies:homestead_player_24"
+			description: ["A little Jester58267 for your home!" "" "Tick the task, then claim your plushie reward. One of each per player."]
+			tasks: [{
+				id: "6B741A2D90000121"
+				title: "Claim Jester58267's plushie"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "6B741A2D90000122"
+				type: "item"
+				item: "phomesteadplushies:homestead_player_24"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "6B741A2D90000130"
+			title: "SettDravan"
+			icon: "phomesteadplushies:homestead_player_25"
+			description: ["A little SettDravan for your home!" "" "Tick the task, then claim your plushie reward. One of each per player."]
+			tasks: [{
+				id: "6B741A2D90000131"
+				title: "Claim SettDravan's plushie"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "6B741A2D90000132"
+				type: "item"
+				item: "phomesteadplushies:homestead_player_25"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			id: "6B741A2D90000140"
+			title: "Kendall_VT"
+			icon: "phomesteadplushies:homestead_player_26"
+			description: ["A little Kendall_VT for your home!" "" "Tick the task, then claim your plushie reward. One of each per player."]
+			tasks: [{
+				id: "6B741A2D90000141"
+				title: "Claim Kendall_VT's plushie"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "6B741A2D90000142"
+				type: "item"
+				item: "phomesteadplushies:homestead_player_26"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "6B741A2D90000150"
+			title: "madmooncrow"
+			icon: "phomesteadplushies:homestead_player_27"
+			description: ["A little madmooncrow for your home!" "" "Tick the task, then claim your plushie reward. One of each per player."]
+			tasks: [{
+				id: "6B741A2D90000151"
+				title: "Claim madmooncrow's plushie"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "6B741A2D90000152"
+				type: "item"
+				item: "phomesteadplushies:homestead_player_27"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+	]
+}
