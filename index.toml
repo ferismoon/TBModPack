@@ -3570,6 +3570,10 @@ file = "mods/SignCopy-Fabric-1.20.1-1.1.1.jar"
 hash = "dab6f13e28c033f275cfaff1400b2a66f909cd18ab0797c0db03b6b680034bb8"
 
 [[files]]
+file = "mods/Stfu-1.2.3.jar"
+hash = "97f323cb0ae3b23b99abae5f8195e0a4ac34376801c0dc91574301b1ed5e38c1"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0a803263fdba63e5fb276931ec0c39a07839ec734bc7de1ac7249b8f365b1f1f"
 metafile = true
@@ -5200,11 +5204,6 @@ metafile = true
 [[files]]
 file = "mods/shulker-drops-two.pw.toml"
 hash = "965cc232b9a9dc01d209427b9f9b91adc0c14d5fefadab258dd26a974b7e00fd"
-metafile = true
-
-[[files]]
-file = "mods/shuttfup.pw.toml"
-hash = "bbf71f2ad0b56b1d19350d35af5f0b09df5bae5ec8067004f9d600c27a043e0a"
 metafile = true
 
 [[files]]
