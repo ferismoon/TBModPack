@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Gradle and Fabric Loom output
+.gradle/
+**/.gradle/
+**/build/
+
+# Local temporary files and patched dependency staging
+**/.tmp/
+**/.blahaj-patched/
+**/*-patched.jar
+
+# Gradle user cache if created inside the repository
+.gradle-user/
+
+# OS/editor noise
+*.log
+Thumbs.db
+Desktop.ini
