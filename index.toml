@@ -3510,7 +3510,7 @@ hash = "b48b05f74bacfe400b08e40f364cf3b362aee1d712b526f23f4079841b9b0c6e"
 
 [[files]]
 file = "kubejs/server_scripts/misc.js"
-hash = "a0a8fa31401459f4e6abe682fc34adc5ac2005545dc40280c71d1a0f9c5cd95b"
+hash = "f6ac7466ded386202db13060e7c81c39940e2c368342c9d4d487882510faedb1"
 
 [[files]]
 file = "kubejs/server_scripts/remove_broken_compat_recipes.js"

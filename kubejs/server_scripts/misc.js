@@ -130,7 +130,8 @@ ServerEvents.chestLootTables(event => {
     })
   })
 
-  const addVillagePool = (ids, items, rolls = { min: 1, max: 2 }) => {
+  const addVillagePool = (ids, items, rolls) => {
+    if (!rolls) rolls = { min: 1, max: 2 }
     ids.forEach(id => event.modify(id, loot => {
       loot.addPool(pool => {
         items.forEach(item => pool.addItem(item))
