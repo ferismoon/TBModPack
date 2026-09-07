@@ -3,3 +3,7 @@
 /docs/**
 /mod-dev/**
 /index.html
+
+# Local development caches and repository metadata are not pack content.
+/.gradle-user/**
+/.gitignore
