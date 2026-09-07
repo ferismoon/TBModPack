@@ -708,17 +708,6 @@
 					}
 					type: "item"
 				}
-				{
-					id: "12E84C826B727DEB"
-					item: {
-						Count: 1
-						id: "patchouli:guide_book"
-						tag: {
-							"patchouli:book": "patchouli:roots_take_hold"
-						}
-					}
-					type: "item"
-				}
 			]
 			shape: "diamond"
 			subtitle: "Place the essential needed blocks for a base"

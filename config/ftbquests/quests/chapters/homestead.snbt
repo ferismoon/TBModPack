@@ -37,13 +37,7 @@
 				""
 				"&lMounts and Integration&r – Rideable companions that even interact with mobs from other mods!"
 			]
-			icon: {
-				Count: 1
-				id: "patchouli:guide_book"
-				tag: {
-					"patchouli:book": "patchouli:welcome"
-				}
-			}
+			icon: "minecraft:book"
 			id: "1CDC7463A908FC2B"
 			shape: "diamond"
 			size: 3.0d

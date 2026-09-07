@@ -3,7 +3,7 @@
 'legs' : '',
 'feet' : '',
 'offhand' : '',
-0 : '{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"patchouli:welcome"}}',
+0 : '',
 1 : '{Count:1b,id:"ftbquests:book"}',
 2 : '{Count:1b,id:"homestead:golden_leaf",tag:{}}',
 3 : '',

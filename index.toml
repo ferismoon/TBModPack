@@ -73,10 +73,6 @@ file = "config/azurelib.json"
 hash = "344aaf500d3a86cc4c335a0b4590792254ae6e0eea0fc8df9ebdad5b95a75b8f"
 
 [[files]]
-file = "config/bakery.json"
-hash = "3f8e403a20ef9ceffa2651d516220c9e5ab372ad221f471efbd2fbe200489971"
-
-[[files]]
 file = "config/balm-client.toml"
 hash = "83e4d6a8c6c6ac2c68cba89d8f1300c5f810797a807ddd3b0c1b3d89a925edc9"
 
@@ -143,10 +139,6 @@ hash = "2c826258d11561018be1fa6e73a03ad17d176213c99c8e2a75ba36ee65465ee6"
 [[files]]
 file = "config/betterdungeons-fabric-1_20.toml"
 hash = "c0809814af173f138d83495d36aabcccda93ba2f2a49ec5b7e1c87a201efee77"
-
-[[files]]
-file = "config/betterendisland-fabric-1_20.toml"
-hash = "8dc553b84ad47cefbfbe3706d2172a06caa2549ad8e6f151a3b2763ddf08936f"
 
 [[files]]
 file = "config/betterfortresses-fabric-1_20.toml"
@@ -573,10 +565,6 @@ file = "config/easymagic-server.toml"
 hash = "b5b4774de9cdf5168b8219feab227b3de1c0816fef1832388cf5254fea9be789"
 
 [[files]]
-file = "config/emojiful.json"
-hash = "7eaad91440b8bec1158393c8c859edc737c3ec68fca19f6c2cc872fbd0c3a2fd"
-
-[[files]]
 file = "config/enchdesc.json"
 hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"
 
@@ -842,7 +830,7 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/beginning_game.snbt"
-hash = "053e4ae6297b0e66793179fc8e28d185b92a8770cce9d1a3f27ac57d7747e650"
+hash = "cf3603a34eb320d7b873a16059f75f78cfb73d4b2fda18bd6d864a2b2d6b7e15"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/catch_of_the_day.snbt"
@@ -870,7 +858,7 @@ hash = "d295e234d4fea7376bfecc6e4f06a71c8703ced67b88748de6dad506d05cd575"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/homestead.snbt"
-hash = "1e310575d7bde85fda7d1bc8489afcbd56031893b27ebfe4a9b40cebb5250564"
+hash = "7e1b8dccdaadfc48c9bccac4b8f93865fe2e965f49ca1822f926364758196209"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/just_some_things.snbt"
@@ -1155,98 +1143,6 @@ hash = "f7fd752723b9f10bdfa299214374dd57c4dda33723bd378460bf9ec90bf0b432"
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "f4ccfabb36fd9e02af756132c248f08589b4d4c9135b46f4990b1bfcec69e200"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "b24944a731bcd662ee5efeba8295977469143a74873da5bbf2c205ea5d90098b"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "d83fc7b90d6a41b6d4a7c1ae0cdd28be01e1e745a667cdf6397e990177e7edc3"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "5f37aacd70460fdc2631ff45e98e8a2ce4e52d3e9a50917edf40eeed1236952e"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "ee9bb0f0f8465629951fe9a532f3ebe3327671a12d4cc6395860d7f7494b970b"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "722d70719c26d187fec23e1636fc699b6d5bc8476a7025859f918184fde53885"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "8615ca144e3ce605f984698858f8dc554ed1b5fee2e9b4a140807197439bfaaa"
-
-[[files]]
-file = "config/jei/world/local/New_World/lookupHistory.ini"
-hash = "3e23615397db869a07ab30dd47c0cbf5e4b959f47310877749b8437ac0566308"
-
-[[files]]
-file = "config/jei/world/local/New_World__1/lookupHistory.ini"
-hash = "d5615054993b50572cea939ccde6f660d1d2feda0e4b176975b080586a824454"
-
-[[files]]
-file = "config/jei/world/local/New_World__29/bookmarks.ini"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/world/local/New_World__29/lookupHistory.ini"
-hash = "a185776bbb3b6131799d6443bb8820ed5d9ced5df1b8b8730eae13ed00600ee6"
-
-[[files]]
-file = "config/jei/world/local/New_World__31/bookmarks.ini"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/world/local/New_World__31/lookupHistory.ini"
-hash = "2e3debdd98708e0ad5cfaef729380d02931932df63795236524ea729bc0d240b"
-
-[[files]]
-file = "config/jei/world/local/New_World__4/lookupHistory.ini"
-hash = "3e888376c7aa76255676f0de7f389213ecdcdf99f3f6ee985067e1034e3136d5"
-
-[[files]]
-file = "config/jei/world/local/New_World__6/lookupHistory.ini"
-hash = "b4966de6f95bb2b130e653cfc4d40e75bf851e2cfe6fb443c6e1e896b76e2c52"
-
-[[files]]
-file = "config/jei/world/local/New_World__8/lookupHistory.ini"
-hash = "3affddcc9e9bbbfb7535c8faf526cf66a466d2cb385ac0d22529d86f8c8bf3df"
-
-[[files]]
-file = "config/jei/world/local/TESTBED/bookmarks.ini"
-hash = "e826f2b98f844b96dec1507b009424104e898d9728ee809ca59f04d8a3a77b3c"
-
-[[files]]
-file = "config/jei/world/local/TESTBED/lookupHistory.ini"
-hash = "94c66203a320a10e7770e15ea32eee9cb0c07448032e354345367f702d3d50f6"
-
-[[files]]
-file = "config/jei/world/local/TEST_WORLD/lookupHistory.ini"
-hash = "cd475b0b43d9e7534ddb204d1af3c174306f2a8bda930b0c99433b435db44bda"
-
-[[files]]
-file = "config/jei/world/local/test/lookupHistory.ini"
-hash = "9c86b33fbad1a15c526807fb265e87c25cc244f449c9d34e7fef9cf5ff9652cd"
-
-[[files]]
-file = "config/jei/world/server/True_Bastards_2e74c758/bookmarks.ini"
-hash = "5e46d598f2589c796d10b8dd2938b3831473e0941166be758ddca4e7b27bafb7"
-
-[[files]]
-file = "config/jei/world/server/True_Bastards_2e74c758/lookupHistory.ini"
-hash = "67b2a45b2a1a1f8e36020f57893fe5d671934316927d2c1a601a0349fb7d7fa0"
 
 [[files]]
 file = "config/jumpoverfences.toml"
@@ -2049,10 +1945,6 @@ file = "config/regions_unexplored/regions_unexplored-secondary-region.toml"
 hash = "ead9e0dccb420e65a6a641b4a57292db7968c9cce31a46f234510c26344d6246"
 
 [[files]]
-file = "config/removeblockoutline.properties"
-hash = "842d9988900677476b44fd6fd8e4d5ab728c09427f2504bb4aecb4a24b120b3d"
-
-[[files]]
 file = "config/repurposed_structures.json"
 hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
 
@@ -2113,14 +2005,6 @@ file = "config/sidebar_buttons.json"
 hash = "f37500e8d3440dc1da3307f0fbbb3a0c181794c844efab9cfeb16564b4f22f3d"
 
 [[files]]
-file = "config/simple-rpc/server-entries.toml"
-hash = "c0f805a22438339d68aacf46339f6f9d47cd9737ab0a6e4c8af3b772f7028849"
-
-[[files]]
-file = "config/simple-rpc/simple-rpc.toml"
-hash = "5cacc4c04cfb0c0f9286e8ac860fe615995f4c18fcfd294f48ba9c8bbb30feb8"
-
-[[files]]
 file = "config/simple_copper_pipes.json5"
 hash = "d9c4c3095334e9e9ba9d018cddbdc37842b8f93ed18a66b468bc53a778069252"
 
@@ -2162,7 +2046,7 @@ hash = "12672919c7637eddf10cae6eb1a5ee8496e70520518168e96cdd36a0b8715193"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "ddc51c2c7d91c4f60be1b3568ca4ad8f0e4b8b685148ece16524519d1c6b3819"
+hash = "29ef84fdbca4f5cd168134a78874b8607a455b7a47edbaa15cec19b6f3307f74"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -2290,7 +2174,7 @@ hash = "290f6b832794b6876aba9da963b585ba4e99e5e6a972aebb52810e9a256e2f65"
 
 [[files]]
 file = "config/starterkit/kits/Welcome.txt"
-hash = "d879673f92e18b56f99a307f3f6cace3d3442a3f69544806e0a0e7bd9f2afb34"
+hash = "ad171b2b29619fbb1b35bfde138a4152aef830d85b9afe5087fe1dd550865c44"
 
 [[files]]
 file = "config/starterkit/kits/inactive/Archer.txt"
@@ -2307,14 +2191,6 @@ hash = "2f481c3b16599f5563ae0ad9f932a5ce5929d2ffce51cd6c67adc3b93694541c"
 [[files]]
 file = "config/starterkit/kits/inactive/Witch.txt"
 hash = "61484d5a235b04746cbdeca240501354f6ac39badce199ec7ed90865640e6471"
-
-[[files]]
-file = "config/stfu.json5"
-hash = "77bfaedfbbf8463a47dac3d27ceabd4f681b6bf5c1297c53b818e5afa9c2f64b"
-
-[[files]]
-file = "config/stfu.txt"
-hash = "404ce3c4430c3907460e08e95d908fb7e3ec44f1bc9589a1030dddb08c9e296f"
 
 [[files]]
 file = "config/stonezone-common.json"
@@ -2535,10 +2411,6 @@ hash = "95908a1fe64610d2d59c79824f2d78384fba29fe03d0b5c3365cef594dfd4d2b"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "3c3a2fca564353cf5639b1448490e8179167efff7241c8da808e58b8df7aca8e"
-
-[[files]]
-file = "config/welcomescreen/welcomescreen/welcomescreen.json5"
-hash = "0c0a293fa74e1dafe1a235f3fb909c3b348348cf9c803583931bf4e4889c5847"
 
 [[files]]
 file = "config/wetlands.json"
@@ -5816,50 +5688,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "8c34bee0bf7d371e8d97aa690f52cc61bdafe0e99aacc21b1beeb9a983588de8"
 metafile = true
-
-[[files]]
-file = "patchouli_books/homestead/book.json"
-hash = "3d7348d2615a64540d11ff6c890fb0a707dc32a87840af0e57be1076141dc793"
-
-[[files]]
-file = "patchouli_books/homestead/en_us/categories/basics.json"
-hash = "0200c91db566bffc8e215aa9acb183ee2e183627fc0f2d8ea53408be3e5078da"
-
-[[files]]
-file = "patchouli_books/homestead/en_us/entries/blueprints_and_builds/blueprints_and_builds.json"
-hash = "78b83cc5708ba70cf3a1c3322d49334ed1cffd3c933ed7faf19fbff6e078c9fb"
-
-[[files]]
-file = "patchouli_books/homestead/en_us/entries/intro/intro.json"
-hash = "132fb3c511551da1d02fe42c40b226bb6dbd1568ad0335d7a75795991cd527d5"
-
-[[files]]
-file = "patchouli_books/homestead/en_us/entries/lore/lore.json"
-hash = "bd995fa4c58838627b09bcbae31ca82d546d60f96b2ddbe95e4b9cedf25c3435"
-
-[[files]]
-file = "patchouli_books/roots_take_hold/book.json"
-hash = "950d5c7bcc097e863ba2895bcdf28f9b24eb06b4a70bce14a1a4058b005603f3"
-
-[[files]]
-file = "patchouli_books/roots_take_hold/en_us/categories/journey.json"
-hash = "5f1b83000a0482fcee029d5ffe3c2186ac918f898be292e2ca0c1586cef65c95"
-
-[[files]]
-file = "patchouli_books/roots_take_hold/en_us/entries/journey/journey.json"
-hash = "8e2c30c18cc0ce1ca3151730bae6978b92c267ed128ff6df6e255669bbf85c25"
-
-[[files]]
-file = "patchouli_books/welcome/book.json"
-hash = "b2d867d3a4a9c7e556c8c69a784ac4d57eea692a0698f821d1e07d2fdb17c386"
-
-[[files]]
-file = "patchouli_books/welcome/en_us/categories/welcome.json"
-hash = "b6a677c821bccffb1d007b260635f5c3f189e696b5ed67fc5f14d7ed7c5fba3f"
-
-[[files]]
-file = "patchouli_books/welcome/en_us/entries/welcome/welcome.json"
-hash = "4e3b91aca1c6d4f65b2c67ce65461cc60701dff9d166fcff58578c76a991fc00"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/modrinth_logo_mod/lang/en_us.json"
