@@ -510,7 +510,7 @@ hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "4a5d25e0bd986db0774877075da95b86ebb96a67f1c954ee91684e95b90e6541"
+hash = "52bd156b38f6ad34f735b8a225987b7cd93b626172e945f194f5601990df26e3"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -1018,7 +1018,7 @@ hash = "39e994ab2090ad1d6eb4e2f7e528c1b997f25737abf43817a8cad5a4c7f53471"
 
 [[files]]
 file = "config/inventoryhud.json"
-hash = "36c1f2de4d374b46b42251b17b670b4408268a4c8e98907e0000b85b2d6aaf59"
+hash = "9407073197fc0057fb40a78ba6d416f45b660e6652a89eba7d3e9f98574dc89b"
 
 [[files]]
 file = "config/iris.properties"
@@ -2466,7 +2466,7 @@ hash = "339492556f94bd6f93edaff0e2b817804c551024fd838a8a20f49daa702dbd85"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "bedebe9f9b967947d2477ad33b0e91547b0b3ad6db54d76911b7690084ddba86"
+hash = "00d2222e1d5ba8799ca91a0aca7dd89fa1790002a91d303fa7ed79bf146639c7"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"

@@ -65,7 +65,7 @@
   "show_main": true,
   "show_off": true,
   "show_arrows": true,
-  "show_inv": true,
+  "show_inv": false,
   "arm_bars": false,
   "show_count": false,
   "show_arrows_without_weapon": true,

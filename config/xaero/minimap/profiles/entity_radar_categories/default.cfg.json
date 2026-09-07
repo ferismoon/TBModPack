@@ -28,6 +28,22 @@
   },
   "subCategories": [
     {
+      "hardInclude": "nothing",
+      "includeList": ["wildernature:raccoon"],
+      "includeListInSuperCategory": true,
+      "excludeMode": "ONLY",
+      "excludeList": [],
+      "name": "Raccoons (dots only)",
+      "protection": false,
+      "settingOverrides": {
+        "displayed": true,
+        "icons": 0.0,
+        "color": 14.0,
+        "dotSize": 2.0
+      },
+      "subCategories": []
+    },
+    {
       "hardInclude": "living",
       "includeList": [],
       "includeListInSuperCategory": true,
