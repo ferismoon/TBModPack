@@ -642,11 +642,11 @@ hash = "7e9dc16a19285fc6c9424f91f171d15212c8ccdcd79b485a83be6092bf7c0b09"
 
 [[files]]
 file = "config/fancymenu/assets/icon16.png"
-hash = "990b49810b6f3e3c17765c05cec30aefa57353eb0e84c8e8c99b837a148be64a"
+hash = "0157b80da29ed37dde80bd0a501325d3e58113bd604563b46c638399e6963186"
 
 [[files]]
 file = "config/fancymenu/assets/icon32.png"
-hash = "8c16649301c086c2e675084179cac364ee8041a39cecf50d686572937a281369"
+hash = "8ef5881b298b86f7b40b40434a1791b9bdffb288073bb39f88d76a3c473a661a"
 
 [[files]]
 file = "config/fancymenu/assets/logo_main.png"
@@ -5674,7 +5674,7 @@ hash = "e92842e1d197782ade3ff2d3e7d4336c1df90cbc899c4ddf041ac52fc93ae982"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/modrinth_logo_mod/textures/item/jhkw0ve1_400x400-fotor-bg-remover-202309257208.png"
-hash = "c7342362fe97cbb90adc26f9d171593685c376956b6641aabf81c9dbea25a768"
+hash = "800bba2ed43ba4b1d8d6a1169004db6d8924b03e01f8b94fd82736a18b5b6452"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/lang/en_us.json"
@@ -5806,7 +5806,7 @@ hash = "31ec4a04ffc07b51b7c02efa81659683e5e4d0e70adef9e22158fe84d23a7512"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/pack.png"
-hash = "3555ad9fc2dae8a33bbcd1c5317c4d74ea51b16decb11a3cbccee07d0a88b030"
+hash = "800bba2ed43ba4b1d8d6a1169004db6d8924b03e01f8b94fd82736a18b5b6452"
 
 [[files]]
 file = "resourcepacks/appleskin-retextured.pw.toml"
