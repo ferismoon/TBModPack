@@ -1933,10 +1933,6 @@ file = "config/realisticbees.json5"
 hash = "2db8c8856e91f03814e6a5fef51b6104b3db4d08176abb8bd4aef0b9a5632e83"
 
 [[files]]
-file = "config/rebind_narrator.txt"
-hash = "ed1ef172b4deeb640267537763033f6780f800f1d255643083ae6b9af257e4af"
-
-[[files]]
 file = "config/regions_unexplored/regions_unexplored-common.toml"
 hash = "8c9c80d74ed59c499bdd3d3d40e7b4321c7abca53289bd2cb67466e32316f3f2"
 
@@ -4817,11 +4813,6 @@ hash = "e7a0c547e76584b478268fc0565f2aa3db9b91a2f228610b23aac7f21c40085a"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "cf9ae5744c15746a004a660dcdb120e8b81a70b56e3d55ce4d1781d494a2fc58"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "8fa95d727352696756f6b9b39652567317ca798c7abffff8f68480b54421dc7b"
 metafile = true
@@ -5079,11 +5070,6 @@ metafile = true
 [[files]]
 file = "mods/realistic-bees.pw.toml"
 hash = "32ffd5bd8c13596cc2533e383ac2e53b361cab8a4b334c19c0ecac81c3163524"
-metafile = true
-
-[[files]]
-file = "mods/rebind-narrator.pw.toml"
-hash = "e188fafd971b4c8e4c9719fdd07f4eb237125e27d429d87656845d4068caf5e7"
 metafile = true
 
 [[files]]
