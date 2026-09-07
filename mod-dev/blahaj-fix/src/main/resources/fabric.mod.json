@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "blahajfix",
+  "version": "${version}",
+  "name": "Blahaj Compatibility Fix",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/blahajfix/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.moonie.blahajfix.client.BlahajFixClient"
+    ],
+    "main": [
+      "com.moonie.blahajfix.BlahajFix"
+    ]
+  },
+  "mixins": [
+    "blahajfix.mixins.json",
+    {
+      "config": "blahajfix.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
