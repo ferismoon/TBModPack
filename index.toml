@@ -3707,14 +3707,8 @@ hash = "fa62adbafa3f86a8cd1ca92ae4833c6f7951d2247c2fe45821f1e20c12be337c"
 metafile = true
 
 [[files]]
-file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "72166fa3dd8c98b4d9626b397d4d585b2601b5fa32d8dc6bab0c08133baaa9fc"
-metafile = true
-
-[[files]]
-file = "mods/blahaj-replushed.pw.toml"
-hash = "3d549a6eb082a3e5b7987b3beeb149d3c59e42266788b9f6999d19f30545aaf2"
-metafile = true
+file = "mods/blahaj-fabric-1.20.0-0.3.2.jar"
+hash = "0fdd8d09ce92762df1c7a2aa3412eeb6726ad268e9ae39f4d17f0fcdb9ff9944"
 
 [[files]]
 file = "mods/block-runner.pw.toml"
