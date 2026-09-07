@@ -3957,6 +3957,11 @@ hash = "196fe316fa86c8fa2be90d227932a132dd037d54b961e1b98f7cdc0a161d5623"
 metafile = true
 
 [[files]]
+file = "mods/create-questing.pw.toml"
+hash = "e8a923898a025c633a45602876326a245aa78fd74707653e4f92e1d48efeba56"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "dc89cd99f9648c6d99a4c4544eb22669ec12c45d628be1f57cdc9a07bc1d79d7"
 metafile = true
@@ -4853,7 +4858,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "020c457eee3a752be52370413f066cd0591bf992bae127b20ea04522b394a60e"
+hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
 metafile = true
 
 [[files]]
