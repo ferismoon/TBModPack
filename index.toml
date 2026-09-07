@@ -5665,6 +5665,14 @@ hash = "8c34bee0bf7d371e8d97aa690f52cc61bdafe0e99aacc21b1beeb9a983588de8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/minecraft/blockstates/cut_sandstone.json"
+hash = "dfde9a49a7beed7ee3819145171b85ea62b151b03841f98b32da3a053fa1e1dc"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/minecraft/optifine/ctm/_overlays/mushroom_stem_dirt/mushroom_stem.properties"
+hash = "8d8816f05678eb663096c30bca964433106357b9e474f1e67dc4b8e902f0059b"
+
+[[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/modrinth_logo_mod/lang/en_us.json"
 hash = "db2ed9321f02d39183dd7e48c6019f95889de0101d9993b3f3030682c521b07a"
 
