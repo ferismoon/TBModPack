@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "tranquilitea"
-	group: ""
+	group: "Old Quests"
 	icon: "herbalbrews:tea_kettle"
 	id: "0D9804F9E5DE9298"
 	images: [

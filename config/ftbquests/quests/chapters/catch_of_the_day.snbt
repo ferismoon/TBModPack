@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "catch_of_the_day"
-	group: ""
+	group: "Old Quests"
 	icon: "gofish:golden_fish"
 	id: "49664D6FD9B4B02B"
 	images: [

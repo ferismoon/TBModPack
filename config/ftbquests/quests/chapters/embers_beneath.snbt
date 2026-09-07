@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "embers_beneath"
-	group: ""
+	group: "Old Quests"
 	icon: "chipped:nether_jack_o_lantern"
 	id: "256D3CD013C0243D"
 	images: [

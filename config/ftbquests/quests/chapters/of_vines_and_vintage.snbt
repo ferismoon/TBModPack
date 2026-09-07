@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "of_vines_and_vintage"
-	group: ""
+	group: "Old Quests"
 	icon: {
 		Count: 1
 		id: "vinery:cherry_wine"

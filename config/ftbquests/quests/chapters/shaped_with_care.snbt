@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "shaped_with_care"
-	group: ""
+	group: "Old Quests"
 	icon: "chipped:botanist_workbench"
 	id: "54A1B3284683F6AA"
 	images: [

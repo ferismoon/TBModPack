@@ -834,103 +834,103 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/beginning_game.snbt"
-hash = "4213e840d5c8662697f741fdb1f86fcc31a129a8210ed43b5d96d9b55e7ab816"
+hash = "b8dace64be394ffc4d51627dcaa0bdb2fcf0e5976566b2d9c04415dc1e428817"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/catch_of_the_day.snbt"
-hash = "3e476e32d578779e4e6e421fac3b31caaba98904f0f259a1df09847f8489e11c"
+hash = "580887668fa8f87c1a9b5bba9aeb9af0443a56ebf5cf5f6b94e35c96fa4521c9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/deep_dark_secrets.snbt"
-hash = "515ea5a8911bb8abcdf9cba424978793c5dd40badd13fd4eae28437ea4473c9f"
+hash = "74a0585dde8fd2a0ed41acd1acfccbe850dbdb3df19f4c45e23c53be495133cc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/echoes_of_the_void.snbt"
-hash = "eedb25f1fb5c369d893a103ab1bd115c3866355560788ead0a8a0e49572a66ce"
+hash = "c40c2bf9a6ffa700683bf5274ca34b97f52f76ee44ebf95b7e8e09ab2a08a8ed"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/embers_beneath.snbt"
-hash = "e3b4ce1bfbfa8bdc1c41714c2fb2c42417a0deae69411ef1e4ab7f8c677d7f83"
+hash = "a0622f34e7c4aa8854508f41c5cf7fc0fc51aa139c3e7191dde3e5463ac0dc9e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/forged_fables.snbt"
-hash = "c323c112c258148ee5de22ae899c381cd1ad3765d96fe32128a86949b17ff051"
+hash = "5fde20fb8b4bb734e09cd0ebc8e42ca998918550d36991453ec25d10ce2ff18e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/herbal_hexesz.snbt"
-hash = "4e5d7da6ad843312326f59fb1d0a8b8c16bdb14b9a7ba4af0e743f320ff5f3b4"
+hash = "8afd2400b5ccf4875633500876a7b45b8c1fbf15b717fb381d98d5f9b7044d2e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/homestead.snbt"
-hash = "0d66eda85a048851105f237acc89385658adf8f4129a80f348276483b50aab3b"
+hash = "80f5d0e4b7c7344d150392e031346ab0cdfd4280ec9435f89a918902de54ec3f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/just_some_things.snbt"
-hash = "3bead8f855536c5c4f49efa57f2b6f8b74646ea5b433a201e2d336c98d8acba0"
+hash = "0857af2cde272d7c4819aa7cec7abb843a7fbda34a80b5ee9a0723a0c72fbf75"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/liquid_courage.snbt"
-hash = "efe8bb3501655a17c4e3c9812e5cf87334489a13e6de158d2349040e284853c0"
+hash = "b872df9b7597cf7f9285cf7bccb65f62b37ec2e3716ae9bc575938e61521c468"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mastery.snbt"
-hash = "445361092cbc681832243d1bf422405cb82d639089dfa373fabc9c5b285c940e"
+hash = "e60a8f4d1c3d7fe5e39b513de0c34c71716e2a4aeb5256a37810906654152323"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/of_vines_and_vintage.snbt"
-hash = "726ad388d9f38449e3784aa9f0b8907f929d3f7173ac87d38dc9125c6d501c96"
+hash = "ea7de09b855aa87741766c9c34463348e589647bd62f080c85b2d48afed4eecf"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/roots_that_run_deep.snbt"
-hash = "460b132f882a047bcc34bef9f9c32b247c597744edbe19d98197ef77cf302bbb"
+hash = "6e38cb3df38ce5ff54bfd42d91143c45d8db9c9355650fcac56e6ff4a986eb03"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/seasoned_and_settled.snbt"
-hash = "3b4edff7f99a8d303ef9c1ad8c6a4fa712e473ea66d2b1c8c445b88caf331970"
+hash = "1472acc73b0920ea44661f0b71bc7a45a385eacc0ef8b478dd9998cf7b1c3edd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/server_plushies.snbt"
-hash = "4e371709c4824096df9e1756d16ad92098eba17bc23065f707b9a142dc7b6eb4"
+hash = "a0972b585f2152444f3ec5631fa0e75e45d511a8d8a45b1ea6e39f10b58d18da"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/shaped_with_care.snbt"
-hash = "012e0a891397f8bd19811784205802279d08574e0ff6740c346d4d5ef41023a7"
+hash = "9219824e6796c6893847c3b0488fc887d8acfc32fedd23656f7608d150a57391"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/signals_in_the_stillness.snbt"
-hash = "9fd0759c27ab103e83783f3010efced936ad74cfe3027826238c8b4f1f30d657"
+hash = "761f772c5105ed64d18c9b61a8f0393c38641db788befd805ca6de4e37acfedb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/squishy_friends.snbt"
-hash = "37ab6b0e77da2f515678ae23da5c78614943cce8831c5c24a8f47eb9abf39818"
+hash = "b360fa02d3952b955d1d6df0727769a860ab4ddfca1a9665081ec21cfba1fdc6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_heart_of_the_homestead.snbt"
-hash = "850cd7b8b367df526cc5d3cc2e5c130454ac7f3aa3e8e478fa865a126b65c0d1"
+hash = "8b2109471e9c7a9f1831bbc7c558037697a41f85dde2b27badbd501bacd9340e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_portable_life.snbt"
-hash = "9d687a1404540307ec02a03ddf527ea42d96a3a77332d3785cb42a62646d6107"
+hash = "9571452df0f29f705647cc174bc006a55b3709de672aa0b03eda0d6ba7253f98"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tidy_corners.snbt"
-hash = "9902f7ee48446d9e1fe1a647264648b1414e64d51405b9abfd94d6fa3880037a"
+hash = "47d10da34e593ab6f14133c2775e5a8a01d5e95ee067a4da7ed6abfee79eee68"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/timber_and_time.snbt"
-hash = "d4b6eea08b7bc06c92a1bc47a57bd6a52b176867c74f8a0c9175c80da1f49830"
+hash = "8f6d24eb0f55a849da18f2191a56c15feed975a8fae8bbda3c382fea500443b6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tips.snbt"
-hash = "23ceaab1886535b211a5a83f6b77dd06699ec9c2d2742a26e7378ab2b97cf1fd"
+hash = "43f7bcf6caf6fe572bf7b7ad5a9ad3d34935698f2d18b655747806b9fd2704d2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tranquilitea.snbt"
-hash = "d01cc59ff37c28e0c9f1adea32afca414a1fe4f6b17d3363ab1767ccf89752db"
+hash = "cd55a731d5d26d9d9a8cb90e4143e4eb356d69879b90ebaa828ce3a47b7032c6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/whispers_of_the_wilds.snbt"
-hash = "abb39a03069933913044341d7dcc1ba76c282aef463c668219760497e8a97d24"
+hash = "4e1dc875268068efedf9fe69fed978ae1bb8d3d602284787308a425eff558eaf"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"

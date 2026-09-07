@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "forged_fables"
-	group: ""
+	group: "Old Quests"
 	icon: "mythicupgrades:peridot_upgrade_smithing_template"
 	id: "0214FF591265942D"
 	images: [

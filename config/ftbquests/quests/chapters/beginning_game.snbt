@@ -3,7 +3,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "beginning_game"
-	group: ""
+	group: "Old Quests"
 	icon: "natures_spirit:coconut_sprout"
 	id: "4FBC0450A0666A2B"
 	images: [

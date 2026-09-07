@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "pentagon"
 	filename: "herbal_hexesz"
-	group: ""
+	group: "Old Quests"
 	icon: "hexalia:verdant_grimoire"
 	id: "21DA3B35FFCBF19D"
 	images: [

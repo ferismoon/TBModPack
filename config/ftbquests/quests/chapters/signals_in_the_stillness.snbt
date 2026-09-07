@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "signals_in_the_stillness"
-	group: ""
+	group: "Old Quests"
 	icon: "wirelessredstone:circuit"
 	id: "70DC1A2DFAABA529"
 	images: [

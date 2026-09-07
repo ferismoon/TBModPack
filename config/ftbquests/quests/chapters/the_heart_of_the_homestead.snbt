@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "the_heart_of_the_homestead"
-	group: ""
+	group: "Old Quests"
 	icon: "vinery:basket"
 	id: "1DDD6B080EBF906A"
 	images: [

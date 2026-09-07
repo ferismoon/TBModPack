@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "gear"
 	filename: "timber_and_time"
-	group: ""
+	group: "Old Quests"
 	icon: "create:large_cogwheel"
 	id: "5E51CE307C7FF32E"
 	images: [

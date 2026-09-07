@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "roots_that_run_deep"
-	group: ""
+	group: "Old Quests"
 	icon: "spelunkery:tangle_roots"
 	id: "3E5E175DD327839E"
 	images: [

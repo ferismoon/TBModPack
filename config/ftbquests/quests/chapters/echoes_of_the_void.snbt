@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "echoes_of_the_void"
-	group: ""
+	group: "Old Quests"
 	icon: "minecraft:ender_eye"
 	id: "0051425A676C2F09"
 	images: [

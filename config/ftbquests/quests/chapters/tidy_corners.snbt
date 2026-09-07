@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "tidy_corners"
-	group: ""
+	group: "Old Quests"
 	icon: "toms_storage:ts.inventory_connector"
 	id: "6F669BF5B524F3F0"
 	images: [

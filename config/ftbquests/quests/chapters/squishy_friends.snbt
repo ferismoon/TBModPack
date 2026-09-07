@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "squishy_friends"
-	group: ""
+	group: "Old Quests"
 	icon: "perfectplushies:sirjain_plushie_rare"
 	id: "059FE08C5E90B4B5"
 	images: [

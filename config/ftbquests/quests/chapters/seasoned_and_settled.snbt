@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "seasoned_and_settled"
-	group: ""
+	group: "Old Quests"
 	icon: "candlelight:cooking_pot"
 	id: "5CDDF7AD0DD2A82E"
 	images: [

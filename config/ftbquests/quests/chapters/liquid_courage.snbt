@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "liquid_courage"
-	group: ""
+	group: "Old Quests"
 	icon: "brewery:beer_barley"
 	id: "2FD1B0E89119D89F"
 	images: [

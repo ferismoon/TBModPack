@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "tips"
-	group: ""
+	group: "Old Quests"
 	icon: "minecraft:writable_book"
 	id: "58C25CBD3341DC76"
 	images: [{

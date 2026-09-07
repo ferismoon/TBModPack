@@ -1,10 +1,10 @@
 {
 	filename: "server_plushies"
-	group: ""
+	group: "A New Dawn"
 	icon: "phomesteadplushies:homestead_player_22"
 	id: "6B741A2D90000001"
 	title: "Server Plushies"
-	order_index: 24
+`torder_index: 0
 	default_hide_dependency_lines: false
 	default_quest_shape: "square"
 	quest_links: [ ]

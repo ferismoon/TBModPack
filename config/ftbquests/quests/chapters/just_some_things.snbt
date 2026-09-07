@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "just_some_things"
-	group: ""
+	group: "Old Quests"
 	icon: "things:things_almanac"
 	id: "74F05990B94AD569"
 	images: [
