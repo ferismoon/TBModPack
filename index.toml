@@ -4442,11 +4442,6 @@ hash = "db8be814b3e4ca8f976d4595714aaaa5a236b1d473808fc85ea16c3272d217ed"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "b5661c408bd1b00cdfff31a4e02133d09c6da01bc47bec347313be4f614b269b"
-metafile = true
-
-[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "8e73f30e8d02c6796f0626b7241bc25e595b0f27dafe6abc82ce6520f071089d"
 metafile = true
@@ -4478,7 +4473,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "47a303fa55cd817c02d02b2a30f5e1b17fade72602b9cf70de35871cefbb741f"
+hash = "0ce43bb2f339b5847add58fb596c77dc40084d438ba01c9b38fa5b86603e3794"
 metafile = true
 
 [[files]]
@@ -5274,6 +5269,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage-unofficial-fabric-port.pw.toml"
 hash = "f91542e6f34b842d012eea27b799717808ba35b12abc080dd16946cfb43c1d19"
+metafile = true
+
+[[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "55e617e9ff60f0e3c38c7e6cba8bfdef5cb4e8b496c5a68a332fcc5470ac8866"
 metafile = true
 
 [[files]]
