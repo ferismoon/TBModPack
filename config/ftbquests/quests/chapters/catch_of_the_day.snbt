@@ -14,15 +14,6 @@
 			x: -0.5d
 			y: -1.0d
 		}
-		{
-			height: 22.0d
-			image: "ftbquests:textures/homestead/catch_of_the_day_bg.png"
-			order: -100
-			rotation: 0.0d
-			width: 37.0d
-			x: 0.0d
-			y: 0.0d
-		}
 	]
 	order_index: 20
 	quest_links: [ ]

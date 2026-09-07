@@ -15,15 +15,6 @@
 			y: 0.0d
 		}
 		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/herbal_hexes_bg.png"
-			order: -100
-			rotation: 0.0d
-			width: 30.0d
-			x: 0.0d
-			y: 0.0d
-		}
-		{
 			height: 8.0d
 			image: "ftbquests:textures/homestead/herbal_hexes.png"
 			rotation: 0.0d

@@ -14,15 +14,6 @@
 			x: -0.5d
 			y: -1.0d
 		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/tea_quest_bg.png"
-			order: -1
-			rotation: 0.0d
-			width: 30.0d
-			x: -0.5d
-			y: -1.0d
-		}
 	]
 	order_index: 4
 	quest_links: [ ]

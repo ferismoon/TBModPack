@@ -50,15 +50,6 @@
 			x: 7.107142857142854d
 			y: -7.151785714285708d
 		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/vinery_quest_bg.png"
-			order: -100
-			rotation: 0.0d
-			width: 30.0d
-			x: 0.0d
-			y: -2.85d
-		}
 	]
 	order_index: 7
 	quest_links: [ ]

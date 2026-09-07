@@ -14,15 +14,6 @@
 			x: 1.0d
 			y: -5.0d
 		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/roots_quest_bg.png"
-			order: -1
-			rotation: 0.0d
-			width: 30.0d
-			x: 1.0d
-			y: -5.0d
-		}
 	]
 	order_index: 3
 	quest_links: [ ]

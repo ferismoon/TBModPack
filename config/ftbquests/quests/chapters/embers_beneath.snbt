@@ -178,15 +178,6 @@
 			x: -5.0d
 			y: -0.5892857142857153d
 		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/ember_quest_bg.png"
-			order: -100
-			rotation: 0.0d
-			width: 30.0d
-			x: -0.5d
-			y: -0.25d
-		}
 	]
 	order_index: 12
 	quest_links: [ ]

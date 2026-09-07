@@ -14,15 +14,6 @@
 			x: 0.0d
 			y: 0.0d
 		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/liquid_courage_quest_bg.png"
-			order: -100
-			rotation: 0.0d
-			width: 30.0d
-			x: 0.0d
-			y: 0.0d
-		}
 	]
 	order_index: 6
 	quest_links: [ ]

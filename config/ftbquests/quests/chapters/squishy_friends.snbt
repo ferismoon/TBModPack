@@ -14,15 +14,6 @@
 			x: -0.5d
 			y: 0.0d
 		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/squishy_quest_bg.png"
-			order: -100
-			rotation: 0.0d
-			width: 30.0d
-			x: -1.0d
-			y: -0.25d
-		}
 	]
 	order_index: 19
 	quest_links: [ ]

@@ -15,15 +15,6 @@
 			x: -2.5d
 			y: -7.0d
 		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/homestead_quest_bg.png"
-			order: -1
-			rotation: 0.0d
-			width: 30.0d
-			x: -2.5d
-			y: -4.0d
-		}
 	]
 	order_index: 0
 	quest_links: [ ]
