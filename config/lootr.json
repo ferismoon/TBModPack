@@ -37,8 +37,8 @@
     "decay_dimensions": []
   },
   "refresh": {
-    "refresh_value": 24000,
-    "refresh_all": false,
+    "refresh_value": 12096000,
+    "refresh_all": true,
     "refresh_modids": [],
     "refresh_loot_tables": [],
     "refresh_dimensions": []

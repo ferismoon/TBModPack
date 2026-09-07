@@ -274,7 +274,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "f3e3e72c1ab4232e87bd6b329c3c80d52936bd59f961c6f3095a98eeb21349c3"
+hash = "7f549673a41d3874bdbacae213088a12fcb5dc89d7edd0b9e420a53d0723c190"
 
 [[files]]
 file = "config/celesteconfig.toml"
@@ -1242,11 +1242,11 @@ hash = "b4aec2072ee6eabdc444cef339ff839bfbdfb44cd6c3270483d57279365d6b68"
 
 [[files]]
 file = "config/lootintegrations.json"
-hash = "bd6355cc816ae7fde772a9a29737aeafd4e0b3b70288c938a9d14565a769df3f"
+hash = "75ca4c1f43c397767a9885567697d82baf0cc0fc747b982ead35342a595ade64"
 
 [[files]]
 file = "config/lootr.json"
-hash = "03d2e38a945a4e126cc64e8e3be8ce2e59fd2a033d054a287953afea4eb03f5a"
+hash = "7d07d05b7b972ce6fd92240c214d1552501d884f3cc983ae0b4efba3eaa647e6"
 
 [[files]]
 file = "config/malilib.json"
@@ -1846,7 +1846,7 @@ hash = "03566f5b722d000ee785cccf8a55651c75c7bc00fea16d2538899578188ebb32"
 
 [[files]]
 file = "config/perfectplushie-loot.toml"
-hash = "900b6764ca3efeeeba8daea3319e524f68fb5e409cb938f7a45544f4140d1980"
+hash = "b464db36abee128b52286e94811fa302cc49e3c1d17170389f5f7e8d0347f9e1"
 
 [[files]]
 file = "config/perfectplushie-trader.toml"
@@ -2603,14 +2603,6 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "612cda42d0f9cc7f223c3dec97b0bc42f81b2f1f3d9c21a32bd1bdf9d8f9cf3e"
-
-[[files]]
-file = "config/ysns/disabled_entities.json5"
-hash = "c4cc01e8046d622aee7153951c883b00fcf51c09d02731e3795ebb3a9f1b4ea8"
-
-[[files]]
-file = "config/ysns/per_dimension_entities.json5"
-hash = "fe0bc8c3a04c4f9c39caea44a81d725dbdc02db561b52d6681c10cb34063174a"
 
 [[files]]
 file = "config/yungscavebiomes-fabric-1_20_1.toml"
@@ -3518,7 +3510,7 @@ hash = "b48b05f74bacfe400b08e40f364cf3b362aee1d712b526f23f4079841b9b0c6e"
 
 [[files]]
 file = "kubejs/server_scripts/misc.js"
-hash = "0436d417c045aa7d4a90c52de725808451ce07463811fc1143ff7eca671a233b"
+hash = "a0a8fa31401459f4e6abe682fc34adc5ac2005545dc40280c71d1a0f9c5cd95b"
 
 [[files]]
 file = "kubejs/server_scripts/remove_broken_compat_recipes.js"
@@ -5605,11 +5597,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
-metafile = true
-
-[[files]]
-file = "mods/you-shall-not-spawn.pw.toml"
-hash = "ec8d0e6fef54f7b8ef297cfcf32a5d03f70ece1e405bc067f0212b3013868dad"
 metafile = true
 
 [[files]]
