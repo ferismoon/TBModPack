@@ -714,7 +714,7 @@ hash = "d0021532df9622867336c53f8bf596f12b7d56f04e52d3a660ed9d49c46ffd39"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "d43d496dc932c2fd04871e10713f364cd6a85295dcf7d754d1ef97f9528a65b0"
+hash = "c2bda78bacd8fe0f0ecd89338b01d2f656ce3ff0e1e8ee26ef09e0c66da01afe"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -5496,12 +5496,344 @@ hash = "8c34bee0bf7d371e8d97aa690f52cc61bdafe0e99aacc21b1beeb9a983588de8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/accessories_panel.png"
+hash = "e9b3dcee8d18cd9d8f08ce3bc6a9a3a7145461e259969891faf580dc1415672d"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/container/accessories_inventory.png"
+hash = "201c2cd707e1bc425975e1bddee0902372ae76a2f4c5bfcc3b94297686b7d472"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/container/horizontal_tabs.png"
+hash = "209f6d023aa4e42cd2e8b635539d565a017ea697e9bb222af2193d7af48884f0"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/container/horizontal_tabs_small.png"
+hash = "92b55b523e83d1bf4d68ffe3233f0795c18faa590a1bae4bc28c384f7d1433ed"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/slot.png"
+hash = "c43667d3d4d0e1d6d0558aa34e3fc3c7ff5b46e5f691dc42f1309b668e8755df"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/slot_frame.png"
+hash = "5bbaacd823928016c28d5a79bb636f53508aa0363dd06820edd378c359ed5c35"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/8x8/button.png"
+hash = "ea1e676504674a44e85cdd95a74bbff41ff6d2c8e52be2086544fc464e8c14d3"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/8x8/button_disabled.png"
+hash = "ba5336364691ab5528579f7980a198b690d217e4c3cab8d5566c7c3a90717174"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/8x8/button_highlighted.png"
+hash = "593766d59f8e18eb4aaa622598bc1e9a9fa161a8e55092a7c9b2360f3a814b7a"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/background_patch.png"
+hash = "10e27e12dbe90099d4797d5f21becb967bab893c939c0f889afc0b34e6cd5f58"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/background_patch.png.mcmeta"
+hash = "8832e360b21e5bc87894a0fcd3603d2015d20b8fdeaed1499bf1e8e8167e79c5"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/scroll_bar.png"
+hash = "00852cd74a8f958d8b40385ee3a5d8b5f1058eefe446379406dbc462aff24ed4"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/scroll_bar.png.mcmeta"
+hash = "f6fef0fcdc6a15fe9f50bc12b2fff3d89a7215ec6146f162f58f0aa3ad77365b"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/scroll_bar_patch.png"
+hash = "8fea63a3c6eeb177377325ad36522ac2a09b913ce878cfbf0f0d160c5a546bd0"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/scroll_bar_patch.png.mcmeta"
+hash = "f6fef0fcdc6a15fe9f50bc12b2fff3d89a7215ec6146f162f58f0aa3ad77365b"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/12x12/button.png"
+hash = "33a14ca29cafeb2420618b240840e9f48e5357cd3e2d36a5cb7edf459e0455c8"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/12x12/button.png.mcmeta"
+hash = "85c4cb11d371b9dc7062deb758d65147df2e443ea4836b260d356c56294ae3b9"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/12x12/button_disabled.png"
+hash = "46c72b15e6ab9c0ca8f6bd3ba10c3bdb63d06885a13d006ed16a4962aa635287"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/12x12/button_disabled.png.mcmeta"
+hash = "85c4cb11d371b9dc7062deb758d65147df2e443ea4836b260d356c56294ae3b9"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/12x12/button_highlighted.png"
+hash = "b235e9bcc1e54f40e01c53e2b73d43976c746be94d2e3b7e978b1de399a9a500"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/12x12/button_highlighted.png.mcmeta"
+hash = "85c4cb11d371b9dc7062deb758d65147df2e443ea4836b260d356c56294ae3b9"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/8x8/button.png"
+hash = "ea1e676504674a44e85cdd95a74bbff41ff6d2c8e52be2086544fc464e8c14d3"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/8x8/button.png.mcmeta"
+hash = "85c4cb11d371b9dc7062deb758d65147df2e443ea4836b260d356c56294ae3b9"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/8x8/button_disabled.png"
+hash = "ba5336364691ab5528579f7980a198b690d217e4c3cab8d5566c7c3a90717174"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/8x8/button_disabled.png.mcmeta"
+hash = "85c4cb11d371b9dc7062deb758d65147df2e443ea4836b260d356c56294ae3b9"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/8x8/button_highlighted.png"
+hash = "593766d59f8e18eb4aaa622598bc1e9a9fa161a8e55092a7c9b2360f3a814b7a"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/8x8/button_highlighted.png.mcmeta"
+hash = "85c4cb11d371b9dc7062deb758d65147df2e443ea4836b260d356c56294ae3b9"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/button.png"
+hash = "c403b794afcc17e970a2f13677d3b22c73316687f2f5b91f51ddb36e73361640"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/button_disabled.png"
+hash = "7875b26f0e4ff8faba32267f6f4cc459378d18ef131158d5637293977329b838"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/accessories/textures/gui/sprites/widget/button_highlighted.png"
+hash = "b4b36d5b32431268f0f6f8f884ac3ab1c464846827cdfaa25fcadb329800ea24"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/alcocraftplus/textures/gui/keg_gui.png"
+hash = "369f7d2fb9da3775e248c22b294aabf0967a404afdbdbb2a7060f42d6f24091f"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/animal_feeding_trough/textures/gui/container/feeding_trough.png"
+hash = "b46765d0ac6bdecb01a87e02453880976b8c4a0958961e9a767581ed80b43a63"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/beachparty/textures/gui/freezer_gui.png"
+hash = "112c6be93d80d5c6ab3f86494cc8307968310e69d6837486232a58d639618ac4"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/beachparty/textures/gui/palm_bar_gui.png"
+hash = "f840515a07662fd5306c8b9304044c982bc2beedebef8543d7e65531cb54ad76"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/brewery/textures/gui/brewingstation.png"
+hash = "90e2a7bbf07187e629a9c3f8b6e0b5439889d4f5cfa3a980f6965d6ce1d79b56"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/candlelight/textures/gui/letter_gui.png"
+hash = "2a3233e944775d0fe8ee5be3027ac0210e5a6d9c5082edbf467943983fd68d0e"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/clutter/textures/gui/container/altered_beacon.png"
+hash = "ce48cdc1b95e927bdb1c20187cc505cf4a53c4daa9d67719fdce88c1dfff8757"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/clutter/textures/gui/container/brick_kiln.png"
+hash = "c70f525af26bae57c9a6802779b437c4e3300209b722e883406d2f3c04dcfb5e"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/clutter/textures/gui/container/cardboard_box.png"
+hash = "ef19f2cfb43adbf448addb6d6c1863d53838a9d02f6adf631da76b337de01770"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/clutter/textures/gui/container/mailbox.png"
+hash = "9565ba14dba592d66cc69c5552627b0ce4450798dd64045ce0d15b26b4ff59b2"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/clutter/textures/gui/container/red_present.png"
+hash = "c5816a9ede2489f75614203f603c8977f799efd25bb7f28028cbee2983c1e56d"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/clutter/textures/gui/container/wall_bookshelf.png"
+hash = "378da717ba9c05054977ceb99487ae13009bcc83b8e918d00899830e5d2a1369"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/assemble.png"
+hash = "082e87ae1a383d9380246c84013a88c32b31e0e6bc8a2870b48e1403a7c3e04b"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/computer.png"
+hash = "8b8a28d70e2856350b446f02b183f3cf1d54b58c07a8d587d6f5f6b62eafc992"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/curiosities.png"
+hash = "d0e058c42d1a24cdcd041cb0713aef017415b2b2cadf8e3b0507d59373351535"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/curiosities_2.png"
+hash = "f553ccbd272ef4f94fe62bb5ddb42c66cc0be8375ae31cbdeb8edf53bf11a472"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/display_link.png"
+hash = "4af8f299dda9322a7abf60c7d14683fb95a28e2e1535586bb80022f47aa7f5a8"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/factory_gauge.png"
+hash = "8f5da01c6867789f4ced2622f440414b67833f09aadb3a21442b3867f479f6a6"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/filters.png"
+hash = "4b3de6ae00e47dd7ceb3db2337b59c000e494f3d94f23b41ae274fade1718c68"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/filters_2.png"
+hash = "083afce15789076a9de5e8f05bddce5af6de8f2f6aac0b47d974d7312eadbf17"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/frogport_and_mailbox.png"
+hash = "bcdccef4a33aaa5e65bbd8a24d622903a0698be2ee83feada356bce1a86a7454"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/player_inventory.png"
+hash = "ee66352ffc5dba7cfd7c8d08c9712b4202341852c40d90bbdfff47ddc8e795e0"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/requester.png"
+hash = "88f0ad293e593178bde486fc4c60610e5f88851ac6a47f7f32e7b3e7ad22e31c"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/schedule.png"
+hash = "2e85c80588354db9d1066b5090799984f6ff47b5162907a501c3a3411988639c"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/schedule_2.png"
+hash = "4a3409ac10ea8bf5e2996f4008d358ca82b6a0771e3f500864c25f6340c2fd61"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/schematics.png"
+hash = "6837698866b4517e3b4e85f8d82eb3b20afb366296209d38c0f55d2a712609e4"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/schematics_2.png"
+hash = "6f792114fb6d45f7e8bb6c9a12fdd0f77e592fe0c6ce664d46f1cf7931445c69"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/sequencer.png"
+hash = "f690acee95731bd0e06d9977eede8420d64cc16c975732d531dc18abd1aa6e47"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/stock_keeper_categories.png"
+hash = "f360610ef36800a51b22e597bb82b47fe1a756814cd76663759fd00cb70d4b0f"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/threshold_switch.png"
+hash = "60012561cc93b2f1bd2fd8bcd4743939f2301d9bd98183e7ae9b980497275ae3"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create/textures/gui/toolbox.png"
+hash = "3f07feae54c7e65121bf69d250d754f2a800855e1ef5eda475c43e8a9f01a5e1"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/create_connected/textures/gui/sequencer.png"
+hash = "5b63c4c9a3223fc8bcecdf5202d1308e3d7087073b86d26ba001bfed4dac883a"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/farm_and_charm/textures/gui/crafting_bowl.png"
+hash = "907e66e4915079b4ed5add72ea19429113a3fb63e5cf3e761082dddb26ad868c"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/farm_and_charm/textures/gui/mincer.png"
+hash = "72c73099fcd24eece906dde23ee018fbeb9a171c021adef7b39a64d9ee61aee9"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/farm_and_charm/textures/gui/pot_gui.png"
+hash = "5385cc99f1a4d5aaf40681014d371dae58e7a1bc4b1718ffcd0f889271a0c444"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/farm_and_charm/textures/gui/roaster_gui.png"
+hash = "5385cc99f1a4d5aaf40681014d371dae58e7a1bc4b1718ffcd0f889271a0c444"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/farm_and_charm/textures/gui/silo.png"
+hash = "72c73099fcd24eece906dde23ee018fbeb9a171c021adef7b39a64d9ee61aee9"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/farm_and_charm/textures/gui/stove_gui.png"
+hash = "7a98a497821658d9d56c2475bcc78646c87be2ebee8f63747c75b7b6aa2d4f8e"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/fetzisasiandeco/textures/gui/container/stand.png"
+hash = "3f92b4e6f220736a73551ab7310dac9aebba78815f24fc0ff23075a1df8e0eb8"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/ftbfiltersystem/textures/gui/background.png"
+hash = "a50db5148f778874cc7cb2f36f7f1ba518d5100290222064fe95a577ff0ede09"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/guardvillagers/textures/gui/inventory.png"
+hash = "3d801e7f33d45dc59b800110804325faeec6a5e9eaf8f556b91d12a8fcb1a745"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/herbalbrews/textures/gui/cauldron.png"
+hash = "044719f58fd5d1e37346803a65e5f1fdb4f41a4b03dd7fbbd29987d3e67f8410"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/herbalbrews/textures/gui/tea_kettle.png"
+hash = "a591640804f07a068a9a85335c6585874606314ace8e720e5aecf461e6e5a974"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/hexalia/textures/gui/container/small_container.png"
+hash = "ee85dc1aec6f79a1535d47ff260e8cc2097602adb8ffded4ce082d429a4bba75"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/illagerinvasion/textures/gui/container/imbuing_table.png"
+hash = "0733e2dbf9d92c9ac1234843074fb69b44fea1d0fbb0263ac5af1b8e8eff1573"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/ironchests/textures/gui/base.png"
+hash = "685de49535941bc3300f4b7575a1c5799507aa9418e879dd2cba9caca396e887"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/ironchests/textures/gui/slot.png"
+hash = "60b9971d00694827e87a582adb44d80543abaa03e1d355bc0f0b233e3e5cb2c0"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/luphieclutteredmod/textures/screens/luphie_large_storage_gui.png"
+hash = "2085ebbcc61fbafb088802bbe96aeee99d8716ba46dbe3c24d58fa5602d8b72b"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/luphieclutteredmod/textures/screens/luphie_small_storage_gui.png"
+hash = "24b663b5668081ec65bc406d7030b061c80c7ccdeb5c1adf9f7f7fa9c9975526"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/meadow/textures/gui/cheese_form_gui.png"
+hash = "7fd39f68ba9b364a30ce7bec15725d8056ac35e1a7550e5ec4b5ffca84458270"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/meadow/textures/gui/cooking_cauldron_gui.png"
+hash = "b2c0b2270b55241882bb8348e3ccb05fbfe4bdcfed3a3ce4fa227b7de4766f55"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/meadow/textures/gui/woodcutter.png"
+hash = "16c9d83da1f11ab4c28f3e173e950d2ff5f774c432e3e0f55814dd54c4670cb8"
+
+[[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/minecraft/blockstates/cut_sandstone.json"
 hash = "dfde9a49a7beed7ee3819145171b85ea62b151b03841f98b32da3a053fa1e1dc"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/minecraft/optifine/ctm/_overlays/mushroom_stem_dirt/mushroom_stem.properties"
 hash = "8d8816f05678eb663096c30bca964433106357b9e474f1e67dc4b8e902f0059b"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/minecraft/textures/gui/container/creative_inventory/tab_regions_unexplored.png"
+hash = "848e3f70e7cc3007b3d7e17ce62977e94991ec883edfc7453a15fb9036a93efd"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/modrinth_logo_mod/lang/en_us.json"
@@ -5514,6 +5846,14 @@ hash = "e92842e1d197782ade3ff2d3e7d4336c1df90cbc899c4ddf041ac52fc93ae982"
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/modrinth_logo_mod/textures/item/jhkw0ve1_400x400-fotor-bg-remover-202309257208.png"
 hash = "800bba2ed43ba4b1d8d6a1169004db6d8924b03e01f8b94fd82736a18b5b6452"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/niftycarts/textures/gui/container/plow.png"
+hash = "72e6a2d700b9811fb8c5ba70bb263eb8dcd56bbd59bb43be735c7cd67c003340"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/niftycarts/textures/gui/container/seed_drill.png"
+hash = "ba7ec644090b8e192c637e113669ec80c2161cfe7c9a3f88117babc2a22ac6fd"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/lang/en_us.json"
@@ -5628,6 +5968,142 @@ file = "resourcepacks/TrueBastardsGUI/assets/phomesteadplushies/textures/block/h
 hash = "52a7b717839e398f650f78b0f74fe552b6c92d3a2182263cbaa1004f906df79b"
 
 [[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/railways/textures/gui/bogeymenu.png"
+hash = "3c1cf224835f57a4a312695236ba629ce383b9ecfbf8c4669c57c23fefb297de"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sawmill/textures/gui/container/sawmill.png"
+hash = "665c797e81c97da5e91d98a0b9805c1db70f9d7d81dabe446f22be9b76cc0898"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sawmill/textures/gui/container/sawmill_search.png"
+hash = "b867355ee88207b31f01d0a5bfdb1e111ba6156963f51aa51268d8a90ec8076f"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sawmill/textures/gui/container/sawmill_search_wide.png"
+hash = "5f1288043989019585216ebaf780e569cc4b8215a7d17e4e783d4f6a7ededb66"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sawmill/textures/gui/container/sawmill_wide.png"
+hash = "2512faf57feb635e60ce547b417070bd3e0154b9e75ebee4bf786016e21253e7"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/showmeyourskin/textures/gui/armor_screen.png"
+hash = "528f8777a030c338873bd28b84205ce4e5cf05c08d2b60f06bc7e194474a9640"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/showmeyourskin/textures/gui/armor_screen_background.png"
+hash = "54c89cc428efcbe0c2fcfbcc74a7a2d0ce336735ab4008c57d90c47c4fb699b6"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/showmeyourskin/textures/gui/config_screen.png"
+hash = "47b73a79e14a8bf28030cdcbd0ccb9a475d0aa8b9b7bf82835c41339344fc433"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sophisticatedcore/textures/gui/gui_controls.png"
+hash = "f54c0b3c57c6880e0c3e9bd8874c5b8333ea13a687a46c0b08768599ef1cfd5b"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sophisticatedcore/textures/gui/icons.png"
+hash = "29e7dc1de0c4ba423b32f6632a6cd084b49de469a22b7c2cd2b71b1e90e04f79"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sophisticatedcore/textures/gui/slots_background.png"
+hash = "fb2316c9f0dbca9971fb8641c682bfbda4be7fed3fa2593dcd3466aa527e2d90"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sophisticatedcore/textures/gui/storage_background_12.png"
+hash = "2f6aba4be0b54d95c30d2712e820b321daff2a8d3e52c27b7de8e7fbeff362b8"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sophisticatedcore/textures/gui/storage_background_12_wider.png"
+hash = "17d8b68ea3a93342db17aef6537e2bf2b1ce9b1fa94c68d4136eb70d20d7b033"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sophisticatedcore/textures/gui/storage_background_9.png"
+hash = "77c6c0ea45f3b524bcb3a47a759e88dac97849d23518e71ce812cc2c5c1fbf81"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sophisticatedcore/textures/gui/storage_background_9_wider.png"
+hash = "1e599597511ffec3f2178c4bf89c8f38487fe092b06b18346084539a4a0497cb"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sophisticatedstorage/textures/gui/decoration_table.png"
+hash = "4f01a269e61d0b5f9d49a12378b2040d736dcb7afb4b788576267604fe78fc0d"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sophisticatedstorage/textures/gui/decoration_table_elements.png"
+hash = "b800a5ed4da21421d3e0b25b8351aaaa7676e445bc8c323b0c88820357c47105"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/sophisticatedstorage/textures/gui/limited_barrels.png"
+hash = "c9fdf1cd08572aeda070f752a5dfb00a65925142503794379d49e0b6eb371c69"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/spawn/textures/gui/container/hamster.png"
+hash = "5105055111c0957f4dae6218da3cd280214fe2ee9a64195e0729e8c83418dd5c"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/spudaciousshops/textures/gui/warning_screen.png"
+hash = "1edb7c0684a9d3517180d2d459f957e36d9bbfd6317b652eeb504b1a2984e33f"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/starterkit/textures/gui/container/inventory.png"
+hash = "2f170272aaa93490be7792843a81e076e4a7ed532e8e5570c2a244ec5a3d89dd"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/storagedrawers/textures/gui/drawers_1.png"
+hash = "40bfb9333f76fba2c9c91f222470f22753f9a31ebb297903de371a2ebadd28b7"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/storagedrawers/textures/gui/drawers_2.png"
+hash = "be97d8e3bfe3f1a2f8ab79cec41a318daec23a572c61bdd45bd356605056e938"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/storagedrawers/textures/gui/drawers_4.png"
+hash = "2bf97ee372ca418a8277910be5b53d60436b6d7f67f8695a1946277f5462284c"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/storagedrawers/textures/gui/drawers_comp.png"
+hash = "679e1e00d1b3d86e47821cf1ce3c3d57040daf2cc7c1dc693f4c048bac5210e1"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/storagedrawers/textures/gui/drawers_comp_2.png"
+hash = "9d83a39e30617e84e83a2a05c982b12f40780189e59c5cdcd3acfef3014ffe2e"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/storagedrawers/textures/gui/framing.png"
+hash = "1b2ee01f0ab385f148edd34650ae3cb8ddd25f46a6c648deb475da5bfab80e02"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/cannon_gui.png"
+hash = "4252414bd8eb0e17b9baaacede1a062705457ce074a611114f87544e52a8185a"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/cannon_gui_2.png"
+hash = "99f042142f69c302c153124eab60f9f40487e19e9e79844c5c36e3418b81bfef"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/notice_board_gui.png"
+hash = "9bf6ef4befecf914824b469deffb82d62b8fb51948f1f8e077b35ba5ac4f8526"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/orange_trader1.png"
+hash = "165001ba503cd1175ebbfcba1241812eedff9250587e66e822549b7427dec4e5"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/present_empty_gui.png"
+hash = "71e3f00a648f02040b73f363ae6d4d19e476292b179c54919a91436bb4395254"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/present_gui.png"
+hash = "2057f59ddb2f18f4d8e379fad3dc50183362d1d1a1b3562a954834480606b9fb"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/red_merchant.png"
+hash = "2fcbbb2bef90294ca3380bb5ec7b89dcf2991a5ed851cdee35b9a0197370ee24"
+
+[[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/slots/key.png"
 hash = "f007d54209f86c214d1c82457175858cf13b7b8e1971e21e74f4caa10d681dc9"
 
@@ -5636,8 +6112,72 @@ file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/slots/
 hash = "8bbada251f45854e990d34ee391758eda09f9689de7a201667a814757dcaa396"
 
 [[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/trapped_present_gui.png"
+hash = "06dae8f326e7545173247a42fed35e00a1f53bfb202405470dfad89186587085"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/supplementaries/textures/gui/variable_size_container_gui.png"
+hash = "48ccc5414d9de98b99ff59af1a431a859081cfdaa6e4beae054759c0f0eb7dce"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/toms_storage/textures/gui/crafting_terminal.png"
+hash = "634b4bc095bd3daa6099f4edc0a035338218285c7dabaacc4ebf55d858ed6603"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/toms_storage/textures/gui/storage_terminal.png"
+hash = "424d64bf65ae4161332c90a3caea9396faebf55cde9cf190ee60775a88bdce42"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/toms_storage/textures/gui/tag_filter.png"
+hash = "b278876f9728d55542b47ee80a703f44aa7ba6c5cd55d0d8db67fe6dd2a2dc43"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/travelersbackpack/textures/gui/background_11.png"
+hash = "c2c2de9af4a0263d3b981f0daa7a31ddf7da6b6458f16d50c8560a2dce92d205"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/travelersbackpack/textures/gui/background_9.png"
+hash = "7d470265d710cf405ad25b1a27262a56c2bff7364b5087495bc59d0eab8f1fcd"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/travelersbackpack/textures/gui/tabs.png"
+hash = "c234f9a1b61f7ef8a8d1a15662374866ceb7dbe2deaf3b85aef10c2d2752d977"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/travelersbackpack/textures/gui/tanks.png"
+hash = "1bc678e3407a396288338f406c44de18ec06c65cdcb5cc3626ce8a951973f86b"
+
+[[files]]
 file = "resourcepacks/TrueBastardsGUI/assets/trinketlantern/textures/gui/legs/lantern_slot.png"
 hash = "16568af4852a8f1856dec28d36250b43256679535205ca57cc3b1e854468a31d"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/umbrellas/textures/gui/loom.png"
+hash = "c3e63be3ac5be78b15fbed81fe5fe5e6e2d24ad52895d9824159a11aff4c85e6"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/universal_graves/textures/gui/default_ui.png"
+hash = "234d8876cf69ceacc4fff3d61d7aa1b81dd3a78e2c37ce83dba6ceb3f16e25d8"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/villagersplus/textures/gui/container/alchemist_table.png"
+hash = "33f832c8582c4a4903a34f84e3e60f049c72ffdd6f09baff4094f078c733c4af"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/vinery/textures/gui/apple_press_gui.png"
+hash = "80c9ef7d9099df5ec5bc59bb4633a7164803874723ef655a6ebdc63c6b356d14"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/vinery/textures/gui/basket.png"
+hash = "084278bf31460fb4c9153e79c2eea806e7f3cd38cfa50fd2d5c5173329b4a0bd"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/waystones/textures/gui/menu/warp_plate.png"
+hash = "810a0907958a68475757f39a6e14a182b843810b3ae3f70fbe4e7c7dda01e552"
+
+[[files]]
+file = "resourcepacks/TrueBastardsGUI/assets/wildernature/textures/gui/bounty_board/background.png"
+hash = "fccf1da539975fb127f1eb2a2199e964641d16754ebc9a5b60bc2398583f5e2e"
 
 [[files]]
 file = "resourcepacks/TrueBastardsGUI/pack.mcmeta"

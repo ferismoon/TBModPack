@@ -8,3 +8,6 @@
 # Local development caches and repository metadata are not pack content.
 /.gradle-user/**
 /.gitignore
+
+# Local UI reference textures and editing workspace
+/ui-workshop/**

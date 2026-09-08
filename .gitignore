@@ -19,3 +19,6 @@
 *.log
 Thumbs.db
 Desktop.ini
+
+# Local UI reference textures and editing workspace
+/ui-workshop/
