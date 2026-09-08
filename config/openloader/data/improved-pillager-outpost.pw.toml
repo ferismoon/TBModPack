@@ -1,0 +1,14 @@
+name = "Improved Pillager Outpost"
+filename = "ImprovedPillagerOutpost-v5.zip"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/WQxwMPH5/versions/QmgBowqy/ImprovedPillagerOutpost-v5.zip"
+hash-format = "sha512"
+hash = "ac3ae049532aabc8ef997d312d9502da729203223d9978079d1ce2d38717aa7248dac5edf5437f9746e3bd80a60e20851f93551f64d81ac41143f78604f36fc1"
+
+[update]
+[update.modrinth]
+mod-id = "WQxwMPH5"
+version = "QmgBowqy"

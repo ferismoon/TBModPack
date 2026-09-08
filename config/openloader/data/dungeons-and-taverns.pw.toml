@@ -1,0 +1,14 @@
+name = "Dungeons and Taverns"
+filename = "Dungeons and Taverns 3.0.3.fix.zip"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/tpehi7ww/versions/J9ojWPrx/Dungeons%20and%20Taverns%203.0.3.fix.zip"
+hash-format = "sha512"
+hash = "6a7b8c7e7ee9e84761d34b51f8400403ee5a46f947dd6b04f90b4ad4f15b947eefedc3ffb7555ba369622866ca6e8127ad5e4f974a0700b348f7db42d3a9fd94"
+
+[update]
+[update.modrinth]
+mod-id = "tpehi7ww"
+version = "J9ojWPrx"

@@ -1,0 +1,14 @@
+name = "Better Trees"
+filename = "Better Trees 1.8.zip"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/cfXIpi12/versions/WyXRilBB/Better%20Trees%201.8.zip"
+hash-format = "sha512"
+hash = "97aeb163fe43741c421a624525eedac78845c5a745e662bfcf07d6f89989c73c6e2b94717f80531fb881e401e35bc5be06aa00cae70c6714d381cd11602ff302"
+
+[update]
+[update.modrinth]
+mod-id = "cfXIpi12"
+version = "WyXRilBB"

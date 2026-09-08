@@ -9,7 +9,7 @@
 	images: [
 		{
 			height: 4.0d
-			image: "ftbquests:textures/headers/homestead_full_export.png"
+			image: "ftbquests:textures/headers/the_first_sprout.png"
 			rotation: 0.0d
 			width: 8.0d
 			x: -2.5d

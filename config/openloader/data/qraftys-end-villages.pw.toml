@@ -1,0 +1,14 @@
+name = "qrafty's End Villages"
+filename = "qrafty's-end-villages.zip"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/NFlNaUBA/versions/jVhp1McJ/qrafty%27s-end-villages.zip"
+hash-format = "sha512"
+hash = "3e1fd39244d6543bf20973ec337641aa5b3ea3aa5ee0d117ef9a45cc0826bcb258c75b158cdd05a9fdf3dd0b00b4d46084f98e8fdd1ac0b53952a0d118cf2efd"
+
+[update]
+[update.modrinth]
+mod-id = "NFlNaUBA"
+version = "jVhp1McJ"

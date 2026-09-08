@@ -1,0 +1,14 @@
+name = "qraftyfied: STRUCTURES"
+filename = "v6qraftyfied.zip"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/ibnDR6oc/versions/NE5zMRoE/v6qraftyfied.zip"
+hash-format = "sha512"
+hash = "a03bd83435b70a690168fda39011e9d3dec65d30e12983c4c19a4cf0fff2dc72faa9a291aa5efe9de9f34b07a5b9bcbd21c1f9f49a755f8cf78fb9cd1ac4cc2c"
+
+[update]
+[update.modrinth]
+mod-id = "ibnDR6oc"
+version = "NE5zMRoE"

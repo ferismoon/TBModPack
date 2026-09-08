@@ -834,7 +834,7 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/beginning_game.snbt"
-hash = "75b9c99a37407a94307fc60bd86b6c3e68da0968129734e607a15c489032877a"
+hash = "784dbcaa848c2f1ea3d3cb350bff8f6b66c4ed59b8c2c3b379783515431f3b6b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/catch_of_the_day.snbt"
@@ -842,11 +842,11 @@ hash = "9f228c6a852b55cdc785e819939236d3f4f3d91465a555c2e60841068d85de47"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/deep_dark_secrets.snbt"
-hash = "8654e97c2259161473831556d131541877024fada923f931267973c0d235263d"
+hash = "77194d619f60a616cfbb2f3cb9ca46d244d5bc4da7f1c88dae4f53208eb8c004"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/echoes_of_the_void.snbt"
-hash = "c05f26006f67eb0a140891862da65df734b1f5c159a669d0362505c2f54c047d"
+hash = "3f94e0e67383a8f54cab28dc85636e3bf954fc80aa39e72e6640bbf80377b372"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/embers_beneath.snbt"
@@ -862,7 +862,7 @@ hash = "8d9ce6a9b356010990a27168680f795cd5e2b17c02a910b9eb97294082b7538d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/homestead.snbt"
-hash = "8c31c016391372392122f37497dcb8eec3a1d52ae131a129882d350cdda824a1"
+hash = "78588cd40da27b827f39356034def273da4ab8e36cf2b13d2f60245e18f82abc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/just_some_things.snbt"
@@ -1417,52 +1417,58 @@ file = "config/openloader/advanced_options.json"
 hash = "2ee7700b88371d21265000c50ef149c42863fd22e0ecbb5dc6af78fd7493fee8"
 
 [[files]]
-file = "config/openloader/data/Better Trees 1.8.zip"
-hash = "7a0dc4e15bcd923067889f1f6117d71c564fc31f9fadc9637b466a088477b1f3"
+file = "config/openloader/data/better-trees.pw.toml"
+hash = "a6dc7046702a9bead36fafabe1f1890a19a2edef2dea01e07bf906d158fcae14"
+metafile = true
 
 [[files]]
-file = "config/openloader/data/Dungeons and Taverns 3.0.3.fix.zip"
-hash = "3f21f341e56f98c01f144c981ea209a1cef06521de3a2e7e1b9706754949527e"
+file = "config/openloader/data/dungeons-and-taverns.pw.toml"
+hash = "b3c174f824ce271be35ffcf6a218f0656ba4b25837f1e63514b6082347a072bc"
+metafile = true
 
 [[files]]
-file = "config/openloader/data/Icon_Xaero's_1.2_HF.zip"
-hash = "b5dab9f9e06dda3c4ba7453c8235a9e8d6474a4321119b515f635ab7162800f0"
+file = "config/openloader/data/improved-pillager-outpost.pw.toml"
+hash = "eb38841a03ab0acd86b00d9454fd7813979be6836441e3701089a373c5ba4084"
+metafile = true
 
 [[files]]
-file = "config/openloader/data/ImprovedPillagerOutpost-v5.zip"
-hash = "01cb6e4c52040a9d431009c36f5e1b08ec5d4f7ad5723c37ebe9017ee7793865"
-
-[[files]]
-file = "config/openloader/data/Incendium_1.20_v5.3.5.zip"
-hash = "0680feedf9c8791d13330580709eff7df3183a47864c834610e94c6e27b6c2e2"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Better_Dungeons_v5.zip"
-hash = "a6d7837bf6ddacfa7521f44dd1ee14bdbb7c0b6152857e175791fc7fa537d915"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Chef's_Delight_v3.zip"
-hash = "86556fb32765fadbc6433e171b6095dacf86a4507d80c55624d89991f1b89732"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-Farmers_Delight_v6.zip"
-hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
-
-[[files]]
-file = "config/openloader/data/Repurposed_Structures-VillagersPlus_v3.zip"
-hash = "592e56cf4c9f4bba6f7c7585003c9b223d73737e9ab3c7d8c5a0273a8a489b8d"
+file = "config/openloader/data/incendium.pw.toml"
+hash = "3d2f93e345896ea302626d63432ec33e3a7463481f583c70c59eda33db9b0b29"
+metafile = true
 
 [[files]]
 file = "config/openloader/data/iron_chests_pickaxe_tag.zip"
 hash = "371fed8e9fa2915c2a36ab0136434c24aa76daef81a9cf7d47e4779ed655187a"
 
 [[files]]
-file = "config/openloader/data/qrafty's-end-villages.zip"
-hash = "dd6350beeee214329b2bd3de0a6f4aefe204821370ce58ca41834840ef059117"
+file = "config/openloader/data/qraftyfied.pw.toml"
+hash = "939bea03fc59ef8e91ea5bcbd2721f81198e4eb128e0e576cdc9fbfaa5872e3e"
+metafile = true
 
 [[files]]
-file = "config/openloader/data/v6qraftyfied.zip"
-hash = "ead6c1837186b8581894ef49023e44d19ae2d3582da0cf9c15367360f05a1149"
+file = "config/openloader/data/qraftys-end-villages.pw.toml"
+hash = "7366cf79a62858334ae23de8149dee09dffba5de0c78317ca420fe1a4dd74b2b"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-better-dungeons-compat.pw.toml"
+hash = "63567fdff003a65eff6da7e71e9368272bd2524b81263b1f89bbe533e1192131"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-chefs-delight-compat.pw.toml"
+hash = "0c35da3db4d27db2f935c6da0d39d4c39748cee199dc5f96e07f95b72540213a"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "b45cc8e8f531491f2f4171a7101eaa5757c6e80c3cce3a6eee5d732edc991191"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-villagerplus-compat.pw.toml"
+hash = "4d07d7e3d82d5aad8a34638aacfcfc2b5fbc14ea7f9acefad63309a15f77f1b7"
+metafile = true
 
 [[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/catch_of_the_day.png"
@@ -1471,6 +1477,10 @@ hash = "3ac168699a1da38fc95f9938b17a0fafaad4be4fee7ee6834460c68fcb005ad8"
 [[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/cogs_and_whimsy.png"
 hash = "9cee760e66f0ad85996a64433d4a7a558a0a897ff8bd995bc183ca4524cfafca"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/custom_mod_overview.png"
+hash = "bc614c970bedd9432ab2fef00928673c3f7436f7ad4c084357a18066cd5d4f57"
 
 [[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/deep_dark_secrets.png"
@@ -1491,14 +1501,6 @@ hash = "227c95f13ade73e8686c1e7f3d104a1c7d684aaf05ec96c16e7ed80e36611462"
 [[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/herbal_hexes.png"
 hash = "1f3365b96c5f391c836cf3210ab79a7b9bfecabe30cf5abe90aeb8b7a76937ea"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/homestead_full_export.png"
-hash = "be438239117e27a99112f7a2c85085d9e392c648800525b99af3e5fc4ed425c6"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/homestead_text_export.png"
-hash = "bc614c970bedd9432ab2fef00928673c3f7436f7ad4c084357a18066cd5d4f57"
 
 [[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/just_some_things.png"
@@ -1529,6 +1531,10 @@ file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/
 hash = "89521a40d5490f7fe3f489663a6489f273dcc0fd17e520f853e20cf3c74c2241"
 
 [[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/the_first_sprout.png"
+hash = "be438239117e27a99112f7a2c85085d9e392c648800525b99af3e5fc4ed425c6"
+
+[[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/the_heart_of_the_homestead.png"
 hash = "5f2295e979e7423031499cf05341c1599e8a086e4ac8813947d5a7dd9132538e"
 
@@ -1551,22 +1557,6 @@ hash = "7480468d4a21d6cafcb3b9fdcfb818f2e9164e919479b7eda77ac7a9c28067a5"
 [[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/vines_and_vintage.png"
 hash = "a535616638a31c9da38ed416e67f876e58f4cdbbdf98566502ec70b412fe1476"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/misc/end_island_1.png"
-hash = "cbad2451f48de1ba7463f833256c9ad1ae09b2d46efb0cbee56803e0121baf95"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/misc/end_island_2.png"
-hash = "3ffe3e1ef3cffc87602cf3681708b78a5992228d4cde4581858818d1248b63ff"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/misc/end_island_3.png"
-hash = "7c3e5fa7d0b50a47f1ea537c5a089e3020cf930fdb7a6f52c5e89a0d41a5ef50"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/misc/warden_hidden.png"
-hash = "f5cb6f23a64edd86fb60fd40d58f0dab393968a824fb163111d43fa2f1375bfe"
 
 [[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/beer_mug_recipe.png"
