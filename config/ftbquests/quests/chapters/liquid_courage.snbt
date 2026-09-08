@@ -2,15 +2,24 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "liquid_courage"
-	group: "Old Quests"
+	group: ""
 	icon: "brewery:beer_barley"
 	id: "2FD1B0E89119D89F"
 	images: [
 		{
 			height: 12.0d
-			image: "ftbquests:textures/headers/liquid_courage.png"
+			image: "ftbquests:textures/homestead/liquid_courage.png"
 			rotation: 0.0d
 			width: 17.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 15.0d
+			image: "ftbquests:textures/homestead/liquid_courage_quest_bg.png"
+			order: -100
+			rotation: 0.0d
+			width: 30.0d
 			x: 0.0d
 			y: 0.0d
 		}
@@ -112,7 +121,7 @@
 			description: [
 				"The Keg is your fermentation station. It stores water and transforms ingredients into drinks."
 				""
-				"{image:ftbquests:textures/recipes/keg_recipe.png width:103 height:50 align:center}"
+				"{image:ftbquests:textures/homestead/keg_recipe.png width:103 height:50 align:center}"
 			]
 			id: "512211AD135E5128"
 			rewards: [{
@@ -465,7 +474,7 @@
 			description: [
 				"Use Barley in the middle and String on both sides in a crafting table."
 				""
-				"{image:ftbquests:textures/recipes/rope_recipe.png width:103 height:50 align:center}"
+				"{image:ftbquests:textures/homestead/rope_recipe.png width:103 height:50 align:center}"
 			]
 			id: "1B28CB294EACE04C"
 			rewards: [{
@@ -551,7 +560,7 @@
 			description: [
 				"Silage drying begins with storage—silos are stackable and efficient."
 				""
-				"{image:ftbquests:textures/recipes/wooden_silo_recipe.png width:103 height:50 align:center}"
+				"{image:ftbquests:textures/homestead/wooden_silo_recipe.png width:103 height:50 align:center}"
 			]
 			id: "4DCB8817B8B15692"
 			rewards: [{
@@ -654,7 +663,7 @@
 		{
 			dependencies: ["6BA946C6734053CB"]
 			description: [
-				"{image:ftbquests:textures/recipes/brewingstation_recipe.png width:103 height:50 align:center}"
+				"{image:ftbquests:textures/homestead/brewingstation_recipe.png width:103 height:50 align:center}"
 				"The heart of your operation. You'll need this to brew anything!"
 				""
 				"&lStart by inserting ingredients, then water. Monitor effects during the brew to avoid summoning the Booze!&r"
@@ -713,7 +722,7 @@
 			description: [
 				"You'll need these to collect your finished brews. Get mugged!"
 				""
-				"{image:ftbquests:textures/recipes/beer_mug_recipe.png width:103 height:50 align:center}"
+				"{image:ftbquests:textures/homestead/beer_mug_recipe.png width:103 height:50 align:center}"
 			]
 			id: "6BA946C6734053CB"
 			rewards: [{

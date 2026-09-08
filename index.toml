@@ -834,103 +834,103 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/beginning_game.snbt"
-hash = "784dbcaa848c2f1ea3d3cb350bff8f6b66c4ed59b8c2c3b379783515431f3b6b"
+hash = "cf3603a34eb320d7b873a16059f75f78cfb73d4b2fda18bd6d864a2b2d6b7e15"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/catch_of_the_day.snbt"
-hash = "9f228c6a852b55cdc785e819939236d3f4f3d91465a555c2e60841068d85de47"
+hash = "c2a1ccecfb3b1e36374dd5a07105e8ceaa2889316d574d80193eb76e9777fb4b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/deep_dark_secrets.snbt"
-hash = "77194d619f60a616cfbb2f3cb9ca46d244d5bc4da7f1c88dae4f53208eb8c004"
+hash = "5bde1911a35e9d34fb434a06639ad5e08a72c8fda0e6e0707da4ff7d43f71dea"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/echoes_of_the_void.snbt"
-hash = "3f94e0e67383a8f54cab28dc85636e3bf954fc80aa39e72e6640bbf80377b372"
+hash = "b02f6e89e10ff572b5e8e1ed325b96ef50ca9d6f67ab0bf86424c50def45494e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/embers_beneath.snbt"
-hash = "746474b61db0bbedc06744b7dd2a72b4dbdab21ef256f78031e9c56a2dbf3fc1"
+hash = "903f597a6dd886db635d93540580109905ec656b829b369abecad89990b09728"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/forged_fables.snbt"
-hash = "c1c17412c908a17a8ac288bd6ac3ad63b9d97433e181506c78b7d674fc0e5356"
+hash = "d619fdb5feee341a657842fb67c44ef69134ed0adaf45c9c13317e49a4302f18"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/herbal_hexesz.snbt"
-hash = "8d9ce6a9b356010990a27168680f795cd5e2b17c02a910b9eb97294082b7538d"
+hash = "d295e234d4fea7376bfecc6e4f06a71c8703ced67b88748de6dad506d05cd575"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/homestead.snbt"
-hash = "78588cd40da27b827f39356034def273da4ab8e36cf2b13d2f60245e18f82abc"
+hash = "7e1b8dccdaadfc48c9bccac4b8f93865fe2e965f49ca1822f926364758196209"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/just_some_things.snbt"
-hash = "52bfb876c1f00fe3f38d542154400812c1db0e97e47b58435ebb66e96af93973"
+hash = "bce1b31f7aeb0745e90e339254325d8fdf75f0bfb5f2e0adfb7d427d7c014b00"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/liquid_courage.snbt"
-hash = "f98ad2774c43c5f2e14e065d2ed3386bb3f9e11900117825bdd8268c27fa6e9d"
+hash = "13c84ea5371d1f197f829822d13b450e434ec799bc15f7d53471285fafa4da68"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mastery.snbt"
-hash = "e60a8f4d1c3d7fe5e39b513de0c34c71716e2a4aeb5256a37810906654152323"
+hash = "445361092cbc681832243d1bf422405cb82d639089dfa373fabc9c5b285c940e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/of_vines_and_vintage.snbt"
-hash = "611721f46c226e2a02213c65393edc204307f1c13f9f389f8a1309e3dafaaa1f"
+hash = "0b3c064135199a8bea063a4ba526ba6c34ad0fd9f0a32ca73c222d7ae1e1d31d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/roots_that_run_deep.snbt"
-hash = "dee22ddee21743959b032c5b971d15ca686d92ee35c5407f1b7d37933c601539"
+hash = "3fd575409a99262ddf1f1a91e68bd365ee5d3630813ef68b2d7ca0c3152996ae"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/seasoned_and_settled.snbt"
-hash = "f10125385aa29a40af6ca3376beefbbdc5ef7579df708ca40daa31c8b6885bf6"
+hash = "7f2b517dc5145ff76efebb8aa86c47ae0b2c76ca588ed77ba4f3f5b055bb3104"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/server_plushies.snbt"
-hash = "a0972b585f2152444f3ec5631fa0e75e45d511a8d8a45b1ea6e39f10b58d18da"
+hash = "4e371709c4824096df9e1756d16ad92098eba17bc23065f707b9a142dc7b6eb4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/shaped_with_care.snbt"
-hash = "bbd84005f262512f770b8a1bcbc25b68652049f00566a2ffd7cf3da8fb62df79"
+hash = "693293a2e67ffa533f1e7ff4914610eaf31fb6e9caff511964bc6f12535008b8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/signals_in_the_stillness.snbt"
-hash = "b3a5a0c99b0fada35fb765824023b4c39a615465d47c6fdf8f19348b34fad0fc"
+hash = "8d3354059d79f6b0c2d869864e71c65771473f0d2199da7aaacdf421d2743c46"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/squishy_friends.snbt"
-hash = "e21cf5fbfd253bdefa8894fc0a04a855c2c63bc1687c5dc195f7ab0ae5b5f6fb"
+hash = "7714521646ca293f6405dc9097279ec4d5b7953417bf44ea239f6f2ed65a249e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_heart_of_the_homestead.snbt"
-hash = "6ab4ed267549cd6b1c14461284da486e9554dc4fdd2af827f62f5558bb0befb2"
+hash = "968ff31b254eab3072cfcdf175c599b6f140ccf856df6c80c21d89f8d6524257"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_portable_life.snbt"
-hash = "6e7b1a15dac7cd852996a6b6ef0cf5cefbef4fb716e3cafe429b0ab23f174d99"
+hash = "34fffb6f74544539916ccc21ddeb1df8c43b77b48762fb0ae112cb913725c4ca"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tidy_corners.snbt"
-hash = "62eeb38635907655e77f2efb0a95c9f7ab3c9e857c8619aa14c3b3a115465e2e"
+hash = "a655c9cc7761d2b2d66e70c8c922c650dc63c5194caa61de351160a8fc989a61"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/timber_and_time.snbt"
-hash = "c4d4ef25797499b4b22eef5dcda0cc7d88b273da1232fc81263ca8ee7e5da039"
+hash = "95d7929f9718fc6049599afa7077de611bb83ded3e18d9459e4b29ef287b219d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tips.snbt"
-hash = "de28c3f53f2f6494818e4df4c3b3e299def0f2c15f14af947ebdd4c7f9e81226"
+hash = "23ceaab1886535b211a5a83f6b77dd06699ec9c2d2742a26e7378ab2b97cf1fd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tranquilitea.snbt"
-hash = "a045af3f1860769f487f6d9961630532b570f831f9c72bd0c5f260d259a5b93f"
+hash = "b349081f37f6249f40288208acc79d165d95029995b5e25224c53113963787d5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/whispers_of_the_wilds.snbt"
-hash = "5e1d83c9e1cc363f249d9cc4b18be6ef87664750919c3c97eae5cc7e8d5e5d87"
+hash = "b4ed96049fe1127c4ff1893dbe0ea32c353742304c0723d6e0522f2068e087d7"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -4785,6 +4785,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "c1629f045dd324a286871a1d2503bb0cf22cdb8a354da2d07dc7cef3e9afcada"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-modpack-loader.pw.toml"
+hash = "031430fa582e0e203791ae29423241e47917962719ab79ae3be25ebb719dc8b5"
 metafile = true
 
 [[files]]

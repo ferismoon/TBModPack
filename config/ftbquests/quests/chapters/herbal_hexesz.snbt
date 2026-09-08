@@ -2,21 +2,30 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "pentagon"
 	filename: "herbal_hexesz"
-	group: "Old Quests"
+	group: ""
 	icon: "hexalia:verdant_grimoire"
 	id: "21DA3B35FFCBF19D"
 	images: [
 		{
 			height: 10.0d
-			image: "ftbquests:textures/headers/herbal_hexes.png"
+			image: "ftbquests:textures/homestead/herbal_hexes.png"
 			rotation: 0.0d
 			width: 0.0d
 			x: 0.0d
 			y: 0.0d
 		}
 		{
+			height: 15.0d
+			image: "ftbquests:textures/homestead/herbal_hexes_bg.png"
+			order: -100
+			rotation: 0.0d
+			width: 30.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
 			height: 8.0d
-			image: "ftbquests:textures/headers/herbal_hexes.png"
+			image: "ftbquests:textures/homestead/herbal_hexes.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: 0.0d
@@ -230,7 +239,7 @@
 				""
 				"With the table as the center, follow the below picture:"
 				""
-				"{image:ftbquests:textures/recipes/ritual_setup.png width:165 height:100 align:center}"
+				"{image:ftbquests:textures/homestead/ritual_setup.png width:165 height:100 align:center}"
 			]
 			id: "7E3964250F0EE163"
 			rewards: [

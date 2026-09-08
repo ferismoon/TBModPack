@@ -2,13 +2,13 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "embers_beneath"
-	group: "Old Quests"
+	group: ""
 	icon: "chipped:nether_jack_o_lantern"
 	id: "256D3CD013C0243D"
 	images: [
 		{
 			height: 7.0d
-			image: "ftbquests:textures/headers/embers_beneath.png"
+			image: "ftbquests:textures/homestead/embers_beneath.png"
 			order: 100
 			rotation: 0.0d
 			width: 12.0d
@@ -177,6 +177,15 @@
 			width: 0.75d
 			x: -5.0d
 			y: -0.5892857142857153d
+		}
+		{
+			height: 15.0d
+			image: "ftbquests:textures/homestead/ember_quest_bg.png"
+			order: -100
+			rotation: 0.0d
+			width: 30.0d
+			x: -0.5d
+			y: -0.25d
 		}
 	]
 	order_index: 12
@@ -544,11 +553,11 @@
 				""
 				"Duplicate it with the following recipe"
 				""
-				"{image:ftbquests:textures/recipes/netherite_upgrade_smithing_template.png width:100 height:50 align:center}"
+				"{image:ftbquests:textures/homestead/netherite_upgrade_smithing_template.png width:100 height:50 align:center}"
 				""
 				"Then Use this Smithing Template on an Obsidian tool/armor piece with a Netherite Ingot to upgrade to Netherite."
 				""
-				"{image:ftbquests:textures/recipes/netherite_helmet_smithing.png width:100 height:22 align:center}"
+				"{image:ftbquests:textures/homestead/netherite_helmet_smithing.png width:100 height:22 align:center}"
 			]
 			id: "5D0DAD184B953AFB"
 			rewards: [

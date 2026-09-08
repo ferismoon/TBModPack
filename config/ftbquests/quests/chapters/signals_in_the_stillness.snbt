@@ -2,13 +2,13 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "signals_in_the_stillness"
-	group: "Old Quests"
+	group: ""
 	icon: "wirelessredstone:circuit"
 	id: "70DC1A2DFAABA529"
 	images: [
 		{
 			height: 8.0d
-			image: "ftbquests:textures/headers/signals_in_the_stillness.png"
+			image: "ftbquests:textures/homestead/signals_in_the_stillness.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: -1.0d
@@ -93,6 +93,15 @@
 			width: 2.0d
 			x: 7.4761904761904745d
 			y: -5.642857142857146d
+		}
+		{
+			height: 15.0d
+			image: "ftbquests:textures/homestead/redstone_quest_bg.png"
+			order: -100
+			rotation: 0.0d
+			width: 30.0d
+			x: -1.0d
+			y: -1.0d
 		}
 	]
 	order_index: 17

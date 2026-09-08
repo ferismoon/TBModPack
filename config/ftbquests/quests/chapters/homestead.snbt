@@ -2,12 +2,20 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "homestead"
-	group: "Old Quests"
+	group: ""
 	id: "1B9668460B819C10"
 	images: [
 		{
+			height: 15.0d
+			image: "ftbquests:textures/homestead/homestead_quest_bg.png"
+			rotation: 0.0d
+			width: 30.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
 			height: 4.0d
-			image: "ftbquests:textures/headers/custom_mod_overview.png"
+			image: "ftbquests:textures/homestead/homestead_text_export.png"
 			rotation: 0.0d
 			width: 8.0d
 			x: 0.0d

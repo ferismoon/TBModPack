@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "of_vines_and_vintage"
-	group: "Old Quests"
+	group: ""
 	icon: {
 		Count: 1
 		id: "vinery:cherry_wine"
@@ -12,7 +12,7 @@
 	images: [
 		{
 			height: 10.0d
-			image: "ftbquests:textures/headers/vines_and_vintage.png"
+			image: "ftbquests:textures/homestead/vines_and_vintage.png"
 			rotation: 0.0d
 			width: 15.0d
 			x: 0.0d
@@ -49,6 +49,15 @@
 			width: 4.0d
 			x: 7.107142857142854d
 			y: -7.151785714285708d
+		}
+		{
+			height: 15.0d
+			image: "ftbquests:textures/homestead/vinery_quest_bg.png"
+			order: -100
+			rotation: 0.0d
+			width: 30.0d
+			x: 0.0d
+			y: -2.85d
 		}
 	]
 	order_index: 7

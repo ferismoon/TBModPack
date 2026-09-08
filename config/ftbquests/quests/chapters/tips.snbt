@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "tips"
-	group: "Old Quests"
+	group: ""
 	icon: "minecraft:writable_book"
 	id: "58C25CBD3341DC76"
 	images: [{
@@ -493,7 +493,7 @@
 		{
 			description: [
 				""
-				"{image:ftbquests:textures/recipes/saddle_recipe.png width:103 height:50 align:center}"
+				"{image:ftbquests:textures/homestead/saddle_recipe.png width:103 height:50 align:center}"
 				""
 				"&l3 Leather&r"
 				"&l2 Rope&r "
@@ -514,7 +514,7 @@
 		{
 			description: [
 				""
-				"{image:ftbquests:textures/recipes/nametag_recipe.png width:103 height:50 align:center}"
+				"{image:ftbquests:textures/homestead/nametag_recipe.png width:103 height:50 align:center}"
 				""
 				"&l1 String"
 				"&l1 Iron Ingot&r"

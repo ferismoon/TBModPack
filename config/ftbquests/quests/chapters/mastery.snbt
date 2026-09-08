@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "mastery"
-	group: "Old Quests"
+	group: ""
 	hide_quest_until_deps_complete: true
 	icon: "modrinth_logo_mod:modrinth_logo"
 	id: "64ED43A1D474C2F9"

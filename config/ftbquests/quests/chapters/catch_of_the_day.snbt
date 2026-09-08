@@ -2,17 +2,26 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "catch_of_the_day"
-	group: "Old Quests"
+	group: ""
 	icon: "gofish:golden_fish"
 	id: "49664D6FD9B4B02B"
 	images: [
 		{
 			height: 10.0d
-			image: "ftbquests:textures/headers/catch_of_the_day.png"
+			image: "ftbquests:textures/homestead/catch_of_the_day.png"
 			rotation: 0.0d
 			width: 15.0d
 			x: -0.5d
 			y: -1.0d
+		}
+		{
+			height: 22.0d
+			image: "ftbquests:textures/homestead/catch_of_the_day_bg.png"
+			order: -100
+			rotation: 0.0d
+			width: 37.0d
+			x: 0.0d
+			y: 0.0d
 		}
 	]
 	order_index: 20
