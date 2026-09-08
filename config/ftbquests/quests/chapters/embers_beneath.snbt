@@ -2,193 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "embers_beneath"
-	group: ""
+	group: "36B1DCE2E00AEF8D"
 	icon: "chipped:nether_jack_o_lantern"
 	id: "256D3CD013C0243D"
-	images: [
-		{
-			height: 7.0d
-			image: "ftbquests:textures/homestead/embers_beneath.png"
-			order: 100
-			rotation: 0.0d
-			width: 12.0d
-			x: -0.5d
-			y: -0.25d
-		}
-		{
-			height: 3.0d
-			image: "minecraft:block/campfire_fire"
-			order: -1
-			rotation: 0.0d
-			width: 3.0d
-			x: -0.5d
-			y: 3.95d
-		}
-		{
-			height: 3.0d
-			image: "minecraft:block/campfire_fire"
-			order: -1
-			rotation: 0.0d
-			width: 3.0d
-			x: 2.0d
-			y: 3.95d
-		}
-		{
-			height: 3.0d
-			image: "minecraft:block/campfire_fire"
-			order: -1
-			rotation: 0.0d
-			width: 3.0d
-			x: -3.0357142857142847d
-			y: 3.95d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone"
-			rotation: 0.0d
-			width: 3.0d
-			x: 4.0d
-			y: -5.5d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone_down_tip"
-			rotation: 0.0d
-			width: 3.0d
-			x: -6.0d
-			y: -5.5d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone_down_base"
-			rotation: 0.0d
-			width: 3.0d
-			x: -9.0d
-			y: -5.5d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone_down_middle"
-			rotation: 0.0d
-			width: 3.0d
-			x: -9.0d
-			y: -3.0d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone_down_frustum"
-			rotation: 0.0d
-			width: 3.0d
-			x: -9.0d
-			y: -0.5d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone_down_tip"
-			rotation: 0.0d
-			width: 3.0d
-			x: -9.0d
-			y: 2.0d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone_down_tip"
-			rotation: 0.0d
-			width: 3.0d
-			x: 8.0d
-			y: -0.5d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone_down_frustum"
-			rotation: 0.0d
-			width: 3.0d
-			x: 8.0d
-			y: -3.0d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone_down_middle"
-			rotation: 0.0d
-			width: 3.0d
-			x: 8.0d
-			y: -5.5d
-		}
-		{
-			height: 3.0d
-			image: "supplementaries:textures/map_marker/nether_portal.png"
-			rotation: 0.0d
-			width: 3.0d
-			x: -5.0d
-			y: -0.25d
-		}
-		{
-			height: 3.0d
-			image: "supplementaries:textures/map_marker/nether_portal.png"
-			rotation: 0.0d
-			width: 3.0d
-			x: 4.0d
-			y: -0.25d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone"
-			rotation: 180.0d
-			width: 3.0d
-			x: -7.5d
-			y: 4.0d
-		}
-		{
-			height: 3.0d
-			image: "chipped:block/pointed_dripstone/netherrack_pointed_dripstone"
-			rotation: 180.0d
-			width: 3.0d
-			x: 6.5d
-			y: 4.0d
-		}
-		{
-			height: 0.75d
-			image: "minecraft:block/nether_portal"
-			rotation: 0.0d
-			width: 0.75d
-			x: 4.0d
-			y: 0.0535714285714306d
-		}
-		{
-			height: 0.75d
-			image: "minecraft:block/nether_portal"
-			rotation: 0.0d
-			width: 0.75d
-			x: 4.0d
-			y: -0.5892857142857153d
-		}
-		{
-			height: 0.75d
-			image: "minecraft:block/nether_portal"
-			rotation: 0.0d
-			width: 0.75d
-			x: -5.0d
-			y: 0.0892857142857082d
-		}
-		{
-			height: 0.75d
-			image: "minecraft:block/nether_portal"
-			rotation: 0.0d
-			width: 0.75d
-			x: -5.0d
-			y: -0.5892857142857153d
-		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/ember_quest_bg.png"
-			order: -100
-			rotation: 0.0d
-			width: 30.0d
-			x: -0.5d
-			y: -0.25d
-		}
-	]
-	order_index: 12
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -215,8 +32,8 @@
 				type: "item"
 			}]
 			title: "Deep Heat"
-			x: -4.5d
-			y: -2.0d
+			x: -5.25d
+			y: 3.0d
 		}
 		{
 			description: ["Debris gathered, it’s time to refine it into scraps in a furnace. Once you have 4, mix the scraps together with 4 gold and, behold, your first Netherite Ingot. This single ingot holds the power to upgrade an item into something stronger, provided you have the tools."]
@@ -240,8 +57,8 @@
 				type: "item"
 			}]
 			title: "Refined Rage"
-			x: -5.5d
-			y: -2.0d
+			x: -4.0d
+			y: 3.0d
 		}
 		{
 			description: ["Blaze Rods drop from Blazes in Nether Fortresses; be careful of the heat!"]
@@ -272,8 +89,8 @@
 				type: "item"
 			}]
 			title: "Hot Tempered"
-			x: -5.5d
-			y: 1.5d
+			x: -2.75d
+			y: -3.5d
 		}
 		{
 			description: ["Look for Nether Wart in soul sand patches inside Nether Fortresses."]
@@ -299,8 +116,8 @@
 				type: "item"
 			}]
 			title: "Spores and Shadows"
-			x: -6.464285714285715d
-			y: 0.6607142857142847d
+			x: -5.25d
+			y: -3.5d
 		}
 		{
 			description: ["These massive brick structures spawn Wither Skeletons, Blazes, and valuable loot."]
@@ -325,8 +142,8 @@
 				type: "structure"
 			}]
 			title: "Structure in the Fire"
-			x: -4.5d
-			y: 1.5d
+			x: -5.25d
+			y: -0.5d
 		}
 		{
 			description: ["These guys hit like poison darts, so be careful"]
@@ -352,8 +169,8 @@
 				value: 10L
 			}]
 			title: "Boney Boys"
-			x: 4.5d
-			y: -2.0d
+			x: -1.5d
+			y: -0.5d
 		}
 		{
 			description: ["Fireproof foes that hover and spit flames!"]
@@ -379,8 +196,8 @@
 				value: 25L
 			}]
 			title: "Air is Lava"
-			x: 3.5d
-			y: -2.0d
+			x: -2.75d
+			y: -0.5d
 		}
 		{
 			description: ["If only he could be happy..."]
@@ -406,8 +223,8 @@
 				value: 5L
 			}]
 			title: "Crying Shame"
-			x: 5.5d
-			y: -1.3392857142857153d
+			x: -0.25d
+			y: 1.5d
 		}
 		{
 			description: ["These little guys are so cute and fiery but will chase after you like your spicy ex"]
@@ -433,13 +250,12 @@
 				value: 20L
 			}]
 			title: "Slime and Fire"
-			x: 5.5d
-			y: -0.3392857142857153d
+			x: 1.0d
+			y: 1.5d
 		}
 		{
 			description: ["Get some ice from Johnny Dang and these guys wont mess with you"]
 			id: "2025BAC1FFBAB232"
-			optional: true
 			rewards: [
 				{
 					id: "07FE0B57256F9BB2"
@@ -471,13 +287,12 @@
 				value: 25L
 			}]
 			title: "Pride of the Piglins"
-			x: 5.5d
-			y: 0.6607142857142847d
+			x: -4.0d
+			y: -2.0d
 		}
 		{
 			description: ["Kick their axe!"]
 			id: "7D057D118EDF8ED5"
-			optional: true
 			rewards: [
 				{
 					count: 5
@@ -504,8 +319,8 @@
 				value: 10L
 			}]
 			title: "Brute Force"
-			x: 4.5d
-			y: 1.5d
+			x: -2.75d
+			y: -2.0d
 		}
 		{
 			description: ["They may be the most harmless things in the Nether…"]
@@ -542,7 +357,7 @@
 				value: 10L
 			}]
 			title: "Lava Walkers No More"
-			x: 3.5d
+			x: 2.25d
 			y: 1.5d
 		}
 		{
@@ -642,8 +457,8 @@
 				}
 			]
 			title: "Blackened Knight"
-			x: -6.464285714285715d
-			y: -1.3392857142857153d
+			x: -2.75d
+			y: 3.0d
 		}
 		{
 			description: ["Upgrade your Elytra with Netherite for extra resilience."]
@@ -673,8 +488,8 @@
 				type: "item"
 			}]
 			title: "Wings of Ash"
-			x: -6.464285714285715d
-			y: -0.3392857142857153d
+			x: -1.5d
+			y: 3.0d
 		}
 		{
 			description: ["Use Looting and aim high; these skulls are needed to summon the Wither."]
@@ -701,8 +516,8 @@
 				type: "item"
 			}]
 			title: "Trophy Hunt"
-			x: 4.0d
-			y: -3.0d
+			x: -4.0d
+			y: -0.5d
 		}
 		{
 			description: ["3 wither skulls placed atop sand filled with souls summons forth the extremely destructive and dangerous Wither. Kill it and claim your prize, it’s stellar core."]
@@ -726,9 +541,84 @@
 				type: "item"
 			}]
 			title: "Stellar Core"
-			x: -5.0d
-			y: -3.0d
+			x: -0.25d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&lInitial Extraction&r"
+				""
+				"The Nether appears to contain several useful materials."
+				""
+				"Excellent."
+				""
+				"Begin by acquiring &6Nether Quartz&r."
+				""
+				"It's common, valuable, and conveniently embedded in the walls."
+				""
+				"Try not to think too hard about what else might be embedded in them."
+			]
+			id: "1E53689119FC3353"
+			subtitle: "Gather 64 Nether Quartz"
+			tasks: [{
+				count: 64L
+				id: "3EBBF9A69AAD82E4"
+				item: { Count: 64, id: "minecraft:quartz" }
+				type: "item"
+			}]
+			title: "Initial Extraction"
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			icon: "minecraft:bookshelf"
+			id: "2333826DA7823EDB"
+			tasks: [{
+				id: "3E852757209A748B"
+				structure: "minecraft:bastion_remnant"
+				type: "structure"
+			}]
+			x: -0.25d
+			y: -2.0d
+		}
+		{
+			id: "33633B94FF3880E7"
+			tasks: [{
+				id: "20E3AB81DAF9EBD6"
+				item: {
+					Count: 1
+					id: "minecraft:golden_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.25d
+			y: -2.0d
+		}
+		{
+			id: "004DCC6A4AE7EC1E"
+			tasks: [{
+				entity: "minecraft:hoglin"
+				id: "009F64D370AFB694"
+				type: "kill"
+				value: 10L
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "615EB82C231F94D0"
+			tasks: [{
+				biome: "incendium:ash_barrens"
+				id: "50872F0517A07460"
+				title: "Discover Ash Barrens"
+				type: "biome"
+			}]
+			x: 3.0d
+			y: -2.75d
 		}
 	]
-	title: "Embers Beneath"
+	title: "Hazadous Aquisitions"
 }

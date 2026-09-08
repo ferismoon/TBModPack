@@ -2,18 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "seasoned_and_settled"
-	group: ""
+	group: "137ABA9882DAAF2A"
 	icon: "candlelight:cooking_pot"
 	id: "5CDDF7AD0DD2A82E"
 	images: [
-		{
-			height: 8.0d
-			image: "ftbquests:textures/homestead/seasoned_and_settled.png"
-			rotation: 0.0d
-			width: 13.0d
-			x: 0.0d
-			y: 0.0d
-		}
 		{
 			height: 2.0d
 			image: "farm_and_charm:item/roaster"
@@ -38,17 +30,8 @@
 			x: 0.0d
 			y: 4.5d
 		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/seasoned_quest_bg.png"
-			order: -100
-			rotation: 0.0d
-			width: 30.0d
-			x: 0.0d
-			y: 0.0d
-		}
 	]
-	order_index: 8
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{

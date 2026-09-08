@@ -2,53 +2,12 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "tips"
-	group: ""
+	group: "137ABA9882DAAF2A"
 	icon: "minecraft:writable_book"
 	id: "58C25CBD3341DC76"
-	images: [{
-		click: "#49B1251816EA4218"
-		height: 6.0d
-		hover: [
-			"Welcome to the Tips Page!"
-			"          Click Me!"
-		]
-		image: "minecraft:textures/gui/info_icon.png"
-		rotation: 0.0d
-		width: 6.0d
-		x: 0.5d
-		y: -4.0d
-	}]
-	order_index: 21
+	order_index: 16
 	quest_links: [ ]
 	quests: [
-		{
-			description: [
-				"&l&oWelcome, Traveler!&r"
-				""
-				"&7Here lies the &l&nTips Page&r&7 — your go-to guide for all things cozy, clever, and occasionally chaotic. Whether you’re knee-deep in crops, diving into the world of gears and gadgets, or simply soaking in the beauty of the wilds around you, this is the place to be."
-				""
-				"&7This section is dedicated to all the &oextra knowledge&r — the tidbits, tricks, and treasures of wisdom — that don’t quite fit into the main questlines but are &lno less important&r to your journey. From mod-specific mechanics to general building hacks, from crafting secrets to overlooked interactions, these pages are designed to &lhelp you build a better world&r, one block at a time."
-				""
-				"&7Here, you’ll find &lhandy tips&r for surviving and thriving, &oinsightful notes&r on lesser-known mod features, and &lcreative advice&r to inspire your next great idea. Whether you're experimenting with automation, decorating your homestead, or navigating the nuances of your newest tool, these insights will guide you along the way."
-				""
-				"&mThis isn’t just a help section&m — &lthis is your toolbox, your cheat sheet, your friend in the fog.&r"
-				""
-				"&7So read on, take notes, and don’t be afraid to come back often. The world of Homestead is vast and vibrant — and with a little guidance, you’ll shape it into something truly magical."
-				""
-				"&lYou’ve got this. 🌿"
-			]
-			id: "49B1251816EA4218"
-			invisible: true
-			shape: "square"
-			size: 5.0d
-			tasks: [{
-				id: "34AAE1E6983BD2C3"
-				title: "Welcome to the Tips Page!"
-				type: "checkmark"
-			}]
-			x: 0.4642857142857153d
-			y: -4.017857142857146d
-		}
 		{
 			description: [
 				"Upgrade your storage with larger chests and barrels from dirt to netherite tiers."

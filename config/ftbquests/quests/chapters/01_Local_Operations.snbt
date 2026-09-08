@@ -1,0 +1,2036 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "beginning_game"
+	group: "36B1DCE2E00AEF8D"
+	icon: "supplementaries:globe"
+	id: "4FBC0450A0666A2B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&lWelcome to Forced Relocation&r"
+				""
+				"Congratulations."
+				""
+				"You've been assigned to a new operational area."
+				""
+				"Explore. Build. Acquire resources. Relocate anything useful."
+				""
+				"Local objections may be ignored where practical."
+				""
+				"Try not to die during onboarding."
+				""
+				"Welcome to Forced Relocation."
+				""
+				"&8New Places. Higher Standards.&r"
+			]
+			icon: "supplementaries:slice_map"
+			id: "70E4CC545EFE64E3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "633D9BE8BB1C8B23"
+					table_id: 6828356437669856216L
+					type: "random"
+				}
+				{
+					id: "61C380A46420C997"
+					type: "xp"
+					xp: 100
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "38A3886485CC5ADE"
+				title: "Welcome to Homestead!"
+				type: "checkmark"
+			}]
+			title: "You Have Relocated"
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			description: [
+				"&lLocal Resources&r"
+				""
+				"Every great adventure has a beginning."
+				""
+				"A first step. A defining moment. A decision that sets the course for everything that follows."
+				""
+				"Except Minecraft."
+				""
+				"Punch a tree."
+				""
+				"Get &616 Logs&r and we'll give you an axe so you can stop doing this like a lunatic."
+			]
+			id: "12D2461BFD36A91D"
+			rewards: [
+				{
+					id: "5A3437E2CA21E955"
+					item: {
+						Count: 1
+						id: "minecraft:stone_axe"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "minecraft:efficiency"
+									lvl: 3
+								}
+								{
+									id: "minecraft:unbreaking"
+									lvl: 1
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4AE53C41AD62CBE9"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Get 16 logs"
+			tasks: [{
+				consume_items: false
+				count: 16L
+				id: "0B05AACE90D016A5"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)"
+					}
+				}
+				match_nbt: false
+				only_from_crafting: false
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			title: "Local Resources"
+			x: -2.75d
+			y: -5.0d
+		}
+		{
+			description: [
+				"&lDo You Has Stick?&r"
+				""
+				"You've mastered hitting trees."
+				""
+				"Now it's time to turn those trees into something far more sophisticated."
+				""
+				"Sticks."
+				""
+				"Craft &632 Sticks&r."
+				""
+				"Why 32?"
+				""
+				"Because apparently you has stick now."
+			]
+			id: "1EDDE6459E1EA5D7"
+			rewards: [
+				{
+					count: 16
+					id: "6AB7439242A91434"
+					item: "minecraft:torch"
+					type: "item"
+				}
+				{
+					id: "3D793B551B6DC6C4"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Craft 32 sticks."
+			tasks: [{
+				consume_items: false
+				count: 32L
+				id: "1D6635BBC34F52BA"
+				item: "minecraft:stick"
+				match_nbt: false
+				only_from_crafting: false
+				type: "item"
+			}]
+			title: "Do You Has Stick"
+			x: -1.25d
+			y: -5.0d
+		}
+		{
+			description: [
+				"&lEstablishing a Perimeter&r"
+				""
+				"Darkness is all well and good until something starts hissing behind you."
+				""
+				"Time to make the neighbourhood a little less welcoming to the local wildlife."
+				""
+				"Place a torch. Then another. Keep going until you've placed &620 Torches&r."
+				""
+				"Walls, floors, ceilings — wherever they'll fit."
+				""
+				"Technically, nobody said they had to be different torches."
+				""
+				"Place the same one twenty times if that's your thing."
+				""
+				"We don't judge."
+			]
+			id: "4233C91E7D48BE66"
+			rewards: [
+				{
+					count: 8
+					id: "10D2CC44EF2D125F"
+					item: "minecraft:coal"
+					type: "item"
+				}
+				{
+					id: "019615DA891F0E72"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Place 20 torches"
+			tasks: [{
+				block: "minecraft:torch"
+				block_type: 0
+				id: "741E579C5D960B32"
+				replace: false
+				replaced: "minecraft:air"
+				title: "Let There Be Light"
+				type: "questsadditions:place"
+				value: 20L
+			}]
+			title: "Establishing a Perimeter"
+			x: 0.25d
+			y: -5.0d
+		}
+		{
+			description: [
+				"&lDon't Get Stoned&r"
+				""
+				"Meeting the locals is an important part of settling into a new neighbourhood."
+				""
+				"Unfortunately, some of the locals are less interested in conversation and more interested in killing you."
+				""
+				"Best take precautions before somebody gets stoned."
+				""
+				"Craft yourself a &6full set of Stone Tools&r."
+				""
+				"Preferably, the stone stays in your hands."
+			]
+			id: "4E33D9F275DD6F34"
+			rewards: [
+				{
+					count: 5
+					id: "24E4B165747AA22C"
+					item: "minecraft:raw_iron"
+					type: "item"
+				}
+				{
+					id: "2E1B3D2A7D47DECC"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Craft a full set of stone tools."
+			tasks: [
+				{
+					consume_items: false
+					id: "22949C0C55CF3786"
+					item: {
+						Count: 1
+						id: "minecraft:stone_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "77E79220C92A12E5"
+					item: {
+						Count: 1
+						id: "minecraft:stone_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "65C02BD69276E079"
+					item: {
+						Count: 1
+						id: "minecraft:stone_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "3346C183751DFE83"
+					item: {
+						Count: 1
+						id: "minecraft:stone_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "5E26B3E2B012FD9F"
+					item: {
+						Count: 1
+						id: "minecraft:stone_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			title: "Don't Get Stoned"
+			x: 1.75d
+			y: -5.0d
+		}
+		{
+			description: [
+				"&lBasement Expansion&r"
+				""
+				"Every good base needs a basement."
+				""
+				"And every good basement needs another basement underneath it."
+				""
+				"Keep digging until the stone starts looking different, then collect &616 Cobbled Slate&r."
+				""
+				"Why?"
+				""
+				"Because apparently we're expanding downwards now."
+				""
+				"Try not to think too hard about what's underneath the basement's basement."
+			]
+			id: "5D9C5DFEAE773768"
+			rewards: [
+				{
+					count: 5
+					id: "4194D237803CF1D4"
+					item: "minecraft:raw_iron"
+					type: "item"
+				}
+				{
+					id: "03B19E1FB6D43190"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Mine down and grab 16 Cobbled Deepslate"
+			tasks: [{
+				count: 16L
+				id: "387428B09AB267A7"
+				item: { Count: 16, id: "minecraft:cobbled_deepslate" }
+				type: "item"
+			}]
+			title: "Basement Expansion"
+			x: 4.75d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&lIron Has the High Ground&r"
+				""
+				"Looking for iron?"
+				""
+				"Look up."
+				""
+				"The mountains and Stoney Peaks are excellent places to find exposed &6Raw Iron&r."
+				""
+				"Apparently iron has decided it prefers the view."
+				""
+				"Climb up, grab what you need, and try not to discover gravity on the way back down."
+				""
+				"We'll give you &610 Iron Ingots&r to get things started."
+			]
+			id: "36DAD51BCB97C481"
+			rewards: [
+				{
+					count: 10
+					id: "5E4FCEDA8652D523"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "5CDDD4ABB7C3729F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Collect 20 raw iron."
+			tasks: [{
+				count: 20L
+				id: "672182F1D6179B60"
+				item: { Count: 20, id: "minecraft:raw_iron" }
+				type: "item"
+			}]
+			title: "Iron Has the High Ground"
+			x: -2.75d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&lProperly Equipped&r"
+				""
+				"You've got the iron."
+				""
+				"You've dressed for the neighbourhood."
+				""
+				"Now it's time to accessorise."
+				""
+				"Craft yourself an &6Iron Pickaxe&r and we'll take care of the rest."
+				""
+				"After all, if you're going to explore, excavate, build and \"relocate\" the occasional local, you should at least have the proper tools for the job."
+			]
+			id: "680C0307B8AEA950"
+			rewards: [
+				{
+					id: "1889C9E02372D2C5"
+					item: {
+						Count: 1
+						id: "minecraft:iron_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2772F58B40BB540D"
+					item: {
+						Count: 1
+						id: "minecraft:iron_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4592B1C589B46051"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Craft an iron pickaxe."
+			tasks: [{
+				id: "345043A638883EFF"
+				item: {
+					Count: 1
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				type: "item"
+			}]
+			title: "Properly Equipped"
+			x: 1.75d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&lHeavy Metal&r"
+				""
+				"Stone was nice."
+				""
+				"But the neighbourhood is getting dangerous, and hitting things with rocks only gets you so far."
+				""
+				"It's time for an upgrade."
+				""
+				"Smelt &664 Iron Ingots&r in a Furnace."
+				""
+				"What are we doing with an entire stack of iron?"
+				""
+				"Don't worry about it."
+			]
+			id: "20955B90EFCCDBD6"
+			rewards: [
+				{
+					id: "62A9EDF86F4B49C8"
+					item: "minecraft:blast_furnace"
+					type: "item"
+				}
+				{
+					id: "0F1DF8059A4C981B"
+					type: "xp"
+					xp: 500
+				}
+			]
+			subtitle: "Smelt 64 iron ingots in a furnace."
+			tasks: [{
+				consume_items: false
+				count: 64L
+				id: "6F26FF008EFA0885"
+				item: { Count: 64, id: "minecraft:iron_ingot" }
+				match_nbt: false
+				only_from_crafting: false
+				type: "item"
+			}]
+			title: "Heavy Metal"
+			x: -1.25d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&lFinders Keepers&r"
+				""
+				"Night's coming, and sleeping outside is a wonderful way to meet the locals."
+				""
+				"Most of them bite."
+				""
+				"Find somewhere reasonably safe, make yourself a &6Bed&r and get some sleep."
+				""
+				"Of course, if you happen to find a perfectly good bed already sitting in someone else's house..."
+				""
+				"Well."
+				""
+				"They're called villagers, not property lawyers."
+			]
+			id: "4A9AA961A2D5156E"
+			rewards: [
+				{
+					count: 2
+					id: "49E4AC047D6FADA6"
+					item: "minecraft:lantern"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "09A8EC49BD8A95B0"
+					item: "minecraft:chest"
+					type: "item"
+				}
+				{
+					id: "621E44E67825D086"
+					item: "minecraft:barrel"
+					type: "item"
+				}
+				{
+					id: "5F20E3ECDB033907"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Place a bed and sleep at least once."
+			tasks: [
+				{
+					block: "minecraft:chest"
+					block_type: 0
+					id: "50081887F50D7D6C"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 2L
+				}
+				{
+					icon: "minecraft:white_bed"
+					id: "09E2E208013C1D6A"
+					stat: "minecraft:sleep_in_bed"
+					title: "Sleep 1x in bed"
+					type: "stat"
+					value: 1
+				}
+				{
+					consume_items: false
+					id: "75A01CEDEBE224B9"
+					item: {
+						Count: 1
+						id: "ftbfiltersystem:smart_filter"
+						tag: {
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:beds)"
+						}
+					}
+					match_nbt: false
+					only_from_crafting: false
+					title: "Acquire 1x any #minecraft:beds"
+					type: "item"
+				}
+			]
+			title: "Finders Keepers"
+			x: 3.25d
+			y: -5.0d
+		}
+		{
+			description: [
+				"&lDress for the Neighbourhood&r"
+				""
+				"You've met the locals."
+				""
+				"Some of them seem lovely."
+				""
+				"Some of them have bows."
+				""
+				"Some explode."
+				""
+				"It's probably time to reconsider your wardrobe."
+				""
+				"Craft a &6full set of Iron Armour&r."
+				""
+				"Nothing says \"friendly new neighbour\" quite like arriving dressed head to toe in iron."
+			]
+			id: "0E8B55E424772D66"
+			rewards: [
+				{
+					id: "4708E2ECCBE9C6DE"
+					item: "ironchests:iron_chest"
+					type: "item"
+				}
+				{
+					id: "6EF2845BF7604083"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "757F20C595481EF5"
+					table_id: 4133455367915971063L
+					title: "Random CozyCord Team Plushie"
+					type: "random"
+				}
+			]
+			subtitle: "Craft a full set of iron armor."
+			tasks: [
+				{
+					consume_items: false
+					id: "53254E9990583324"
+					item: {
+						Count: 1
+						id: "minecraft:iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "79C54DC677498513"
+					item: {
+						Count: 1
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "62E29C15245846A2"
+					item: {
+						Count: 1
+						id: "minecraft:iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6848E28605191CE3"
+					item: {
+						Count: 1
+						id: "minecraft:iron_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			title: "Dress for the Neighbourhood"
+			x: 0.25d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&lVoluntary Relocation&r"
+				""
+				"Not every local needs to be \"borrowed\"."
+				""
+				"Some of them will actually follow you willingly."
+				""
+				"Tame yourself an &6Animal&r and make a new friend."
+				""
+				"See?"
+				""
+				"Sometimes consent works."
+				""
+				"We'll even give you a Lead."
+				""
+				"For entirely unrelated reasons."
+			]
+			id: "42BB1EF6F4AEE16C"
+			rewards: [
+				{
+					id: "6E25391466490FA5"
+					item: "minecraft:lead"
+					type: "item"
+				}
+				{
+					id: "415CB165258E1D08"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Tame your first animal (dog, cat, etc.)."
+			tasks: [{
+				advancement: "minecraft:husbandry/tame_an_animal"
+				criterion: ""
+				id: "6EB3C38AA3F15928"
+				title: "Tame your first animal"
+				type: "advancement"
+			}]
+			title: "Voluntary Relocation"
+			x: 3.25d
+			y: -3.5d
+		}
+		{
+			description: [
+				"&lArts \\& Crafts&r"
+				""
+				"You're going to be making a lot of things."
+				""
+				"And we mean a lot."
+				""
+				"Use a &6Crafting Table&r &632 times&r."
+				""
+				"Tools, blocks, questionable contraptions — it all counts."
+				""
+				"We'll give you a Backpack and a Crafting Upgrade for your trouble."
+				""
+				"Now you can carry your crafting problem with you."
+			]
+			id: "163BF40F2F8A9A73"
+			rewards: [
+				{
+					id: "55CE4DFF4249703D"
+					item: "sophisticatedbackpacks:crafting_upgrade"
+					type: "item"
+				}
+				{
+					id: "306E10D0E5F8B76F"
+					type: "xp"
+					xp: 500
+				}
+			]
+			subtitle: "Craft a crafting table and use it 32 times."
+			tasks: [{
+				block: "minecraft:crafting_table"
+				block_type: 0
+				checkItem: false
+				id: "1047069C7292E46D"
+				isItemInteraction: false
+				title: "Use the Crafting Table 32x"
+				type: "questsadditions:use"
+				value: 32L
+			}]
+			title: "Getting Crafty"
+			x: -2.75d
+			y: -3.5d
+		}
+		{
+			description: [
+				"&lDiggy Diggy Hole&r"
+				""
+				"At some point, digging stops being a necessity and becomes a lifestyle."
+				""
+				"Break &6500 Stone&r."
+				""
+				"Then hand over &6500 Cobblestone&r."
+				""
+				"Build a mine. Hollow out a mountain. Dig an enormous hole for absolutely no defensible reason."
+				""
+				"We don't care."
+				""
+				"We're just counting the rocks."
+				""
+				"Donate the lot and we'll give you something better to dig with."
+			]
+			id: "006528934D2EB0E7"
+			rewards: [
+				{
+					id: "08A3EC3B618C27C7"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_pickaxe"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "minecraft:efficiency"
+									lvl: 5
+								}
+								{
+									id: "minecraft:unbreaking"
+									lvl: 3
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "68D8D2E86DD0B636"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			subtitle: "Break 500 stone and give 500 cobblestone"
+			tasks: [
+				{
+					block: "minecraft:stone"
+					block_type: 0
+					checkItem: false
+					id: "11ECE18D4ED69461"
+					type: "questsadditions:break"
+					value: 500L
+				}
+				{
+					consume_items: true
+					count: 500L
+					id: "0ECAEDFF62C07DA1"
+					item: "minecraft:cobblestone"
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			title: "Diggy Diggy Hole"
+			x: 6.25d
+			y: -3.5d
+		}
+		{
+			description: [
+				"&lMaking Yourself at Home&r"
+				""
+				"You've found somewhere you like."
+				""
+				"Time to start lowering the property value."
+				""
+				"Place the essential bits and pieces you'll need for a proper base: storage, crafting, furnaces and somewhere to dump everything you've \"acquired\" on your travels."
+				""
+				"Don't worry too much about where you put it all."
+				""
+				"This probably won't be your last base anyway."
+			]
+			id: "475734D998D6BAD0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "39997FEBA8688718"
+					table_id: 8585761087875589383L
+					type: "random"
+				}
+				{
+					id: "2CD39C4EC9F37CF7"
+					item: {
+						Count: 1
+						id: "cozystudioscore:golden_leaf"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Place the essential needed blocks for a base"
+			tasks: [
+				{
+					block: "minecraft:chest"
+					block_type: 0
+					id: "1B688ED84222ED48"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 10L
+				}
+				{
+					block: "minecraft:barrel"
+					block_type: 0
+					id: "69FF4ACBE98380D0"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 4L
+				}
+				{
+					block: "minecraft:crafting_table"
+					block_type: 0
+					id: "0ACA1DAF404B6247"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 2L
+				}
+				{
+					block: "minecraft:furnace"
+					block_type: 0
+					id: "1538527E952C6CD0"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 4L
+				}
+				{
+					block: "minecraft:blast_furnace"
+					block_type: 0
+					id: "5993DA23E4042954"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 4L
+				}
+				{
+					block: "minecraft:smoker"
+					block_type: 0
+					id: "5FEFFDD2731224E1"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 4L
+				}
+			]
+			title: "Making Yourself At Home"
+			x: -1.25d
+			y: -3.5d
+		}
+		{
+			description: [
+				"&lA Diamond in the Rough&r"
+				""
+				"Found something shiny?"
+				""
+				"Not quite shiny enough."
+				""
+				"Diamonds don't come out of the ground ready for someone's engagement ring around here. You'll need to put in a little work first."
+				""
+				"Craft a &6Diamond Grindstone&r and use it to polish a &6Rough Diamond&r."
+				""
+				"Manage that without grinding away anything important and we'll give you another Diamond."
+				""
+				"Apparently you're responsible enough to have two."
+			]
+			id: "4241200C2BB46DF7"
+			rewards: [
+				{
+					id: "21F0499E080B79EE"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "3C2E7FBFF0B720F1"
+					type: "xp"
+					xp: 500
+				}
+			]
+			subtitle: "Craft a Diamond Grindstone and polish a Rough Diamond on it."
+			tasks: [
+				{
+					consume_items: false
+					id: "0EF6749A7E43359A"
+					item: "spelunkery:diamond_grindstone"
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					id: "0545F1199394CCAF"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+			]
+			title: "A Diamond In The Rough"
+			x: -2.75d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&lApparently That Wasn't Enough&r"
+				""
+				"So you've made an entire set of Diamond Tools."
+				""
+				"Very impressive."
+				""
+				"Anyway..."
+				""
+				"Turns out you can make tools out of Obsidian."
+				""
+				"Smelt &6Obsidian&r in a &6Blast Furnace&r to produce &6Obsidian Ingots&r, and collect &68&r of them."
+				""
+				"Your expensive habit is about to get worse."
+			]
+			id: "787A0DD0608841B5"
+			rewards: [
+				{
+					count: 8
+					id: "38A272F0EF3AF0B5"
+					item: "minecraft:obsidian"
+					type: "item"
+				}
+				{
+					count: 9
+					id: "0B13D4F864CAF3BD"
+					item: "obsidianequipmentrework:obsidian_ingot"
+					type: "item"
+				}
+				{
+					id: "262E1691536D32E0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Obtain 8 Obsidian Ingots"
+			tasks: [{
+				consume_items: false
+				count: 8L
+				id: "33F32E5B7C52DBE3"
+				item: { Count: 8, id: "obsidianequipmentrework:obsidian_ingot" }
+				match_nbt: false
+				only_from_crafting: false
+				type: "item"
+			}]
+			title: "Apparently That Wasn't Enough"
+			x: 0.25d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&lA Sensible Upgrade&r"
+				""
+				"Diamonds are nice."
+				""
+				"But have you considered covering yourself and all your tools in volcanic glass?"
+				""
+				"Craft an &6Obsidian Upgrade Smithing Template&r using the recipe shown below."
+				""
+				"{image:ftbquests:textures/recipes/obsidian_template.png width:100 height:50 align:center}"
+				""
+				"Then combine the template, a piece of &6Diamond Gear&r and an &6Obsidian Ingot&r at a Smithing Table to upgrade it."
+				""
+				"{image:ftbquests:textures/recipes/obsidian_helmet_smithing.png width:100 height:22 align:center}"
+				""
+				"Make the full set."
+				""
+				"Is this excessive?"
+				""
+				"We're well past asking that question."
+			]
+			id: "2EF18FE742774AB6"
+			rewards: [
+				{
+					count: 8
+					id: "2D8342BA388AB7D7"
+					item: "minecraft:obsidian"
+					type: "item"
+				}
+				{
+					id: "2C67BC5A50A24E11"
+					item: "ironchests:obsidian_chest"
+					type: "item"
+				}
+				{
+					id: "62E776673AFD7511"
+					item: "ironchests:obsidian_barrel"
+					type: "item"
+				}
+				{
+					id: "135DBF77967CB8AC"
+					type: "xp"
+					xp: 250
+				}
+				{
+					exclude_from_claim_all: true
+					id: "288094B3FC8F2737"
+					table_id: 6828356437669856216L
+					type: "random"
+				}
+			]
+			subtitle: "Make a Full Obsidian Tool Set"
+			tasks: [
+				{
+					id: "2912C1BDA240A95E"
+					item: "kubejs:obsidian_upgrade_smithing_template"
+					type: "item"
+				}
+				{
+					id: "0F03D8504A876749"
+					item: {
+						Count: 1
+						id: "obsidianequipmentrework:obsidian_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "09DBBE13111401CA"
+					item: {
+						Count: 1
+						id: "obsidianequipmentrework:obsidian_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "42D5ABDD1F5D355E"
+					item: {
+						Count: 1
+						id: "obsidianequipmentrework:obsidian_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D0DE3BB71CE9CDA"
+					item: {
+						Count: 1
+						id: "obsidianequipmentrework:obsidian_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "A Sensible Upgrade"
+			x: 1.75d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&lAdd Some Sparkle&r"
+				""
+				"You've got the tools. You've got the armour."
+				""
+				"Now let's make them unnecessarily magical."
+				""
+				"Craft an &6Enchanting Table&r and surround it with &615 Bookshelves&r to unlock its full potential."
+				""
+				"We'll supply some Lapis and an &6Unbreaking III&r book to get you started."
+				""
+				"After all, if you're going to make questionable decisions, your equipment should survive them."
+			]
+			id: "360C91A455E67648"
+			rewards: [
+				{
+					count: 32
+					id: "1B5E80697C379CAD"
+					item: "minecraft:lapis_lazuli"
+					type: "item"
+				}
+				{
+					id: "53451B7734342F66"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "69F4B5915B0010BB"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 3s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Craft an Enchanting Table and 15 Bookshelves"
+			tasks: [
+				{
+					consume_items: false
+					id: "277771025CF9244E"
+					item: "minecraft:enchanting_table"
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 15L
+					id: "0D9E7922F4488B44"
+					item: { Count: 15, id: "minecraft:bookshelf" }
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			title: "Add Some Sparkle"
+			x: 4.75d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&lHome Heating&r"
+				""
+				"Every base needs a reliable source of warmth."
+				""
+				"We may have overdone it."
+				""
+				"Set up a renewable &6Lava&r supply using Cauldrons and Pointed Dripstone."
+				""
+				"It's infinite, extremely hot, and almost certainly a terrible thing to have lying around the house."
+				""
+				"Perfect."
+				""
+				"For reasons entirely unrelated to what we've just asked you to build, here's a &6Wildfire Crown&r."
+				""
+				"It grants Fire Resistance."
+				""
+				"You'll probably need it."
+			]
+			id: "2A9C6E25EDDCEF1A"
+			rewards: [
+				{
+					id: "4F022CE3FBF21CD1"
+					item: {
+						Count: 1
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "minecraft:long_fire_resistance"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "67C2642D32DC93D9"
+					item: {
+						Count: 1
+						id: "friendsandfoes:wildfire_crown"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4FE579F4611ADC16"
+					type: "xp"
+					xp: 50
+				}
+			]
+			subtitle: "Create an Automated Lava Source (Dripper, Cauldron Method, etc.)"
+			tasks: [
+				{
+					consume_items: false
+					count: 3L
+					id: "1F524ED7F44DAC03"
+					item: "minecraft:cauldron"
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "1DE83EB63ED7123D"
+					item: { Count: 3, id: "minecraft:lava_bucket" }
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 3L
+					id: "5CC36DBACFC4E71F"
+					item: { Count: 3, id: "minecraft:pointed_dripstone" }
+					match_nbt: false
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			title: "Home Heating"
+			x: 3.25d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&lMaybe Grow Some Food?&r"
+				""
+				"Local wildlife acquisition is effective, but not especially sustainable."
+				""
+				"Grow and harvest &68 Wheat&r, &68 Carrots&r, &68 Potatoes&r and &68 Beetroot&r."
+				""
+				"Renewable. Reliable. Less likely to complain."
+				""
+				"Congratulations."
+				""
+				"Agricultural operations are now online."
+			]
+			id: "1A27B74E9EC3C055"
+			rewards: [
+				{
+					count: 4
+					id: "1A2E7A5AC655EE85"
+					item: "minecraft:golden_carrot"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "354E5B94BDD68679"
+					item: "minecraft:hay_block"
+					type: "item"
+				}
+				{
+					id: "7CEFABB24245C3FC"
+					item: {
+						Count: 1
+						id: "vinery:straw_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					consume_items: true
+					count: 8L
+					id: "45DFE5493BCCFAE8"
+					item: { Count: 8, id: "minecraft:carrot" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 8L
+					id: "223567919C5460DD"
+					item: { Count: 8, id: "minecraft:potato" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 8L
+					id: "5D4768565F69452F"
+					item: { Count: 8, id: "minecraft:wheat" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 8L
+					id: "1207B52BDB0DB98F"
+					item: { Count: 8, id: "minecraft:beetroot" }
+					type: "item"
+				}
+			]
+			title: "Maybe Grow Some Food?"
+			x: 1.75d
+			y: -3.5d
+		}
+		{
+			description: [
+				"&lAn Expensive Habit&r"
+				""
+				"So you've learnt how to turn rough diamonds into proper ones."
+				""
+				"Naturally, the next step is to immediately turn a small fortune into tools."
+				""
+				"Craft a &6full set of Diamond Tools&r."
+				""
+				"Pickaxe. Axe. Shovel. Hoe. The lot."
+				""
+				"Are diamond tools excessive?"
+				""
+				"Absolutely."
+				""
+				"Are we going to stop you?"
+				""
+				"Absolutely not."
+			]
+			id: "56C162201D9C635F"
+			rewards: [
+				{
+					count: 8
+					id: "2FA86B82952C5FEA"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "308EE4ACECAD9A27"
+					item: "ironchests:diamond_chest"
+					type: "item"
+				}
+				{
+					id: "5555FAC00FC74017"
+					type: "xp"
+					xp: 250
+				}
+				{
+					exclude_from_claim_all: true
+					id: "72671EA2BD9F9B0D"
+					table_id: 6828356437669856216L
+					type: "random"
+				}
+			]
+			subtitle: "Make a Full Diamond Tool Set"
+			tasks: [
+				{
+					id: "7388ACC0149D6A98"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00E6B2651EF4AF44"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7328D1A38BF34DB9"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "295A9E1BA3407FA6"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "An Expensive Habit"
+			x: -1.25d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&lPrime Real Estate&r"
+				""
+				"Looking for somewhere new?"
+				""
+				"How about endless fire, lava oceans and locals who may try to kill you on sight?"
+				""
+				"Build a portal and take your first trip to &6The Nether&r."
+				""
+				"Plenty of resources. Excellent transport links. Lots of available land."
+				""
+				"Prime real estate, really."
+				""
+				"Just ignore the screaming."
+			]
+			id: "6F884213DDBE1A6A"
+			rewards: [
+				{
+					count: 64
+					id: "5697BE9E5E10DB03"
+					item: "minecraft:netherrack"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1AC3BDA55F9DCB11"
+					item: "minecraft:quartz"
+					type: "item"
+				}
+				{
+					id: "21848A3E06A44FEF"
+					type: "xp"
+					xp: 150
+				}
+			]
+			size: 2.0d
+			subtitle: "Visit The Nether"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "140E52A137B0495F"
+				title: "Hell"
+				type: "dimension"
+			}]
+			title: "Prime Real Estate"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"&l\"Meat\" the Neighbours&r"
+				""
+				"Time to get acquainted with the local wildlife."
+				""
+				"Collect &68 Raw Beef&r, &68 Raw Porkchops&r, &68 Raw Mutton&r and &68 Raw Chicken&r."
+				""
+				"Consider this a standard local resource assessment."
+				""
+				"The neighbours were surprisingly cooperative."
+			]
+			id: "274AB1813B852F1E"
+			rewards: [
+				{
+					count: 32
+					id: "0B7367A441AD9DF3"
+					item: "minecraft:coal"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "560DBFD8A72418C8"
+					item: "minecraft:smoker"
+					type: "item"
+				}
+				{
+					id: "1606D51442AF9945"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Collect 8 Of Each Meat"
+			tasks: [
+				{
+					count: 8L
+					id: "2EE6ACD4CD7F70B3"
+					item: { Count: 8, id: "minecraft:beef" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "479FD5F5802AFF62"
+					item: { Count: 8, id: "minecraft:mutton" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7C819497347AD3EA"
+					item: { Count: 8, id: "minecraft:chicken" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "75DD44CF55E22986"
+					item: { Count: 8, id: "minecraft:porkchop" }
+					type: "item"
+				}
+			]
+			title: "Do Not Eat It Raw"
+			x: 0.25d
+			y: -3.5d
+		}
+		{
+			description: [
+				"&lTouring the Neighbourhood&r"
+				""
+				"You've established somewhere to sleep."
+				""
+				"Now go find out what you've actually moved into."
+				""
+				"Take a &6Sleeping Bag&r and travel &6500 Blocks&r from your starting area."
+				""
+				"Mountains. Forests. Villages. Questionable real estate opportunities."
+				""
+				"It's all part of the survey."
+				""
+				"We'll even provide a pair of &6Leather Boots&r."
+				""
+				"Try not to wear them out before you get back."
+			]
+			id: "006D370119DB891C"
+			rewards: [
+				{
+					id: "126785F880E372C7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "5A54282CB8252674"
+					item: {
+						Count: 1
+						id: "minecraft:leather_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "569331F5677CAB97"
+					item: "sophisticatedbackpacks:backpack"
+					type: "item"
+				}
+			]
+			subtitle: "Sprint 500 Blocks"
+			tasks: [
+				{
+					id: "3210927D058E7E9C"
+					item: "comforts:sleeping_bag_white"
+					type: "item"
+				}
+				{
+					icon: {
+						Count: 1
+						id: "brewery:brewfest_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "7DB3342EC0F732D8"
+					stat: "minecraft:sprint_one_cm"
+					title: "Sprint 500 Blocks"
+					type: "stat"
+					value: 50000
+				}
+			]
+			title: "Touring the Neighbourhood"
+			x: 4.75d
+			y: -5.0d
+		}
+		{
+			description: [
+				"&lNot In The Face&r"
+				""
+				"Some of the locals have swords."
+				""
+				"Some have bows."
+				""
+				"Some just explode."
+				""
+				"Acquire an &6Iron Sword&r and a &6Shield&r."
+				""
+				"One is for solving problems."
+				""
+				"The other is for when the problem disagrees."
+			]
+			id: "5E14AA68785CB34A"
+			rewards: [
+				{
+					id: "210A85E450A5409D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 4
+					id: "674FCF237186A9D8"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "Aquire a Sword and Shield"
+			tasks: [
+				{
+					id: "0848B402032AF3EF"
+					item: {
+						Count: 1
+						id: "minecraft:shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C9D400F9D57E0F4"
+					item: {
+						Count: 1
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Not In The Face!"
+			x: 3.25d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&lEstablishing Relations&r"
+				""
+				"The locals appear willing to exchange goods for Emeralds."
+				""
+				"Excellent."
+				""
+				"Complete your first trade with a &6Villager&r."
+				""
+				"Remember: this is diplomacy."
+				""
+				"Any future relocation arrangements are entirely separate."
+			]
+			id: "736837F5F05E2C03"
+			rewards: [
+				{
+					id: "344673FFD5A44AC1"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 16
+					id: "6192D689D4F308AE"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/trade"
+				criterion: ""
+				id: "1D31C62EB452705F"
+				type: "advancement"
+			}]
+			title: "Establishing Relations"
+			x: 4.75d
+			y: -3.5d
+		}
+		{
+			id: "513A29F32A9F513C"
+			rewards: [
+				{
+					id: "076EF734508B6555"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 8
+					id: "550BA81C60146632"
+					item: "minecraft:cooked_cod"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "25F59283D2B74DB0"
+					item: {
+						Count: 1
+						id: "ftbfiltersystem:smart_filter"
+						tag: {
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:boats)"
+						}
+					}
+					title: "Any #minecraft:boats"
+					type: "item"
+				}
+				{
+					icon: "minecraft:oak_boat"
+					id: "0E6D956FAD3217BB"
+					stat: "minecraft:boat_one_cm"
+					title: "Travel By Boat"
+					type: "stat"
+					value: 50000
+				}
+			]
+			x: 6.25d
+			y: -5.0d
+		}
+		{
+			description: [
+				"&lSalvage Rights&r"
+				""
+				"While you're out on the water, keep an eye open for something worth acquiring."
+				""
+				"Find either a &6Shipwreck&r or a &6Beached Shipwreck&r."
+				""
+				"Anything you recover is, of course, covered by standard salvage regulations."
+				""
+				"Which we have just made up."
+				""
+				""
+			]
+			id: "4F26FBBB75091951"
+			min_required_tasks: 1
+			rewards: [
+				{
+					id: "4F7FFBBA41220B8F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 4
+					id: "2C66A29E89A694AE"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "16D511BB18A87415"
+					structure: "minecraft:shipwreck"
+					type: "structure"
+				}
+				{
+					id: "0F6E35B9AEFE96F4"
+					structure: "minecraft:shipwreck_beached"
+					type: "structure"
+				}
+			]
+			title: "Salvage Rights"
+			x: 7.5d
+			y: -5.0d
+		}
+		{
+			description: [
+				"&lGet Shafted!&r"
+				""
+				"There are signs of previous excavation in the area."
+				""
+				"How convenient."
+				""
+				"Find a &6Mineshaft&r and see what was left behind."
+				""
+				"We'll provide &6100 XP&r and a &6Minecart&r."
+				""
+				"Consider it your company transport."
+			]
+			id: "5DAA36C4A4CCD06B"
+			rewards: [
+				{
+					id: "1932EAEC415ABDCC"
+					item: "minecraft:minecart"
+					type: "item"
+				}
+				{
+					id: "33CA253D7DF2AF24"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Find a Mineshaft"
+			tasks: [{
+				icon: "minecraft:rail"
+				id: "25C8181855B05B77"
+				structure: "minecraft:mineshaft"
+				title: "Get Shafted!"
+				type: "structure"
+			}]
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			description: [
+				"&lReturn Fire&r"
+				""
+				"Skeletons seem very confident when they're the ones holding the bow."
+				""
+				"Let's correct that."
+				""
+				"Acquire a &6Bow&r and shoot &610 Skeletons&r."
+				""
+				"Consider this a practical demonstration of equal-opportunity hostility."
+			]
+			id: "084645D9DCEB3FAA"
+			rewards: [
+				{
+					count: 32
+					id: "3182682F5709D0A9"
+					item: "minecraft:arrow"
+					type: "item"
+				}
+				{
+					id: "0A19266DA81B0995"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "66895307ED163ED4"
+					item: {
+						Count: 1
+						id: "minecraft:bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					entity: "minecraft:skeleton"
+					icon: "minecraft:skeleton_skull"
+					id: "34D981F243783D45"
+					title: "Kill 10 Skeletons"
+					type: "kill"
+					value: 10L
+				}
+			]
+			title: "Return Fire!"
+			x: 6.25d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&lBorrowed Infrastructure&r"
+				""
+				"Waystones are useful pieces of local infrastructure."
+				""
+				"Find one and activate it so you can return later."
+				""
+				"If it's inconveniently placed, you may also choose to \"borrow\" it."
+				""
+				"For completing your initial survey, we'll provide you with a &6Waystone&r of your own."
+				""
+				"Consider it your first authorised infrastructure project."
+			]
+			id: "456C657F0DA6D08F"
+			rewards: [
+				{
+					id: "052661EDE669CF20"
+					item: "waystones:mossy_waystone"
+					type: "item"
+				}
+				{
+					id: "029F2860534CB5B8"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				icon: "waystones:waystone"
+				id: "10DDA7AEF256E703"
+				observe_type: 0
+				timer: 0L
+				title: "Find a Waystone"
+				to_observe: "#waystones:waystones"
+				type: "observation"
+			}]
+			title: "Borrowed Infrastructure"
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&lMinor Adjustments&r"
+				""
+				"Sometimes perfectly good equipment just needs a little attention."
+				""
+				"Use an &6Anvil&r to repair, rename or combine an item."
+				""
+				"A little maintenance now saves a great deal of paperwork later."
+			]
+			id: "0D25DBD2A795F6C8"
+			rewards: [
+				{
+					count: 4
+					id: "0B658405A08E99A6"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "2091E22647126FD6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Use An Anvil"
+			tasks: [{
+				block: "minecraft:anvil"
+				block_type: 1
+				checkItem: false
+				id: "67B761016A02B2DF"
+				isItemInteraction: false
+				title: "Use An Anvil"
+				type: "questsadditions:use"
+				value: 1L
+			}]
+			title: "Minor Adjustments"
+			x: 6.25d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&lGreet the Neighbours&r"
+				""
+				"It's always polite to introduce yourself when moving into a new neighbourhood."
+				""
+				"Unfortunately, some of the locals seem a little bitey."
+				""
+				"Deal with &610 Zombies&r."
+				""
+				"Remember your manners."
+				""
+				"And say hello to Jeff."
+			]
+			id: "612034FF7C20DFE9"
+			rewards: [
+				{
+					id: "0D611D4756BDCD2E"
+					item: {
+						Count: 1
+						id: "minecraft:zombie_head"
+						tag: {
+							display: {
+								Name: "{\"text\":\"Jeff\",\"italic\":false}"
+							}
+						}
+					}
+					title: "Head of Jeff"
+					type: "item"
+				}
+				{
+					id: "20AB7A9E90BA0FCB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "minecraft:zombie_head"
+				id: "08BE5EFE89EB34DE"
+				title: "Kill Zombies"
+				type: "kill"
+				value: 10L
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+	]
+	title: "Local Operations"
+}

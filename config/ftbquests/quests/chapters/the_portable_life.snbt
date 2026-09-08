@@ -2,29 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "the_portable_life"
-	group: ""
+	group: "137ABA9882DAAF2A"
 	icon: "sophisticatedbackpacks:backpack"
 	id: "35A97991FD282F5D"
-	images: [
-		{
-			height: 6.0d
-			image: "ftbquests:textures/homestead/the_portable_life.png"
-			rotation: 0.0d
-			width: 11.0d
-			x: 0.0d
-			y: -2.5d
-		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/portable_quest_bg.png"
-			order: -100
-			rotation: 0.0d
-			width: 30.0d
-			x: 0.5d
-			y: -2.5d
-		}
-	]
-	order_index: 10
+	order_index: 9
 	quest_links: [ ]
 	quests: [
 		{

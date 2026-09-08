@@ -2,29 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "squishy_friends"
-	group: ""
+	group: "137ABA9882DAAF2A"
 	icon: "perfectplushies:sirjain_plushie_rare"
 	id: "059FE08C5E90B4B5"
-	images: [
-		{
-			height: 13.0d
-			image: "ftbquests:textures/homestead/squishy_friends.png"
-			rotation: 0.0d
-			width: 18.0d
-			x: -0.5d
-			y: 0.0d
-		}
-		{
-			height: 15.0d
-			image: "ftbquests:textures/homestead/squishy_quest_bg.png"
-			order: -100
-			rotation: 0.0d
-			width: 30.0d
-			x: -1.0d
-			y: -0.25d
-		}
-	]
-	order_index: 19
+	order_index: 14
 	quest_links: [ ]
 	quests: [
 		{
