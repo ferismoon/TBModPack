@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 8.0d
-			image: "ftbquests:textures/homestead/just_some_things.png"
+			image: "ftbquests:textures/headers/just_some_things.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: 0.5d

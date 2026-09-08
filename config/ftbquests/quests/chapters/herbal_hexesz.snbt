@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 10.0d
-			image: "ftbquests:textures/homestead/herbal_hexes.png"
+			image: "ftbquests:textures/headers/herbal_hexes.png"
 			rotation: 0.0d
 			width: 0.0d
 			x: 0.0d
@@ -16,7 +16,7 @@
 		}
 		{
 			height: 8.0d
-			image: "ftbquests:textures/homestead/herbal_hexes.png"
+			image: "ftbquests:textures/headers/herbal_hexes.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: 0.0d
@@ -230,7 +230,7 @@
 				""
 				"With the table as the center, follow the below picture:"
 				""
-				"{image:ftbquests:textures/homestead/ritual_setup.png width:165 height:100 align:center}"
+				"{image:ftbquests:textures/recipes/ritual_setup.png width:165 height:100 align:center}"
 			]
 			id: "7E3964250F0EE163"
 			rewards: [

@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 8.0d
-			image: "ftbquests:textures/homestead/seasoned_and_settled.png"
+			image: "ftbquests:textures/headers/seasoned_and_settled.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: 0.0d

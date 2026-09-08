@@ -9,7 +9,7 @@
 	images: [
 		{
 			height: 4.0d
-			image: "ftbquests:textures/homestead/homestead_full_export.png"
+			image: "ftbquests:textures/headers/homestead_full_export.png"
 			rotation: 0.0d
 			width: 8.0d
 			x: -2.5d
@@ -843,11 +843,11 @@
 				""
 				"Craft an Obsidian Upgrade Smithing Template using the recipe as shown below"
 				""
-				"{image:ftbquests:textures/homestead/obsidian_template.png width:100 height:50 align:center}"
+				"{image:ftbquests:textures/recipes/obsidian_template.png width:100 height:50 align:center}"
 				""
 				"Use this Smithing Template on a Diamond tool/armor piece with an Obsidian Ingot to upgrade to Obsidian."
 				""
-				"{image:ftbquests:textures/homestead/obsidian_helmet_smithing.png width:100 height:22 align:center}"
+				"{image:ftbquests:textures/recipes/obsidian_helmet_smithing.png width:100 height:22 align:center}"
 			]
 			id: "2EF18FE742774AB6"
 			rewards: [

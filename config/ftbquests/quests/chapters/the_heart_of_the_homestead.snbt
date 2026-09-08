@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 8.0d
-			image: "ftbquests:textures/homestead/the_heart_of_the_homestead.png"
+			image: "ftbquests:textures/headers/the_heart_of_the_homestead.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: -2.749999999999993d

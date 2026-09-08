@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 10.0d
-			image: "ftbquests:textures/homestead/catch_of_the_day.png"
+			image: "ftbquests:textures/headers/catch_of_the_day.png"
 			rotation: 0.0d
 			width: 15.0d
 			x: -0.5d

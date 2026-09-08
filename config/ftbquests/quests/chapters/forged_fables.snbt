@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 8.0d
-			image: "ftbquests:textures/homestead/forged_fables.png"
+			image: "ftbquests:textures/headers/forged_fables.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: -0.5d

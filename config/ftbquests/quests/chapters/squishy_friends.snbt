@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 13.0d
-			image: "ftbquests:textures/homestead/squishy_friends.png"
+			image: "ftbquests:textures/headers/squishy_friends.png"
 			rotation: 0.0d
 			width: 18.0d
 			x: -0.5d

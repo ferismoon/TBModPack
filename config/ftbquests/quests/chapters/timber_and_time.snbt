@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 8.0d
-			image: "ftbquests:textures/homestead/cogs_and_whimsy.png"
+			image: "ftbquests:textures/headers/cogs_and_whimsy.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: 0.0d
@@ -1546,7 +1546,7 @@
 				"Used in multi-block crafting setups like crafting the Crushing Wheel recipe."
 				""
 				""
-				"{image:ftbquests:textures/homestead/mechanical_crafter_demonstration.png width:100 height:100 align:center}"
+				"{image:ftbquests:textures/recipes/mechanical_crafter_demonstration.png width:100 height:100 align:center}"
 			]
 			id: "4BB5AA6398B775B8"
 			rewards: [

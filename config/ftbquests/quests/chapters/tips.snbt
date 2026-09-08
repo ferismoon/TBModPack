@@ -493,7 +493,7 @@
 		{
 			description: [
 				""
-				"{image:ftbquests:textures/homestead/saddle_recipe.png width:103 height:50 align:center}"
+				"{image:ftbquests:textures/recipes/saddle_recipe.png width:103 height:50 align:center}"
 				""
 				"&l3 Leather&r"
 				"&l2 Rope&r "
@@ -514,7 +514,7 @@
 		{
 			description: [
 				""
-				"{image:ftbquests:textures/homestead/nametag_recipe.png width:103 height:50 align:center}"
+				"{image:ftbquests:textures/recipes/nametag_recipe.png width:103 height:50 align:center}"
 				""
 				"&l1 String"
 				"&l1 Iron Ingot&r"

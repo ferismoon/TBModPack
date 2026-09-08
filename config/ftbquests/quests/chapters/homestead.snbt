@@ -7,7 +7,7 @@
 	images: [
 		{
 			height: 4.0d
-			image: "ftbquests:textures/homestead/homestead_text_export.png"
+			image: "ftbquests:textures/headers/homestead_text_export.png"
 			rotation: 0.0d
 			width: 8.0d
 			x: 0.0d

@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 8.0d
-			image: "ftbquests:textures/homestead/the_whispers_of_the_wilds.png"
+			image: "ftbquests:textures/headers/the_whispers_of_the_wilds.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: -0.5d

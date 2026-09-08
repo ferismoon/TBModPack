@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 8.0d
-			image: "ftbquests:textures/homestead/echoes_of_the_void.png"
+			image: "ftbquests:textures/headers/echoes_of_the_void.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: -2.0d
@@ -16,7 +16,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_2.png"
+			image: "ftbquests:textures/misc/end_island_2.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: -7.5d
@@ -24,7 +24,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_1.png"
+			image: "ftbquests:textures/misc/end_island_1.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: -10.5d
@@ -32,7 +32,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_3.png"
+			image: "ftbquests:textures/misc/end_island_3.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: -9.5d
@@ -40,7 +40,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_3.png"
+			image: "ftbquests:textures/misc/end_island_3.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: -8.5d
@@ -48,7 +48,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_2.png"
+			image: "ftbquests:textures/misc/end_island_2.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: -11.0d
@@ -56,7 +56,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_3.png"
+			image: "ftbquests:textures/misc/end_island_3.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: 4.0d
@@ -64,7 +64,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_1.png"
+			image: "ftbquests:textures/misc/end_island_1.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: 5.0d
@@ -72,7 +72,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_2.png"
+			image: "ftbquests:textures/misc/end_island_2.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: 6.5d
@@ -80,7 +80,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_1.png"
+			image: "ftbquests:textures/misc/end_island_1.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: 3.0d
@@ -88,7 +88,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_1.png"
+			image: "ftbquests:textures/misc/end_island_1.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: 7.5d
@@ -96,7 +96,7 @@
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/homestead/end_island_2.png"
+			image: "ftbquests:textures/misc/end_island_2.png"
 			rotation: 0.0d
 			width: 3.0d
 			x: -2.0d

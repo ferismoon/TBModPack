@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 8.0d
-			image: "ftbquests:textures/homestead/roots_that_run_deep.png"
+			image: "ftbquests:textures/headers/roots_that_run_deep.png"
 			rotation: 0.0d
 			width: 13.0d
 			x: 1.0d

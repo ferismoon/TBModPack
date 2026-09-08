@@ -834,43 +834,43 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/beginning_game.snbt"
-hash = "b8dace64be394ffc4d51627dcaa0bdb2fcf0e5976566b2d9c04415dc1e428817"
+hash = "75b9c99a37407a94307fc60bd86b6c3e68da0968129734e607a15c489032877a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/catch_of_the_day.snbt"
-hash = "580887668fa8f87c1a9b5bba9aeb9af0443a56ebf5cf5f6b94e35c96fa4521c9"
+hash = "9f228c6a852b55cdc785e819939236d3f4f3d91465a555c2e60841068d85de47"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/deep_dark_secrets.snbt"
-hash = "74a0585dde8fd2a0ed41acd1acfccbe850dbdb3df19f4c45e23c53be495133cc"
+hash = "8654e97c2259161473831556d131541877024fada923f931267973c0d235263d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/echoes_of_the_void.snbt"
-hash = "c40c2bf9a6ffa700683bf5274ca34b97f52f76ee44ebf95b7e8e09ab2a08a8ed"
+hash = "c05f26006f67eb0a140891862da65df734b1f5c159a669d0362505c2f54c047d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/embers_beneath.snbt"
-hash = "a0622f34e7c4aa8854508f41c5cf7fc0fc51aa139c3e7191dde3e5463ac0dc9e"
+hash = "746474b61db0bbedc06744b7dd2a72b4dbdab21ef256f78031e9c56a2dbf3fc1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/forged_fables.snbt"
-hash = "5fde20fb8b4bb734e09cd0ebc8e42ca998918550d36991453ec25d10ce2ff18e"
+hash = "c1c17412c908a17a8ac288bd6ac3ad63b9d97433e181506c78b7d674fc0e5356"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/herbal_hexesz.snbt"
-hash = "8afd2400b5ccf4875633500876a7b45b8c1fbf15b717fb381d98d5f9b7044d2e"
+hash = "8d9ce6a9b356010990a27168680f795cd5e2b17c02a910b9eb97294082b7538d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/homestead.snbt"
-hash = "80f5d0e4b7c7344d150392e031346ab0cdfd4280ec9435f89a918902de54ec3f"
+hash = "8c31c016391372392122f37497dcb8eec3a1d52ae131a129882d350cdda824a1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/just_some_things.snbt"
-hash = "0857af2cde272d7c4819aa7cec7abb843a7fbda34a80b5ee9a0723a0c72fbf75"
+hash = "52bfb876c1f00fe3f38d542154400812c1db0e97e47b58435ebb66e96af93973"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/liquid_courage.snbt"
-hash = "b872df9b7597cf7f9285cf7bccb65f62b37ec2e3716ae9bc575938e61521c468"
+hash = "f98ad2774c43c5f2e14e065d2ed3386bb3f9e11900117825bdd8268c27fa6e9d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mastery.snbt"
@@ -878,15 +878,15 @@ hash = "e60a8f4d1c3d7fe5e39b513de0c34c71716e2a4aeb5256a37810906654152323"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/of_vines_and_vintage.snbt"
-hash = "ea7de09b855aa87741766c9c34463348e589647bd62f080c85b2d48afed4eecf"
+hash = "611721f46c226e2a02213c65393edc204307f1c13f9f389f8a1309e3dafaaa1f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/roots_that_run_deep.snbt"
-hash = "6e38cb3df38ce5ff54bfd42d91143c45d8db9c9355650fcac56e6ff4a986eb03"
+hash = "dee22ddee21743959b032c5b971d15ca686d92ee35c5407f1b7d37933c601539"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/seasoned_and_settled.snbt"
-hash = "1472acc73b0920ea44661f0b71bc7a45a385eacc0ef8b478dd9998cf7b1c3edd"
+hash = "f10125385aa29a40af6ca3376beefbbdc5ef7579df708ca40daa31c8b6885bf6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/server_plushies.snbt"
@@ -894,43 +894,43 @@ hash = "a0972b585f2152444f3ec5631fa0e75e45d511a8d8a45b1ea6e39f10b58d18da"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/shaped_with_care.snbt"
-hash = "9219824e6796c6893847c3b0488fc887d8acfc32fedd23656f7608d150a57391"
+hash = "bbd84005f262512f770b8a1bcbc25b68652049f00566a2ffd7cf3da8fb62df79"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/signals_in_the_stillness.snbt"
-hash = "761f772c5105ed64d18c9b61a8f0393c38641db788befd805ca6de4e37acfedb"
+hash = "b3a5a0c99b0fada35fb765824023b4c39a615465d47c6fdf8f19348b34fad0fc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/squishy_friends.snbt"
-hash = "b360fa02d3952b955d1d6df0727769a860ab4ddfca1a9665081ec21cfba1fdc6"
+hash = "e21cf5fbfd253bdefa8894fc0a04a855c2c63bc1687c5dc195f7ab0ae5b5f6fb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_heart_of_the_homestead.snbt"
-hash = "8b2109471e9c7a9f1831bbc7c558037697a41f85dde2b27badbd501bacd9340e"
+hash = "6ab4ed267549cd6b1c14461284da486e9554dc4fdd2af827f62f5558bb0befb2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_portable_life.snbt"
-hash = "9571452df0f29f705647cc174bc006a55b3709de672aa0b03eda0d6ba7253f98"
+hash = "6e7b1a15dac7cd852996a6b6ef0cf5cefbef4fb716e3cafe429b0ab23f174d99"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tidy_corners.snbt"
-hash = "47d10da34e593ab6f14133c2775e5a8a01d5e95ee067a4da7ed6abfee79eee68"
+hash = "62eeb38635907655e77f2efb0a95c9f7ab3c9e857c8619aa14c3b3a115465e2e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/timber_and_time.snbt"
-hash = "8f6d24eb0f55a849da18f2191a56c15feed975a8fae8bbda3c382fea500443b6"
+hash = "c4d4ef25797499b4b22eef5dcda0cc7d88b273da1232fc81263ca8ee7e5da039"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tips.snbt"
-hash = "43f7bcf6caf6fe572bf7b7ad5a9ad3d34935698f2d18b655747806b9fd2704d2"
+hash = "de28c3f53f2f6494818e4df4c3b3e299def0f2c15f14af947ebdd4c7f9e81226"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tranquilitea.snbt"
-hash = "cd55a731d5d26d9d9a8cb90e4143e4eb356d69879b90ebaa828ce3a47b7032c6"
+hash = "a045af3f1860769f487f6d9961630532b570f831f9c72bd0c5f260d259a5b93f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/whispers_of_the_wilds.snbt"
-hash = "4e1dc875268068efedf9fe69fed978ae1bb8d3d602284787308a425eff558eaf"
+hash = "5e1d83c9e1cc363f249d9cc4b18be6ef87664750919c3c97eae5cc7e8d5e5d87"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -1465,356 +1465,188 @@ file = "config/openloader/data/v6qraftyfied.zip"
 hash = "ead6c1837186b8581894ef49023e44d19ae2d3582da0cf9c15367360f05a1149"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/beer_mug_recipe.png"
-hash = "2034c2d42c021b65fe5d3b50ad99aee5f7693f9d11338382911a35085e411c33"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/brewingstation_recipe.png"
-hash = "be4f3f260a7c2aec5d954dec630e5fc63fdcaac9390ad0b279f3940944135b12"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/bronze_helmet_smithing.png"
-hash = "867a70cfd82586112cc099cd69b5fd6472fafc8f5c6ed2c194c03e448bb5c777"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/bronze_ingot_from_tin_and_copper_ingots.png"
-hash = "ab6a4a016be1e59c74837ea3f1b90649ebd72acff57252f4c867699bc2997db1"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/bronze_template.png"
-hash = "34a7fc8e3248231b58b667c792aa771a31898c7bf0d7b7cbc2f6f1ee3d1cd5f8"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/catch_of_the_day.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/catch_of_the_day.png"
 hash = "3ac168699a1da38fc95f9938b17a0fafaad4be4fee7ee6834460c68fcb005ad8"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/catch_of_the_day_bg.png"
-hash = "e964df1536711c521e7223e073290710d6b47503183c8a5b6c9ecdc0e3957a4b"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/cogs_and_whimsy.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/cogs_and_whimsy.png"
 hash = "9cee760e66f0ad85996a64433d4a7a558a0a897ff8bd995bc183ca4524cfafca"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/create_quest_bg.png"
-hash = "15daa4d25c7408bf679438fad5d6881b0a4280a742226fe680c9e4f6d254da09"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/deep_dark_quest_bg.png"
-hash = "ea3423879d3f6cacc8ce5929a561a7bf5a38dfb7149bfcf0dfdda57dfebdeedc"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/deep_dark_secrets.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/deep_dark_secrets.png"
 hash = "d68bea4a7af022750846d69fbde54003a6fabe2cad05e399ac2e5045919d4f13"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/diamond_helmet_smithing.png"
-hash = "2885f7d5d509d5da691ee10c241ba71ddd5d2f3d2c9f35f329b2c88a688039fa"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/diamond_template.png"
-hash = "231d3389c98c757bfc851750a7cbc4f5d3a393dcb42ae39fdf77bbf7f6029361"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/echoes_of_the_void.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/echoes_of_the_void.png"
 hash = "21042616c4d40550580d36fe4b146e8db2c69652c20a99d9d4ec87b023f04040"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/ember_quest_bg.png"
-hash = "1b47aa0def866534338a1e6b0b4b1b7c2f543a3795cb86a10595476a3bab2cfb"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/embers_beneath.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/embers_beneath.png"
 hash = "fcb39548740b0f12f128ff1ce2c9fcd3361ae0949096e293e7f8bf6b1b28fe41"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/end_island_1.png"
-hash = "cbad2451f48de1ba7463f833256c9ad1ae09b2d46efb0cbee56803e0121baf95"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/end_island_2.png"
-hash = "3ffe3e1ef3cffc87602cf3681708b78a5992228d4cde4581858818d1248b63ff"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/end_island_3.png"
-hash = "7c3e5fa7d0b50a47f1ea537c5a089e3020cf930fdb7a6f52c5e89a0d41a5ef50"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/end_quest_bg.png"
-hash = "b1222e78dcf7a3c6ab42e86cc3c74825e5d53adc27bdf3aa4c91ae04276ea49d"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/forged_fables.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/forged_fables.png"
 hash = "227c95f13ade73e8686c1e7f3d104a1c7d684aaf05ec96c16e7ed80e36611462"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/forged_quest_bg.png"
-hash = "36965677f62e6a8163eab29924f295ee0c0759ff0d90b3ba261028366ea19fc0"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/heart_of_homestead_bg.png"
-hash = "2d811df3130fdac9e99ad4068eb6ad68376f3452a2c1666a832f8fc98990453d"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/herbal_hexes.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/herbal_hexes.png"
 hash = "1f3365b96c5f391c836cf3210ab79a7b9bfecabe30cf5abe90aeb8b7a76937ea"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/herbal_hexes_bg.png"
-hash = "811bf215c99bb5bf5020d2819040610f7d6b0a54a8f061139d27a032f841ad54"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/homestead_full_export.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/homestead_full_export.png"
 hash = "be438239117e27a99112f7a2c85085d9e392c648800525b99af3e5fc4ed425c6"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/homestead_quest_bg.png"
-hash = "ab1a19e43932f935d0852a1905329db3e8eb4ac75992508db3ff247299dbeec8"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/homestead_text_export.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/homestead_text_export.png"
 hash = "bc614c970bedd9432ab2fef00928673c3f7436f7ad4c084357a18066cd5d4f57"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/just_some_things.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/just_some_things.png"
 hash = "e844dd7f08077b76119faa6d7d462d8e098da929084911521b147b9882fd844a"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/keg_recipe.png"
-hash = "a83b9dfa77d848de8eb8e673518470cabc1b24efe7acce551a6b2f022da048aa"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/liquid_courage.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/liquid_courage.png"
 hash = "8a3a81db1fa27cfb86a66058bfb6411bcdf39d35ce8014042c92c1d989187182"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/liquid_courage_quest_bg.png"
-hash = "e57eb7bd3c53fecbb3c14d421788c2c236b7ae0ab5d62caee3294c5573749f87"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/mechanical_crafter_demonstration.png"
-hash = "9a953e6cc940b1e874e0ea4abb50e57edc35dedc4a53c4ffd927a82cbcc6b33c"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/nametag_recipe.png"
-hash = "1c35998ef8c54eaf93c4616e02fce817eff022ae60f9f0d6c8baf67884ab725c"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/netherite_helmet_smithing.png"
-hash = "c91e57b766f79386dfbb1a028f2fd0627b6b39d4ac936d55ae09ce8095fd308b"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/netherite_upgrade_smithing_template.png"
-hash = "d558a2cb127cc72e804a329c5081a4fdad0c6c98b04c7f2abe3d00b344832762"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/obsidian_helmet_smithing.png"
-hash = "6ed8c2d9aa4cdd6fa87ecccc787a9d98c1fa8c7021315fbb19e4072d24c77865"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/obsidian_template.png"
-hash = "97697953f416e14eaa3160db16b16c606d4d5f6c3e92bcc19bffcbb844f11f40"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/portable_quest_bg.png"
-hash = "c5ae56d3bcbc21d4a94996b31881f0fc4a1e76861d496af9a3dce02c021652bf"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/redstone_quest_bg.png"
-hash = "8f10454907deb6dcef3ba944b909b0f7c9a0c3c2f58f77f5ef31f5d98f7d725d"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/ritual_setup.png"
-hash = "3b364c8ae1d3fc332b48eb1e42b32ae863dd9ff4173983a190250066e56b67da"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/roots_quest_bg.png"
-hash = "2cddbfeb38b4c7b6222d9a67ea2284754d393120383f6cf0def06b0c9d779dc9"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/roots_that_run_deep.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/roots_that_run_deep.png"
 hash = "7ebc0a3025f4a0a9ad5fead81c91c3c76bcf20a312ae1387ecb0e6478bc2e149"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/rope_recipe.png"
-hash = "7acd3e45b612c5bafa398a741859c6a2c1b88c881caac513a32d98aadbd02f38"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/saddle_recipe.png"
-hash = "12917877788dc578294580667387bad3a21baf26cf1b31c5a0298ca6b521e2ef"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/seasoned_and_settled.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/seasoned_and_settled.png"
 hash = "b89bef4fdfb3b121be52c9561d12707278e4b05c2ba58145575a55ba0747330d"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/seasoned_quest_bg.png"
-hash = "01418065ee0b8d1db4571346a98ac4de9ba60df5d08508a2becbc5672c65cf02"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/shaped_quest_bg.png"
-hash = "e9c170eea64c91168a1d30a73e4bed505b94e828c9a44b0aee5a9721bd438829"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/shaped_with_care.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/shaped_with_care.png"
 hash = "7add9406fa4e1c63bf569fec415ccd04153172c271cd06e1ab1b6a4ccdf75377"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/shine.gif"
-hash = "fc7dace66dcedca816d40d1a1533663a8fc2fb09902fac49e85fc635c3d8e7fe"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/signals_in_the_stillness.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/signals_in_the_stillness.png"
 hash = "be72d5a902dc5a323b6feec47a06678ba22611d53b0edc0125fc5210ab2ad1e7"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/squishy_friends.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/squishy_friends.png"
 hash = "89521a40d5490f7fe3f489663a6489f273dcc0fd17e520f853e20cf3c74c2241"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/squishy_quest_bg.png"
-hash = "3eaa496bfb12bb5a141100c3dc99f4a49c11d441185550f834d7920c3a9504ab"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/tea_quest_bg.png"
-hash = "e2ecb96a9d70d884cd7f07b5bbf51cd8cc1044caddf4f9e096e82bc7a1cfc832"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/the_heart_of_the_homestead.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/the_heart_of_the_homestead.png"
 hash = "5f2295e979e7423031499cf05341c1599e8a086e4ac8813947d5a7dd9132538e"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/the_portable_life.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/the_portable_life.png"
 hash = "e5b3886237fbcb6cf1e5dd865bbbb91a433d017550aa4ab977a830c5384ed1f5"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/the_whispers_of_the_wilds.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/the_whispers_of_the_wilds.png"
 hash = "09d086f42ff443ed452c8e880e2a6938f76e4a8837b19821a5f13a5e6ee3106b"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/things_quest_bg.png"
-hash = "ccfd5b70a35e3afc7984bca235b5824edcf892dcac460f4c8c53f129db2787cf"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/tidy_corners.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/tidy_corners.png"
 hash = "3224f0a0e3c804d93c4b35a570a764503a8d210de1fd99e5e7c62ad1b453d39f"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/tidy_quest_bg.png"
-hash = "9cdf62dcf4cd11de81d469dc7c459ffb6c476c299164046f2f32fe40296e77a1"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/tranquili_tea.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/tranquili_tea.png"
 hash = "7480468d4a21d6cafcb3b9fdcfb818f2e9164e919479b7eda77ac7a9c28067a5"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/trowel_recipe.png"
-hash = "a1d9a20bb169bbac41901e40499b089309b5709a9954c987126cd844224625bd"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/vinery_quest_bg.png"
-hash = "60c5a0ceddb937724eb4acc12f026dc1d97151b2968ce2960c8892ce97b87460"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/vines_and_vintage.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/vines_and_vintage.png"
 hash = "a535616638a31c9da38ed416e67f876e58f4cdbbdf98566502ec70b412fe1476"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/warden_hidden.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/misc/end_island_1.png"
+hash = "cbad2451f48de1ba7463f833256c9ad1ae09b2d46efb0cbee56803e0121baf95"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/misc/end_island_2.png"
+hash = "3ffe3e1ef3cffc87602cf3681708b78a5992228d4cde4581858818d1248b63ff"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/misc/end_island_3.png"
+hash = "7c3e5fa7d0b50a47f1ea537c5a089e3020cf930fdb7a6f52c5e89a0d41a5ef50"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/misc/warden_hidden.png"
 hash = "f5cb6f23a64edd86fb60fd40d58f0dab393968a824fb163111d43fa2f1375bfe"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/whispers_quest_bg.png"
-hash = "3eae9aaec05fab39bda5d4cb54abf91bbf31643b1cd156a27de34ca7f6feeb96"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/beer_mug_recipe.png"
+hash = "2034c2d42c021b65fe5d3b50ad99aee5f7693f9d11338382911a35085e411c33"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/wind_left.gif"
-hash = "593828d3835d7fd86c222c1baefa58124abc67c4d35f847a3ef75fa09dbc3f12"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/brewingstation_recipe.png"
+hash = "be4f3f260a7c2aec5d954dec630e5fc63fdcaac9390ad0b279f3940944135b12"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/wind_right.gif"
-hash = "6f52809d9fe8235137bbdee2a488671e87f190bd66c82a8ee894facdfeb1879e"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/bronze_helmet_smithing.png"
+hash = "867a70cfd82586112cc099cd69b5fd6472fafc8f5c6ed2c194c03e448bb5c777"
 
 [[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/homestead/wooden_silo_recipe.png"
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/bronze_ingot_from_tin_and_copper_ingots.png"
+hash = "ab6a4a016be1e59c74837ea3f1b90649ebd72acff57252f4c867699bc2997db1"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/bronze_template.png"
+hash = "34a7fc8e3248231b58b667c792aa771a31898c7bf0d7b7cbc2f6f1ee3d1cd5f8"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/diamond_helmet_smithing.png"
+hash = "2885f7d5d509d5da691ee10c241ba71ddd5d2f3d2c9f35f329b2c88a688039fa"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/diamond_template.png"
+hash = "231d3389c98c757bfc851750a7cbc4f5d3a393dcb42ae39fdf77bbf7f6029361"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/keg_recipe.png"
+hash = "a83b9dfa77d848de8eb8e673518470cabc1b24efe7acce551a6b2f022da048aa"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/mechanical_crafter_demonstration.png"
+hash = "9a953e6cc940b1e874e0ea4abb50e57edc35dedc4a53c4ffd927a82cbcc6b33c"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/nametag_recipe.png"
+hash = "1c35998ef8c54eaf93c4616e02fce817eff022ae60f9f0d6c8baf67884ab725c"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/netherite_helmet_smithing.png"
+hash = "c91e57b766f79386dfbb1a028f2fd0627b6b39d4ac936d55ae09ce8095fd308b"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/netherite_upgrade_smithing_template.png"
+hash = "d558a2cb127cc72e804a329c5081a4fdad0c6c98b04c7f2abe3d00b344832762"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/obsidian_helmet_smithing.png"
+hash = "6ed8c2d9aa4cdd6fa87ecccc787a9d98c1fa8c7021315fbb19e4072d24c77865"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/obsidian_template.png"
+hash = "97697953f416e14eaa3160db16b16c606d4d5f6c3e92bcc19bffcbb844f11f40"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/ritual_setup.png"
+hash = "3b364c8ae1d3fc332b48eb1e42b32ae863dd9ff4173983a190250066e56b67da"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/rope_recipe.png"
+hash = "7acd3e45b612c5bafa398a741859c6a2c1b88c881caac513a32d98aadbd02f38"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/saddle_recipe.png"
+hash = "12917877788dc578294580667387bad3a21baf26cf1b31c5a0298ca6b521e2ef"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/trowel_recipe.png"
+hash = "a1d9a20bb169bbac41901e40499b089309b5709a9954c987126cd844224625bd"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/wooden_silo_recipe.png"
 hash = "8239fe7ecf218944c64238e19c0d8c77d3e44ca6070e1b17bce1e3ccdcdad77f"
 
 [[files]]
 file = "config/openloader/resources/ftbquests/pack.mcmeta"
 hash = "8e9cacf81014f3f64ca4be74be9e8c1e3d81cca33f74f6cad27e549542048d31"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/chute_diagram.png"
-hash = "fbb2f82031df3080066b6a332ced50c57c4045564a2785ebc6cf3b01671d98a3"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/farm_diagram.png"
-hash = "dcda1c4e5f38dd03e43ede187621b031105752f35cddd39ae5f61209eb044b01"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/millstone_diagram.png"
-hash = "68db93172f7916d7d7ee7da349755dadb86dcf0ee8a42f7821138f1ff9c973c0"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/power_diagram.png"
-hash = "e4329a0dcdf39f62b4e2dee265c1ac4da8fcf9c39255103f7e87e69a8fe9487c"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/press_diagram.png"
-hash = "6419279b084ee81acb6e56632f04bec229df84eed4765413c5335ef7f3ffa45f"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/roots/hands_in_harmony.png"
-hash = "07b6b009dabd008e0594e9e5af30958b1df7ced3698965d99f9dd54721c25d3c"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/roots/harvests_small_and_sweet.png"
-hash = "2e1dee062be3c00617c29cb6d90ea8d32b4d6596ad295d921011fff242be01c2"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/roots/nights_that_hold_you.png"
-hash = "2709dbfe47ee9b4177b2bc5c4472ca9f9bdf8aee15693478c5330f3747654d2b"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/roots/of_soil_and_sky.png"
-hash = "a1856ef738199bb151d96fb87ef76b7a4a6c773c2ea11305deeb3dea47eb80f3"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/roots/pages_yet_to_grow.png"
-hash = "8fe0b41a8a02afd3b4f09befa18c232800cd71ebeae6eab957e85d8fba985632"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/roots/the_language_of_leaves.png"
-hash = "619693a3323a8c6a04ffd60b43835981443aac17f18653c9f8781c68e15f1f84"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/roots/the_shape_of_shelter.png"
-hash = "d3f47394fc9341303a7691f325d631b75d73bfd9cc8db2872040413de6cf330b"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/roots/underfoot_unseen.png"
-hash = "bfc7423fd4ca6ad9dd1c790df41604fd7452e173542ff3e605495d356f13c3d9"
-
-[[files]]
-file = "config/openloader/resources/homestead/assets/homestead/textures/welcome/logo.png"
-hash = "cdca9a072b3e382ebd659dd8992ec3e765dd6afa7dc358ef40b4a4243e6804f7"
-
-[[files]]
-file = "config/openloader/resources/homestead/pack.mcmeta"
-hash = "83cd35a6182636fd236fdde14f91a1b18ce999c9582e94355ed88767c86a7f60"
-
-[[files]]
-file = "config/openloader/resources/patchouli/assets/patchouli/textures/item/book_brown.png"
-hash = "3e163c65c9cc3e095b8d223681616ee1c6b20777741939b7a38eab7fdcb4c8f3"
-
-[[files]]
-file = "config/openloader/resources/patchouli/assets/patchouli/textures/item/book_green.png"
-hash = "b0aa41526703f754e6b390fb62385701ccfdda03a0fdfcdbeda8cb7a92084ac3"
-
-[[files]]
-file = "config/openloader/resources/patchouli/pack.mcmeta"
-hash = "bdb2ee5c09b868f2e92d83757bbd483784fd20e8115ff0151a39fb69472331fc"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
@@ -3958,11 +3790,6 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "196fe316fa86c8fa2be90d227932a132dd037d54b961e1b98f7cdc0a161d5623"
-metafile = true
-
-[[files]]
-file = "mods/create-questing.pw.toml"
-hash = "e8a923898a025c633a45602876326a245aa78fd74707653e4f92e1d48efeba56"
 metafile = true
 
 [[files]]

@@ -8,7 +8,7 @@
 	images: [
 		{
 			height: 8.0d
-			image: "ftbquests:textures/homestead/tranquili_tea.png"
+			image: "ftbquests:textures/headers/tranquili_tea.png"
 			rotation: 0.0d
 			width: 14.0d
 			x: -0.5d
