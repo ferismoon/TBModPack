@@ -5348,11 +5348,6 @@ hash = "b43d84d2d1cd580128cf670622dd50dd1d23e81741f09c62e66ebaef1d0b8d39"
 metafile = true
 
 [[files]]
-file = "mods/uncraft-everything.pw.toml"
-hash = "843ee2a6cf1391fd0c87fd99444c90b6d091bb204d98454eb7a2cf9a69e02289"
-metafile = true
-
-[[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "753938eff8d34ad6049df7002fef31d226d59f83758fdb8fc15e650beb4a71fa"
 metafile = true
