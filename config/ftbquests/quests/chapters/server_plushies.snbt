@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "server_plushies"
-	group: "36B1DCE2E00AEF8D"
+	group: ""
 	icon: "phomesteadplushies:homestead_player_27"
 	id: "6B741A2D90000001"
 	order_index: 0

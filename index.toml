@@ -869,10 +869,6 @@ file = "config/ftbquests/quests/chapters/liquid_courage.snbt"
 hash = "cc0d87d7725e921098e42f9a39eb057bd17853ff1d262c9dceffa9bf47eddee6"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/mastery.snbt"
-hash = "445361092cbc681832243d1bf422405cb82d639089dfa373fabc9c5b285c940e"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/of_vines_and_vintage.snbt"
 hash = "1052066a184816e5167029ea6053b979bf934f9b2aa5984fdaa7005b6303498c"
 
@@ -886,7 +882,7 @@ hash = "6dfdb032a6205e063206bc28bd3bcf6005132e44b1b5ae10c69b628a9a3286c8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/server_plushies.snbt"
-hash = "b9b75a5eefe3f01fc0996ea594454088804a5bd66b15f63f93ed10b05faa2c9a"
+hash = "9a48ce4174af396fd0bcf52dea6ca5faba26e89c23be71ffb82f5012fdc3a1d2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/shaped_with_care.snbt"
@@ -4741,6 +4737,11 @@ metafile = true
 [[files]]
 file = "mods/nuit.pw.toml"
 hash = "329335dea58d3cd0b4adbf14a62b7b09dc94d3e1823a01a2701ecfe87a722ffa"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "94db1a841d935c5d3796bde5a9427c519550f5c2f81473a08ae3fa4e178cfa37"
 metafile = true
 
 [[files]]
