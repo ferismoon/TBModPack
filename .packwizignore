@@ -11,3 +11,6 @@
 
 # Local UI reference textures and editing workspace
 /ui-workshop/**
+
+# Local quest planning and previews (also covered by /docs/**)
+/docs/quest-planning/**
