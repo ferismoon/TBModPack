@@ -833,30 +833,6 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e418e24ae67e4606f20ff1fc7edb77100c0a3373f6dd1439a290c066691ff7ce"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/00_a_foothold.snbt"
-hash = "3a2b2c52809978132e6b6f8c6303c383fa1f21f2b0e79a6050f0669505e86ac5"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/01_Local_Operations.snbt"
-hash = "539b67eed216e8995ac1881820acea40a197a1229cfffb89ab7ddeba653c983a"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/10_mechanic_movement.snbt"
-hash = "5c09fb53d667e699f9e362845bfcd32c199ac128f0fdf26cfb8024bff92eacb8"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/10_mechanic_production.snbt"
-hash = "d400ce3ee821a305cde1bffdb066052ac11b1553f3049e348d0c224c0bce8cf3"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/10_mechanic_specialists.snbt"
-hash = "362431bb0566a46ebf19e3c72d54b8faccce6ebed3d89eb995b986f3fbc9b98b"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/10_mechanic_workshop.snbt"
-hash = "aa8303bd0819f5601052b5480d83462ac463bd1a2c43e5f5102d64b0d313e882"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/catch_of_the_day.snbt"
 hash = "9190b9c2936ba6c1be4b9eed35ec883fb8b4445e0ea073b9d1c23382dd4501ad"
 
@@ -1489,26 +1465,6 @@ metafile = true
 file = "config/openloader/data/repurposed-structures-villagerplus-compat.pw.toml"
 hash = "4d07d7e3d82d5aad8a34638aacfcfc2b5fbc14ea7f9acefad63309a15f77f1b7"
 metafile = true
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/chapters/a_foothold.png"
-hash = "bf03b14d72e305f266367a487cccba96f611030157eb75265072c9df52a6839e"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/chapters/mechanic_movement.png"
-hash = "981135b6fe1ed30a220f7a5acee459647e2f32b6cacbc311cb9dc165c4d249ca"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/chapters/mechanic_production.png"
-hash = "3cfba59c348a4dbc1b5a7f3ab8a661e25ceca845b3d8f60c6be8aa880ef3a5f4"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/chapters/mechanic_specialists.png"
-hash = "831dbee9a25efc19b1bcf976a265e9c87180de551102af306586760bfaed6ab7"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/chapters/mechanic_workshop.png"
-hash = "b15e16713df946d9dbe8d05db6dede208dff0daafe122ff922c841aab4e343a4"
 
 [[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/catch_of_the_day.png"
