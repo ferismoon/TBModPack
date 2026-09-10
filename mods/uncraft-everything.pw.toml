@@ -1,0 +1,13 @@
+name = "Uncraft Everything"
+filename = "uncrafteverything-1.9.2+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9cz66Qto/versions/LLoRc6Bv/uncrafteverything-1.9.2%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "d676e5f958ec4891a5449c2b836bd3233ef73cbb81a7d680683252610db52d43ca0e411a45546afb74caa48a6daeaeac7688109949239610d4dc097e1427af80"
+
+[update]
+[update.modrinth]
+mod-id = "9cz66Qto"
+version = "LLoRc6Bv"

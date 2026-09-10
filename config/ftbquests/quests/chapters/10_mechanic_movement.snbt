@@ -1,0 +1,272 @@
+{
+	"filename": "10_mechanic_movement",
+	"id": "495E10604ED11DBD",
+	"group": "467500E1577FFE6F",
+	"title": "Movement \\& Delivery",
+	"icon": "create:track",
+	"order_index": 2,
+	"default_quest_shape": "circle",
+	"default_hide_dependency_lines": false,
+	"quest_links": [],
+	"quests": [{
+			"id": "524F9173D0EF02EF",
+			"title": "Choose the Journey",
+			"subtitle": "Optional guidance",
+			"icon": "create:super_glue",
+			"x": 0.0d,
+			"y": -7.0d,
+			"size": 0.95d,
+			"shape": "square",
+			"optional": true,
+			"description": ["Choose something worth moving: a harvest, a platform, passengers or supplies. These are independent projects; you do not need a railway to finish a moving machine."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "Choose a movement or delivery project",
+					"id": "2EB698483BD077ED"
+				}],
+			"rewards": [{
+					"id": "1283BE906987C56F",
+					"type": "item",
+					"item": "minecraft:slime_ball",
+					"count": 4
+				}]
+		}, {
+			"id": "4758FEAE56DA2280",
+			"title": "Make It Move",
+			"subtitle": "Project — confirm after testing",
+			"icon": "create:mechanical_bearing",
+			"x": -5.0d,
+			"y": -3.4d,
+			"size": 1.35d,
+			"shape": "diamond",
+			"optional": true,
+			"description": ["Build a small moving assembly using a bearing, piston, pulley or minecart. Test its travel and return before adding a working tool."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "My assembly moved and returned safely",
+					"id": "34769D89149CCE94"
+				}],
+			"rewards": [{
+					"id": "25F16FC582807712",
+					"type": "item",
+					"item": "create:linear_chassis",
+					"count": 4
+				}]
+		}, {
+			"id": "6802963B36AD1D93",
+			"title": "All Aboard",
+			"subtitle": "Optional practice",
+			"icon": "create:track_station",
+			"x": 0.0d,
+			"y": -3.4d,
+			"size": 0.95d,
+			"shape": "circle",
+			"optional": true,
+			"description": ["Assemble a train at a station. Keep the first design small and leave enough clear track to test it."],
+			"tasks": [{
+					"type": "advancement",
+					"advancement": "create:train",
+					"criterion": "",
+					"title": "Assemble your first Train",
+					"id": "1AE4D633CF18EFF4"
+				}],
+			"rewards": [{
+					"id": "62AD191DA8B2E21E",
+					"type": "item",
+					"item": "create:track",
+					"count": 32
+				}]
+		}, {
+			"id": "5AC7A43CBEDBFC4A",
+			"title": "Pack the Order",
+			"subtitle": "Optional practice",
+			"icon": "create:packager",
+			"x": 5.0d,
+			"y": -3.4d,
+			"size": 0.95d,
+			"shape": "circle",
+			"optional": true,
+			"description": ["Use a packager to take items from an inventory and make a package. Check its addressing controls before designing a delivery route."],
+			"tasks": [{
+					"type": "advancement",
+					"advancement": "create:packager",
+					"criterion": "",
+					"title": "Package items from an inventory using the Packager",
+					"id": "75D4761951506A70"
+				}],
+			"rewards": [{
+					"id": "68CDDFBBC0BA0806",
+					"type": "item",
+					"item": "create:cardboard",
+					"count": 16
+				}]
+		}, {
+			"id": "4E91CC87FACA0217",
+			"title": "Unload Without Dismantling",
+			"subtitle": "Optional practice",
+			"icon": "create:portable_storage_interface",
+			"x": -5.0d,
+			"y": -0.7d,
+			"size": 0.95d,
+			"shape": "circle",
+			"optional": true,
+			"description": ["Transfer items to or from a contraption with a portable storage interface. Ponder shows the docking arrangement and required gap."],
+			"tasks": [{
+					"type": "advancement",
+					"advancement": "create:portable_storage_interface",
+					"criterion": "",
+					"title": "Use a Portable Storage Interface to take or insert items into a Contraption",
+					"id": "50BDC2A576DD490E"
+				}],
+			"rewards": [{
+					"id": "032B071043AD8030",
+					"type": "item",
+					"item": "minecraft:barrel",
+					"count": 4
+				}]
+		}, {
+			"id": "0A85781D365EE248",
+			"title": "Give It a Timetable",
+			"subtitle": "Optional practice",
+			"icon": "create:schedule",
+			"x": 0.0d,
+			"y": -0.7d,
+			"size": 0.95d,
+			"shape": "circle",
+			"optional": true,
+			"description": ["Give a train driver a schedule. Choose stops and waiting conditions that match the route’s purpose."],
+			"tasks": [{
+					"type": "advancement",
+					"advancement": "create:conductor",
+					"criterion": "",
+					"title": "Instruct a Train driver with a Train Schedule",
+					"id": "752D3AA958510BD6"
+				}],
+			"rewards": [{
+					"id": "251356EB3FCAC047",
+					"type": "item",
+					"item": "create:track",
+					"count": 32
+				}]
+		}, {
+			"id": "48CC7A51BA9043B3",
+			"title": "Special Delivery",
+			"subtitle": "Optional practice",
+			"icon": "create:package_frogport",
+			"x": 5.0d,
+			"y": -0.7d,
+			"size": 0.95d,
+			"shape": "circle",
+			"optional": true,
+			"description": ["Catch a package from a chain conveyor with a frogport. Use matching addresses so the parcel reaches the intended destination."],
+			"tasks": [{
+					"type": "advancement",
+					"advancement": "create:frogport",
+					"criterion": "",
+					"title": "Catch packages from your Chain Conveyor using a Frogport",
+					"id": "5ACEA807F91C3CA7"
+				}],
+			"rewards": [{
+					"id": "68A96B2DF7E4A4ED",
+					"type": "item",
+					"item": "minecraft:chain",
+					"count": 16
+				}]
+		}, {
+			"id": "37C43E1CE550C9E2",
+			"title": "A Machine with a Route",
+			"subtitle": "Project — confirm after testing",
+			"icon": "create:mechanical_harvester",
+			"x": -5.0d,
+			"y": 3.4d,
+			"size": 1.35d,
+			"shape": "diamond",
+			"optional": true,
+			"description": ["Use a moving assembly to harvest, drill, lift or perform another useful job. Collect the result and return the machine ready for another run."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "My moving machine finished a useful job and returned",
+					"id": "152131999A515748"
+				}],
+			"rewards": [{
+					"id": "62AC3DFD87A3DA2E",
+					"type": "item",
+					"item": "create:linear_chassis",
+					"count": 8
+				}]
+		}, {
+			"id": "265E00EB440AB829",
+			"title": "A Railway with a Purpose",
+			"subtitle": "Project — confirm after testing",
+			"icon": "create:track_station",
+			"x": 0.0d,
+			"y": 3.4d,
+			"size": 1.35d,
+			"shape": "diamond",
+			"optional": true,
+			"description": ["Carry passengers or a useful load between two stations and return. Steam ’n’ Rails adds conductors and railway options; use the ones that help your route."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "My train completed a useful return service",
+					"id": "06A64F74067C1561"
+				}],
+			"rewards": [{
+					"id": "3035EC57134E00F8",
+					"type": "item",
+					"item": "create:track",
+					"count": 64
+				}]
+		}, {
+			"id": "41CD08047CF81AC8",
+			"title": "Order to Door",
+			"subtitle": "Project — confirm after testing",
+			"icon": "create:stock_ticker",
+			"x": 5.0d,
+			"y": 3.4d,
+			"size": 1.35d,
+			"shape": "diamond",
+			"optional": true,
+			"description": ["Request stock and deliver the correct package to its destination. Use Create’s stock tools and your chosen transport; test with a small order first."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "A requested order arrived with the correct contents",
+					"id": "14D8B6CC35F2A1D5"
+				}],
+			"rewards": [{
+					"id": "7B4851E28D3030DB",
+					"type": "item",
+					"item": "create:cardboard",
+					"count": 32
+				}]
+		}, {
+			"id": "12494274BBB8918C",
+			"title": "A Reliable Service",
+			"subtitle": "Path milestone — confirm after testing",
+			"icon": "create:track",
+			"x": 0.0d,
+			"y": 6.3d,
+			"size": 1.35d,
+			"shape": "diamond",
+			"optional": false,
+			"description": ["Choose one route or moving machine and complete three useful runs. Fix any docking, timing or unloading problem before confirming."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "One service completed three useful runs",
+					"id": "490755569FA97B5F"
+				}],
+			"rewards": [{
+					"id": "0A9F85878FE9A18B",
+					"type": "item",
+					"item": "minecraft:iron_ingot",
+					"count": 24
+				}]
+		}],
+	"images": [{
+			"image": "ftbquests:textures/chapters/mechanic_movement.png",
+			"x": 0.0d,
+			"y": 0.0d,
+			"width": 18.0d,
+			"height": 20.0d,
+			"order": -100
+		}]
+}

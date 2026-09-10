@@ -1,0 +1,13 @@
+name = "Scarecrows' Territory"
+filename = "scarecrowsterritory-1.1.11a-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1RaTTUPz/versions/AOIPgdyk/scarecrowsterritory-1.1.11a-fabric-mc1.20.jar"
+hash-format = "sha512"
+hash = "d8c69c620d4e17191896069ee3251846c21211f1fde22fd33c028f588e8883ebe3a310e0892184e6934d61fc2f7fc0f53509800b5a70f4482e9ec51840ad6935"
+
+[update]
+[update.modrinth]
+mod-id = "1RaTTUPz"
+version = "AOIPgdyk"

@@ -1,0 +1,279 @@
+{
+	"filename": "10_mechanic_workshop",
+	"id": "71B0410094DE5561",
+	"group": "467500E1577FFE6F",
+	"title": "Your First Workshop",
+	"icon": "create:wrench",
+	"order_index": 0,
+	"default_quest_shape": "circle",
+	"default_hide_dependency_lines": false,
+	"quest_links": [],
+	"quests": [{
+			"id": "55DFC34D838C36E4",
+			"title": "The Mechanic",
+			"subtitle": "Optional guidance",
+			"icon": "create:wrench",
+			"x": 0.0d,
+			"y": -7.0d,
+			"size": 0.95d,
+			"shape": "square",
+			"optional": true,
+			"description": ["Choose a job you want machinery to do. Chapters are open; small quests are optional. Each task has an item reward. Diamond projects use your confirmation; existing and shared machines count. Agree with your quest team before confirming."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "Choose a useful job for your workshop",
+					"id": "55DB336E83F1FD2F"
+				}],
+			"rewards": [{
+					"id": "5BD5E79D5359F810",
+					"type": "item",
+					"item": "create:andesite_alloy",
+					"count": 2
+				}]
+		}, {
+			"id": "496BAE46FC7CCE98",
+			"title": "See It in Motion",
+			"subtitle": "Optional guidance",
+			"icon": "minecraft:book",
+			"x": -5.0d,
+			"y": -3.4d,
+			"size": 0.95d,
+			"shape": "square",
+			"optional": true,
+			"description": ["Open a Ponder scene for a machine you want to use. Watch how power reaches it, then check its current recipe in REI."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "Watch a relevant Ponder scene",
+					"id": "103B4C6D6392B974"
+				}],
+			"rewards": [{
+					"id": "25C5C978E0BCA503",
+					"type": "item",
+					"item": "minecraft:iron_nugget",
+					"count": 8
+				}]
+		}, {
+			"id": "7642651BD5DA2B96",
+			"title": "Tools of the Trade",
+			"subtitle": "Optional practice",
+			"icon": "create:wrench",
+			"x": 0.0d,
+			"y": -3.4d,
+			"size": 0.95d,
+			"shape": "circle",
+			"optional": true,
+			"description": ["Have a wrench ready for adjusting machinery. Use it to rotate a part or recover one before rebuilding your power route."],
+			"tasks": [{
+					"type": "item",
+					"item": "create:wrench",
+					"count": 1,
+					"consume_items": false,
+					"only_from_crafting": false,
+					"match_nbt": false,
+					"title": "Have 1 Wrench",
+					"id": "60F856CCD8BEBFA1"
+				}],
+			"rewards": [{
+					"id": "7D5971ABC36A01AA",
+					"type": "item",
+					"item": "create:shaft",
+					"count": 4
+				}]
+		}, {
+			"id": "2B7F4218B12925E2",
+			"title": "Your First Sheets",
+			"subtitle": "Optional practice",
+			"icon": "create:mechanical_press",
+			"x": 5.0d,
+			"y": -3.4d,
+			"size": 0.95d,
+			"shape": "circle",
+			"optional": true,
+			"description": ["Use a powered press to flatten ingots. Ponder shows the working space beneath it; this task tracks Create’s pressing advancement."],
+			"tasks": [{
+					"type": "advancement",
+					"advancement": "create:mechanical_press",
+					"criterion": "",
+					"title": "Create some sheets in a Mechanical Press",
+					"id": "2AEF830E81928675"
+				}],
+			"rewards": [{
+					"id": "027952E934AFCB5F",
+					"type": "item",
+					"item": "minecraft:iron_ingot",
+					"count": 4
+				}]
+		}, {
+			"id": "5C252480DD749C82",
+			"title": "Let the River Work",
+			"subtitle": "Optional practice",
+			"icon": "create:water_wheel",
+			"x": -5.0d,
+			"y": -0.7d,
+			"size": 0.95d,
+			"shape": "circle",
+			"optional": true,
+			"description": ["Place a water wheel in moving water to generate rotation. This is one power option; the workshop project accepts other sources too."],
+			"tasks": [{
+					"type": "advancement",
+					"advancement": "create:water_wheel",
+					"criterion": "",
+					"title": "Place a Water Wheel and use it to generate torque",
+					"id": "0633558BC1598D95"
+				}],
+			"rewards": [{
+					"id": "502BB7C38C57896F",
+					"type": "item",
+					"item": "create:cogwheel",
+					"count": 4
+				}]
+		}, {
+			"id": "19DD398AA41C84C6",
+			"title": "Read the Problem",
+			"subtitle": "Optional practice",
+			"icon": "create:goggles",
+			"x": 0.0d,
+			"y": -0.7d,
+			"size": 0.95d,
+			"shape": "circle",
+			"optional": true,
+			"description": ["Have engineer’s goggles available, then inspect a running network. Speed and stress capacity answer different questions; check both before expanding."],
+			"tasks": [{
+					"type": "item",
+					"item": "create:goggles",
+					"count": 1,
+					"consume_items": false,
+					"only_from_crafting": false,
+					"match_nbt": false,
+					"title": "Have 1 Engineer's Goggles",
+					"id": "3858561EEF58A8B8"
+				}],
+			"rewards": [{
+					"id": "737DDB94C7F234E1",
+					"type": "item",
+					"item": "minecraft:redstone",
+					"count": 8
+				}]
+		}, {
+			"id": "3565F8EE923E2D99",
+			"title": "Grain into Ingredients",
+			"subtitle": "Optional practice",
+			"icon": "create:millstone",
+			"x": 5.0d,
+			"y": -0.7d,
+			"size": 0.95d,
+			"shape": "circle",
+			"optional": true,
+			"description": ["Process a suitable ingredient in a millstone. Check REI for a result your kitchen or workshop actually needs."],
+			"tasks": [{
+					"type": "advancement",
+					"advancement": "create:millstone",
+					"criterion": "",
+					"title": "Use a Millstone to pulverise materials",
+					"id": "12778D6CAF31CCDA"
+				}],
+			"rewards": [{
+					"id": "41C07BD4DD4CD48D",
+					"type": "item",
+					"item": "minecraft:wheat",
+					"count": 8
+				}]
+		}, {
+			"id": "6F63B25B0DA2118B",
+			"title": "Power That Holds",
+			"subtitle": "Project — confirm after testing",
+			"icon": "create:water_wheel",
+			"x": -5.0d,
+			"y": 3.4d,
+			"size": 1.35d,
+			"shape": "diamond",
+			"optional": true,
+			"description": ["Run your chosen machine under load without overstressing the network. Water, wind or another suitable source all count."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "My chosen machine runs under load",
+					"id": "49E90A4FC7D9504D"
+				}],
+			"rewards": [{
+					"id": "0CA929DEC2F83CAD",
+					"type": "item",
+					"item": "create:andesite_alloy",
+					"count": 8
+				}]
+		}, {
+			"id": "1EF567A1DD7C5BB8",
+			"title": "Start, Stop \\& Adjust",
+			"subtitle": "Project — confirm after testing",
+			"icon": "create:clutch",
+			"x": 0.0d,
+			"y": 3.4d,
+			"size": 1.35d,
+			"shape": "diamond",
+			"optional": true,
+			"description": ["Give the machine an accessible stop control and test it. Set its direction and speed for the job, then restart successfully."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "I tested stopping and restarting the machine",
+					"id": "29B5190396B1D858"
+				}],
+			"rewards": [{
+					"id": "3DB0B99E37D464D4",
+					"type": "item",
+					"item": "create:shaft",
+					"count": 8
+				}]
+		}, {
+			"id": "7051D2FF73F3312E",
+			"title": "A Job Off Your Hands",
+			"subtitle": "Project — confirm after testing",
+			"icon": "create:mechanical_press",
+			"x": 5.0d,
+			"y": 3.4d,
+			"size": 1.35d,
+			"shape": "diamond",
+			"optional": true,
+			"description": ["Use your powered workshop to finish a useful batch of at least eight outputs. Choose the recipe yourself and keep the result."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "My workshop completed a useful batch",
+					"id": "5D9F80327FAAC5A0"
+				}],
+			"rewards": [{
+					"id": "52C55DE6FEC1C8AA",
+					"type": "item",
+					"item": "minecraft:copper_ingot",
+					"count": 8
+				}]
+		}, {
+			"id": "75141ED958DA6F91",
+			"title": "Open for Business",
+			"subtitle": "Path milestone — confirm after testing",
+			"icon": "create:goggles",
+			"x": 0.0d,
+			"y": 6.3d,
+			"size": 1.35d,
+			"shape": "diamond",
+			"optional": false,
+			"description": ["Your workshop has dependable power, usable controls and a finished job. Claim supplies for its next improvement; none of the optional examples is required."],
+			"tasks": [{
+					"type": "checkmark",
+					"title": "The workshop is ready for its next job",
+					"id": "72FA6793D6964993"
+				}],
+			"rewards": [{
+					"id": "0103F09DFB6725C0",
+					"type": "item",
+					"item": "create:andesite_casing",
+					"count": 8
+				}],
+			"dependencies": ["6F63B25B0DA2118B", "1EF567A1DD7C5BB8", "7051D2FF73F3312E"]
+		}],
+	"images": [{
+			"image": "ftbquests:textures/chapters/mechanic_workshop.png",
+			"x": 0.0d,
+			"y": 0.0d,
+			"width": 18.0d,
+			"height": 20.0d,
+			"order": -100
+		}]
+}

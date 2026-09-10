@@ -830,11 +830,31 @@ hash = "1011689ba5223c20610134263e61176d55db945b5a3ea75c2ddd5e7911240222"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "6eb943a2b7bdfb5fea21028331b80b351b41f275e7c7639e07676696b906cba3"
+hash = "e418e24ae67e4606f20ff1fc7edb77100c0a3373f6dd1439a290c066691ff7ce"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/00_a_foothold.snbt"
+hash = "3a2b2c52809978132e6b6f8c6303c383fa1f21f2b0e79a6050f0669505e86ac5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/01_Local_Operations.snbt"
 hash = "539b67eed216e8995ac1881820acea40a197a1229cfffb89ab7ddeba653c983a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/10_mechanic_movement.snbt"
+hash = "5c09fb53d667e699f9e362845bfcd32c199ac128f0fdf26cfb8024bff92eacb8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/10_mechanic_production.snbt"
+hash = "d400ce3ee821a305cde1bffdb066052ac11b1553f3049e348d0c224c0bce8cf3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/10_mechanic_specialists.snbt"
+hash = "362431bb0566a46ebf19e3c72d54b8faccce6ebed3d89eb995b986f3fbc9b98b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/10_mechanic_workshop.snbt"
+hash = "aa8303bd0819f5601052b5480d83462ac463bd1a2c43e5f5102d64b0d313e882"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/catch_of_the_day.snbt"
@@ -1469,6 +1489,26 @@ metafile = true
 file = "config/openloader/data/repurposed-structures-villagerplus-compat.pw.toml"
 hash = "4d07d7e3d82d5aad8a34638aacfcfc2b5fbc14ea7f9acefad63309a15f77f1b7"
 metafile = true
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/chapters/a_foothold.png"
+hash = "bf03b14d72e305f266367a487cccba96f611030157eb75265072c9df52a6839e"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/chapters/mechanic_movement.png"
+hash = "981135b6fe1ed30a220f7a5acee459647e2f32b6cacbc311cb9dc165c4d249ca"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/chapters/mechanic_production.png"
+hash = "3cfba59c348a4dbc1b5a7f3ab8a661e25ceca845b3d8f60c6be8aa880ef3a5f4"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/chapters/mechanic_specialists.png"
+hash = "831dbee9a25efc19b1bcf976a265e9c87180de551102af306586760bfaed6ab7"
+
+[[files]]
+file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/chapters/mechanic_workshop.png"
+hash = "b15e16713df946d9dbe8d05db6dede208dff0daafe122ff922c841aab4e343a4"
 
 [[files]]
 file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/catch_of_the_day.png"
@@ -3843,6 +3883,11 @@ hash = "d5ef3b8c25e25ecd94336ebd124a524f06216953daaf1150a7ad1bc9d7847651"
 metafile = true
 
 [[files]]
+file = "mods/custom-disenchanter.pw.toml"
+hash = "a8bb10ca132622e3aaf233b3f2ca321c23ae76cf48fc2b2972df253325de0042"
+metafile = true
+
+[[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "96a120672fa94aa0235ebbc7520583af225f9f994c2eebd87a22b83459a6877e"
 metafile = true
@@ -4983,6 +5028,11 @@ hash = "f6da78a493781359587345267ec576d4bd75724935a8795a79883612192d368e"
 metafile = true
 
 [[files]]
+file = "mods/scarecrows-territory.pw.toml"
+hash = "bf56082c48edd9cbdd23f7911a0a55d46f550a4e94082e8a22ffe9026c5bd0d1"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "f1fdfc6922a381cbd076ff9462ca4fc2d88b4ecbf145aef34267898870c901c1"
 metafile = true
@@ -5198,8 +5248,13 @@ hash = "7d6e5783418b2856dc25c536997ca918017477cae72e837d3ef8e6fac7f1459e"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "01517bbce0fa34ab1a08764bb169c532e9cb4e30df04b838d3e5935692a25491"
+hash = "2cdb12edbde8a61debc9795ac68d17ec93299588de63f89ee017eb427741f263"
 metafile = true
 
 [[files]]
@@ -5333,6 +5388,11 @@ metafile = true
 [[files]]
 file = "mods/typewriter-daycounter.pw.toml"
 hash = "b43d84d2d1cd580128cf670622dd50dd1d23e81741f09c62e66ebaef1d0b8d39"
+metafile = true
+
+[[files]]
+file = "mods/uncraft-everything.pw.toml"
+hash = "843ee2a6cf1391fd0c87fd99444c90b6d091bb204d98454eb7a2cf9a69e02289"
 metafile = true
 
 [[files]]
