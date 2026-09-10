@@ -833,6 +833,10 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e418e24ae67e4606f20ff1fc7edb77100c0a3373f6dd1439a290c066691ff7ce"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/01_getting_started.snbt"
+hash = "e400c3c305f41c2a374cd9834a9c317092d2718feeeccef911cf55225e3602a1"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/catch_of_the_day.snbt"
 hash = "9190b9c2936ba6c1be4b9eed35ec883fb8b4445e0ea073b9d1c23382dd4501ad"
 
