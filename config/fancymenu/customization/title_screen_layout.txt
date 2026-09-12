@@ -11,7 +11,6 @@ layout-meta {
   layout_index = 0
   [loading_requirement_container_meta:5d664dc8-41a9-4740-ba30-d61bd478b4e4-1779128433410] = [groups:][instances:8fb567b6-e12f-4e4c-bb23-cb4a0b5bc7e7-1744406601213;a2cd1ae2-d38e-416f-a725-8905ebe32c4a-1746337963024;]
   [loading_requirement:fancymenu_visibility_requirement_is_layout_enabled][requirement_mode:if_not][req_id:8fb567b6-e12f-4e4c-bb23-cb4a0b5bc7e7-1744406601213] = title_layout_noftb
-  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:a2cd1ae2-d38e-416f-a725-8905ebe32c4a-1746337963024] = questsadditions
 }
 
 customization {

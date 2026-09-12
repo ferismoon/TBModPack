@@ -274,7 +274,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "7f549673a41d3874bdbacae213088a12fcb5dc89d7edd0b9e420a53d0723c190"
+hash = "dedcf96a7bf06107daf2126af801b0de02abdae9332aa84fba97b9e31109bfbc"
 
 [[files]]
 file = "config/celesteconfig.toml"
@@ -394,7 +394,7 @@ hash = "1a5b9ac6cb8d1d13a754b47e1aa154105aa34dd3c740bfd6f743f6083c1f1ba7"
 
 [[files]]
 file = "config/cozystudioscore/auto_ftb_mods.json"
-hash = "5c754425678e3a994a86906659ae9a54b26f0948cda44e7901bdd67ee82985df"
+hash = "7bef3c389c54abbbdc2b310f3506c15b7212e67b4f6f571477035a4dc1db7039"
 
 [[files]]
 file = "config/cozystudioscore/fernling.json"
@@ -518,7 +518,7 @@ hash = "52bd156b38f6ad34f735b8a225987b7cd93b626172e945f194f5601990df26e3"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "e3e45ae1db10b4703dd9c658bff4847bc414f7b8895f6ed0977c160a4a893807"
+hash = "78f5f3bc3e97f8de800baabd46d96dbbaf5c94f047771b1ff91a3280ccf7c558"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -714,7 +714,7 @@ hash = "d0021532df9622867336c53f8bf596f12b7d56f04e52d3a660ed9d49c46ffd39"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "c2bda78bacd8fe0f0ecd89338b01d2f656ce3ff0e1e8ee26ef09e0c66da01afe"
+hash = "2a5f82ded256b4c7f5771985ee1cd260a62edd67f703cd6490db644dadc91958"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -827,146 +827,6 @@ hash = "b49a926aad6a7158fed118154239e65e94b688fb1fe8e53e561773eab6843d80"
 [[files]]
 file = "config/fsb-interop.json"
 hash = "1011689ba5223c20610134263e61176d55db945b5a3ea75c2ddd5e7911240222"
-
-[[files]]
-file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "e418e24ae67e4606f20ff1fc7edb77100c0a3373f6dd1439a290c066691ff7ce"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/01_getting_started.snbt"
-hash = "e400c3c305f41c2a374cd9834a9c317092d2718feeeccef911cf55225e3602a1"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/catch_of_the_day.snbt"
-hash = "9190b9c2936ba6c1be4b9eed35ec883fb8b4445e0ea073b9d1c23382dd4501ad"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/deep_dark_secrets.snbt"
-hash = "ed85524445154265ded9c1e69268e0e2967c22eaebf1fba62d9582f25bb6f4a0"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/echoes_of_the_void.snbt"
-hash = "0a8951fbc3ecde755f1fadb22706464cda2b6561fa5db0f57b87709064baa8bb"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/embers_beneath.snbt"
-hash = "8d72bb2f6f5ad55957a7b7499f49974c609f2f8536464ab7c575a1994ef2fb09"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/forged_fables.snbt"
-hash = "217fca058726d7b0f3bb32b0881f023d5ce40b0198c607d4bf1032ce14dd80b0"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/herbal_hexesz.snbt"
-hash = "a6528184e0df50605421b43231671a17db6900b1e3bc782b23223bd41b6551bc"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/homestead.snbt"
-hash = "d678f6fd9aa163a36fa4bc89d836048e515efd1dbb86417080a6e16cea35130b"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/just_some_things.snbt"
-hash = "a32928c46b963e6cc010e27029ddc9df55dc568191fbaf78f1cbe1a0497ec196"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/liquid_courage.snbt"
-hash = "cc0d87d7725e921098e42f9a39eb057bd17853ff1d262c9dceffa9bf47eddee6"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/of_vines_and_vintage.snbt"
-hash = "1052066a184816e5167029ea6053b979bf934f9b2aa5984fdaa7005b6303498c"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/roots_that_run_deep.snbt"
-hash = "79dff72c667b4f62b2b49fa086a3885b1410bc96b4dc2d4aa13d69cf51bded4f"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/seasoned_and_settled.snbt"
-hash = "6dfdb032a6205e063206bc28bd3bcf6005132e44b1b5ae10c69b628a9a3286c8"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/server_plushies.snbt"
-hash = "9a48ce4174af396fd0bcf52dea6ca5faba26e89c23be71ffb82f5012fdc3a1d2"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/shaped_with_care.snbt"
-hash = "df9f2cc6f743ad30619949e8eda339bcb9277613a7b6070e185491775fadf939"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/signals_in_the_stillness.snbt"
-hash = "1d51f21b9941eb675ea1db1188c5b54a038b71f23a3efc77dc8f337baa356994"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/squishy_friends.snbt"
-hash = "15528499650d7baaf567e4821a3eeecb7d55b3113c63607b71c7ff2fbc3c37ad"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/the_heart_of_the_homestead.snbt"
-hash = "02d48097bd90cea3c50277db5fd60691a009473f8bb70efa29d09c452acf9975"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/the_portable_life.snbt"
-hash = "c1b0e554e6fb799801d46f90f9a9e3c61216abe34ad5621bd6c6adeff5a8b03b"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/tidy_corners.snbt"
-hash = "4276aa5d5c3a87c471d5ac095e962c09d3cc63701fd2d8caef77f2b4ce4f2ebf"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/timber_and_time.snbt"
-hash = "8485e991b91cf04a66bd0fed196d3269b75ef8d7e49ca99a0138ea6b4e1f6f25"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/tips.snbt"
-hash = "946c90ffe76dd1ab35cb98ff20a8f9e4d35786a65d2616e20e56f4fbf304b74a"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/tranquilitea.snbt"
-hash = "13b9f4d8f66a1b83abd40a5f9f0438337ae8b5f6d53f8445bfc8b25ea2040379"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/whispers_of_the_wilds.snbt"
-hash = "d35575f3079636a0ef0b1bf8e86120b3c394e8dbc2e67e373618b4540fe0b76b"
-
-[[files]]
-file = "config/ftbquests/quests/data.snbt"
-hash = "ab2e7a5a60773dfdb6047ba335bb4c6e57fba9304e5f45e0084d3389866146a8"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/alchemy.snbt"
-hash = "c687cd373492fe7a65294e790544abc277ccecaee1c782a1184323bc71bb5998"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/flowers.snbt"
-hash = "9dcf0e4a20f920fbdd36cf90632238277f786637fd4e953100030eb043eaf3e0"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/logs.snbt"
-hash = "663e83105dcad03246c91707a22fc3f3aeab3c8e72b59c3fc0278ad116e4d008"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/op_items.snbt"
-hash = "dcd9f091767beb5f444b77260148212dde3ecf22f374cf297c8f48e9b797f269"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/plushies.snbt"
-hash = "303e1980efe2920a02edea830e7620beae0aebbca2893832acdab7d699e2f841"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/random_rewards.snbt"
-hash = "6991bfba2a1d6ffbac6efa8019ca1e7cd3b599aeab4f2d1fe4c660831c7b74ca"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/stone.snbt"
-hash = "8f3faaac2748139fdc7b70c473dd6c86a58b8f27ae019eaf7b2bcc401c9e4c3e"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/tinkering.snbt"
-hash = "6d24fd3253412b438b99ca1115216aa61ebd285ceeafcd3aa22ff50fe6c8319a"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/wool.snbt"
-hash = "b0a43f914815faf1b842752466019f323d0c9972aadcc528b8cb9f079a1f328b"
 
 [[files]]
 file = "config/ftbxmodcompat.snbt"
@@ -1354,7 +1214,7 @@ hash = "90801227b20ca4994e596b3ca09252ea650add2ad0c2a295f9b83a36b3d680b9"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "a4e1ec73bfadb3390a7b909d47813a80226a264d32c7cb5512ac3d3542440f57"
+hash = "e9ed01a29a1c4711d68046dc25174b9de6c1b9a49a43ae4a36a6409519bfc737"
 
 [[files]]
 file = "config/mousewheelie.hjson"
@@ -1465,174 +1325,6 @@ metafile = true
 file = "config/openloader/data/repurposed-structures-villagerplus-compat.pw.toml"
 hash = "4d07d7e3d82d5aad8a34638aacfcfc2b5fbc14ea7f9acefad63309a15f77f1b7"
 metafile = true
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/catch_of_the_day.png"
-hash = "3ac168699a1da38fc95f9938b17a0fafaad4be4fee7ee6834460c68fcb005ad8"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/cogs_and_whimsy.png"
-hash = "9cee760e66f0ad85996a64433d4a7a558a0a897ff8bd995bc183ca4524cfafca"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/custom_mod_overview.png"
-hash = "bc614c970bedd9432ab2fef00928673c3f7436f7ad4c084357a18066cd5d4f57"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/deep_dark_secrets.png"
-hash = "d68bea4a7af022750846d69fbde54003a6fabe2cad05e399ac2e5045919d4f13"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/echoes_of_the_void.png"
-hash = "21042616c4d40550580d36fe4b146e8db2c69652c20a99d9d4ec87b023f04040"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/embers_beneath.png"
-hash = "fcb39548740b0f12f128ff1ce2c9fcd3361ae0949096e293e7f8bf6b1b28fe41"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/forged_fables.png"
-hash = "227c95f13ade73e8686c1e7f3d104a1c7d684aaf05ec96c16e7ed80e36611462"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/herbal_hexes.png"
-hash = "1f3365b96c5f391c836cf3210ab79a7b9bfecabe30cf5abe90aeb8b7a76937ea"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/just_some_things.png"
-hash = "e844dd7f08077b76119faa6d7d462d8e098da929084911521b147b9882fd844a"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/liquid_courage.png"
-hash = "8a3a81db1fa27cfb86a66058bfb6411bcdf39d35ce8014042c92c1d989187182"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/roots_that_run_deep.png"
-hash = "7ebc0a3025f4a0a9ad5fead81c91c3c76bcf20a312ae1387ecb0e6478bc2e149"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/seasoned_and_settled.png"
-hash = "b89bef4fdfb3b121be52c9561d12707278e4b05c2ba58145575a55ba0747330d"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/shaped_with_care.png"
-hash = "7add9406fa4e1c63bf569fec415ccd04153172c271cd06e1ab1b6a4ccdf75377"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/signals_in_the_stillness.png"
-hash = "be72d5a902dc5a323b6feec47a06678ba22611d53b0edc0125fc5210ab2ad1e7"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/squishy_friends.png"
-hash = "89521a40d5490f7fe3f489663a6489f273dcc0fd17e520f853e20cf3c74c2241"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/the_first_sprout.png"
-hash = "be438239117e27a99112f7a2c85085d9e392c648800525b99af3e5fc4ed425c6"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/the_heart_of_the_homestead.png"
-hash = "5f2295e979e7423031499cf05341c1599e8a086e4ac8813947d5a7dd9132538e"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/the_portable_life.png"
-hash = "e5b3886237fbcb6cf1e5dd865bbbb91a433d017550aa4ab977a830c5384ed1f5"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/the_whispers_of_the_wilds.png"
-hash = "09d086f42ff443ed452c8e880e2a6938f76e4a8837b19821a5f13a5e6ee3106b"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/tidy_corners.png"
-hash = "3224f0a0e3c804d93c4b35a570a764503a8d210de1fd99e5e7c62ad1b453d39f"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/tranquili_tea.png"
-hash = "7480468d4a21d6cafcb3b9fdcfb818f2e9164e919479b7eda77ac7a9c28067a5"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/headers/vines_and_vintage.png"
-hash = "a535616638a31c9da38ed416e67f876e58f4cdbbdf98566502ec70b412fe1476"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/beer_mug_recipe.png"
-hash = "2034c2d42c021b65fe5d3b50ad99aee5f7693f9d11338382911a35085e411c33"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/brewingstation_recipe.png"
-hash = "be4f3f260a7c2aec5d954dec630e5fc63fdcaac9390ad0b279f3940944135b12"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/bronze_helmet_smithing.png"
-hash = "867a70cfd82586112cc099cd69b5fd6472fafc8f5c6ed2c194c03e448bb5c777"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/bronze_ingot_from_tin_and_copper_ingots.png"
-hash = "ab6a4a016be1e59c74837ea3f1b90649ebd72acff57252f4c867699bc2997db1"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/bronze_template.png"
-hash = "34a7fc8e3248231b58b667c792aa771a31898c7bf0d7b7cbc2f6f1ee3d1cd5f8"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/diamond_helmet_smithing.png"
-hash = "2885f7d5d509d5da691ee10c241ba71ddd5d2f3d2c9f35f329b2c88a688039fa"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/diamond_template.png"
-hash = "231d3389c98c757bfc851750a7cbc4f5d3a393dcb42ae39fdf77bbf7f6029361"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/keg_recipe.png"
-hash = "a83b9dfa77d848de8eb8e673518470cabc1b24efe7acce551a6b2f022da048aa"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/mechanical_crafter_demonstration.png"
-hash = "9a953e6cc940b1e874e0ea4abb50e57edc35dedc4a53c4ffd927a82cbcc6b33c"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/nametag_recipe.png"
-hash = "1c35998ef8c54eaf93c4616e02fce817eff022ae60f9f0d6c8baf67884ab725c"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/netherite_helmet_smithing.png"
-hash = "c91e57b766f79386dfbb1a028f2fd0627b6b39d4ac936d55ae09ce8095fd308b"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/netherite_upgrade_smithing_template.png"
-hash = "d558a2cb127cc72e804a329c5081a4fdad0c6c98b04c7f2abe3d00b344832762"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/obsidian_helmet_smithing.png"
-hash = "6ed8c2d9aa4cdd6fa87ecccc787a9d98c1fa8c7021315fbb19e4072d24c77865"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/obsidian_template.png"
-hash = "97697953f416e14eaa3160db16b16c606d4d5f6c3e92bcc19bffcbb844f11f40"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/ritual_setup.png"
-hash = "3b364c8ae1d3fc332b48eb1e42b32ae863dd9ff4173983a190250066e56b67da"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/rope_recipe.png"
-hash = "7acd3e45b612c5bafa398a741859c6a2c1b88c881caac513a32d98aadbd02f38"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/saddle_recipe.png"
-hash = "12917877788dc578294580667387bad3a21baf26cf1b31c5a0298ca6b521e2ef"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/trowel_recipe.png"
-hash = "a1d9a20bb169bbac41901e40499b089309b5709a9954c987126cd844224625bd"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/assets/ftbquests/textures/recipes/wooden_silo_recipe.png"
-hash = "8239fe7ecf218944c64238e19c0d8c77d3e44ca6070e1b17bce1e3ccdcdad77f"
-
-[[files]]
-file = "config/openloader/resources/ftbquests/pack.mcmeta"
-hash = "8e9cacf81014f3f64ca4be74be9e8c1e3d81cca33f74f6cad27e549542048d31"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
@@ -1792,7 +1484,7 @@ hash = "6eb5169563472ae96184c94e9f42ff7d76fdba403ed3190ffb308e817ea0a21e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "0183b2f2ff4501d694fe88b3f052b22e2749e4a2e689f706f700d220c11d969e"
+hash = "8509fefacf291a509417475412db6b31f278deccf32bce9a2b1d7cefde2e90f9"
 
 [[files]]
 file = "config/rrls.toml"
@@ -1824,7 +1516,7 @@ hash = "c51a8d28d4e34f2fa558cb57aef6e8c023a501c11e2eadf7e4aafdfa8b1032d0"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "f37500e8d3440dc1da3307f0fbbb3a0c181794c844efab9cfeb16564b4f22f3d"
+hash = "ee3e89f0d3fbb2113d4fa9f056bef9764673812c088e49eea2589474949bf477"
 
 [[files]]
 file = "config/simple_copper_pipes.json5"
@@ -1996,7 +1688,7 @@ hash = "290f6b832794b6876aba9da963b585ba4e99e5e6a972aebb52810e9a256e2f65"
 
 [[files]]
 file = "config/starterkit/kits/Welcome.txt"
-hash = "ad171b2b29619fbb1b35bfde138a4152aef830d85b9afe5087fe1dd550865c44"
+hash = "df5aba3a55601012b91dc18b37cf08eea815e3116a51b1680383ed03ab653ad7"
 
 [[files]]
 file = "config/starterkit/kits/inactive/Archer.txt"
@@ -2420,7 +2112,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9204a958aafa4da03d4347497fe8faa65673c8745c178bb900d37b0cd86926fb"
+hash = "14c4de6623ae90f255248ab3e16a0c79558f1a1611be40ae6255e07beb576b87"
 
 [[files]]
 file = "config/yungscavebiomes-fabric-1_20_1.toml"
@@ -2437,10 +2129,6 @@ hash = "4444fa163e029565eb76f6aa55940e99cfcf21727778dd6fcca4f22e1b62e5f6"
 [[files]]
 file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
 hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
-
-[[files]]
-file = "defaultconfigs/ftbquests/client-config.snbt"
-hash = "4ce84f0da35036f810959086ea1043062993bf34ae704fc9cd4f1a67810090a6"
 
 [[files]]
 file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
@@ -4139,11 +3827,6 @@ hash = "0ecc01cccbeb605112e074ecccebbfc9d0ef16a34636bebafb982123f6bdc212"
 metafile = true
 
 [[files]]
-file = "mods/ftb-quests-fabric.pw.toml"
-hash = "01b6cfa8a5f43d7642d2acfbd633f77a9bf8530637b889bed2750578d6b2d5aa"
-metafile = true
-
-[[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
 hash = "8c16d26d5b9bb03da0982af0d7ff7e2aaba6b91e99ab39e5f5b49fc52b1159cf"
 metafile = true
@@ -4744,11 +4427,6 @@ hash = "329335dea58d3cd0b4adbf14a62b7b09dc94d3e1823a01a2701ecfe87a722ffa"
 metafile = true
 
 [[files]]
-file = "mods/numismatics.pw.toml"
-hash = "94db1a841d935c5d3796bde5a9427c519550f5c2f81473a08ae3fa4e178cfa37"
-metafile = true
-
-[[files]]
 file = "mods/obsidian-equipment-reworked.pw.toml"
 hash = "bacfa1b8383cf3656988b44db15b894b4b25b06b88839dd4a16d5859780d6cbb"
 metafile = true
@@ -4891,11 +4569,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "ead2bfc6e6fa3d1f1d82a7f4968ab2c8a712866d635d1875f02936f9ad8aef02"
-metafile = true
-
-[[files]]
-file = "mods/quests-additions-fabric.pw.toml"
-hash = "44136ff02e06aef5861c9c672fb3932fe4a4c45fa03057d68d7f352e1d76cabf"
 metafile = true
 
 [[files]]
@@ -6317,7 +5990,7 @@ hash = "2a1209913dc9d87c7e3a659a36c041436a8a3de3b834d1a85cd13ebb0fc6a3ee"
 
 [[files]]
 file = "scripts/mods/Compat/questbook_recipefix.zs"
-hash = "d33142f0889bf1f7d108b6a144564753c1661bbfceced6cd2636a475534f0ebd"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "scripts/mods/Compat/remove_prismarite_cluster_trim.zs"
