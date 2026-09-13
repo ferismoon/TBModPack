@@ -141,6 +141,9 @@ def main():
     args = parser.parse_args()
     require(not (args.check and args.preview), 'Choose --check or --preview')
     files, report = compile_pack(preview=args.preview)
+    from structure_rewards import compile_structure_script
+    structure_script = compile_structure_script(ROOT)
+    structure_path = ROOT.parent / 'kubejs/server_scripts/generated_structure_rewards.js'
     plushies = read(ROOT / 'player-plushies.json')
     require(0 <= plushies['chance'] <= 1, 'Invalid plushie chance')
     require(len(plushies['targets']) == len(set(plushies['targets'])), 'Duplicate plushie target')
@@ -160,10 +163,16 @@ def main():
     payload = archive_bytes(files)
     destination = ROOT / 'reports/preview.zip' if args.preview else OUTPUT
     if args.check:
+        require(structure_path.is_file() and structure_path.read_bytes() == structure_script, 'Generated structure rewards are stale')
         require(script_path.is_file() and script_path.read_bytes() == script, 'Generated plushie script is stale')
         require(destination.is_file() and destination.read_bytes() == payload, 'Generated datapack is stale; run build.py')
     else:
-        if not args.preview: script_path.write_bytes(script)
+        if not args.preview:
+            script_path.write_bytes(script)
+            structure_path.write_bytes(structure_script)
+        else:
+            (ROOT / 'reports').mkdir(exist_ok=True)
+            (ROOT / 'reports/generated_structure_rewards.js').write_bytes(structure_script)
         destination.parent.mkdir(parents=True, exist_ok=True)
         destination.write_bytes(payload)
         reports = ROOT / 'reports'

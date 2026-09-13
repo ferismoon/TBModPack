@@ -1,0 +1,139 @@
+﻿namespace,name,item_models,native_tables,native_item_routes,java_hook_classes,workshop_entries,status
+advancednetherite,Advanced Netherite,204,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+alcocraftplus,AlcoCraft+,17,11,11,2,0,Native chest-table item references found; Java chest-hook evidence
+amendments,Amendments,2,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+animal_feeding_trough,Animal Feeding Trough,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+bclib,BCLib,2,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+beachparty,[Let's Do] Beachparty,80,8,8,2,6,Native chest-table item references found; Java chest-hook evidence; workshop rewards configured
+beautify,Beautify,56,5,5,0,0,Native chest-table item references found
+bellsandwhistles,Create: Bells & Whistles,38,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+better_crossbows,Better Crossbows,24,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+betterend,betterend,213,13,13,0,1,Native chest-table item references found; retained global modifier; workshop rewards configured
+betterenddelight,BetterEndDelight,53,0,0,0,0,No chest route found in scanned evidence; code/registry review still required; retained global modifier
+biomeswevegone,Oh The Biomes We've Gone,890,18,15,1,0,Native chest-table item references found; Java chest-hook evidence
+blahaj,Blåhaj,3,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+bosses_of_mass_destruction,Bosses of Mass Destruction (Beta),24,3,2,2,0,Native chest-table item references found; Java chest-hook evidence
+brewery,[Let's Do] Brewery,71,6,2,2,0,Native chest-table item references found; Java chest-hook evidence
+camerapture,Camerapture,4,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+candlelight,[Let's Do] Candlelight,200,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+chipped,Chipped,6987,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+clutter,Clutter,1418,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+comforts,Comforts,33,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+constructionwand,Construction Wand (Fabric),10,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+copperagebackport,Copper-Age-Backport,8,0,0,2,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+copycats,Create: Copycats+,45,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+cozystudioscore,Cozy Studios Core,21,2,0,2,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+craftingpad,Crafting Pad,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+cratedelight,Crate Delight,30,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+create,Create,775,0,0,0,19,No chest route found in scanned evidence; code/registry review still required; workshop rewards configured
+create_connected,Create: Connected (Fabric),57,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+create_dragons_plus,Create: Dragons Plus,39,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+create_enchantment_industry,Create: Enchantment Industry,34,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+create_jetpack,Create Jetpack,4,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+create_vibrant_vaults,Create: Vibrant Vaults,165,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+createaddition,Create Crafts & Additions,55,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+createcobblestone,Create Cobblestone,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+createdeco,Create Deco,412,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+creeperoverhaul,Creeper Overhaul,17,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+custom-disenchanter,Custom Disenchanter,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+deeperdarker,Deeper and Darker,298,6,6,2,0,Native chest-table item references found; Java chest-hook evidence
+duckling,Duckling,6,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+dummmmmmy,MmmMmmMmmMmm,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+dustydecorations,Dusty Decorations Refabricated,79,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+endermanoverhaul,Enderman Overhaul,36,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+ends_delight,End's Delight,66,0,0,1,1,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence; workshop rewards configured
+expandeddelight,Expanded Delight,55,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+explorerscompass,Explorer's Compass,32,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+fairylights,Fairy Lights,30,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+farm_and_charm,[Let's Do] Farm & Charm,112,0,4,0,0,Native chest-table item references found
+farmersdelight,Farmer's Delight,179,14,17,0,13,Native chest-table item references found; retained global modifier; workshop rewards configured
+farmersknives,Farmer's Knives,60,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+fetzisasiandeco,Fetzi's Asian Decoration,3416,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+forge,forge,4,0,0,0,0,No chest route found in scanned evidence; code/registry review still required; retained global modifier
+friendsandfoes,Friends&Foes,43,6,0,0,0,No chest route found in scanned evidence; code/registry review still required
+friendsforlife,Friends For Life,19,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+froglightsreimagined,FroglightsReimagined,32,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+frozenlib,frozenlib,2,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+ftbfiltersystem,FTB Filter System,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+ftblibrary,FTB Library,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+geckolib,GeckoLib 4,20,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+gofish,gofish,78,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+guardvillagers,GuardVillagers,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+handcrafted,Handcrafted,285,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+hearth_and_home,Hearth & Home,311,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+herbalbrews,[Let's Do] HerbalBrews,48,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+hexalia,Hexalia,166,1,1,1,0,Native chest-table item references found; Java chest-hook evidence
+illagerinvasion,Illager Invasion,24,7,3,1,0,Native chest-table item references found; Java chest-hook evidence
+immersive_furniture,Immersive Furniture,3,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+interiors,Create: Interiors,53,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+ironchests,Iron Chests: Restocked,30,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+justhammers,Just Hammers,29,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+justoutdoorstuffs,Just Outdoor Stuffs,52,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+kubejs,KubeJS,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+labels,labels,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+lamps,Decorative Lamps,177,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+lavender,Lavender,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+libraryferret,Library ferret,15,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+lootr,Lootr,8,1,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+luphieclutteredmod,Cluttered,509,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+mavm,More Axolotl Variants Mod,10,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+mcaccel,Minecraft Accelerated,28,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+mcwholidays,Macaw's Holidays,335,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+mcwpaths,Macaw's Paths and Pavings,315,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+mcwwindows,Macaw's Windows,326,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+meadow,[Let's Do] Meadow,172,0,1,0,0,Native chest-table item references found
+milk,Milk Lib,5,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+minecraft,minecraft,412,19,650,0,1,Native chest-table item references found; retained global modifier; workshop rewards configured
+mo_glass,Mo Glass,36,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+modrinth_logo_mod,Modrinth Logo Mod,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+moonlight,Moonlight,1,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence; retained global modifier
+more_bows_and_arrows,More Bows and Arrows,169,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+mythicupgrades,Mythic Upgrades,416,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+natures_delight,Nature's Delight,29,2,0,0,0,No chest route found in scanned evidence; code/registry review still required
+natures_spirit,Nature's Spirit,712,2,1,0,0,Native chest-table item references found
+naturescompass,Nature's Compass,32,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+nethersdelight,Nether's Delight Refabricated,34,0,0,1,2,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence; retained global modifier; workshop rewards configured
+niftycarts,NiftyCarts,84,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+obsidianequipmentrework,Obsidian Equipment Reworked,15,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+oceansdelight,Ocean's Delight,22,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+patchouli,Patchouli,9,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+perfectplushieapi,Perfect Plushie API,2,0,0,2,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+perfectplushies,Perfect Plushies,48,0,0,0,47,Central shared plushie pool; broken native API routes disabled
+phomesteadplushies,Perfect Homestead Plushies,53,0,0,0,30,Central shared plushie pool; broken native API routes disabled
+porting_lib,porting_lib,1,0,0,0,0,No chest route found in scanned evidence; code/registry review still required; retained global modifier
+railways,Create: Steam 'n' Rails,1929,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+regions_unexplored,Regions Unexplored,733,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+ribbits,Ribbits,21,6,4,0,0,Native chest-table item references found
+sawmill,Universal Sawmill,1,3,0,0,0,No chest route found in scanned evidence; code/registry review still required
+scarecrowsterritory,Scarecrows' Territory,16,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+serene_shrubbery,Serene Shrubbery,57,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+simple_copper_pipes,Simple Copper Pipes,16,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+simplehats,SimpleHats,351,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+sliceanddice,Create Slice & Dice,3,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+sootychimneys,Sooty Chimneys,14,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+sophisticatedbackpacks,Sophisticated Backpacks,64,8,8,0,0,Native chest-table item references found; retained global modifier
+sophisticatedstorage,Sophisticated Storage,117,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+spawn,Spawn,49,5,4,0,0,Native chest-table item references found
+spelunkery,Spelunkery,278,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+spudaciousshops,spudaciousshops,211,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+squish,Squish,17,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+storagedrawers,Storage Drawers,165,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+supplementaries,Supplementaries,282,1,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence; retained global modifier
+suppsquared,Supplementaries Squared,55,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+things,Things,38,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+tokimistoolshed,Tokimi's Toolshed,62,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+toms_storage,Tom's Simple Storage Mod,20,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+trashcans,Trash Cans,4,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+travelersbackpack,Traveler's Backpack,85,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+trinketlantern,trinketlantern,4,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+twigs,Twigs,259,1,1,2,0,Native chest-table item references found; Java chest-hook evidence
+umbrellas,Umbrellas,43,0,0,1,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+vanillabackport,VanillaBackport,96,0,0,4,0,No chest route found in scanned evidence; code/registry review still required; Java chest-hook evidence
+variantsandventures,Variants&Ventures,4,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+vc_gliders,Gliders,28,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+villagersplus,Villagers Plus,14,4,0,0,0,No chest route found in scanned evidence; code/registry review still required
+vinery,[Let's Do] Vinery,171,0,1,0,0,Native chest-table item references found
+waystones,Waystones,33,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+wildernature,[Let's Do] WilderNature,48,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+wirelessredstone,Wireless Redstone,10,0,0,0,0,No chest route found in scanned evidence; code/registry review still required
+yungscavebiomes,YUNG's Cave Biomes,32,0,0,0,0,No chest route found in scanned evidence; code/registry review still required

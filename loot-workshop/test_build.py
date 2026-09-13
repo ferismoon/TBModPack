@@ -29,7 +29,7 @@ class LootBuildTests(unittest.TestCase):
 
     def test_foundation_has_no_destination_overrides(self):
         files, report = compile_pack(self.root)
-        self.assertEqual(len(files), 4)
+        self.assertEqual(len(files), 5)
         self.assertFalse(any(r['enabled'] for r in report))
         self.assertEqual(archive_bytes(files), archive_bytes(compile_pack(self.root)[0]))
 
@@ -39,7 +39,7 @@ class LootBuildTests(unittest.TestCase):
             name = table_path(row['table'])
             original = json.loads((self.root / 'preserved-tables' / name).read_text())
             generated = json.loads(files[name])
-            added = 2 if row['table'] == 'beachparty:chests/shipwreck_supply' else 1
+            added = 1
             self.assertEqual(generated['pools'][:-added], original['pools'])
             self.assertEqual(generated['pools'][-1]['rolls'], 1)
 
@@ -52,7 +52,7 @@ class LootBuildTests(unittest.TestCase):
         self.change_mapping(lambda rows: rows[0].update(enabled=True, integration_reviewed=True))
         files, _ = compile_pack(self.root)
         self.assertIn(table_path('beachparty:chests/shipwreck_supply'), files)
-        self.assertEqual(len(files), 5)
+        self.assertEqual(len(files), 6)
 
     def test_duplicate_target_rejected(self):
         self.change_mapping(lambda rows: rows.append(dict(rows[0])))
@@ -78,6 +78,39 @@ class LootBuildTests(unittest.TestCase):
         path.unlink()
         with self.assertRaises(FileNotFoundError):
             compile_pack(self.root)
+
+    def test_structure_rewards_compile(self):
+        from structure_rewards import compile_structure_script
+        result = compile_structure_script(self.root)
+        self.assertIn(b'pool.rolls = 1', result)
+        self.assertIn(b'Item.of(entry.item, entry.count), entry.weight', result)
+
+    def test_structure_duplicate_route_rejected(self):
+        from structure_rewards import compile_structure_script
+        path = self.root / 'structure-routes.json'
+        data = json.loads(path.read_text())
+        data['routes'].append(data['routes'][0])
+        path.write_text(json.dumps(data))
+        with self.assertRaisesRegex(ValueError, 'Duplicate/nested'):
+            compile_structure_script(self.root)
+
+    def test_structure_unknown_item_rejected(self):
+        from structure_rewards import compile_structure_script
+        path = self.root / 'structure-rewards.json'
+        data = json.loads(path.read_text())
+        data['easy']['items'][0]['item'] = 'missing:no_such_item'
+        path.write_text(json.dumps(data))
+        with self.assertRaisesRegex(ValueError, 'No installed item evidence'):
+            compile_structure_script(self.root)
+
+    def test_structure_nested_target_rejected(self):
+        from structure_rewards import compile_structure_script
+        path = self.root / 'structure-routes.json'
+        data = json.loads(path.read_text())
+        data['excluded'].append({'target': data['routes'][0]['target']})
+        path.write_text(json.dumps(data))
+        with self.assertRaisesRegex(ValueError, 'Duplicate/nested'):
+            compile_structure_script(self.root)
 
 
 if __name__ == '__main__':

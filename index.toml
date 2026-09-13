@@ -2971,6 +2971,10 @@ file = "kubejs/server_scripts/generated_player_plushies.js"
 hash = "7f5af7932e664b0667341131ac2c6652bd0e9b8e9e2483162bb18891194d2407"
 
 [[files]]
+file = "kubejs/server_scripts/generated_structure_rewards.js"
+hash = "ed0e809b12010bbceb43dc58855ba606ef6fe497bf6181483d334fd9432761be"
+
+[[files]]
 file = "kubejs/server_scripts/hats.js"
 hash = "d4f1564313f386ee1ee1b361f83868aea67ff610e1f1e6e296786ae49f3aab4a"
 
