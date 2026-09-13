@@ -107,7 +107,8 @@ def compile_pack(root=ROOT, preview=False):
         generated = dict(original)
         generated['pools'] = original['pools'] + [profiles[mapping['profile']]]
         if mapping.get('debug_marker', False):
-            generated['pools'].append({'rolls': 1, 'entries': [{'type': 'minecraft:item', 'name': 'minecraft:zombie_head', 'functions': [{'function': 'minecraft:set_name', 'name': {'text': 'Shipwreck Loot', 'color': 'gold', 'italic': False}}]}]})
+            marker_name = mapping.get('debug_marker_name', 'Shipwreck Loot')
+            generated['pools'].append({'rolls': 1, 'entries': [{'type': 'minecraft:item', 'name': 'minecraft:zombie_head', 'functions': [{'function': 'minecraft:set_name', 'name': {'text': marker_name, 'color': 'gold', 'italic': False}}]}]})
         if mapping['enabled'] or preview:
             files[table_path(target)] = encoded(generated)
         report.append({'table': target, 'profile': mapping['profile'], 'enabled': mapping['enabled'], 'integration_reviewed': mapping['integration_reviewed'], 'original_pools': len(original['pools']), 'generated_pools': len(generated['pools']), 'chance': profiles[mapping['profile']]['conditions'][0]['chance'], 'review_notes': mapping['review_notes']})
