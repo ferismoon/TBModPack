@@ -3128,6 +3128,10 @@ hash = "87d51459b462a4f98ad65d63666656934511f3ddb3793b43a63252084d87efd5"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric-1.20.1-7.3.38.jar"
+hash = "0f4c8aefb655d6e042176b842eed38dbde5e352d732a5e8ad98f9e965360c66f"
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
 metafile = true
@@ -3171,6 +3175,10 @@ metafile = true
 file = "mods/betterenddelight.pw.toml"
 hash = "fa62adbafa3f86a8cd1ca92ae4833c6f7951d2247c2fe45821f1e20c12be337c"
 metafile = true
+
+[[files]]
+file = "mods/blahaj-fabric-1.20.0-0.3.2.jar"
+hash = "0fdd8d09ce92762df1c7a2aa3412eeb6726ad268e9ae39f4d17f0fcdb9ff9944"
 
 [[files]]
 file = "mods/block-runner.pw.toml"
