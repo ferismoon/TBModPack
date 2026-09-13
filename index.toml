@@ -3746,8 +3746,8 @@ hash = "17eabc56becff8f22111ba01a5d3d04e0e4249f98f54c570bbafaa4f92f4faf5"
 metafile = true
 
 [[files]]
-file = "mods/forced-relocation-loot-tidy-0.1.0.jar"
-hash = "7e4c73a3fb494bdf920a73c680f51e84b55cfdd3f11907e07e2663176d59f65b"
+file = "mods/forced-relocation-loot-tidy-0.1.1.jar"
+hash = "c0537762433074786abfed17a5413ff25fe90c5d6246ae5c192b85e1c2d65390"
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"

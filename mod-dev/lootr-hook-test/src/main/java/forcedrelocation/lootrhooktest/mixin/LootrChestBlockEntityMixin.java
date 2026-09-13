@@ -18,8 +18,10 @@ import forcedrelocation.lootrhooktest.LootrHookTest;
 public abstract class LootrChestBlockEntityMixin {
     @org.spongepowered.asm.mixin.injection.Redirect(method = "unpackLootTable", at = @At(value = "INVOKE", target = "Lnet/minecraft/class_52;method_329(Lnet/minecraft/class_1263;Lnet/minecraft/class_8567;J)V"))
     private void forcedrelocation$compactBeforeInsert(LootTable table, Inventory inventory, LootContextParameterSet context, long seed) {
-        SimpleInventory temporary = new SimpleInventory(54);
-        table.supplyInventory(temporary, context, seed);
+        // Generate without a container limit: supplyInventory can discard overflow.
+        java.util.List<ItemStack> generated = table.generateLoot(context, seed);
+        SimpleInventory temporary = new SimpleInventory(generated.size());
+        for (int i = 0; i < generated.size(); i++) temporary.setStack(i, generated.get(i).copy());
         int merged = 0;
         for (int first = 0; first < temporary.size(); first++) {
             ItemStack destination = temporary.getStack(first);
@@ -36,8 +38,19 @@ public abstract class LootrChestBlockEntityMixin {
                 merged += moved;
             }
         }
-        for (int slot = 0; slot < inventory.size(); slot++) inventory.setStack(slot, slot < temporary.size() ? temporary.getStack(slot).copy() : ItemStack.EMPTY);
+        int slot = 0;
+        int overflow = 0;
+        for (int i = 0; i < temporary.size(); i++) {
+            ItemStack stack = temporary.getStack(i);
+            if (stack.isEmpty()) continue;
+            if (slot < inventory.size()) inventory.setStack(slot++, stack.copy());
+            else {
+                overflow++;
+                LootrHookTest.LOGGER.error("Loot Tidy capacity exceeded: unable to fit {}", stack);
+            }
+        }
+        while (slot < inventory.size()) inventory.setStack(slot++, ItemStack.EMPTY);
         inventory.markDirty();
-        LootrHookTest.LOGGER.info("Lootr pre-insert hook fired: table={}, slots={}, mergedItems={}", table, inventory.size(), merged);
+        LootrHookTest.LOGGER.info("Loot Tidy packing v0.1.1: table={}, generatedStacks={}, slots={}, mergedItems={}, overflowStacks={}", ((LootrChestBlockEntity)(Object)this).getTable(), generated.size(), inventory.size(), merged, overflow);
     }
 }
