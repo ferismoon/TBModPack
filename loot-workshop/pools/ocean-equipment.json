@@ -1,0 +1,9 @@
+{
+  "id": "forced_relocation:shared/ocean_equipment",
+  "entries": [
+    {"type": "minecraft:item", "name": "beachparty:trunks", "weight": 1},
+    {"type": "minecraft:item", "name": "beachparty:bikini", "weight": 1},
+    {"type": "minecraft:item", "name": "beachparty:swim_wings", "weight": 1},
+    {"type": "minecraft:item", "name": "beachparty:crocs", "weight": 1}
+  ]
+}

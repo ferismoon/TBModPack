@@ -1,0 +1,84 @@
+{
+  "minecraft": "1.20.1",
+  "items": {
+    "beachparty:music_disc_beachparty": {
+      "archive": "letsdo-beachparty-fabric-2.0.3.jar",
+      "model": "assets/beachparty/models/item/music_disc_beachparty.json",
+      "evidence": "Installed item model; runtime registry validation still required"
+    },
+    "beachparty:music_disc_caribbean_beach": {
+      "archive": "letsdo-beachparty-fabric-2.0.3.jar",
+      "model": "assets/beachparty/models/item/music_disc_caribbean_beach.json",
+      "evidence": "Installed item model; runtime registry validation still required"
+    },
+    "beachparty:trunks": {
+      "archive": "letsdo-beachparty-fabric-2.0.3.jar",
+      "model": "assets/beachparty/models/item/trunks.json",
+      "evidence": "Installed item model; runtime registry validation still required"
+    },
+    "beachparty:bikini": {
+      "archive": "letsdo-beachparty-fabric-2.0.3.jar",
+      "model": "assets/beachparty/models/item/bikini.json",
+      "evidence": "Installed item model; runtime registry validation still required"
+    },
+    "beachparty:swim_wings": {
+      "archive": "letsdo-beachparty-fabric-2.0.3.jar",
+      "model": "assets/beachparty/models/item/swim_wings.json",
+      "evidence": "Installed item model; runtime registry validation still required"
+    },
+    "beachparty:crocs": {
+      "archive": "letsdo-beachparty-fabric-2.0.3.jar",
+      "model": "assets/beachparty/models/item/crocs.json",
+      "evidence": "Installed item model; runtime registry validation still required"
+    },
+    "minecraft:enchanted_golden_apple": {
+      "archive": "minecraft-1.20.1-client.jar",
+      "model": "assets/minecraft/models/item/enchanted_golden_apple.json",
+      "evidence": "Installed item model; runtime registry validation still required"
+    }
+  },
+  "tables": {
+    "minecraft:chests/shipwreck_supply": {
+      "archive": "minecraft-1.20.1-client.jar",
+      "archive_sha256": "56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",
+      "resource": "data/minecraft/loot_tables/chests/shipwreck_supply.json",
+      "sha256": "58a16ea508faac3e6dc77ee1b82f30bc1e4ccbd79a0db6c372fea6eadf482f25"
+    },
+    "minecraft:chests/shipwreck_treasure": {
+      "archive": "minecraft-1.20.1-client.jar",
+      "archive_sha256": "56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",
+      "resource": "data/minecraft/loot_tables/chests/shipwreck_treasure.json",
+      "sha256": "1861a8f752c80834afa9067a26530175e4cab0df83a89c4107fb47bb30f4a769"
+    },
+    "minecraft:chests/underwater_ruin_small": {
+      "archive": "minecraft-1.20.1-client.jar",
+      "archive_sha256": "56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",
+      "resource": "data/minecraft/loot_tables/chests/underwater_ruin_small.json",
+      "sha256": "40a121404f2b45897b6ca0a8f1704ca70c4ece690e6e731a6b9beaafdefcc2c9"
+    },
+    "minecraft:chests/underwater_ruin_big": {
+      "archive": "minecraft-1.20.1-client.jar",
+      "archive_sha256": "56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",
+      "resource": "data/minecraft/loot_tables/chests/underwater_ruin_big.json",
+      "sha256": "819d36fc83b1794f09b5d0e79913bcefb4195f3638fbb8336448889ac9108b4e"
+    },
+    "minecraft:chests/buried_treasure": {
+      "archive": "minecraft-1.20.1-client.jar",
+      "archive_sha256": "56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",
+      "resource": "data/minecraft/loot_tables/chests/buried_treasure.json",
+      "sha256": "3e77c8b99c8dc1de679ee807a274624918b1b3e2764c773d1910cb792716fe7e"
+    },
+    "mvs:ocean_tower/common": {
+      "archive": "MoogsVoyagerStructures-universal-1.20-5.1.1.jar",
+      "archive_sha256": "cac23dac4b278eccdc683487f6bdbacdd434edbff0cd525fc8f65252c44d4355",
+      "resource": "data/mvs/loot_tables/ocean_tower/common.json",
+      "sha256": "bad3e162424e4f6bb27770dcbcda3473344bb27dfc25cfb431cdec2e354122e5"
+    },
+    "mvs:ocean_tower/treasure": {
+      "archive": "MoogsVoyagerStructures-universal-1.20-5.1.1.jar",
+      "archive_sha256": "cac23dac4b278eccdc683487f6bdbacdd434edbff0cd525fc8f65252c44d4355",
+      "resource": "data/mvs/loot_tables/ocean_tower/treasure.json",
+      "sha256": "489c4d72210fbf21531779f3c5a3492cf15395c8cf34cb1d10e803ebaf9938ea"
+    }
+  }
+}

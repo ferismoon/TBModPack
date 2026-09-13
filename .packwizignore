@@ -14,3 +14,6 @@
 
 # Local quest planning and previews (also covered by /docs/**)
 /docs/quest-planning/**
+
+# Editable loot sources and build tools; only their generated datapack ships.
+/loot-workshop/**

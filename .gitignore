@@ -25,3 +25,7 @@ Desktop.ini
 
 # Local quest planning and previews
 /docs/quest-planning/
+
+# Reproducible loot previews and Python caches
+/loot-workshop/reports/
+/loot-workshop/__pycache__/

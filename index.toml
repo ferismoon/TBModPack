@@ -1101,10 +1101,6 @@ file = "config/logcleaner.json"
 hash = "b4aec2072ee6eabdc444cef339ff839bfbdfb44cd6c3270483d57279365d6b68"
 
 [[files]]
-file = "config/lootintegrations.json"
-hash = "75ca4c1f43c397767a9885567697d82baf0cc0fc747b982ead35342a595ade64"
-
-[[files]]
 file = "config/lootr.json"
 hash = "7d07d05b7b972ce6fd92240c214d1552501d884f3cc983ae0b4efba3eaa647e6"
 
@@ -1281,6 +1277,10 @@ metafile = true
 file = "config/openloader/data/dungeons-and-taverns.pw.toml"
 hash = "b3c174f824ce271be35ffcf6a218f0656ba4b25837f1e63514b6082347a072bc"
 metafile = true
+
+[[files]]
+file = "config/openloader/data/forced-relocation-loot.zip"
+hash = "6e567d6be2591de570599dfaa3d9b6106411fc9a2360a5bc944b8b8dc4a7ff90"
 
 [[files]]
 file = "config/openloader/data/improved-pillager-outpost.pw.toml"
@@ -1665,46 +1665,6 @@ hash = "ab7ea0a22b66e8d4b6eebbeace63fa71dfc830afaa0649c89a62c18df65a8808"
 [[files]]
 file = "config/starterkit.json5"
 hash = "529ceca06160c15d52cd1a9ef512d152719896863ecd495125aabea299ff112c"
-
-[[files]]
-file = "config/starterkit/descriptions/Archer.txt"
-hash = "2ea003ce1408175d33f2bf55cb2de60b7aca7d652b922a84ec52d7d77eb99b64"
-
-[[files]]
-file = "config/starterkit/descriptions/Default.txt"
-hash = "19df01c903be0cc0216fbca05181ff06c2aff09f2ef213e78ea93f82d2cb1324"
-
-[[files]]
-file = "config/starterkit/descriptions/Lumberjack.txt"
-hash = "5091e1a2d5a2927fe1d8f6a6a233ace60f2407be05384f3140b839e9ad3a041a"
-
-[[files]]
-file = "config/starterkit/descriptions/Welcome.txt"
-hash = "f7206533803f4e7197728e2ca7c472d3c04118d74c4251507b5dd175f3c13d9d"
-
-[[files]]
-file = "config/starterkit/descriptions/Witch.txt"
-hash = "290f6b832794b6876aba9da963b585ba4e99e5e6a972aebb52810e9a256e2f65"
-
-[[files]]
-file = "config/starterkit/kits/Welcome.txt"
-hash = "df5aba3a55601012b91dc18b37cf08eea815e3116a51b1680383ed03ab653ad7"
-
-[[files]]
-file = "config/starterkit/kits/inactive/Archer.txt"
-hash = "2d33c0b751d94e542b0ccecf3709e4872b6097d8e450b8336d78f5bfdce38306"
-
-[[files]]
-file = "config/starterkit/kits/inactive/Default.txt"
-hash = "7ef15dda287a37b866a4dbf58964aa5404b73bfbbbc06c8e9aac1ffe7352ad10"
-
-[[files]]
-file = "config/starterkit/kits/inactive/Lumberjack.txt"
-hash = "2f481c3b16599f5563ae0ad9f932a5ce5929d2ffce51cd6c67adc3b93694541c"
-
-[[files]]
-file = "config/starterkit/kits/inactive/Witch.txt"
-hash = "61484d5a235b04746cbdeca240501354f6ac39badce199ec7ed90865640e6471"
 
 [[files]]
 file = "config/stonezone-common.json"
@@ -4137,31 +4097,6 @@ hash = "0612494ff45a866a77bc1fe26a05c34560c9d6472a772a4f90b0d730e65cd8f0"
 metafile = true
 
 [[files]]
-file = "mods/loot-integrations-choicetheorems-overhauled.pw.toml"
-hash = "01be52ea84fb04197908d5d27e0747a8c2a2c487ae0ca328d25e44de04ed096c"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-dungeons-and-taverns.pw.toml"
-hash = "27213a9e82777d657d7680c01e2a7043defb37ceb09b86842104d3c8bf35a7b6"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-moogs-voyager-soaring-end-nether.pw.toml"
-hash = "1d1900af1cdbab0494705ff36698c1bb40eb307df68688d079e5e18e7781a80e"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-structory-towers.pw.toml"
-hash = "4a772ad1acac51a542d11b2464071990ef6a9516d3b01b4e2f3c126ad3bb4839"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations.pw.toml"
-hash = "2b8558c98a77d2aadd14be4ac745f38bbe941663922aaf8cd179fd6bcc003a5b"
-metafile = true
-
-[[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "1fb2f2671a461c6cb1aefeca5e5f485d0e6e20c4fece05afaec937f5fc9ebafb"
 metafile = true
@@ -4837,11 +4772,6 @@ hash = "1338fe3f258a472b58526481cba2bf624d966866f4cde360e466caa5c9d24274"
 metafile = true
 
 [[files]]
-file = "mods/starter-kit.pw.toml"
-hash = "9905e1007bcc77dede4b008e2361262c2c5cff5031017db2b913ed7b0a713d83"
-metafile = true
-
-[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "a7cff3a04db0673f1a5a9513015c83ae0a6bee936a8c6a1ed08ae12e0e3ba2f6"
 metafile = true
@@ -5107,11 +5037,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
-metafile = true
-
-[[files]]
-file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
-hash = "c55a7700633fe3bf1e490aad3166bad5381902822ad8bc86c74663603698e036"
 metafile = true
 
 [[files]]

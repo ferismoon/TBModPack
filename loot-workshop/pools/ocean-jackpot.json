@@ -1,0 +1,6 @@
+{
+  "id": "forced_relocation:shared/ocean_jackpot",
+  "entries": [
+    {"type": "minecraft:item", "name": "minecraft:enchanted_golden_apple", "weight": 1}
+  ]
+}
