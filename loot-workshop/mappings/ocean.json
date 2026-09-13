@@ -1,8 +1,8 @@
 [
   {"target":"beachparty:chests/shipwreck_supply","profile":"ocean_supply","enabled":false,"integration_reviewed":false,"debug_marker":false,"review_notes":"Supply route retained for later migration; structure testing indicates treasure is active."},
   {"target":"minecraft:chests/shipwreck_supply","profile":"ocean_supply","enabled":false,"integration_reviewed":false,"debug_marker":false,"review_notes":"Supply route retained for later migration; structure testing indicates treasure is active."},
-  {"target":"minecraft:chests/shipwreck_treasure","profile":"ocean_treasure","enabled":true,"integration_reviewed":true,"debug_marker":true,"debug_marker_name":"Vanilla Shipwreck Treasure","review_notes":"Temporary route test based on fresh-world observations."},
-  {"target":"beachparty:chests/shipwreck_treasure","profile":"ocean_treasure","enabled":true,"integration_reviewed":true,"debug_marker":true,"debug_marker_name":"Beachparty Shipwreck Treasure","review_notes":"Temporary route test based on fresh-world observations."},
+  {"target":"minecraft:chests/shipwreck_treasure","profile":"ocean_treasure","enabled":true,"integration_reviewed":true,"debug_marker":false,"review_notes":"Active shipwreck treasure route confirmed in a fresh world."},
+  {"target":"beachparty:chests/shipwreck_treasure","profile":"ocean_treasure","enabled":false,"integration_reviewed":false,"debug_marker":false,"review_notes":"Not used by the active shipwreck route; preserved for reference."},
   {"target":"minecraft:chests/underwater_ruin_small","profile":"ocean_supply","enabled":false,"integration_reviewed":false,"review_notes":"Beachparty adds its own pool here; ensure no duplicated swimwear route."},
   {"target":"minecraft:chests/underwater_ruin_big","profile":"ocean_treasure","enabled":false,"integration_reviewed":false,"review_notes":"Review Beachparty injection and Loot Integrations water routes before enabling."},
   {"target":"minecraft:chests/buried_treasure","profile":"ocean_treasure","enabled":false,"integration_reviewed":false,"review_notes":"Retain heart-of-the-sea supply and existing Homestead plushie route; account for Beachparty additions."},

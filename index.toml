@@ -1280,7 +1280,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/data/forced-relocation-loot.zip"
-hash = "738c1a9536440b742b71d7d7245a19dbf08376baaa3c10bb98ce8f26531411f4"
+hash = "4bb0cbc61f0db3792feb09a1f58f0994c035497f07567c3cdaaf5bab1afe5dba"
 
 [[files]]
 file = "config/openloader/data/improved-pillager-outpost.pw.toml"
@@ -2093,6 +2093,10 @@ hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
 [[files]]
 file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
+
+[[files]]
+file = "fabric.mod.json"
+hash = "c6ad53af01715ec0b406e77b3cb7ef629712476af86b86ae8c3bf14381dd9c4a"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -3124,10 +3128,6 @@ hash = "87d51459b462a4f98ad65d63666656934511f3ddb3793b43a63252084d87efd5"
 metafile = true
 
 [[files]]
-file = "mods/balm-fabric-1.20.1-7.3.38.jar"
-hash = "0f4c8aefb655d6e042176b842eed38dbde5e352d732a5e8ad98f9e965360c66f"
-
-[[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
 metafile = true
@@ -3171,10 +3171,6 @@ metafile = true
 file = "mods/betterenddelight.pw.toml"
 hash = "fa62adbafa3f86a8cd1ca92ae4833c6f7951d2247c2fe45821f1e20c12be337c"
 metafile = true
-
-[[files]]
-file = "mods/blahaj-fabric-1.20.0-0.3.2.jar"
-hash = "0fdd8d09ce92762df1c7a2aa3412eeb6726ad268e9ae39f4d17f0fcdb9ff9944"
 
 [[files]]
 file = "mods/block-runner.pw.toml"
@@ -3740,6 +3736,10 @@ metafile = true
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "17eabc56becff8f22111ba01a5d3d04e0e4249f98f54c570bbafaa4f92f4faf5"
 metafile = true
+
+[[files]]
+file = "mods/forced-relocation-loot-tidy-0.1.0.jar"
+hash = "7e4c73a3fb494bdf920a73c680f51e84b55cfdd3f11907e07e2663176d59f65b"
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
