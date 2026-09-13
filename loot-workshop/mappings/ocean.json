@@ -1,5 +1,5 @@
 [
-  {"target":"beachparty:chests/shipwreck_supply","profile":"ocean_supply","enabled":true,"integration_reviewed":true,"review_notes":"Test activation. Baseline captured from current KubeJS source; compare fresh shipwreck contents and check for duplicate runtime additions."},
+  {"target":"beachparty:chests/shipwreck_supply","profile":"ocean_supply","enabled":true,"integration_reviewed":true,"debug_marker":true,"review_notes":"Test activation. Baseline captured from current KubeJS source; compare fresh shipwreck contents and check for duplicate runtime additions."},
   {"target":"minecraft:chests/shipwreck_supply","profile":"ocean_supply","enabled":false,"integration_reviewed":false,"review_notes":"Beachparty injects its own nested loot; migrate that equipment route and misc.js additions, and review Loot Integrations overflow before activation."},
   {"target":"minecraft:chests/shipwreck_treasure","profile":"ocean_treasure","enabled":false,"integration_reviewed":false,"review_notes":"Preserve valuable vanilla loot. Review Beachparty, Simple Hats, Supplementaries and other runtime additions plus Loot Integrations overflow."},
   {"target":"minecraft:chests/underwater_ruin_small","profile":"ocean_supply","enabled":false,"integration_reviewed":false,"review_notes":"Beachparty adds its own pool here; ensure no duplicated swimwear route."},

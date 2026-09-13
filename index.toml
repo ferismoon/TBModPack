@@ -1280,7 +1280,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/data/forced-relocation-loot.zip"
-hash = "62337ece2437908db58b5ea05b6dba0346742527746cf0f8c5daafed14145747"
+hash = "e2072875f502e977b5cae2dd46c8c2f7cc7725c6f6c1946adad12a47b5f46c12"
 
 [[files]]
 file = "config/openloader/data/improved-pillager-outpost.pw.toml"

@@ -47,6 +47,14 @@ def compile_pack(root=ROOT, preview=False):
     settings = read(root / 'settings.json')
     require(settings['minecraft'] == '1.20.1' and settings['pack_format'] == 15, 'This builder targets Minecraft 1.20.1 / pack format 15')
     catalog = read(root / 'catalog.json')
+    legacy = read(root / 'legacy-migrations.json')
+    require(isinstance(legacy.get('migrations'), list) and legacy['migrations'], 'Legacy migration record is empty')
+    for migration in legacy['migrations']:
+        require(isinstance(migration.get('name'), str) and migration['name'], 'Legacy migration missing name')
+        require(isinstance(migration.get('targets'), list) and migration['targets'], f'Legacy migration has no targets: {migration.get("name")}')
+        for target in migration['targets']:
+            require(isinstance(target, str) and target, f'Legacy migration has invalid target: {migration["name"]}')
+    require(any('rubber rings' in item for item in legacy.get('excluded', [])), 'Legacy rubber-ring exclusion is missing')
     items = set(catalog['items'])
     known_tables = set(catalog['tables'])
     tables, profiles, report = {}, {}, []
@@ -98,6 +106,8 @@ def compile_pack(root=ROOT, preview=False):
         require(isinstance(original.get('pools'), list), f'Unsupported source table: {target}')
         generated = dict(original)
         generated['pools'] = original['pools'] + [profiles[mapping['profile']]]
+        if mapping.get('debug_marker', False):
+            generated['pools'].append({'rolls': 1, 'entries': [{'type': 'minecraft:item', 'name': 'minecraft:zombie_head', 'functions': [{'function': 'minecraft:set_name', 'name': {'text': 'Shipwreck Loot', 'color': 'gold', 'italic': False}}]}]})
         if mapping['enabled'] or preview:
             files[table_path(target)] = encoded(generated)
         report.append({'table': target, 'profile': mapping['profile'], 'enabled': mapping['enabled'], 'integration_reviewed': mapping['integration_reviewed'], 'original_pools': len(original['pools']), 'generated_pools': len(generated['pools']), 'chance': profiles[mapping['profile']]['conditions'][0]['chance'], 'review_notes': mapping['review_notes']})

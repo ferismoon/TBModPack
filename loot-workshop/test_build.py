@@ -39,7 +39,8 @@ class LootBuildTests(unittest.TestCase):
             name = table_path(row['table'])
             original = json.loads((self.root / 'preserved-tables' / name).read_text())
             generated = json.loads(files[name])
-            self.assertEqual(generated['pools'][:-1], original['pools'])
+            added = 2 if row['table'] == 'beachparty:chests/shipwreck_supply' else 1
+            self.assertEqual(generated['pools'][:-added], original['pools'])
             self.assertEqual(generated['pools'][-1]['rolls'], 1)
 
     def test_unreviewed_activation_rejected(self):
@@ -70,6 +71,12 @@ class LootBuildTests(unittest.TestCase):
         data['entries'][0]['name'] = 'example:missing'
         path.write_text(json.dumps(data))
         with self.assertRaisesRegex(ValueError, 'missing from reviewed catalog'):
+            compile_pack(self.root)
+
+    def test_legacy_migration_record_is_required(self):
+        path = self.root / 'legacy-migrations.json'
+        path.unlink()
+        with self.assertRaises(FileNotFoundError):
             compile_pack(self.root)
 
 
