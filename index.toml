@@ -1280,7 +1280,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/data/forced-relocation-loot.zip"
-hash = "6e567d6be2591de570599dfaa3d9b6106411fc9a2360a5bc944b8b8dc4a7ff90"
+hash = "62337ece2437908db58b5ea05b6dba0346742527746cf0f8c5daafed14145747"
 
 [[files]]
 file = "config/openloader/data/improved-pillager-outpost.pw.toml"
@@ -2976,7 +2976,7 @@ hash = "b48b05f74bacfe400b08e40f364cf3b362aee1d712b526f23f4079841b9b0c6e"
 
 [[files]]
 file = "kubejs/server_scripts/misc.js"
-hash = "f6ac7466ded386202db13060e7c81c39940e2c368342c9d4d487882510faedb1"
+hash = "ca766b866d4ee8f3f4e3b386e7bc9f61250c4f3216c90137be71ce5cbbaa1373"
 
 [[files]]
 file = "kubejs/server_scripts/remove_broken_compat_recipes.js"

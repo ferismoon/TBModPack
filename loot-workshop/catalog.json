@@ -38,6 +38,12 @@
     }
   },
   "tables": {
+    "beachparty:chests/shipwreck_supply": {
+      "archive": "kubejs/data/beachparty/loot_tables/chests/shipwreck_supply.json",
+      "archive_sha256": "53fe785048c633772f78710a54f8d3718d5faf0885ade6626d0a94faf9b5477e",
+      "resource": "data/beachparty/loot_tables/chests/shipwreck_supply.json",
+      "sha256": "53fe785048c633772f78710a54f8d3718d5faf0885ade6626d0a94faf9b5477e"
+    },
     "minecraft:chests/shipwreck_supply": {
       "archive": "minecraft-1.20.1-client.jar",
       "archive_sha256": "56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",

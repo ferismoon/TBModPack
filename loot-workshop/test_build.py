@@ -11,6 +11,12 @@ class LootBuildTests(unittest.TestCase):
         self.temp = tempfile.TemporaryDirectory()
         self.root = Path(self.temp.name) / 'workshop'
         shutil.copytree(ROOT, self.root, ignore=shutil.ignore_patterns('reports', '__pycache__'))
+        mapping = self.root / 'mappings/ocean.json'
+        values = json.loads(mapping.read_text())
+        for row in values:
+            row['enabled'] = False
+            row['integration_reviewed'] = False
+        mapping.write_text(json.dumps(values))
 
     def tearDown(self):
         self.temp.cleanup()
@@ -44,7 +50,7 @@ class LootBuildTests(unittest.TestCase):
     def test_reviewed_activation_emits_only_selected_target(self):
         self.change_mapping(lambda rows: rows[0].update(enabled=True, integration_reviewed=True))
         files, _ = compile_pack(self.root)
-        self.assertIn(table_path('minecraft:chests/shipwreck_supply'), files)
+        self.assertIn(table_path('beachparty:chests/shipwreck_supply'), files)
         self.assertEqual(len(files), 5)
 
     def test_duplicate_target_rejected(self):

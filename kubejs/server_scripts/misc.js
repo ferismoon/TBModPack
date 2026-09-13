@@ -141,7 +141,7 @@ ServerEvents.chestLootTables(event => {
   }
 
   // Profession-themed village supplies. These are small extra pools, so the
-  // original vanilla, CTOV, and Loot Integrations entries remain intact.
+  // original vanilla and CTOV entries remain intact.
   addVillagePool([
     'minecraft:chests/village/village_plains_house',
     'minecraft:chests/village/village_desert_house',
