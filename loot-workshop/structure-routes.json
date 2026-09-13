@@ -2668,6 +2668,586 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "repurposed_structures:chests/ancient_cities/end",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:chests/ancient_cities/end_spawner_box",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:chests/ancient_cities/nether",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/ancient_cities/nether_magma_box",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/ancient_cities/ocean",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/ancient_cities/ocean_ice_box",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/bastions/underground/bridge",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/bastions/underground/other",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/bastions/underground/skeleton_horse_stable",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/bastions/underground/treasure",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/cities/nether",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/cities/overworld",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/badlands",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/dark_forest",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/deep",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/desert",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/icy",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/jungle",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/mushroom",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/nether",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/ocean",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/snow",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/dungeons/swamp",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/fortresses/jungle_center",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/fortresses/jungle_hallway",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/fortresses/jungle_shrine",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/igloos/grassy",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/igloos/mangrove",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/igloos/mushroom",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/igloos/stone",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/lucky_pool",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/birch",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/birch_storage",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/desert",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/desert_storage",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/jungle",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/jungle_storage",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/mangrove",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/mangrove_storage",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/oak",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/oak_storage",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/savanna",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/savanna_storage",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/snowy",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/snowy_storage",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/taiga",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mansions/taiga_storage",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/birch",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/crimson",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/dark_forest",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/desert",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/end",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/icy",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/jungle",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/nether",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/ocean",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/savanna",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/stone",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/swamp",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/taiga",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/mineshafts/warped",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/monuments/desert",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/monuments/icy",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/monuments/jungle",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/monuments/nether",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/badlands",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/birch",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/crimson",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/desert",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/giant_tree_taiga",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/icy",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/jungle",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/mangrove",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/nether_brick",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/oak",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/snowy",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/taiga",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/outposts/warped",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/pyramids/dark_forest",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/pyramids/end",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:chests/pyramids/flower_forest",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/pyramids/giant_tree_taiga",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/pyramids/icy",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/pyramids/jungle",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/pyramids/mushroom",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/pyramids/snowy",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/ruined_portals/end/large_portal",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:chests/ruined_portals/end/small_portal",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:chests/ruins/land_cold/large",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/ruins/land_cold/small",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/ruins/land_hot/large",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/ruins/land_hot/small",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/ruins/land_icy/large",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/ruins/land_icy/small",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/ruins/land_warm/large",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/ruins/land_warm/small",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/ruins/nether",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/shipwrecks/crimson/map",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/shipwrecks/crimson/supply",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/shipwrecks/crimson/treasure",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/shipwrecks/end/map",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:chests/shipwrecks/end/supply",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:chests/shipwrecks/end/treasure",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:chests/shipwrecks/nether_bricks/treasure",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/shipwrecks/warped/map",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/shipwrecks/warped/supply",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/shipwrecks/warped/treasure",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/strongholds/nether_hallway",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/strongholds/nether_library",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/strongholds/nether_storage_room",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/temples/basalt",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/temples/crimson",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/temples/ocean",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/temples/soul",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/temples/taiga",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/temples/warped",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/temples/wasteland",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/badlands_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/bamboo_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/birch_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/cherry_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/crimson_cartographer",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/crimson_fisher",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/crimson_house",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/crimson_tannery",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/crimson_weaponsmith",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/dark_forest_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/giant_taiga_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/jungle_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/mountains_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/mushroom_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/oak_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/ocean_cartographer",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/ocean_house",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/swamp_house",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/warped_cartographer",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/warped_fisher",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/warped_house",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/warped_tannery",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:chests/villages/warped_weaponsmith",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:trapped_chests/pyramids/badlands",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:trapped_chests/pyramids/end",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:trapped_chests/pyramids/nether",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:trapped_chests/pyramids/ocean",
+      "profile": "water"
+    },
+    {
+      "target": "repurposed_structures:trapped_chests/temples/warped",
+      "profile": "nether"
+    },
+    {
       "target": "structory:harvest/graveyard",
       "profile": "easy",
       "source": "Structory_1.20.x_v1.3.5.jar",

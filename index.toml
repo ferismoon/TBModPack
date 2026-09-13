@@ -2972,7 +2972,7 @@ hash = "7f5af7932e664b0667341131ac2c6652bd0e9b8e9e2483162bb18891194d2407"
 
 [[files]]
 file = "kubejs/server_scripts/generated_structure_rewards.js"
-hash = "ed0e809b12010bbceb43dc58855ba606ef6fe497bf6181483d334fd9432761be"
+hash = "596bdeb39371a3b3c607bc7a0dc24b4632c6547bd63f65f6a082b789f90475b2"
 
 [[files]]
 file = "kubejs/server_scripts/hats.js"
