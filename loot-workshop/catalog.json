@@ -38,6 +38,12 @@
     }
   },
   "tables": {
+    "beachparty:chests/shipwreck_treasure": {
+      "archive": "kubejs/data/beachparty/loot_tables/chests/shipwreck_treasure.json",
+      "archive_sha256": "29972fcdeef45e7a7cc5b9f62d2abe3f456358373539603cf3dbfeddb2632fd3",
+      "resource": "data/beachparty/loot_tables/chests/shipwreck_treasure.json",
+      "sha256": "29972fcdeef45e7a7cc5b9f62d2abe3f456358373539603cf3dbfeddb2632fd3"
+    },
     "beachparty:chests/shipwreck_supply": {
       "archive": "kubejs/data/beachparty/loot_tables/chests/shipwreck_supply.json",
       "archive_sha256": "53fe785048c633772f78710a54f8d3718d5faf0885ade6626d0a94faf9b5477e",
