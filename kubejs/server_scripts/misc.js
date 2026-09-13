@@ -22,74 +22,8 @@ ServerEvents.blockLootTables(event => {
   event.addSimpleBlock('dustydecorations:cooking_pot')
 })
 
-// Perfect Plushies' own global-loot serializers are broken on this Fabric
-// profile. Add the same sort of rewards directly to the vanilla chest tables.
-// This keeps the plushies obtainable without using the broken serializer.
+// Player plushies are generated centrally by loot-workshop/build.py.
 ServerEvents.chestLootTables(event => {
-  const plushies = [
-    'phomesteadplushies:homestead_player_1',
-    'phomesteadplushies:homestead_player_2',
-    'phomesteadplushies:homestead_player_3',
-    'phomesteadplushies:homestead_player_4',
-    'phomesteadplushies:homestead_player_5',
-    'phomesteadplushies:homestead_player_6',
-    'phomesteadplushies:homestead_player_7',
-    'phomesteadplushies:homestead_player_8',
-    'phomesteadplushies:homestead_player_9',
-    'phomesteadplushies:homestead_player_10',
-    'phomesteadplushies:homestead_player_11',
-    'phomesteadplushies:homestead_player_12',
-    'phomesteadplushies:homestead_player_13',
-    'phomesteadplushies:homestead_player_14',
-    'phomesteadplushies:homestead_player_15',
-    'phomesteadplushies:homestead_player_16',
-    'phomesteadplushies:homestead_player_17',
-    'phomesteadplushies:homestead_player_18',
-    'phomesteadplushies:homestead_player_19',
-    'phomesteadplushies:homestead_player_20',
-    'phomesteadplushies:homestead_player_21',
-    'phomesteadplushies:homestead_player_22',
-    'phomesteadplushies:homestead_player_23',
-    'phomesteadplushies:homestead_player_24',
-    'phomesteadplushies:homestead_player_25',
-    'phomesteadplushies:homestead_player_26',
-    'phomesteadplushies:homestead_player_27',
-    'phomesteadplushies:mushling_plushie',
-    'phomesteadplushies:mystical_elk_plushie',
-    'phomesteadplushies:fernling_plushie'
-  ]
-
-  const addPlushies = (id, chance) => {
-    event.modify(id, loot => {
-      loot.addPool(pool => {
-        plushies.forEach(item => pool.addItem(item))
-        pool.rolls = 1
-        pool.addCondition({ condition: 'minecraft:random_chance', chance: chance })
-      })
-    })
-  }
-
-  addPlushies('minecraft:chests/buried_treasure', 0.5)
-  addPlushies('minecraft:chests/desert_pyramid', 0.1)
-  addPlushies('minecraft:chests/trail_ruins_common', 0.1)
-  addPlushies('minecraft:chests/trail_ruins_rare', 0.1)
-
-  ;[
-    'minecraft:chests/village/village_armorer',
-    'minecraft:chests/village/village_butcher',
-    'minecraft:chests/village/village_cartographer',
-    'minecraft:chests/village/village_desert_house',
-    'minecraft:chests/village/village_fisher',
-    'minecraft:chests/village/village_mason',
-    'minecraft:chests/village/village_plains_house',
-    'minecraft:chests/village/village_savanna_house',
-    'minecraft:chests/village/village_shepherd',
-    'minecraft:chests/village/village_snowy_house',
-    'minecraft:chests/village/village_taiga_house',
-    'minecraft:chests/village/village_temple',
-    'minecraft:chests/village/village_toolsmith',
-    'minecraft:chests/village/village_weaponsmith'
-  ].forEach(id => addPlushies(id, 0.1))
 
   // Beachparty replaces several vanilla ocean loot tables. Restore their
   // useful vanilla rewards without removing the Beachparty items.
@@ -200,8 +134,6 @@ ServerEvents.chestLootTables(event => {
   ], [
     'minecraft:paper',
     'minecraft:compass',
-    'minecraft:map',
-    'perfectplushies:cat_plushie',
-    'perfectplushies:frog_plushie'
+    'minecraft:map'
   ], { min: 1, max: 1 })
 })
