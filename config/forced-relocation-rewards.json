@@ -1,50 +1,45 @@
 {
   "profiles": {
     "village": {
-      "chance": 1.0,
+      "chance": 1,
       "items": [
-        {
-          "item": "farmersdelight:onion",
-          "count": 3,
-          "weight": 5
-        },
         {
           "item": "farmersdelight:tomato_seeds",
           "count": 2,
-          "weight": 4
+          "weight": 2
         },
         {
-          "item": "farmersdelight:canvas",
+          "item": "farmersdelight:cabbage_seeds",
           "count": 2,
-          "weight": 3
+          "weight": 2
         },
         {
-          "item": "create:copper_sheet",
+          "item": "farmersdelight:rice",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:asparagus_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:chili_pepper_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:peanut",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:sweet_potato",
           "count": 2,
           "weight": 2
         },
         {
           "item": "farm_and_charm:barley_seeds",
-          "count": 2,
-          "weight": 3
-        },
-        {
-          "item": "hexalia:lavender",
-          "count": 2,
-          "weight": 2
-        },
-        {
-          "item": "brewery:beer_hops",
-          "count": 2,
-          "weight": 2
-        },
-        {
-          "item": "create:shaft",
-          "count": 4,
-          "weight": 2
-        },
-        {
-          "item": "create:cogwheel",
           "count": 2,
           "weight": 2
         },
@@ -52,54 +47,139 @@
           "item": "farm_and_charm:oat_seeds",
           "count": 2,
           "weight": 2
-        }
-      ]
-    },
-    "easy": {
-      "chance": 1.0,
-      "items": [
-        {
-          "item": "create:raw_zinc",
-          "count": 3,
-          "weight": 5
-        },
-        {
-          "item": "create:andesite_alloy",
-          "count": 2,
-          "weight": 4
-        },
-        {
-          "item": "farmersdelight:canvas",
-          "count": 2,
-          "weight": 3
-        },
-        {
-          "item": "farmersdelight:cooked_bacon",
-          "count": 3,
-          "weight": 3
-        },
-        {
-          "item": "create:copper_sheet",
-          "count": 2,
-          "weight": 3
-        },
-        {
-          "item": "create:zinc_ingot",
-          "count": 2,
-          "weight": 3
         },
         {
           "item": "farm_and_charm:lettuce_seeds",
           "count": 2,
-          "weight": 3
+          "weight": 2
         },
         {
-          "item": "hexalia:mandrake_seeds",
+          "item": "brewery:hops_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "brewery:hops",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "brewery:dried_barley",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:chicken_soup",
           "count": 1,
           "weight": 2
         },
         {
-          "item": "brewery:beer_mug",
+          "item": "farmersdelight:beef_stew",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:vegetable_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:stuffed_potato",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:cheese_sandwich",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:apple_juice",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:sweet_roll",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:asparagus_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:tomato_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:mushroom_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:pretzel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:dumplings",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:potato_salad",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_wheat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_barley",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_oat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:black_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:green_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:hibiscus_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:lavender_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:shaft",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:cogwheel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:large_cogwheel",
           "count": 1,
           "weight": 2
         },
@@ -109,72 +189,7 @@
           "weight": 2
         },
         {
-          "item": "create:andesite_encased_shaft",
-          "count": 1,
-          "weight": 2
-        },
-        {
-          "item": "create:crushed_raw_iron",
-          "count": 2,
-          "weight": 2
-        },
-        {
-          "item": "farmersdelight:rope",
-          "count": 3,
-          "weight": 2
-        }
-      ]
-    },
-    "medium": {
-      "chance": 1.0,
-      "items": [
-        {
-          "item": "create:andesite_alloy",
-          "count": 4,
-          "weight": 5
-        },
-        {
-          "item": "create:copper_sheet",
-          "count": 3,
-          "weight": 4
-        },
-        {
-          "item": "create:brass_ingot",
-          "count": 2,
-          "weight": 2
-        },
-        {
-          "item": "farmersdelight:beef_stew",
-          "count": 1,
-          "weight": 3
-        },
-        {
-          "item": "farmersdelight:rope",
-          "count": 4,
-          "weight": 3
-        },
-        {
-          "item": "create:zinc_ingot",
-          "count": 3,
-          "weight": 3
-        },
-        {
-          "item": "farm_and_charm:nettle_tea",
-          "count": 1,
-          "weight": 2
-        },
-        {
-          "item": "hexalia:celestial_crystal",
-          "count": 1,
-          "weight": 1
-        },
-        {
-          "item": "brewery:beer_wheat",
-          "count": 1,
-          "weight": 2
-        },
-        {
-          "item": "create:brass_casing",
+          "item": "create:andesite_funnel",
           "count": 1,
           "weight": 2
         },
@@ -184,9 +199,219 @@
           "weight": 2
         },
         {
-          "item": "create:electron_tube",
+          "item": "hexalia:lavender",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:mandrake_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:rabbage_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:chillberries",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:galeberries",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:fragrant_nectar",
+          "count": 2,
+          "weight": 2
+        }
+      ]
+    },
+    "easy": {
+      "chance": 1,
+      "items": [
+        {
+          "item": "create:zinc_ingot",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_alloy",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:iron_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:copper_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_iron",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_copper",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_zinc",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:shaft",
           "count": 1,
-          "weight": 1
+          "weight": 2
+        },
+        {
+          "item": "create:cogwheel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:large_cogwheel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_casing",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_funnel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:gearbox",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:tomato_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:cabbage_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:rice",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:asparagus_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:chili_pepper_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:peanut",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:sweet_potato",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farm_and_charm:barley_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farm_and_charm:oat_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farm_and_charm:lettuce_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "brewery:hops_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "brewery:hops",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "brewery:dried_barley",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:chicken_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:beef_stew",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:vegetable_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:stuffed_potato",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:cheese_sandwich",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:apple_juice",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:sweet_roll",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:asparagus_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:tomato_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:mushroom_soup",
+          "count": 1,
+          "weight": 2
         },
         {
           "item": "brewery:pretzel",
@@ -194,50 +419,750 @@
           "weight": 2
         },
         {
-          "item": "farm_and_charm:barley_soup",
+          "item": "brewery:dumplings",
           "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:potato_salad",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_wheat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_barley",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_oat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:black_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:green_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:hibiscus_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:lavender_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:lavender",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:mandrake_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:rabbage_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:chillberries",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:galeberries",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:fragrant_nectar",
+          "count": 2,
           "weight": 2
         }
       ]
     },
-    "hard": {
-      "chance": 0.8,
+    "medium": {
+      "chance": 1,
       "items": [
         {
+          "item": "create:zinc_ingot",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_alloy",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:iron_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:copper_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_iron",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_copper",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_zinc",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:shaft",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:cogwheel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:large_cogwheel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_casing",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_funnel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:gearbox",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:chicken_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:beef_stew",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:vegetable_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:stuffed_potato",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:cheese_sandwich",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:apple_juice",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:sweet_roll",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:asparagus_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:tomato_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:mushroom_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:pretzel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:dumplings",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:potato_salad",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_wheat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_barley",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_oat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:black_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:green_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:hibiscus_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:lavender_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:lavender",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:mandrake_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:rabbage_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:chillberries",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:galeberries",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:fragrant_nectar",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_arachnid_grace",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_bloodlust",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_daybloom",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_hollow_silence",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_homestead",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_siphon",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_slimewalker",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_spikeskin",
+          "count": 1,
+          "weight": 2
+        }
+      ],
+      "bonus": "parts_bonus"
+    },
+    "hard": {
+      "chance": 1,
+      "items": [
+        {
+          "item": "create:zinc_ingot",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_alloy",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:iron_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:copper_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_iron",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_copper",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_zinc",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:chicken_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:beef_stew",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:vegetable_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:stuffed_potato",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:cheese_sandwich",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:apple_juice",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:sweet_roll",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:asparagus_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:tomato_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:mushroom_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:pretzel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:dumplings",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:potato_salad",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_wheat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_barley",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_oat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:black_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:green_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:hibiscus_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:lavender_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_arachnid_grace",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_bloodlust",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_daybloom",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_hollow_silence",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_homestead",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_siphon",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_slimewalker",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_spikeskin",
+          "count": 1,
+          "weight": 2
+        },
+        {
           "item": "create:brass_ingot",
-          "count": 4,
-          "weight": 5
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:golden_sheet",
+          "count": 2,
+          "weight": 2
+        }
+      ],
+      "bonus": "gear_bonus"
+    },
+    "water": {
+      "chance": 1,
+      "items": [
+        {
+          "item": "oceansdelight:cooked_stuffed_cod",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "oceansdelight:squid_rings",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "oceansdelight:honey_fried_kelp",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "oceansdelight:seagrass_salad",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "oceansdelight:guardian_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:zinc_ingot",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:copper_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:iron_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:rope",
+          "count": 3,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:canvas",
+          "count": 3,
+          "weight": 2
+        }
+      ],
+      "bonus": "water_bonus"
+    },
+    "nether": {
+      "chance": 0.85,
+      "items": [
+        {
+          "item": "nethersdelight:hoglin_loin",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "nethersdelight:propelpearl",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_arachnid_grace",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_bloodlust",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_daybloom",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_hollow_silence",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_homestead",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_siphon",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_slimewalker",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_spikeskin",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:brass_ingot",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:golden_sheet",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:electron_tube",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:railway_casing",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:mechanical_press",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:dark_brew",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_nettle",
+          "count": 1,
+          "weight": 2
+        }
+      ],
+      "bonus": "gear_bonus"
+    },
+    "end": {
+      "chance": 1,
+      "items": [
+        {
+          "item": "betterend:crystal_shards",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "ends_delight:chorus_fruit_pie_slice",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "ends_delight:chorus_flower_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "ends_delight:chorus_fruit_wine",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "ends_delight:bubble_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_arachnid_grace",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_bloodlust",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_daybloom",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_hollow_silence",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_homestead",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_siphon",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_slimewalker",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_spikeskin",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:brass_ingot",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:electron_tube",
+          "count": 1,
+          "weight": 2
         },
         {
           "item": "create:precision_mechanism",
           "count": 1,
-          "weight": 1
-        },
-        {
-          "item": "farmersdelight:roast_chicken_block",
-          "count": 1,
-          "weight": 3
-        },
-        {
-          "item": "create:experience_nugget",
-          "count": 4,
-          "weight": 4
-        },
-        {
-          "item": "create:golden_sheet",
-          "count": 3,
-          "weight": 3
-        },
-        {
-          "item": "hexalia:hex_focus",
-          "count": 1,
-          "weight": 1
-        },
-        {
-          "item": "create:copper_diving_helmet",
-          "count": 1,
-          "weight": 1
-        },
+          "weight": 2
+        }
+      ],
+      "bonus": "end_bonus"
+    },
+    "parts_bonus": {
+      "chance": 0.08,
+      "items": [
         {
           "item": "create:mechanical_drill",
           "count": 1,
@@ -249,97 +1174,17 @@
           "weight": 1
         },
         {
+          "item": "create:mechanical_harvester",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "create:mechanical_plough",
+          "count": 1,
+          "weight": 1
+        },
+        {
           "item": "create:mechanical_pump",
-          "count": 1,
-          "weight": 1
-        }
-      ]
-    },
-    "water": {
-      "chance": 1.0,
-      "items": [
-        {
-          "item": "farmersdelight:fish_stew",
-          "count": 1,
-          "weight": 4
-        },
-        {
-          "item": "farmersdelight:rope",
-          "count": 5,
-          "weight": 5
-        },
-        {
-          "item": "create:copper_sheet",
-          "count": 3,
-          "weight": 4
-        },
-        {
-          "item": "create:zinc_ingot",
-          "count": 3,
-          "weight": 3
-        },
-        {
-          "item": "farmersdelight:canvas",
-          "count": 3,
-          "weight": 3
-        },
-        {
-          "item": "oceansdelight:guardian_soup",
-          "count": 1,
-          "weight": 2
-        },
-        {
-          "item": "brewery:beer_mug",
-          "count": 1,
-          "weight": 2
-        },
-        {
-          "item": "create:copper_backtank",
-          "count": 1,
-          "weight": 1
-        },
-        {
-          "item": "create:propeller",
-          "count": 1,
-          "weight": 1
-        },
-        {
-          "item": "oceansdelight:stuffed_cod",
-          "count": 1,
-          "weight": 2
-        }
-      ]
-    },
-    "nether": {
-      "chance": 0.65,
-      "items": [
-        {
-          "item": "nethersdelight:hoglin_loin",
-          "count": 3,
-          "weight": 4
-        },
-        {
-          "item": "nethersdelight:propelpearl",
-          "count": 3,
-          "weight": 4
-        },
-        {
-          "item": "create:golden_sheet",
-          "count": 3,
-          "weight": 3
-        },
-        {
-          "item": "create:brass_ingot",
-          "count": 3,
-          "weight": 3
-        },
-        {
-          "item": "create:experience_nugget",
-          "count": 3,
-          "weight": 3
-        },
-        {
-          "item": "hexalia:brew_of_bloodlust",
           "count": 1,
           "weight": 1
         },
@@ -349,76 +1194,780 @@
           "weight": 1
         },
         {
-          "item": "create:railway_casing",
+          "item": "create:brass_casing",
           "count": 1,
           "weight": 1
         },
         {
-          "item": "brewery:dark_brew",
+          "item": "create:electron_tube",
           "count": 1,
           "weight": 1
         }
       ]
     },
-    "end": {
-      "chance": 0.75,
+    "farm": {
+      "chance": 1,
       "items": [
         {
-          "item": "betterend:crystal_shards",
-          "count": 3,
-          "weight": 4
-        },
-        {
-          "item": "ends_delight:chorus_fruit_pie_slice",
+          "item": "farmersdelight:tomato_seeds",
           "count": 2,
-          "weight": 4
+          "weight": 2
         },
         {
-          "item": "create:experience_nugget",
-          "count": 6,
-          "weight": 5
+          "item": "farmersdelight:cabbage_seeds",
+          "count": 2,
+          "weight": 2
         },
         {
-          "item": "create:precision_mechanism",
+          "item": "farmersdelight:rice",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:asparagus_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:chili_pepper_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:peanut",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:sweet_potato",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farm_and_charm:barley_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farm_and_charm:oat_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farm_and_charm:lettuce_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "brewery:hops_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "brewery:hops",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "brewery:dried_barley",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:chicken_soup",
           "count": 1,
-          "weight": 1
+          "weight": 2
         },
         {
-          "item": "create:brass_ingot",
-          "count": 4,
-          "weight": 4
+          "item": "farmersdelight:beef_stew",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:vegetable_soup",
+          "count": 1,
+          "weight": 2
         },
         {
           "item": "farmersdelight:stuffed_potato",
-          "count": 3,
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:cheese_sandwich",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:apple_juice",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:sweet_roll",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:asparagus_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:tomato_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:mushroom_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:pretzel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:dumplings",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:potato_salad",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_wheat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_barley",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_oat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:black_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:green_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:hibiscus_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:lavender_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:rope",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:canvas",
+          "count": 2,
+          "weight": 2
+        }
+      ]
+    },
+    "kitchen": {
+      "chance": 1,
+      "items": [
+        {
+          "item": "farmersdelight:chicken_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:beef_stew",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:vegetable_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:stuffed_potato",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:cheese_sandwich",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:apple_juice",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:sweet_roll",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:asparagus_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:tomato_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "candlelight:mushroom_soup",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:pretzel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:dumplings",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:potato_salad",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_wheat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_barley",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "brewery:beer_oat",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:black_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:green_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:hibiscus_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:lavender_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:ground_salt",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:ground_cinnamon",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:cheese_slice",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:asparagus",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "expandeddelight:chili_pepper",
+          "count": 2,
+          "weight": 2
+        }
+      ]
+    },
+    "workshop": {
+      "chance": 1,
+      "items": [
+        {
+          "item": "create:zinc_ingot",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_alloy",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:iron_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:copper_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_iron",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_copper",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_zinc",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:shaft",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:cogwheel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:large_cogwheel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_casing",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_funnel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:gearbox",
+          "count": 1,
+          "weight": 2
+        }
+      ],
+      "bonus": "parts_bonus"
+    },
+    "magic": {
+      "chance": 1,
+      "items": [
+        {
+          "item": "hexalia:lavender",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:mandrake_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:rabbage_seeds",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:chillberries",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:galeberries",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:fragrant_nectar",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_arachnid_grace",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_bloodlust",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_daybloom",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_hollow_silence",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_homestead",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_siphon",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_slimewalker",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:brew_of_spikeskin",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:black_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:green_tea",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "herbalbrews:lavender_tea",
+          "count": 1,
+          "weight": 2
+        }
+      ],
+      "bonus": "magic_bonus"
+    },
+    "magic_bonus": {
+      "chance": 0.06,
+      "items": [
+        {
+          "item": "hexalia:celestial_crystal",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:athame",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "hexalia:briar_sickle",
+          "count": 1,
+          "weight": 2
+        }
+      ]
+    },
+    "navigation": {
+      "chance": 1,
+      "items": [
+        {
+          "item": "farmersdelight:rope",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "farmersdelight:canvas",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:shaft",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:cogwheel",
+          "count": 2,
+          "weight": 2
+        }
+      ],
+      "bonus": "compass_bonus"
+    },
+    "compass_bonus": {
+      "chance": 0.1,
+      "items": [
+        {
+          "item": "naturescompass:naturescompass",
+          "count": 1,
           "weight": 3
         },
         {
-          "item": "ends_delight:chorus_fruit_wine",
+          "item": "explorerscompass:explorerscompass",
+          "count": 1,
+          "weight": 1
+        }
+      ]
+    },
+    "water_bonus": {
+      "chance": 0.06,
+      "items": [
+        {
+          "item": "create:copper_diving_helmet",
           "count": 1,
           "weight": 2
         },
         {
-          "item": "hexalia:celestial_crystal",
+          "item": "create:copper_diving_boots",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:copper_backtank",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:mechanical_pump",
+          "count": 1,
+          "weight": 2
+        }
+      ]
+    },
+    "gear_bonus": {
+      "chance": 0.04,
+      "items": [
+        {
+          "item": "obsidianequipmentrework:obsidian_helmet",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "obsidianequipmentrework:obsidian_chestplate",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "obsidianequipmentrework:obsidian_leggings",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "obsidianequipmentrework:obsidian_boots",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "minecraft:netherite_helmet",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "minecraft:netherite_chestplate",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "minecraft:netherite_leggings",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "minecraft:netherite_boots",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "minecraft:netherite_pickaxe",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "minecraft:netherite_sword",
+          "count": 1,
+          "weight": 1
+        }
+      ]
+    },
+    "armoury": {
+      "chance": 1,
+      "items": [
+        {
+          "item": "create:zinc_ingot",
           "count": 2,
-          "weight": 1
+          "weight": 2
         },
         {
-          "item": "create:refined_radiance_casing",
-          "count": 1,
-          "weight": 1
+          "item": "create:andesite_alloy",
+          "count": 2,
+          "weight": 2
         },
         {
-          "item": "ends_delight:chorus_flower_tea",
+          "item": "create:iron_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:copper_sheet",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_iron",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_copper",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:crushed_raw_zinc",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "item": "create:shaft",
           "count": 1,
           "weight": 2
+        },
+        {
+          "item": "create:cogwheel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:large_cogwheel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_casing",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:andesite_funnel",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:gearbox",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "create:brass_ingot",
+          "count": 2,
+          "weight": 2
+        }
+      ],
+      "bonus": "gear_bonus"
+    },
+    "end_bonus": {
+      "chance": 0.1,
+      "items": [
+        {
+          "item": "mythicupgrades:topaz_ingot",
+          "count": 1,
+          "weight": 3
+        },
+        {
+          "item": "mythicupgrades:aquamarine_ingot",
+          "count": 1,
+          "weight": 3
+        },
+        {
+          "item": "mythicupgrades:ametrine_ingot",
+          "count": 1,
+          "weight": 3
+        },
+        {
+          "item": "obsidianequipmentrework:obsidian_helmet",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "obsidianequipmentrework:obsidian_chestplate",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "obsidianequipmentrework:obsidian_leggings",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "obsidianequipmentrework:obsidian_boots",
+          "count": 1,
+          "weight": 2
+        },
+        {
+          "item": "minecraft:netherite_helmet",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "minecraft:netherite_chestplate",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "minecraft:netherite_leggings",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "minecraft:netherite_boots",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "minecraft:netherite_pickaxe",
+          "count": 1,
+          "weight": 1
+        },
+        {
+          "item": "minecraft:netherite_sword",
+          "count": 1,
+          "weight": 1
         }
       ]
     }
   },
   "routes": {
-    "beautify:chests/botanist/botanist_chest_taiga": "village",
-    "betterdeserttemples:chests/food_storage": "village",
+    "beautify:chests/botanist/botanist_chest_taiga": "farm",
+    "betterdeserttemples:chests/food_storage": "kitchen",
     "betterdeserttemples:chests/lab": "easy",
     "betterdeserttemples:chests/library": "medium",
     "betterdeserttemples:chests/pharaoh_hidden": "medium",
@@ -452,7 +2001,7 @@
     "betterjungletemples:chests/campsite": "easy",
     "betterjungletemples:chests/treasure": "medium",
     "betteroceanmonuments:chests/upper_side_chamber": "water",
-    "betterstrongholds:chests/armoury": "easy",
+    "betterstrongholds:chests/armoury": "armoury",
     "betterstrongholds:chests/cmd_yung": "easy",
     "betterstrongholds:chests/common": "easy",
     "betterstrongholds:chests/crypt": "easy",
@@ -464,7 +2013,7 @@
     "betterstrongholds:chests/treasure": "medium",
     "betterwitchhuts:chests/hut_0": "easy",
     "biomeswevegone:chests/village/forgotten/armorer": "village",
-    "biomeswevegone:chests/village/forgotten/cartographer": "village",
+    "biomeswevegone:chests/village/forgotten/cartographer": "navigation",
     "biomeswevegone:chests/village/forgotten/house": "village",
     "biomeswevegone:chests/village/forgotten/temple": "medium",
     "biomeswevegone:chests/village/pumpkin_patch/house": "village",
@@ -472,32 +2021,32 @@
     "biomeswevegone:chests/village/red_rock/house": "village",
     "biomeswevegone:chests/village/red_rock/mason": "village",
     "biomeswevegone:chests/village/salem/animal_pen": "village",
-    "biomeswevegone:chests/village/salem/forager": "village",
+    "biomeswevegone:chests/village/salem/forager": "farm",
     "biomeswevegone:chests/village/salem/house": "village",
     "biomeswevegone:chests/village/skyris/house": "village",
     "biomeswevegone:chests/village/skyris/library": "village",
-    "biomeswevegone:chests/village/swamp/forager": "village",
+    "biomeswevegone:chests/village/swamp/forager": "farm",
     "biomeswevegone:chests/village/swamp/house": "village",
     "bosses_of_mass_destruction:chests/lich_tower": "medium",
     "ctov:chests/village/village_badlands_house": "village",
-    "ctov:chests/village/village_bakery": "village",
+    "ctov:chests/village/village_bakery": "kitchen",
     "ctov:chests/village/village_beach_house": "village",
     "ctov:chests/village/village_dark_forest_house": "village",
-    "ctov:chests/village/village_forager": "village",
+    "ctov:chests/village/village_forager": "farm",
     "ctov:chests/village/village_jungle_house": "village",
     "ctov:chests/village/village_library": "village",
     "ctov:chests/village/village_mountain_house": "village",
     "ctov:chests/village/village_mushroom_house": "village",
-    "ctov:chests/village/village_smith": "village",
+    "ctov:chests/village/village_smith": "workshop",
     "ctov:chests/village/village_swamp_house": "village",
     "ctov:pillager_outpost/halloween/tower": "medium",
-    "ctov:village/desert_fortified/bakery": "village",
+    "ctov:village/desert_fortified/bakery": "kitchen",
     "ctov:village/swamp/leatherworker": "village",
-    "deeperdarker:chests/ancient_temple_apex": "nether",
-    "deeperdarker:chests/ancient_temple_basement": "nether",
-    "deeperdarker:chests/ancient_temple_fountain": "nether",
-    "deeperdarker:chests/ancient_temple_secret": "nether",
-    "deeperdarker:chests/ancient_temple_storage": "nether",
+    "deeperdarker:chests/ancient_temple_apex": "hard",
+    "deeperdarker:chests/ancient_temple_basement": "hard",
+    "deeperdarker:chests/ancient_temple_fountain": "hard",
+    "deeperdarker:chests/ancient_temple_secret": "hard",
+    "deeperdarker:chests/ancient_temple_storage": "hard",
     "friendsandfoes:barrels/citadel": "village",
     "friendsandfoes:barrels/iceologer_cabin": "village",
     "friendsandfoes:barrels/illusioner_shack_attic": "village",
@@ -510,16 +2059,16 @@
     "illagerinvasion:chests/illusioner_tower_entrance": "medium",
     "illagerinvasion:chests/illusioner_tower_stairs": "medium",
     "illagerinvasion:chests/labyrinth": "village",
-    "illagerinvasion:chests/labyrinth_map": "village",
+    "illagerinvasion:chests/labyrinth_map": "navigation",
     "illagerinvasion:chests/sorcerer_hut": "village",
     "imst:airship": "easy",
     "imst:balloon": "easy",
     "imst:bandit_camp": "easy",
     "imst:beehouse": "village",
     "imst:berry_house": "village",
-    "imst:cactus_farm": "village",
+    "imst:cactus_farm": "farm",
     "imst:caravan": "village",
-    "imst:cocoa_farm": "village",
+    "imst:cocoa_farm": "farm",
     "imst:lumberjack/acacia": "village",
     "imst:lumberjack/birch": "village",
     "imst:lumberjack/dark_oak": "village",
@@ -527,71 +2076,71 @@
     "imst:lumberjack/oak": "village",
     "imst:lumberjack/spruce": "village",
     "imst:mountain_camp": "village",
-    "imst:sunflower_farm": "village",
+    "imst:sunflower_farm": "farm",
     "imst:train_station": "village",
-    "imst:witch_hut": "village",
-    "incendium:castle/barrel/alchemist": "village",
-    "incendium:castle/barrel/barracks": "village",
-    "incendium:castle/barrel/blacksmith": "village",
-    "incendium:castle/barrel/food": "village",
-    "incendium:castle/barrel/food_low": "village",
-    "incendium:castle/barrel/generic": "village",
-    "incendium:castle/barrel/generic_big": "village",
-    "incendium:castle/barrel/greenhouse_secret": "village",
-    "incendium:castle/barrel/ice": "village",
-    "incendium:castle/barrel/library": "village",
-    "incendium:castle/barrel/library_low": "village",
-    "incendium:castle/barrel/lumber": "village",
-    "incendium:castle/barrel/lumber_big": "village",
-    "incendium:castle/barrel/monument": "village",
-    "incendium:castle/barrel/random": "village",
-    "incendium:castle/base/blackstone": "village",
-    "incendium:castle/king_statue": "village",
-    "incendium:castle/tower_barrel": "medium",
-    "incendium:castle/treasure/quartz": "village",
-    "incendium:cvill/blacksmith": "village",
-    "incendium:cvill/butcher": "village",
-    "incendium:cvill/farmer": "village",
-    "incendium:cvill/low": "village",
-    "incendium:cvill/lumberjack": "village",
-    "incendium:cvill/medium": "village",
-    "incendium:lab/basalt": "village",
-    "incendium:lab/piglin_loot": "village",
-    "incendium:lab/rare": "village",
-    "incendium:lab/treasure": "village",
+    "imst:witch_hut": "magic",
+    "incendium:castle/barrel/alchemist": "nether",
+    "incendium:castle/barrel/barracks": "nether",
+    "incendium:castle/barrel/blacksmith": "nether",
+    "incendium:castle/barrel/food": "nether",
+    "incendium:castle/barrel/food_low": "nether",
+    "incendium:castle/barrel/generic": "nether",
+    "incendium:castle/barrel/generic_big": "nether",
+    "incendium:castle/barrel/greenhouse_secret": "nether",
+    "incendium:castle/barrel/ice": "nether",
+    "incendium:castle/barrel/library": "nether",
+    "incendium:castle/barrel/library_low": "nether",
+    "incendium:castle/barrel/lumber": "nether",
+    "incendium:castle/barrel/lumber_big": "nether",
+    "incendium:castle/barrel/monument": "nether",
+    "incendium:castle/barrel/random": "nether",
+    "incendium:castle/base/blackstone": "nether",
+    "incendium:castle/king_statue": "nether",
+    "incendium:castle/tower_barrel": "nether",
+    "incendium:castle/treasure/quartz": "nether",
+    "incendium:cvill/blacksmith": "nether",
+    "incendium:cvill/butcher": "nether",
+    "incendium:cvill/farmer": "nether",
+    "incendium:cvill/low": "nether",
+    "incendium:cvill/lumberjack": "nether",
+    "incendium:cvill/medium": "nether",
+    "incendium:lab/basalt": "nether",
+    "incendium:lab/piglin_loot": "nether",
+    "incendium:lab/rare": "nether",
+    "incendium:lab/treasure": "nether",
     "incendium:pipeline/common": "nether",
-    "incendium:pipeline/rare": "village",
-    "incendium:pipeline/treasure": "village",
-    "incendium:pipeline/uncommon": "village",
-    "incendium:quartz_flats/ghastling_food": "village",
-    "incendium:quartz_flats/kitchen_basic": "village",
-    "incendium:quartz_flats/kitchen_extra_treasure": "village",
-    "incendium:quartz_flats/kitchen_junk": "village",
-    "incendium:quartz_flats/kitchen_treasure": "village",
-    "incendium:reactor/office": "village",
-    "incendium:reactor/office_treasure": "village",
+    "incendium:pipeline/rare": "nether",
+    "incendium:pipeline/treasure": "nether",
+    "incendium:pipeline/uncommon": "nether",
+    "incendium:quartz_flats/ghastling_food": "nether",
+    "incendium:quartz_flats/kitchen_basic": "nether",
+    "incendium:quartz_flats/kitchen_extra_treasure": "nether",
+    "incendium:quartz_flats/kitchen_junk": "nether",
+    "incendium:quartz_flats/kitchen_treasure": "nether",
+    "incendium:reactor/office": "nether",
+    "incendium:reactor/office_treasure": "nether",
     "incendium:reactor/treasure": "nether",
-    "incendium:reactor/waste": "village",
-    "incendium:sanctum/banners": "village",
-    "incendium:sanctum/brewery": "village",
-    "incendium:sanctum/coffin": "village",
-    "incendium:sanctum/common_loot": "village",
-    "incendium:sanctum/lower_loot": "village",
-    "incendium:sanctum/tax_collector": "village",
+    "incendium:reactor/waste": "nether",
+    "incendium:sanctum/banners": "nether",
+    "incendium:sanctum/brewery": "nether",
+    "incendium:sanctum/coffin": "nether",
+    "incendium:sanctum/common_loot": "nether",
+    "incendium:sanctum/lower_loot": "nether",
+    "incendium:sanctum/tax_collector": "nether",
     "incendium:steam/rare": "nether",
-    "kaisyn:outpost/common/armory": "medium",
-    "kaisyn:outpost/common/food": "medium",
+    "kaisyn:outpost/common/armory": "armoury",
+    "kaisyn:outpost/common/food": "kitchen",
     "kaisyn:outpost/exclusives/outpost_beach_barrel": "medium",
     "kaisyn:outpost/exclusives/outpost_mediterranean_barrel": "medium",
     "kaisyn:outpost/exclusives/outpost_rustic_barrel": "medium",
-    "kaisyn:village/exclusives/village_classic_blacksmith": "village",
+    "kaisyn:village/exclusives/village_classic_blacksmith": "workshop",
     "kaisyn:village/exclusives/village_mediterranean_house": "village",
     "kaisyn:village/exclusives/village_piglin_barrel": "village",
     "kaisyn:village/exclusives/village_piglin_house": "village",
     "kaisyn:village/exclusives/village_wandering_trader_hut": "village",
     "kaisyn:village/village_badlands_house": "village",
     "kaisyn:village/village_birch_forest_house": "village",
-    "kaisyn:village/village_forest_ruins/forest_ruins_butcher": "water",
+    "kaisyn:village/village_forest_ruins/forest_ruins_butcher": "kitchen",
     "kaisyn:village/village_forest_ruins/forest_ruins_library": "water",
     "kaisyn:village/village_forest_ruins/forest_ruins_temple": "water",
     "kaisyn:village/village_jungle_house": "village",
@@ -600,7 +2149,7 @@
     "letsdoaddon-structures:chests/barn": "village",
     "letsdoaddon-structures:chests/barn_up": "village",
     "letsdoaddon-structures:chests/crimson_vinery": "nether",
-    "letsdoaddon-structures:chests/illager_camp_mine": "village",
+    "letsdoaddon-structures:chests/illager_camp_mine": "workshop",
     "letsdoaddon-structures:chests/illager_camp_tent": "village",
     "letsdoaddon-structures:chests/mangrove_hut": "village",
     "letsdoaddon-structures:chests/mangrove_hut_outpost/floor/1": "medium",
@@ -629,15 +2178,15 @@
     "minecraft:chests/illager_mansion/ancient_city_raid_chest": "easy",
     "minecraft:chests/illager_mansion/evoker_chest": "easy",
     "minecraft:chests/illager_mansion/generic": "village",
-    "minecraft:chests/illager_mansion/kitchen": "village",
+    "minecraft:chests/illager_mansion/kitchen": "kitchen",
     "minecraft:chests/illager_mansion/library_chest": "easy",
-    "minecraft:chests/illager_mansion/map_chest": "easy",
+    "minecraft:chests/illager_mansion/map_chest": "navigation",
     "minecraft:chests/illager_mansion/pillager_chest": "easy",
     "minecraft:chests/illager_mansion/ravager_chest": "village",
     "minecraft:chests/illager_mansion/secret_room": "easy",
     "minecraft:chests/illager_mansion/smithing_room": "easy",
     "minecraft:chests/illager_mansion/vindicator_chest": "medium",
-    "minecraft:chests/illager_mansion/witch_chest": "easy",
+    "minecraft:chests/illager_mansion/witch_chest": "magic",
     "minecraft:chests/illager_mansion/wool": "easy",
     "minecraft:chests/jungle_temple": "medium",
     "minecraft:chests/nether_bridge": "nether",
@@ -645,7 +2194,7 @@
     "minecraft:chests/nether_fortress/fort_inside_generic": "nether",
     "minecraft:chests/pillager_outpost": "medium",
     "minecraft:chests/ruined_portal": "water",
-    "minecraft:chests/shipwreck_map": "water",
+    "minecraft:chests/shipwreck_map": "navigation",
     "minecraft:chests/shipwreck_supply": "water",
     "minecraft:chests/shipwreck_treasure": "water",
     "minecraft:chests/simple_dungeon": "medium",
@@ -653,8 +2202,8 @@
     "minecraft:chests/stronghold_crossing": "medium",
     "minecraft:chests/stronghold_library": "medium",
     "minecraft:chests/village/village_armorer": "village",
-    "minecraft:chests/village/village_butcher": "village",
-    "minecraft:chests/village/village_cartographer": "village",
+    "minecraft:chests/village/village_butcher": "kitchen",
+    "minecraft:chests/village/village_cartographer": "navigation",
     "minecraft:chests/village/village_desert_house": "village",
     "minecraft:chests/village/village_fisher": "water",
     "minecraft:chests/village/village_fletcher": "village",
@@ -669,15 +2218,15 @@
     "minecraft:chests/village/village_taiga_house": "village",
     "minecraft:chests/village/village_tannery": "village",
     "minecraft:chests/village/village_temple": "medium",
-    "minecraft:chests/village/village_toolsmith": "village",
-    "minecraft:chests/village/village_weaponsmith": "village",
+    "minecraft:chests/village/village_toolsmith": "workshop",
+    "minecraft:chests/village/village_weaponsmith": "workshop",
     "minecraft:chests/woodland_mansion": "medium",
     "minecraft:mvs/cathedral_common": "village",
     "mmv:village_dark_oak_archer": "village",
-    "mmv:village_dark_oak_blacksmith": "village",
-    "mmv:village_dark_oak_cartographer": "village",
+    "mmv:village_dark_oak_blacksmith": "workshop",
+    "mmv:village_dark_oak_cartographer": "navigation",
     "mmv:village_dark_oak_church": "village",
-    "mmv:village_dark_oak_farm": "village",
+    "mmv:village_dark_oak_farm": "farm",
     "mmv:village_dark_oak_house": "village",
     "mmv:village_dark_oak_librarian": "village",
     "mmv:village_dark_oak_stonecutter": "village",
@@ -734,8 +2283,8 @@
     "mtr:nether_temple_uncommon": "nether",
     "mtr:ocean_temple_common": "water",
     "mtr:ocean_temple_treasure": "water",
-    "mtr:stronghold_barracks_barrel": "easy",
-    "mtr:stronghold_barracks_chest": "easy",
+    "mtr:stronghold_barracks_barrel": "armoury",
+    "mtr:stronghold_barracks_chest": "armoury",
     "mtr:stronghold_corridor_common": "easy",
     "mtr:stronghold_corridor_empty": "easy",
     "mtr:stronghold_corridor_rare": "medium",
@@ -747,7 +2296,7 @@
     "mtr:stronghold_suspicious_gravel": "medium",
     "mvs:abandoned": "village",
     "mvs:cart": "village",
-    "mvs:cartographer_tower": "village",
+    "mvs:cartographer_tower": "navigation",
     "mvs:cathedral_base": "village",
     "mvs:cathedral_common": "village",
     "mvs:cathedral_rare": "easy",
@@ -756,7 +2305,7 @@
     "mvs:floating_islands": "village",
     "mvs:general": "village",
     "mvs:houses_books": "village",
-    "mvs:houses_brewing": "easy",
+    "mvs:houses_brewing": "magic",
     "mvs:houses_common": "village",
     "mvs:houses_desert": "village",
     "mvs:houses_flower": "village",
@@ -796,14 +2345,14 @@
     "nova_structures:chests/desert_ruins/desert_ruin_lesser_treasure": "easy",
     "nova_structures:chests/desert_ruins/desert_ruin_main_temple": "easy",
     "nova_structures:chests/firewatch_tower": "village",
-    "nova_structures:chests/food_supply": "village",
+    "nova_structures:chests/food_supply": "kitchen",
     "nova_structures:chests/hamlet/hamlet": "village",
     "nova_structures:chests/hamlet/hamlet_tresure": "nether",
     "nova_structures:chests/illager_camp": "easy",
     "nova_structures:chests/illager_hideout_heart_loot": "easy",
     "nova_structures:chests/illager_hideout_random": "village",
     "nova_structures:chests/illager_hideout_raw_vegitarian": "village",
-    "nova_structures:chests/illager_hideout_raw_weaponry": "village",
+    "nova_structures:chests/illager_hideout_raw_weaponry": "armoury",
     "nova_structures:chests/jungle_ruins/jungle_ruins_main_temple": "medium",
     "nova_structures:chests/mangrove_witchhud": "easy",
     "nova_structures:chests/mining_supply": "village",
@@ -815,26 +2364,26 @@
     "nova_structures:chests/piglin_outstation/outstation_generic": "nether",
     "nova_structures:chests/piglin_outstation/outstation_tower": "nether",
     "nova_structures:chests/piglin_outstation/outstation_treasure": "nether",
-    "nova_structures:chests/pillager_outpost_kitchen": "village",
+    "nova_structures:chests/pillager_outpost_kitchen": "kitchen",
     "nova_structures:chests/pillager_outpost_treasure": "easy",
     "nova_structures:chests/ruin_loot_master": "easy",
     "nova_structures:chests/stray_fort_archer": "easy",
     "nova_structures:chests/stray_fort_loot_generic": "easy",
     "nova_structures:chests/stray_fort_tresure": "easy",
-    "nova_structures:chests/tavern_quest": "easy",
+    "nova_structures:chests/tavern_quest": "kitchen",
     "nova_structures:chests/undead_crypts_grave": "easy",
     "nova_structures:chests/water_supply": "water",
-    "nova_structures:chests/witch_villa/bedroom": "village",
-    "nova_structures:chests/witch_villa/dirty_clothes": "village",
-    "nova_structures:chests/witch_villa/gardening": "village",
-    "nova_structures:chests/witch_villa/general_storage": "village",
-    "nova_structures:chests/witch_villa/kitchen": "village",
-    "nova_structures:chests/witch_villa/lab": "village",
-    "nova_structures:chests/witch_villa/library": "medium",
-    "nova_structures:chests/witch_villa/music_room": "easy",
-    "nova_structures:chests/witch_villa/potion_brewing": "easy",
-    "nova_structures:chests/witch_villa/pumpkin_room": "easy",
-    "nova_structures:chests/witch_villa/slime_room": "village",
+    "nova_structures:chests/witch_villa/bedroom": "magic",
+    "nova_structures:chests/witch_villa/dirty_clothes": "magic",
+    "nova_structures:chests/witch_villa/gardening": "magic",
+    "nova_structures:chests/witch_villa/general_storage": "magic",
+    "nova_structures:chests/witch_villa/kitchen": "magic",
+    "nova_structures:chests/witch_villa/lab": "magic",
+    "nova_structures:chests/witch_villa/library": "magic",
+    "nova_structures:chests/witch_villa/music_room": "magic",
+    "nova_structures:chests/witch_villa/potion_brewing": "magic",
+    "nova_structures:chests/witch_villa/pumpkin_room": "magic",
+    "nova_structures:chests/witch_villa/slime_room": "magic",
     "repurposed_structures:chests/ancient_cities/end": "end",
     "repurposed_structures:chests/ancient_cities/end_spawner_box": "end",
     "repurposed_structures:chests/ancient_cities/nether": "nether",
@@ -882,19 +2431,19 @@
     "repurposed_structures:chests/mansions/snowy_storage": "medium",
     "repurposed_structures:chests/mansions/taiga": "medium",
     "repurposed_structures:chests/mansions/taiga_storage": "medium",
-    "repurposed_structures:chests/mineshafts/birch": "village",
+    "repurposed_structures:chests/mineshafts/birch": "workshop",
     "repurposed_structures:chests/mineshafts/crimson": "nether",
-    "repurposed_structures:chests/mineshafts/dark_forest": "village",
-    "repurposed_structures:chests/mineshafts/desert": "village",
+    "repurposed_structures:chests/mineshafts/dark_forest": "workshop",
+    "repurposed_structures:chests/mineshafts/desert": "workshop",
     "repurposed_structures:chests/mineshafts/end": "end",
-    "repurposed_structures:chests/mineshafts/icy": "village",
-    "repurposed_structures:chests/mineshafts/jungle": "village",
+    "repurposed_structures:chests/mineshafts/icy": "workshop",
+    "repurposed_structures:chests/mineshafts/jungle": "workshop",
     "repurposed_structures:chests/mineshafts/nether": "nether",
-    "repurposed_structures:chests/mineshafts/ocean": "water",
-    "repurposed_structures:chests/mineshafts/savanna": "village",
-    "repurposed_structures:chests/mineshafts/stone": "village",
-    "repurposed_structures:chests/mineshafts/swamp": "village",
-    "repurposed_structures:chests/mineshafts/taiga": "village",
+    "repurposed_structures:chests/mineshafts/ocean": "workshop",
+    "repurposed_structures:chests/mineshafts/savanna": "workshop",
+    "repurposed_structures:chests/mineshafts/stone": "workshop",
+    "repurposed_structures:chests/mineshafts/swamp": "workshop",
+    "repurposed_structures:chests/mineshafts/taiga": "workshop",
     "repurposed_structures:chests/mineshafts/warped": "nether",
     "repurposed_structures:chests/monuments/desert": "water",
     "repurposed_structures:chests/monuments/icy": "water",
@@ -932,14 +2481,14 @@
     "repurposed_structures:chests/ruins/land_warm/large": "water",
     "repurposed_structures:chests/ruins/land_warm/small": "water",
     "repurposed_structures:chests/ruins/nether": "nether",
-    "repurposed_structures:chests/shipwrecks/crimson/map": "nether",
+    "repurposed_structures:chests/shipwrecks/crimson/map": "navigation",
     "repurposed_structures:chests/shipwrecks/crimson/supply": "nether",
     "repurposed_structures:chests/shipwrecks/crimson/treasure": "nether",
-    "repurposed_structures:chests/shipwrecks/end/map": "end",
+    "repurposed_structures:chests/shipwrecks/end/map": "navigation",
     "repurposed_structures:chests/shipwrecks/end/supply": "end",
     "repurposed_structures:chests/shipwrecks/end/treasure": "end",
     "repurposed_structures:chests/shipwrecks/nether_bricks/treasure": "nether",
-    "repurposed_structures:chests/shipwrecks/warped/map": "nether",
+    "repurposed_structures:chests/shipwrecks/warped/map": "navigation",
     "repurposed_structures:chests/shipwrecks/warped/supply": "nether",
     "repurposed_structures:chests/shipwrecks/warped/treasure": "nether",
     "repurposed_structures:chests/strongholds/nether_hallway": "nether",
@@ -956,7 +2505,7 @@
     "repurposed_structures:chests/villages/bamboo_house": "village",
     "repurposed_structures:chests/villages/birch_house": "village",
     "repurposed_structures:chests/villages/cherry_house": "village",
-    "repurposed_structures:chests/villages/crimson_cartographer": "nether",
+    "repurposed_structures:chests/villages/crimson_cartographer": "navigation",
     "repurposed_structures:chests/villages/crimson_fisher": "nether",
     "repurposed_structures:chests/villages/crimson_house": "nether",
     "repurposed_structures:chests/villages/crimson_tannery": "nether",
@@ -967,10 +2516,10 @@
     "repurposed_structures:chests/villages/mountains_house": "village",
     "repurposed_structures:chests/villages/mushroom_house": "village",
     "repurposed_structures:chests/villages/oak_house": "village",
-    "repurposed_structures:chests/villages/ocean_cartographer": "water",
+    "repurposed_structures:chests/villages/ocean_cartographer": "navigation",
     "repurposed_structures:chests/villages/ocean_house": "water",
     "repurposed_structures:chests/villages/swamp_house": "village",
-    "repurposed_structures:chests/villages/warped_cartographer": "nether",
+    "repurposed_structures:chests/villages/warped_cartographer": "navigation",
     "repurposed_structures:chests/villages/warped_fisher": "nether",
     "repurposed_structures:chests/villages/warped_house": "nether",
     "repurposed_structures:chests/villages/warped_tannery": "nether",
@@ -1022,10 +2571,10 @@
     "structory:outcast/bandit/desert": "easy",
     "structory:outcast/bandit/desert_copper": "easy",
     "structory:outcast/boat/loot": "water",
-    "structory:outcast/farm_ruin": "easy",
+    "structory:outcast/farm_ruin": "farm",
     "structory:outcast/generic/miner": "easy",
     "structory:outcast/low": "easy",
-    "structory:outcast/mine/loot": "easy",
+    "structory:outcast/mine/loot": "workshop",
     "structory:outcast/ruin/ruin": "easy",
     "structory:outcast/settlement": "village",
     "structory:ruin/ruin": "easy",
@@ -1042,8 +2591,8 @@
     "structory_towers:top/crimson_top": "nether",
     "structory_towers:top/dark_top": "easy",
     "structory_towers:top/desert_top": "easy",
-    "structory_towers:top/farm_top": "easy",
-    "structory_towers:top/forager_top": "easy",
+    "structory_towers:top/farm_top": "farm",
+    "structory_towers:top/forager_top": "farm",
     "structory_towers:top/fortress_top": "nether",
     "structory_towers:top/lighthouse_top": "easy",
     "structory_towers:top/mangrove_top": "easy",
@@ -1057,18 +2606,19 @@
     "structory_towers:top/trader_top": "easy",
     "structory_towers:top/warped_top": "nether",
     "structory_towers:top/wizard_top": "easy",
-    "structory_towers:top/workshop_top": "easy",
-    "structory_towers:workshop_minecart": "easy",
-    "villagersplus:chests/village/village_alchemist": "village",
+    "structory_towers:top/workshop_top": "workshop",
+    "structory_towers:workshop_minecart": "workshop",
+    "villagersplus:chests/village/village_alchemist": "magic",
     "villagersplus:chests/village/village_horticulturist": "village",
     "villagersplus:chests/village/village_occultist": "village",
     "villagersplus:chests/village/village_oceanographer": "village",
-    "villagesandpillages:village_witch/house/attic_chest": "village",
-    "villagesandpillages:village_witch/house/barrel": "village",
-    "villagesandpillages:village_witch/house/personal_chest": "village",
+    "villagesandpillages:village_witch/house/attic_chest": "magic",
+    "villagesandpillages:village_witch/house/barrel": "magic",
+    "villagesandpillages:village_witch/house/personal_chest": "magic",
     "wythers:chests/village/forest_ruins_big_house": "water",
     "yungsextras:desert/chillzone": "village",
-    "yungsextras:desert/ruins": "easy"
+    "yungsextras:desert/ruins": "easy",
+    "minecraft:chests/end_city_treasure": "end"
   },
   "plushies": {
     "chance": 0.1,

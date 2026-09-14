@@ -2,11 +2,11 @@
   "routes": [
     {
       "target": "beautify:chests/botanist/botanist_chest_taiga",
-      "profile": "village"
+      "profile": "farm"
     },
     {
       "target": "betterdeserttemples:chests/food_storage",
-      "profile": "village",
+      "profile": "kitchen",
       "source": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
       "legacy": [
         {
@@ -372,7 +372,7 @@
     },
     {
       "target": "betterstrongholds:chests/armoury",
-      "profile": "easy",
+      "profile": "armoury",
       "source": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
       "legacy": [
         {
@@ -502,7 +502,7 @@
     },
     {
       "target": "biomeswevegone:chests/village/forgotten/cartographer",
-      "profile": "village"
+      "profile": "navigation"
     },
     {
       "target": "biomeswevegone:chests/village/forgotten/house",
@@ -534,7 +534,7 @@
     },
     {
       "target": "biomeswevegone:chests/village/salem/forager",
-      "profile": "village"
+      "profile": "farm"
     },
     {
       "target": "biomeswevegone:chests/village/salem/house",
@@ -550,7 +550,7 @@
     },
     {
       "target": "biomeswevegone:chests/village/swamp/forager",
-      "profile": "village"
+      "profile": "farm"
     },
     {
       "target": "biomeswevegone:chests/village/swamp/house",
@@ -574,7 +574,7 @@
     },
     {
       "target": "ctov:chests/village/village_bakery",
-      "profile": "village",
+      "profile": "kitchen",
       "source": "[fabric]ctov-3.4.14.jar",
       "legacy": [
         {
@@ -610,7 +610,7 @@
     },
     {
       "target": "ctov:chests/village/village_forager",
-      "profile": "village",
+      "profile": "farm",
       "source": "[fabric]ctov-3.4.14.jar",
       "legacy": [
         {
@@ -670,7 +670,7 @@
     },
     {
       "target": "ctov:chests/village/village_smith",
-      "profile": "village",
+      "profile": "workshop",
       "source": "[fabric]ctov-3.4.14.jar",
       "legacy": [
         {
@@ -698,7 +698,7 @@
     },
     {
       "target": "ctov:village/desert_fortified/bakery",
-      "profile": "village"
+      "profile": "kitchen"
     },
     {
       "target": "ctov:village/swamp/leatherworker",
@@ -706,23 +706,23 @@
     },
     {
       "target": "deeperdarker:chests/ancient_temple_apex",
-      "profile": "nether"
+      "profile": "hard"
     },
     {
       "target": "deeperdarker:chests/ancient_temple_basement",
-      "profile": "nether"
+      "profile": "hard"
     },
     {
       "target": "deeperdarker:chests/ancient_temple_fountain",
-      "profile": "nether"
+      "profile": "hard"
     },
     {
       "target": "deeperdarker:chests/ancient_temple_secret",
-      "profile": "nether"
+      "profile": "hard"
     },
     {
       "target": "deeperdarker:chests/ancient_temple_storage",
-      "profile": "nether"
+      "profile": "hard"
     },
     {
       "target": "friendsandfoes:barrels/citadel",
@@ -774,7 +774,7 @@
     },
     {
       "target": "illagerinvasion:chests/labyrinth_map",
-      "profile": "village"
+      "profile": "navigation"
     },
     {
       "target": "illagerinvasion:chests/sorcerer_hut",
@@ -842,7 +842,7 @@
     },
     {
       "target": "imst:cactus_farm",
-      "profile": "village",
+      "profile": "farm",
       "source": "imst-2.1.0.jar",
       "legacy": [
         {
@@ -866,7 +866,7 @@
     },
     {
       "target": "imst:cocoa_farm",
-      "profile": "village",
+      "profile": "farm",
       "source": "imst-2.1.0.jar",
       "legacy": [
         {
@@ -914,7 +914,7 @@
     },
     {
       "target": "imst:sunflower_farm",
-      "profile": "village",
+      "profile": "farm",
       "source": "imst-2.1.0.jar",
       "legacy": [
         {
@@ -938,7 +938,7 @@
     },
     {
       "target": "imst:witch_hut",
-      "profile": "village",
+      "profile": "magic",
       "source": "imst-2.1.0.jar",
       "legacy": [
         {
@@ -950,119 +950,119 @@
     },
     {
       "target": "incendium:castle/barrel/alchemist",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/barracks",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/blacksmith",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/food",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/food_low",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/generic",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/generic_big",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/greenhouse_secret",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/ice",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/library",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/library_low",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/lumber",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/lumber_big",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/monument",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/barrel/random",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/base/blackstone",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/king_statue",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/tower_barrel",
-      "profile": "medium"
+      "profile": "nether"
     },
     {
       "target": "incendium:castle/treasure/quartz",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:cvill/blacksmith",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:cvill/butcher",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:cvill/farmer",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:cvill/low",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:cvill/lumberjack",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:cvill/medium",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:lab/basalt",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:lab/piglin_loot",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:lab/rare",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:lab/treasure",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:pipeline/common",
@@ -1070,43 +1070,43 @@
     },
     {
       "target": "incendium:pipeline/rare",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:pipeline/treasure",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:pipeline/uncommon",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:quartz_flats/ghastling_food",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:quartz_flats/kitchen_basic",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:quartz_flats/kitchen_extra_treasure",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:quartz_flats/kitchen_junk",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:quartz_flats/kitchen_treasure",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:reactor/office",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:reactor/office_treasure",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:reactor/treasure",
@@ -1114,31 +1114,31 @@
     },
     {
       "target": "incendium:reactor/waste",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:sanctum/banners",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:sanctum/brewery",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:sanctum/coffin",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:sanctum/common_loot",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:sanctum/lower_loot",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:sanctum/tax_collector",
-      "profile": "village"
+      "profile": "nether"
     },
     {
       "target": "incendium:steam/rare",
@@ -1146,11 +1146,11 @@
     },
     {
       "target": "kaisyn:outpost/common/armory",
-      "profile": "medium"
+      "profile": "armoury"
     },
     {
       "target": "kaisyn:outpost/common/food",
-      "profile": "medium"
+      "profile": "kitchen"
     },
     {
       "target": "kaisyn:outpost/exclusives/outpost_beach_barrel",
@@ -1166,7 +1166,7 @@
     },
     {
       "target": "kaisyn:village/exclusives/village_classic_blacksmith",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "kaisyn:village/exclusives/village_mediterranean_house",
@@ -1194,7 +1194,7 @@
     },
     {
       "target": "kaisyn:village/village_forest_ruins/forest_ruins_butcher",
-      "profile": "water"
+      "profile": "kitchen"
     },
     {
       "target": "kaisyn:village/village_forest_ruins/forest_ruins_library",
@@ -1230,7 +1230,7 @@
     },
     {
       "target": "letsdoaddon-structures:chests/illager_camp_mine",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "letsdoaddon-structures:chests/illager_camp_tent",
@@ -1424,7 +1424,7 @@
     },
     {
       "target": "minecraft:chests/illager_mansion/kitchen",
-      "profile": "village",
+      "profile": "kitchen",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -1443,7 +1443,7 @@
     },
     {
       "target": "minecraft:chests/illager_mansion/map_chest",
-      "profile": "easy",
+      "profile": "navigation",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [],
       "basis": "current table theme"
@@ -1510,7 +1510,7 @@
     },
     {
       "target": "minecraft:chests/illager_mansion/witch_chest",
-      "profile": "easy",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [],
       "basis": "current table theme"
@@ -1564,7 +1564,7 @@
     },
     {
       "target": "minecraft:chests/shipwreck_map",
-      "profile": "water"
+      "profile": "navigation"
     },
     {
       "target": "minecraft:chests/shipwreck_supply",
@@ -1596,11 +1596,11 @@
     },
     {
       "target": "minecraft:chests/village/village_butcher",
-      "profile": "village"
+      "profile": "kitchen"
     },
     {
       "target": "minecraft:chests/village/village_cartographer",
-      "profile": "village"
+      "profile": "navigation"
     },
     {
       "target": "minecraft:chests/village/village_desert_house",
@@ -1660,11 +1660,11 @@
     },
     {
       "target": "minecraft:chests/village/village_toolsmith",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "minecraft:chests/village/village_weaponsmith",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "minecraft:chests/woodland_mansion",
@@ -1688,7 +1688,7 @@
     },
     {
       "target": "mmv:village_dark_oak_blacksmith",
-      "profile": "village",
+      "profile": "workshop",
       "source": "MoogsMissingVillages-1.20-2.1.1.jar",
       "legacy": [
         {
@@ -1700,7 +1700,7 @@
     },
     {
       "target": "mmv:village_dark_oak_cartographer",
-      "profile": "village",
+      "profile": "navigation",
       "source": "MoogsMissingVillages-1.20-2.1.1.jar",
       "legacy": [
         {
@@ -1724,7 +1724,7 @@
     },
     {
       "target": "mmv:village_dark_oak_farm",
-      "profile": "village",
+      "profile": "farm",
       "source": "MoogsMissingVillages-1.20-2.1.1.jar",
       "legacy": [
         {
@@ -2319,14 +2319,14 @@
     },
     {
       "target": "mtr:stronghold_barracks_barrel",
-      "profile": "easy",
+      "profile": "armoury",
       "source": "MoogsTemplesReimagined-universal-1.20-2.0.3.jar",
       "legacy": [],
       "basis": "current table theme"
     },
     {
       "target": "mtr:stronghold_barracks_chest",
-      "profile": "easy",
+      "profile": "armoury",
       "source": "MoogsTemplesReimagined-universal-1.20-2.0.3.jar",
       "legacy": [
         {
@@ -2447,7 +2447,7 @@
     },
     {
       "target": "mvs:cartographer_tower",
-      "profile": "village",
+      "profile": "navigation",
       "source": "MoogsVoyagerStructures-universal-1.20-5.1.1.jar",
       "legacy": [
         {
@@ -2547,7 +2547,7 @@
     },
     {
       "target": "mvs:houses_brewing",
-      "profile": "easy",
+      "profile": "magic",
       "source": "MoogsVoyagerStructures-universal-1.20-5.1.1.jar",
       "legacy": [],
       "basis": "current table theme"
@@ -2934,7 +2934,7 @@
     },
     {
       "target": "nova_structures:chests/food_supply",
-      "profile": "village",
+      "profile": "kitchen",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -3010,7 +3010,7 @@
     },
     {
       "target": "nova_structures:chests/illager_hideout_raw_weaponry",
-      "profile": "village"
+      "profile": "armoury"
     },
     {
       "target": "nova_structures:chests/jungle_ruins/jungle_ruins_main_temple",
@@ -3146,7 +3146,7 @@
     },
     {
       "target": "nova_structures:chests/pillager_outpost_kitchen",
-      "profile": "village",
+      "profile": "kitchen",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -3218,7 +3218,7 @@
     },
     {
       "target": "nova_structures:chests/tavern_quest",
-      "profile": "easy",
+      "profile": "kitchen",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [],
       "basis": "current table theme"
@@ -3249,7 +3249,7 @@
     },
     {
       "target": "nova_structures:chests/witch_villa/bedroom",
-      "profile": "village",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -3261,7 +3261,7 @@
     },
     {
       "target": "nova_structures:chests/witch_villa/dirty_clothes",
-      "profile": "village",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -3273,7 +3273,7 @@
     },
     {
       "target": "nova_structures:chests/witch_villa/gardening",
-      "profile": "village",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -3285,7 +3285,7 @@
     },
     {
       "target": "nova_structures:chests/witch_villa/general_storage",
-      "profile": "village",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -3297,7 +3297,7 @@
     },
     {
       "target": "nova_structures:chests/witch_villa/kitchen",
-      "profile": "village",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -3309,7 +3309,7 @@
     },
     {
       "target": "nova_structures:chests/witch_villa/lab",
-      "profile": "village",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -3321,7 +3321,7 @@
     },
     {
       "target": "nova_structures:chests/witch_villa/library",
-      "profile": "medium",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -3333,28 +3333,28 @@
     },
     {
       "target": "nova_structures:chests/witch_villa/music_room",
-      "profile": "easy",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [],
       "basis": "current table theme"
     },
     {
       "target": "nova_structures:chests/witch_villa/potion_brewing",
-      "profile": "easy",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [],
       "basis": "current table theme"
     },
     {
       "target": "nova_structures:chests/witch_villa/pumpkin_room",
-      "profile": "easy",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [],
       "basis": "current table theme"
     },
     {
       "target": "nova_structures:chests/witch_villa/slime_room",
-      "profile": "village",
+      "profile": "magic",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
       "legacy": [
         {
@@ -3554,7 +3554,7 @@
     },
     {
       "target": "repurposed_structures:chests/mineshafts/birch",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "repurposed_structures:chests/mineshafts/crimson",
@@ -3562,11 +3562,11 @@
     },
     {
       "target": "repurposed_structures:chests/mineshafts/dark_forest",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "repurposed_structures:chests/mineshafts/desert",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "repurposed_structures:chests/mineshafts/end",
@@ -3574,11 +3574,11 @@
     },
     {
       "target": "repurposed_structures:chests/mineshafts/icy",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "repurposed_structures:chests/mineshafts/jungle",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "repurposed_structures:chests/mineshafts/nether",
@@ -3586,23 +3586,23 @@
     },
     {
       "target": "repurposed_structures:chests/mineshafts/ocean",
-      "profile": "water"
+      "profile": "workshop"
     },
     {
       "target": "repurposed_structures:chests/mineshafts/savanna",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "repurposed_structures:chests/mineshafts/stone",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "repurposed_structures:chests/mineshafts/swamp",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "repurposed_structures:chests/mineshafts/taiga",
-      "profile": "village"
+      "profile": "workshop"
     },
     {
       "target": "repurposed_structures:chests/mineshafts/warped",
@@ -3754,7 +3754,7 @@
     },
     {
       "target": "repurposed_structures:chests/shipwrecks/crimson/map",
-      "profile": "nether"
+      "profile": "navigation"
     },
     {
       "target": "repurposed_structures:chests/shipwrecks/crimson/supply",
@@ -3766,7 +3766,7 @@
     },
     {
       "target": "repurposed_structures:chests/shipwrecks/end/map",
-      "profile": "end"
+      "profile": "navigation"
     },
     {
       "target": "repurposed_structures:chests/shipwrecks/end/supply",
@@ -3782,7 +3782,7 @@
     },
     {
       "target": "repurposed_structures:chests/shipwrecks/warped/map",
-      "profile": "nether"
+      "profile": "navigation"
     },
     {
       "target": "repurposed_structures:chests/shipwrecks/warped/supply",
@@ -3850,7 +3850,7 @@
     },
     {
       "target": "repurposed_structures:chests/villages/crimson_cartographer",
-      "profile": "nether"
+      "profile": "navigation"
     },
     {
       "target": "repurposed_structures:chests/villages/crimson_fisher",
@@ -3894,7 +3894,7 @@
     },
     {
       "target": "repurposed_structures:chests/villages/ocean_cartographer",
-      "profile": "water"
+      "profile": "navigation"
     },
     {
       "target": "repurposed_structures:chests/villages/ocean_house",
@@ -3906,7 +3906,7 @@
     },
     {
       "target": "repurposed_structures:chests/villages/warped_cartographer",
-      "profile": "nether"
+      "profile": "navigation"
     },
     {
       "target": "repurposed_structures:chests/villages/warped_fisher",
@@ -4256,7 +4256,7 @@
     },
     {
       "target": "structory:outcast/farm_ruin",
-      "profile": "easy",
+      "profile": "farm",
       "source": "Structory_1.20.x_v1.3.5.jar",
       "legacy": [],
       "basis": "current table theme"
@@ -4282,7 +4282,7 @@
     },
     {
       "target": "structory:outcast/mine/loot",
-      "profile": "easy",
+      "profile": "workshop",
       "source": "Structory_1.20.x_v1.3.5.jar",
       "legacy": [
         {
@@ -4486,7 +4486,7 @@
     },
     {
       "target": "structory_towers:top/farm_top",
-      "profile": "easy",
+      "profile": "farm",
       "source": "Structory_Towers_1.20.x_v1.0.7.jar",
       "legacy": [
         {
@@ -4498,7 +4498,7 @@
     },
     {
       "target": "structory_towers:top/forager_top",
-      "profile": "easy",
+      "profile": "farm",
       "source": "Structory_Towers_1.20.x_v1.0.7.jar",
       "legacy": [
         {
@@ -4666,7 +4666,7 @@
     },
     {
       "target": "structory_towers:top/workshop_top",
-      "profile": "easy",
+      "profile": "workshop",
       "source": "Structory_Towers_1.20.x_v1.0.7.jar",
       "legacy": [
         {
@@ -4678,7 +4678,7 @@
     },
     {
       "target": "structory_towers:workshop_minecart",
-      "profile": "easy",
+      "profile": "workshop",
       "source": "Structory_Towers_1.20.x_v1.0.7.jar",
       "legacy": [
         {
@@ -4690,7 +4690,7 @@
     },
     {
       "target": "villagersplus:chests/village/village_alchemist",
-      "profile": "village"
+      "profile": "magic"
     },
     {
       "target": "villagersplus:chests/village/village_horticulturist",
@@ -4706,15 +4706,15 @@
     },
     {
       "target": "villagesandpillages:village_witch/house/attic_chest",
-      "profile": "village"
+      "profile": "magic"
     },
     {
       "target": "villagesandpillages:village_witch/house/barrel",
-      "profile": "village"
+      "profile": "magic"
     },
     {
       "target": "villagesandpillages:village_witch/house/personal_chest",
-      "profile": "village"
+      "profile": "magic"
     },
     {
       "target": "wythers:chests/village/forest_ruins_big_house",
@@ -4747,6 +4747,10 @@
         }
       ],
       "basis": "legacy mapping with dimension/theme correction"
+    },
+    {
+      "target": "minecraft:chests/end_city_treasure",
+      "profile": "end"
     }
   ],
   "missing_legacy_targets": [

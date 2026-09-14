@@ -16,6 +16,11 @@ public final class Rewards {
         try (var reader = Files.newBufferedReader(path)) {
             JsonObject candidate = JsonParser.parseReader(reader).getAsJsonObject();
             for (var profile : candidate.getAsJsonObject("profiles").entrySet()) {
+                var definition = profile.getValue().getAsJsonObject();
+                if (definition.has("bonus")) {
+                    var bonus = candidate.getAsJsonObject("profiles").get(definition.get("bonus").getAsString());
+                    if (bonus == null || bonus.getAsJsonObject().has("bonus")) throw new IllegalArgumentException("Invalid bonus profile: " + profile.getKey());
+                }
                 double chance = profile.getValue().getAsJsonObject().get("chance").getAsDouble();
                 if (chance < 0 || chance > 1) throw new IllegalArgumentException("Invalid chance");
                 for (var row : profile.getValue().getAsJsonObject().getAsJsonArray("items")) {
@@ -41,7 +46,11 @@ public final class Rewards {
         var added = new ArrayList<String>();
         var route = config.getAsJsonObject("routes").get(table.toString());
         if (route != null) {
-            var profile = config.getAsJsonObject("profiles").getAsJsonObject(route.getAsString());
+            var base = config.getAsJsonObject("profiles").getAsJsonObject(route.getAsString());
+            var selections = new ArrayList<JsonObject>();
+            selections.add(base);
+            if (base.has("bonus")) selections.add(config.getAsJsonObject("profiles").getAsJsonObject(base.get("bonus").getAsString()));
+            for (var profile : selections) {
             if (random.nextDouble() < profile.get("chance").getAsDouble()) {
                 var entries = profile.getAsJsonArray("items");
                 int total = 0;
@@ -53,6 +62,7 @@ public final class Rewards {
                     if (roll < 0) { put(output, added, row.get("item").getAsString(), row.get("count").getAsInt()); break; }
                 }
             }
+        }
         }
         var plush = config.getAsJsonObject("plushies");
         boolean eligible = false;

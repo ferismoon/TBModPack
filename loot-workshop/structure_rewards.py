@@ -8,6 +8,8 @@ def compile_structure_script(root):
     evidence = set(read(root / 'structure-item-evidence.json'))
     seen = set()
     for name, profile in profiles.items():
+        if 'bonus' in profile:
+            require(profile['bonus'] in profiles and 'bonus' not in profiles[profile['bonus']], f'Invalid bonus profile: {name}')
         require(type(profile['chance']) in (float, int) and 0 <= profile['chance'] <= 1, f'Invalid chance: {name}')
         require(bool(profile['items']), f'Empty rewards: {name}')
         items = set()
