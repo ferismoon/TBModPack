@@ -1,6 +1,10 @@
 {
   "routes": [
     {
+      "target": "beautify:chests/botanist/botanist_chest_taiga",
+      "profile": "village"
+    },
+    {
       "target": "betterdeserttemples:chests/food_storage",
       "profile": "village",
       "source": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
@@ -207,6 +211,18 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "betterend:chests/end_village_bonus_loot",
+      "profile": "end"
+    },
+    {
+      "target": "betterend:chests/end_village_loot",
+      "profile": "end"
+    },
+    {
+      "target": "betterend:chests/end_village_template_loot",
+      "profile": "end"
+    },
+    {
       "target": "betterfortresses:chests/beacon",
       "profile": "nether",
       "source": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
@@ -313,6 +329,10 @@
         }
       ],
       "basis": "legacy mapping with dimension/theme correction"
+    },
+    {
+      "target": "betterjungletemples:archaeology/emerald",
+      "profile": "village"
     },
     {
       "target": "betterjungletemples:chests/campsite",
@@ -477,6 +497,70 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "biomeswevegone:chests/village/forgotten/armorer",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/forgotten/cartographer",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/forgotten/house",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/forgotten/temple",
+      "profile": "medium"
+    },
+    {
+      "target": "biomeswevegone:chests/village/pumpkin_patch/house",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/red_rock/cleric",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/red_rock/house",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/red_rock/mason",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/salem/animal_pen",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/salem/forager",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/salem/house",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/skyris/house",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/skyris/library",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/swamp/forager",
+      "profile": "village"
+    },
+    {
+      "target": "biomeswevegone:chests/village/swamp/house",
+      "profile": "village"
+    },
+    {
+      "target": "bosses_of_mass_destruction:chests/lich_tower",
+      "profile": "medium"
+    },
+    {
       "target": "ctov:chests/village/village_badlands_house",
       "profile": "village",
       "source": "[fabric]ctov-3.4.14.jar",
@@ -609,6 +693,94 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "ctov:pillager_outpost/halloween/tower",
+      "profile": "medium"
+    },
+    {
+      "target": "ctov:village/desert_fortified/bakery",
+      "profile": "village"
+    },
+    {
+      "target": "ctov:village/swamp/leatherworker",
+      "profile": "village"
+    },
+    {
+      "target": "deeperdarker:chests/ancient_temple_apex",
+      "profile": "nether"
+    },
+    {
+      "target": "deeperdarker:chests/ancient_temple_basement",
+      "profile": "nether"
+    },
+    {
+      "target": "deeperdarker:chests/ancient_temple_fountain",
+      "profile": "nether"
+    },
+    {
+      "target": "deeperdarker:chests/ancient_temple_secret",
+      "profile": "nether"
+    },
+    {
+      "target": "deeperdarker:chests/ancient_temple_storage",
+      "profile": "nether"
+    },
+    {
+      "target": "friendsandfoes:barrels/citadel",
+      "profile": "village"
+    },
+    {
+      "target": "friendsandfoes:barrels/iceologer_cabin",
+      "profile": "village"
+    },
+    {
+      "target": "friendsandfoes:barrels/illusioner_shack_attic",
+      "profile": "village"
+    },
+    {
+      "target": "friendsandfoes:barrels/illusioner_shack_basement",
+      "profile": "village"
+    },
+    {
+      "target": "friendsandfoes:chests/iceologer_cabin",
+      "profile": "village"
+    },
+    {
+      "target": "friendsandfoes:chests/illusioner_shack",
+      "profile": "village"
+    },
+    {
+      "target": "hexalia:chests/herbalist_hut_chest",
+      "profile": "village"
+    },
+    {
+      "target": "illagerinvasion:chests/illager_fort_ground",
+      "profile": "village"
+    },
+    {
+      "target": "illagerinvasion:chests/illager_fort_tower",
+      "profile": "medium"
+    },
+    {
+      "target": "illagerinvasion:chests/illusioner_tower_entrance",
+      "profile": "medium"
+    },
+    {
+      "target": "illagerinvasion:chests/illusioner_tower_stairs",
+      "profile": "medium"
+    },
+    {
+      "target": "illagerinvasion:chests/labyrinth",
+      "profile": "village"
+    },
+    {
+      "target": "illagerinvasion:chests/labyrinth_map",
+      "profile": "village"
+    },
+    {
+      "target": "illagerinvasion:chests/sorcerer_hut",
+      "profile": "village"
+    },
+    {
       "target": "imst:airship",
       "profile": "easy",
       "source": "imst-2.1.0.jar",
@@ -705,6 +877,30 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "imst:lumberjack/acacia",
+      "profile": "village"
+    },
+    {
+      "target": "imst:lumberjack/birch",
+      "profile": "village"
+    },
+    {
+      "target": "imst:lumberjack/dark_oak",
+      "profile": "village"
+    },
+    {
+      "target": "imst:lumberjack/jungle",
+      "profile": "village"
+    },
+    {
+      "target": "imst:lumberjack/oak",
+      "profile": "village"
+    },
+    {
+      "target": "imst:lumberjack/spruce",
+      "profile": "village"
+    },
+    {
       "target": "imst:mountain_camp",
       "profile": "village",
       "source": "imst-2.1.0.jar",
@@ -753,15 +949,315 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "incendium:castle/barrel/alchemist",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/barracks",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/blacksmith",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/food",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/food_low",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/generic",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/generic_big",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/greenhouse_secret",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/ice",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/library",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/library_low",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/lumber",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/lumber_big",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/monument",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/barrel/random",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/base/blackstone",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/king_statue",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:castle/tower_barrel",
+      "profile": "medium"
+    },
+    {
+      "target": "incendium:castle/treasure/quartz",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:cvill/blacksmith",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:cvill/butcher",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:cvill/farmer",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:cvill/low",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:cvill/lumberjack",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:cvill/medium",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:lab/basalt",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:lab/piglin_loot",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:lab/rare",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:lab/treasure",
+      "profile": "village"
+    },
+    {
       "target": "incendium:pipeline/common",
       "profile": "nether"
+    },
+    {
+      "target": "incendium:pipeline/rare",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:pipeline/treasure",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:pipeline/uncommon",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:quartz_flats/ghastling_food",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:quartz_flats/kitchen_basic",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:quartz_flats/kitchen_extra_treasure",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:quartz_flats/kitchen_junk",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:quartz_flats/kitchen_treasure",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:reactor/office",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:reactor/office_treasure",
+      "profile": "village"
     },
     {
       "target": "incendium:reactor/treasure",
       "profile": "nether"
     },
     {
+      "target": "incendium:reactor/waste",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:sanctum/banners",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:sanctum/brewery",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:sanctum/coffin",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:sanctum/common_loot",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:sanctum/lower_loot",
+      "profile": "village"
+    },
+    {
+      "target": "incendium:sanctum/tax_collector",
+      "profile": "village"
+    },
+    {
       "target": "incendium:steam/rare",
+      "profile": "nether"
+    },
+    {
+      "target": "kaisyn:outpost/common/armory",
+      "profile": "medium"
+    },
+    {
+      "target": "kaisyn:outpost/common/food",
+      "profile": "medium"
+    },
+    {
+      "target": "kaisyn:outpost/exclusives/outpost_beach_barrel",
+      "profile": "medium"
+    },
+    {
+      "target": "kaisyn:outpost/exclusives/outpost_mediterranean_barrel",
+      "profile": "medium"
+    },
+    {
+      "target": "kaisyn:outpost/exclusives/outpost_rustic_barrel",
+      "profile": "medium"
+    },
+    {
+      "target": "kaisyn:village/exclusives/village_classic_blacksmith",
+      "profile": "village"
+    },
+    {
+      "target": "kaisyn:village/exclusives/village_mediterranean_house",
+      "profile": "village"
+    },
+    {
+      "target": "kaisyn:village/exclusives/village_piglin_barrel",
+      "profile": "village"
+    },
+    {
+      "target": "kaisyn:village/exclusives/village_piglin_house",
+      "profile": "village"
+    },
+    {
+      "target": "kaisyn:village/exclusives/village_wandering_trader_hut",
+      "profile": "village"
+    },
+    {
+      "target": "kaisyn:village/village_badlands_house",
+      "profile": "village"
+    },
+    {
+      "target": "kaisyn:village/village_birch_forest_house",
+      "profile": "village"
+    },
+    {
+      "target": "kaisyn:village/village_forest_ruins/forest_ruins_butcher",
+      "profile": "water"
+    },
+    {
+      "target": "kaisyn:village/village_forest_ruins/forest_ruins_library",
+      "profile": "water"
+    },
+    {
+      "target": "kaisyn:village/village_forest_ruins/forest_ruins_temple",
+      "profile": "water"
+    },
+    {
+      "target": "kaisyn:village/village_jungle_house",
+      "profile": "village"
+    },
+    {
+      "target": "kaisyn:village/village_mushroom_house",
+      "profile": "village"
+    },
+    {
+      "target": "kaisyn:village/village_swamp_house",
+      "profile": "village"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/barn",
+      "profile": "village"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/barn_up",
+      "profile": "village"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/crimson_vinery",
+      "profile": "nether"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/illager_camp_mine",
+      "profile": "village"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/illager_camp_tent",
+      "profile": "village"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/mangrove_hut",
+      "profile": "village"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/mangrove_hut_outpost/floor/1",
+      "profile": "medium"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/mangrove_hut_outpost/floor/2",
+      "profile": "medium"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/mangrove_hut_outpost/floor/3",
+      "profile": "medium"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/vinery",
+      "profile": "village"
+    },
+    {
+      "target": "letsdoaddon-structures:chests/warped_vinery",
       "profile": "nether"
     },
     {
@@ -851,12 +1347,44 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "minecraft:archaelogy/jungle_ruins",
+      "profile": "water"
+    },
+    {
+      "target": "minecraft:archaelogy/ruins",
+      "profile": "water"
+    },
+    {
+      "target": "minecraft:archaeology/desert_well",
+      "profile": "village"
+    },
+    {
       "target": "minecraft:chests/bastion_bridge",
+      "profile": "nether"
+    },
+    {
+      "target": "minecraft:chests/bastion_hoglin_stable",
       "profile": "nether"
     },
     {
       "target": "minecraft:chests/bastion_other",
       "profile": "nether"
+    },
+    {
+      "target": "minecraft:chests/bastion_treasure",
+      "profile": "nether"
+    },
+    {
+      "target": "minecraft:chests/buried_treasure",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/desert_pyramid",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/igloo_chest",
+      "profile": "village"
     },
     {
       "target": "minecraft:chests/illager_mansion/ancient_city_raid_chest",
@@ -995,6 +1523,14 @@
       "basis": "current table theme"
     },
     {
+      "target": "minecraft:chests/jungle_temple",
+      "profile": "medium"
+    },
+    {
+      "target": "minecraft:chests/nether_bridge",
+      "profile": "nether"
+    },
+    {
       "target": "minecraft:chests/nether_fortress/fort_inside",
       "profile": "nether",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
@@ -1019,6 +1555,14 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "minecraft:chests/pillager_outpost",
+      "profile": "medium"
+    },
+    {
+      "target": "minecraft:chests/ruined_portal",
+      "profile": "water"
+    },
+    {
       "target": "minecraft:chests/shipwreck_map",
       "profile": "water"
     },
@@ -1031,7 +1575,43 @@
       "profile": "water"
     },
     {
+      "target": "minecraft:chests/simple_dungeon",
+      "profile": "medium"
+    },
+    {
+      "target": "minecraft:chests/stronghold_corridor",
+      "profile": "medium"
+    },
+    {
+      "target": "minecraft:chests/stronghold_crossing",
+      "profile": "medium"
+    },
+    {
+      "target": "minecraft:chests/stronghold_library",
+      "profile": "medium"
+    },
+    {
+      "target": "minecraft:chests/village/village_armorer",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_butcher",
+      "profile": "village"
+    },
+    {
       "target": "minecraft:chests/village/village_cartographer",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_desert_house",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_fisher",
+      "profile": "water"
+    },
+    {
+      "target": "minecraft:chests/village/village_fletcher",
       "profile": "village"
     },
     {
@@ -1039,11 +1619,59 @@
       "profile": "village"
     },
     {
+      "target": "minecraft:chests/village/village_leatherworker",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_mason",
+      "profile": "village"
+    },
+    {
       "target": "minecraft:chests/village/village_plains_house",
       "profile": "village"
     },
     {
+      "target": "minecraft:chests/village/village_savanna_house",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_shepherd",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_snowy_house",
+      "profile": "village"
+    },
+    {
       "target": "minecraft:chests/village/village_swamp_house",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_taiga_house",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_tannery",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_temple",
+      "profile": "medium"
+    },
+    {
+      "target": "minecraft:chests/village/village_toolsmith",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_weaponsmith",
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/woodland_mansion",
+      "profile": "medium"
+    },
+    {
+      "target": "minecraft:mvs/cathedral_common",
       "profile": "village"
     },
     {
@@ -1499,6 +2127,10 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "mtr:desert_temple_suspicious_sand",
+      "profile": "medium"
+    },
+    {
       "target": "mtr:desert_temple_wall_chest",
       "profile": "easy",
       "source": "MoogsTemplesReimagined-universal-1.20-2.0.3.jar",
@@ -1616,6 +2248,10 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "mtr:jungle_temple_suspicious_gravel",
+      "profile": "medium"
+    },
+    {
       "target": "mtr:jungle_temple_upper_chest",
       "profile": "easy",
       "source": "MoogsTemplesReimagined-universal-1.20-2.0.3.jar",
@@ -1664,6 +2300,10 @@
         }
       ],
       "basis": "legacy mapping with dimension/theme correction"
+    },
+    {
+      "target": "mtr:ocean_temple_common",
+      "profile": "water"
     },
     {
       "target": "mtr:ocean_temple_treasure",
@@ -1778,6 +2418,10 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "mtr:stronghold_suspicious_gravel",
+      "profile": "medium"
+    },
+    {
       "target": "mvs:abandoned",
       "profile": "village",
       "source": "MoogsVoyagerStructures-universal-1.20-5.1.1.jar",
@@ -1860,6 +2504,10 @@
         }
       ],
       "basis": "legacy mapping with dimension/theme correction"
+    },
+    {
+      "target": "mvs:empty",
+      "profile": "village"
     },
     {
       "target": "mvs:floating_islands",
@@ -2105,6 +2753,30 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "natures_spirit:chests/village/village_adobe_house",
+      "profile": "village"
+    },
+    {
+      "target": "natures_spirit:chests/village/village_coconut",
+      "profile": "village"
+    },
+    {
+      "target": "nova_structures:archaelogy/conduit_ruin",
+      "profile": "water"
+    },
+    {
+      "target": "nova_structures:archaelogy/crypt",
+      "profile": "village"
+    },
+    {
+      "target": "nova_structures:archaelogy/desert_ruin_inside_temple",
+      "profile": "water"
+    },
+    {
+      "target": "nova_structures:archaelogy/desert_ruin_ruins",
+      "profile": "water"
+    },
+    {
       "target": "nova_structures:chests/badland_miner_outpost",
       "profile": "village",
       "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
@@ -2331,6 +3003,14 @@
         }
       ],
       "basis": "legacy mapping with dimension/theme correction"
+    },
+    {
+      "target": "nova_structures:chests/illager_hideout_raw_vegitarian",
+      "profile": "village"
+    },
+    {
+      "target": "nova_structures:chests/illager_hideout_raw_weaponry",
+      "profile": "village"
     },
     {
       "target": "nova_structures:chests/jungle_ruins/jungle_ruins_main_temple",
@@ -3245,6 +3925,54 @@
       "profile": "nether"
     },
     {
+      "target": "repurposed_structures:dispensers/pyramids/dark_forest",
+      "profile": "village"
+    },
+    {
+      "target": "repurposed_structures:dispensers/temples/basalt",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:dispensers/temples/crimson",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:dispensers/temples/soul",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:dispensers/temples/taiga",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:dispensers/temples/warped",
+      "profile": "nether"
+    },
+    {
+      "target": "repurposed_structures:dispensers/temples/wasteland",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:dispensers/temples/wasteland_lava",
+      "profile": "medium"
+    },
+    {
+      "target": "repurposed_structures:shulker_boxes/outposts/end",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:shulker_boxes/strongholds/end_hallway",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:shulker_boxes/strongholds/end_library",
+      "profile": "end"
+    },
+    {
+      "target": "repurposed_structures:shulker_boxes/strongholds/end_storage_room",
+      "profile": "end"
+    },
+    {
       "target": "repurposed_structures:trapped_chests/pyramids/badlands",
       "profile": "village"
     },
@@ -3263,6 +3991,50 @@
     {
       "target": "repurposed_structures:trapped_chests/temples/warped",
       "profile": "nether"
+    },
+    {
+      "target": "ribbits:chests/fisherman_main",
+      "profile": "water"
+    },
+    {
+      "target": "ribbits:chests/fisherman_storage",
+      "profile": "water"
+    },
+    {
+      "target": "ribbits:chests/gardener",
+      "profile": "village"
+    },
+    {
+      "target": "ribbits:chests/merchant",
+      "profile": "village"
+    },
+    {
+      "target": "ribbits:chests/nitwit",
+      "profile": "village"
+    },
+    {
+      "target": "ribbits:chests/sorcerer",
+      "profile": "village"
+    },
+    {
+      "target": "spawn:archaeology/ant_mount_common",
+      "profile": "village"
+    },
+    {
+      "target": "spawn:archaeology/ant_mount_epic",
+      "profile": "village"
+    },
+    {
+      "target": "spawn:archaeology/ant_mount_rare",
+      "profile": "village"
+    },
+    {
+      "target": "spawn:chests/ant_mount_common",
+      "profile": "village"
+    },
+    {
+      "target": "spawn:chests/ant_mount_rare",
+      "profile": "village"
     },
     {
       "target": "structory:harvest/graveyard",
@@ -3931,6 +4703,22 @@
     {
       "target": "villagersplus:chests/village/village_oceanographer",
       "profile": "village"
+    },
+    {
+      "target": "villagesandpillages:village_witch/house/attic_chest",
+      "profile": "village"
+    },
+    {
+      "target": "villagesandpillages:village_witch/house/barrel",
+      "profile": "village"
+    },
+    {
+      "target": "villagesandpillages:village_witch/house/personal_chest",
+      "profile": "village"
+    },
+    {
+      "target": "wythers:chests/village/forest_ruins_big_house",
+      "profile": "water"
     },
     {
       "target": "yungsextras:desert/chillzone",

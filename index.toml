@@ -810,7 +810,7 @@ hash = "8d5385ce9f9af3458c877db2ee7bf73230202c24870dece6b7e97e344fb8dfc1"
 
 [[files]]
 file = "config/forced-relocation-rewards.json"
-hash = "2efc3accaab21c5869556718bb7793d8cd76907340844c7a88274631f88084b4"
+hash = "4bddb5ecc4dae8098e6e5c72a3864905ee27ccde0b971c640ef39c2ef8fd6d51"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
