@@ -7,7 +7,8 @@ import org.slf4j.LoggerFactory;
 public final class LootrHookTest implements ModInitializer {
     public static final Logger LOGGER = LoggerFactory.getLogger("Lootr Hook Test");
     @Override public void onInitialize() {
-        LOGGER.info("Loot Tidy diagnostics 0.1.2 loaded; server-side container interactions enabled");
+        LOGGER.info("Loot Tidy 0.2.0 loaded; direct rewards and container diagnostics enabled");
+        net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.SERVER_STARTED.register(server -> Rewards.load());
         net.fabricmc.fabric.api.event.player.UseBlockCallback.EVENT.register((player, world, hand, hit) -> {
             if (!(world instanceof net.minecraft.server.world.ServerWorld server)
                     || hand != net.minecraft.util.Hand.MAIN_HAND) return net.minecraft.util.ActionResult.PASS;

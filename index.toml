@@ -809,6 +809,10 @@ file = "config/flywheel.json"
 hash = "8d5385ce9f9af3458c877db2ee7bf73230202c24870dece6b7e97e344fb8dfc1"
 
 [[files]]
+file = "config/forced-relocation-rewards.json"
+hash = "2efc3accaab21c5869556718bb7793d8cd76907340844c7a88274631f88084b4"
+
+[[files]]
 file = "config/forgeconfigapiport.toml"
 hash = "300b866a6251887cbd30b18438e123b2fa524315edbf8e2996a01acb4ecac91e"
 
@@ -2968,11 +2972,11 @@ hash = "88fd2ed247e6d8dc32834335e198b261baf0fcd6d0ed0aac159fee80ab75e0de"
 
 [[files]]
 file = "kubejs/server_scripts/generated_player_plushies.js"
-hash = "7f5af7932e664b0667341131ac2c6652bd0e9b8e9e2483162bb18891194d2407"
+hash = "72b0d3488e9d7337127c1cf9d5fa423ca62ae7b25ed724308bb590c141824ab9"
 
 [[files]]
 file = "kubejs/server_scripts/generated_structure_rewards.js"
-hash = "b02e5f9f5f9674b9be853bbda3ffff4deaba11c1dd75540cb63e75863420d9e7"
+hash = "72b0d3488e9d7337127c1cf9d5fa423ca62ae7b25ed724308bb590c141824ab9"
 
 [[files]]
 file = "kubejs/server_scripts/hats.js"
@@ -3754,8 +3758,8 @@ hash = "17eabc56becff8f22111ba01a5d3d04e0e4249f98f54c570bbafaa4f92f4faf5"
 metafile = true
 
 [[files]]
-file = "mods/forced-relocation-loot-tidy-0.1.2.jar"
-hash = "be7e5bd6a51b951ba53244e46a6edac173fb9d37f29a21f17a4a53f9304bcc5d"
+file = "mods/forced-relocation-loot-tidy-0.2.0.jar"
+hash = "b81f73bfc03f3a311565917bc78d007e32a03017b7945085e62f4761b20376c8"
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"

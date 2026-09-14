@@ -14,16 +14,17 @@ import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import forcedrelocation.lootrhooktest.LootrHookTest;
 
-@Mixin(LootrChestBlockEntity.class)
+@Mixin({LootrChestBlockEntity.class, net.zestyblaze.lootr.block.entities.LootrBarrelBlockEntity.class, net.zestyblaze.lootr.block.entities.LootrShulkerBlockEntity.class})
 public abstract class LootrChestBlockEntityMixin {
     @org.spongepowered.asm.mixin.injection.Redirect(method = "unpackLootTable", at = @At(value = "INVOKE", target = "Lnet/minecraft/class_52;method_329(Lnet/minecraft/class_1263;Lnet/minecraft/class_8567;J)V"))
     private void forcedrelocation$compactBeforeInsert(LootTable table, Inventory inventory, LootContextParameterSet context, long seed) {
         // Generate without a container limit: supplyInventory can discard overflow.
         java.util.List<ItemStack> generated = table.generateLoot(context, seed);
-        LootrChestBlockEntity chest = (LootrChestBlockEntity)(Object)this;
+        net.zestyblaze.lootr.api.blockentity.ILootBlockEntity chest = (net.zestyblaze.lootr.api.blockentity.ILootBlockEntity)(Object)this;
         LootrHookTest.LOGGER.info("[LootDiag GENERATE] pos={} table={} seed={} items={}",
-            chest.getPos().toShortString(), chest.getTable(), seed,
+            ((net.minecraft.block.entity.BlockEntity)(Object)this).getPos().toShortString(), chest.getTable(), seed,
             generated.stream().map(stack -> net.minecraft.registry.Registries.ITEM.getId(stack.getItem()) + " x" + stack.getCount()).toList());
+        forcedrelocation.lootrhooktest.Rewards.add(generated, chest.getTable(), seed);
         SimpleInventory temporary = new SimpleInventory(generated.size());
         for (int i = 0; i < generated.size(); i++) temporary.setStack(i, generated.get(i).copy());
         int merged = 0;
@@ -55,6 +56,6 @@ public abstract class LootrChestBlockEntityMixin {
         }
         while (slot < inventory.size()) inventory.setStack(slot++, ItemStack.EMPTY);
         inventory.markDirty();
-        LootrHookTest.LOGGER.info("Loot Tidy packing v0.1.1: table={}, generatedStacks={}, slots={}, mergedItems={}, overflowStacks={}", ((LootrChestBlockEntity)(Object)this).getTable(), generated.size(), inventory.size(), merged, overflow);
+        LootrHookTest.LOGGER.info("Loot Tidy packing v0.2.0: table={}, generatedStacks={}, slots={}, mergedItems={}, overflowStacks={}", chest.getTable(), generated.size(), inventory.size(), merged, overflow);
     }
 }

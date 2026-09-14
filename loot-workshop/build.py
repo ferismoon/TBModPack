@@ -160,14 +160,22 @@ def main():
         '      pool.addCondition({condition: "minecraft:random_chance", chance: ' + str(plushies['chance']) + '});\n'
         '    });\n  }));\n});\n').encode('utf-8')
     script_path = ROOT.parent / 'kubejs/server_scripts/generated_player_plushies.js'
+    # Loot Tidy owns these rolls now; leave inert files to replace old installations.
+    structure_script = script = b'// Rewards migrated to Loot Tidy config/forced-relocation-rewards.json.\n'
+    runtime = encoded({'profiles': read(ROOT / 'structure-rewards.json'),
+        'routes': {r['target']: r['profile'] for r in read(ROOT / 'structure-routes.json')['routes']},
+        'plushies': plushies})
+    runtime_path = ROOT.parent / 'config/forced-relocation-rewards.json'
     payload = archive_bytes(files)
     destination = ROOT / 'reports/preview.zip' if args.preview else OUTPUT
     if args.check:
+        require(runtime_path.is_file() and runtime_path.read_bytes() == runtime, 'Runtime rewards config is stale')
         require(structure_path.is_file() and structure_path.read_bytes() == structure_script, 'Generated structure rewards are stale')
         require(script_path.is_file() and script_path.read_bytes() == script, 'Generated plushie script is stale')
         require(destination.is_file() and destination.read_bytes() == payload, 'Generated datapack is stale; run build.py')
     else:
         if not args.preview:
+            runtime_path.write_bytes(runtime)
             script_path.write_bytes(script)
             structure_path.write_bytes(structure_script)
         else:

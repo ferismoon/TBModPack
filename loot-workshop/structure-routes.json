@@ -753,6 +753,18 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "incendium:pipeline/common",
+      "profile": "nether"
+    },
+    {
+      "target": "incendium:reactor/treasure",
+      "profile": "nether"
+    },
+    {
+      "target": "incendium:steam/rare",
+      "profile": "nether"
+    },
+    {
       "target": "mes:end_common",
       "profile": "end",
       "source": "MoogsEndStructures-1.20-2.0.3.jar",
@@ -837,6 +849,14 @@
         }
       ],
       "basis": "legacy mapping with dimension/theme correction"
+    },
+    {
+      "target": "minecraft:chests/bastion_bridge",
+      "profile": "nether"
+    },
+    {
+      "target": "minecraft:chests/bastion_other",
+      "profile": "nether"
     },
     {
       "target": "minecraft:chests/illager_mansion/ancient_city_raid_chest",
@@ -999,28 +1019,32 @@
       "basis": "legacy mapping with dimension/theme correction"
     },
     {
+      "target": "minecraft:chests/shipwreck_map",
+      "profile": "water"
+    },
+    {
+      "target": "minecraft:chests/shipwreck_supply",
+      "profile": "water"
+    },
+    {
+      "target": "minecraft:chests/shipwreck_treasure",
+      "profile": "water"
+    },
+    {
+      "target": "minecraft:chests/village/village_cartographer",
+      "profile": "village"
+    },
+    {
       "target": "minecraft:chests/village/village_jungle_house",
-      "profile": "village",
-      "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
-      "legacy": [
-        {
-          "profile": "village",
-          "source": "lootintegrations_dnt-2.6.jar/data/lootintegrations/loot/loot_dnt_village.json"
-        }
-      ],
-      "basis": "legacy mapping with dimension/theme correction"
+      "profile": "village"
+    },
+    {
+      "target": "minecraft:chests/village/village_plains_house",
+      "profile": "village"
     },
     {
       "target": "minecraft:chests/village/village_swamp_house",
-      "profile": "village",
-      "source": "dungeons-and-taverns-3.0.3.f[Fabric].jar",
-      "legacy": [
-        {
-          "profile": "village",
-          "source": "lootintegrations_dnt-2.6.jar/data/lootintegrations/loot/loot_dnt_village.json"
-        }
-      ],
-      "basis": "legacy mapping with dimension/theme correction"
+      "profile": "village"
     },
     {
       "target": "mmv:village_dark_oak_archer",
@@ -1836,13 +1860,6 @@
         }
       ],
       "basis": "legacy mapping with dimension/theme correction"
-    },
-    {
-      "target": "mvs:empty",
-      "profile": "easy",
-      "source": "MoogsVoyagerStructures-universal-1.20-5.1.1.jar",
-      "legacy": [],
-      "basis": "current table theme"
     },
     {
       "target": "mvs:floating_islands",
@@ -3898,6 +3915,22 @@
         }
       ],
       "basis": "legacy mapping with dimension/theme correction"
+    },
+    {
+      "target": "villagersplus:chests/village/village_alchemist",
+      "profile": "village"
+    },
+    {
+      "target": "villagersplus:chests/village/village_horticulturist",
+      "profile": "village"
+    },
+    {
+      "target": "villagersplus:chests/village/village_occultist",
+      "profile": "village"
+    },
+    {
+      "target": "villagersplus:chests/village/village_oceanographer",
+      "profile": "village"
     },
     {
       "target": "yungsextras:desert/chillzone",
