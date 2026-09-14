@@ -3085,6 +3085,11 @@ hash = "932f0b08f73967909d5df35da084b2366967a4396ae459346d71c23aa0f68a67"
 metafile = true
 
 [[files]]
+file = "mods/adventurez.pw.toml"
+hash = "b3eccd4cf5e295af72a29ae0a081106ae9e42791a3180e15f766f1946455f04a"
+metafile = true
+
+[[files]]
 file = "mods/alcocraft.pw.toml"
 hash = "486ce3a6389b1861f40923bd92ee15cd409053efbbce88240f46dc8852bfa20c"
 metafile = true
