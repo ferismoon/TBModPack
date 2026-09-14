@@ -2,7 +2,7 @@
 ServerEvents.chestLootTables(event => {
   const profiles = {
   "village": {
-    "chance": 0.6,
+    "chance": 1.0,
     "items": [
       {
         "item": "farmersdelight:onion",
@@ -47,7 +47,7 @@ ServerEvents.chestLootTables(event => {
     ]
   },
   "easy": {
-    "chance": 0.5,
+    "chance": 1.0,
     "items": [
       {
         "item": "create:raw_zinc",
@@ -97,7 +97,7 @@ ServerEvents.chestLootTables(event => {
     ]
   },
   "medium": {
-    "chance": 0.65,
+    "chance": 1.0,
     "items": [
       {
         "item": "create:andesite_alloy",
@@ -187,7 +187,7 @@ ServerEvents.chestLootTables(event => {
     ]
   },
   "water": {
-    "chance": 0.6,
+    "chance": 1.0,
     "items": [
       {
         "item": "farmersdelight:fish_stew",

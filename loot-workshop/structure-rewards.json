@@ -1,5 +1,5 @@
 {
-  "village": {"chance":0.6,"items":[
+  "village": {"chance":1.0,"items":[
     {"item":"farmersdelight:onion","count":3,"weight":5},
     {"item":"farmersdelight:tomato_seeds","count":2,"weight":4},
     {"item":"farmersdelight:canvas","count":2,"weight":3},
@@ -8,7 +8,7 @@
     {"item":"farm_and_charm:barley_seeds","count":2,"weight":3},
     {"item":"hexalia:lavender","count":2,"weight":2},
     {"item":"brewery:beer_hops","count":2,"weight":2}]},
-  "easy": {"chance":0.5,"items":[
+  "easy": {"chance":1.0,"items":[
     {"item":"create:raw_zinc","count":3,"weight":5},
     {"item":"create:andesite_alloy","count":2,"weight":4},
     {"item":"farmersdelight:canvas","count":2,"weight":3},
@@ -18,7 +18,7 @@
     {"item":"farm_and_charm:lettuce_seeds","count":2,"weight":3},
     {"item":"hexalia:mandrake_seeds","count":1,"weight":2},
     {"item":"brewery:beer_mug","count":1,"weight":2}]},
-  "medium": {"chance":0.65,"items":[
+  "medium": {"chance":1.0,"items":[
     {"item":"create:andesite_alloy","count":4,"weight":5},
     {"item":"create:copper_sheet","count":3,"weight":4},
     {"item":"create:brass_ingot","count":2,"weight":2},
@@ -36,7 +36,7 @@
     {"item":"create:golden_sheet","count":3,"weight":3},
     {"item":"hexalia:hex_focus","count":1,"weight":1},
     {"item":"create:copper_diving_helmet","count":1,"weight":1}]},
-  "water": {"chance":0.6,"items":[
+  "water": {"chance":1.0,"items":[
     {"item":"farmersdelight:fish_stew","count":1,"weight":4},
     {"item":"farmersdelight:rope","count":5,"weight":5},
     {"item":"create:copper_sheet","count":3,"weight":4},
