@@ -7,6 +7,9 @@
 **/.gradle/
 **/build/
 
+# Local Gradle distributions and other development tool installations
+/mod-dev/tools/
+
 # Local temporary files and patched dependency staging
 **/.tmp/
 **/.blahaj-patched/

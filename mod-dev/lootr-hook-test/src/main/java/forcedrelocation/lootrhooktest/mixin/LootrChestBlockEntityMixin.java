@@ -20,6 +20,10 @@ public abstract class LootrChestBlockEntityMixin {
     private void forcedrelocation$compactBeforeInsert(LootTable table, Inventory inventory, LootContextParameterSet context, long seed) {
         // Generate without a container limit: supplyInventory can discard overflow.
         java.util.List<ItemStack> generated = table.generateLoot(context, seed);
+        LootrChestBlockEntity chest = (LootrChestBlockEntity)(Object)this;
+        LootrHookTest.LOGGER.info("[LootDiag GENERATE] pos={} table={} seed={} items={}",
+            chest.getPos().toShortString(), chest.getTable(), seed,
+            generated.stream().map(stack -> net.minecraft.registry.Registries.ITEM.getId(stack.getItem()) + " x" + stack.getCount()).toList());
         SimpleInventory temporary = new SimpleInventory(generated.size());
         for (int i = 0; i < generated.size(); i++) temporary.setStack(i, generated.get(i).copy());
         int merged = 0;
