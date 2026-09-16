@@ -3056,6 +3056,10 @@ file = "mods/SignCopy-Fabric-1.20.1-1.1.1.jar"
 hash = "dab6f13e28c033f275cfaff1400b2a66f909cd18ab0797c0db03b6b680034bb8"
 
 [[files]]
+file = "mods/SophisticatedStorage_Fixes-0.1.0.jar"
+hash = "440321924bd76331e983422ee79279964b644ece2c2e2ec4e1761fdf103fda37"
+
+[[files]]
 file = "mods/Stfu-1.2.3.jar"
 hash = "97f323cb0ae3b23b99abae5f8195e0a4ac34376801c0dc91574301b1ed5e38c1"
 
