@@ -3962,12 +3962,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "341201e363f0ab726d14b84c94c3c59478d0206bd7b1dd2a413ef99aa4bffc2b"
+hash = "1fbb3d594518460584508ae8088570f23871b21de09cc759da97b160a5872088"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "2b9f114b204cf5b41525c7f52d0696ed57f8c526432c81cef07c0b21edd6ab73"
+hash = "f8f9110054ac63debff87615f6b4a318b64536f472e427a11c59309948bc82de"
 metafile = true
 
 [[files]]
