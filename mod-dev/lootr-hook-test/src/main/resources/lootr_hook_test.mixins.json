@@ -1,7 +1,0 @@
-{
-  "required": true,
-  "package": "forcedrelocation.lootrhooktest.mixin",
-  "compatibilityLevel": "JAVA_17",
-  "mixins": ["LootrChestBlockEntityMixin"],
-  "injectors": { "defaultRequire": 1 }
-}

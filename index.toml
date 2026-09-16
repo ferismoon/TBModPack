@@ -1332,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
-hash = "43a7a5e92860134938ba15b5b83bad64cc751cd5422c4f79608209731fc2211c"
+hash = "4412ccda61425c4e6ddffd7c68ae6e6a5a76bf218c229aba8259861560a23464"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -5857,11 +5857,6 @@ hash = "800bba2ed43ba4b1d8d6a1169004db6d8924b03e01f8b94fd82736a18b5b6452"
 [[files]]
 file = "resourcepacks/appleskin-retextured.pw.toml"
 hash = "ba3b92ba3925b3668a2f78f25dc28543143f55486c122ca360fa408e53294719"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bushy-leaves.pw.toml"
-hash = "3414b4284ea069687227c8ffd3640164a517a6e8893fbd30e2217e91bf9d63ab"
 metafile = true
 
 [[files]]
