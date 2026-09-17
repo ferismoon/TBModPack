@@ -4427,7 +4427,7 @@ metafile = true
 
 [[files]]
 file = "mods/openblocks-elevator-fabric.pw.toml"
-hash = "a7846e4749974ed21f7d4dd373d536f294f31b2bb8ea8036008c48618814e9b2"
+hash = "b3db4dc428a385cc4d6b38b40cf08c77795c30643dfb9391c42e4d035c65aedb"
 metafile = true
 
 [[files]]
