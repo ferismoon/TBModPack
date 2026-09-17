@@ -130,7 +130,7 @@ element {
 
 element {
   interactable = true
-  source = Pack Version Release 1.3
+  source = Pack Version Release 1.3.1
   source_mode = direct
   shadow = true
   scale = 0.75

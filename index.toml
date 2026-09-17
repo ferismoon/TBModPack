@@ -714,7 +714,7 @@ hash = "d0021532df9622867336c53f8bf596f12b7d56f04e52d3a660ed9d49c46ffd39"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "006c4f6cf147e6b851e9ca9d88284e6abceb076cb76e4942dd4f92ead36a32b1"
+hash = "9f1484673978e0caad3e64e3775ad5f208402b58fcb98e0c7423392f5c5eca36"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -4423,6 +4423,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "15b468aaf5779e1361e406def991305657f09142c7872268b46cbdd14c101172"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator-fabric.pw.toml"
+hash = "a7846e4749974ed21f7d4dd373d536f294f31b2bb8ea8036008c48618814e9b2"
 metafile = true
 
 [[files]]
