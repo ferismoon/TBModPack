@@ -32,3 +32,9 @@ Desktop.ini
 # Reproducible loot previews and Python caches
 /loot-workshop/reports/
 /loot-workshop/__pycache__/
+
+# Development work belongs outside the public pack repository.
+/mod-dev/
+/loot-workshop/
+__pycache__/
+*.pyc

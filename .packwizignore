@@ -17,3 +17,10 @@
 
 # Editable loot sources and build tools; only their generated datapack ships.
 /loot-workshop/**
+
+# Repository documentation and editor files are not installed pack content.
+/README.md
+/.gitattributes
+/**/.idea/**
+/**/__pycache__/**
+/**/*.pyc

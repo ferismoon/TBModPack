@@ -1,9 +1,0 @@
-{
-  "id": "ocean_treasure",
-  "chance": 0.25,
-  "choices": [
-    {"pool": "forced_relocation:shared/ocean_equipment", "weight": 75},
-    {"pool": "forced_relocation:shared/ocean_collectibles", "weight": 23},
-    {"pool": "forced_relocation:shared/ocean_jackpot", "weight": 2}
-  ]
-}
