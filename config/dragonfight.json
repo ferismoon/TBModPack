@@ -13,7 +13,7 @@
   },
   "disableLightning": {
     "desc:": "Disables lightning spawns: default:false",
-    "disableLightning": false
+    "disableLightning": true
   },
   "antiflightAbility": {
     "desc:": "Enables anti-flight ability: default:true",
@@ -33,7 +33,7 @@
   },
   "mobSpawnAmountModifier": {
     "desc:": "Sets the mob spawn amount modifier: default:1.0",
-    "mobSpawnAmountModifier": 1.25
+    "mobSpawnAmountModifier": 2.5
   },
   "dragonXPModifier": {
     "desc:": "Sets the XP drop modifier: default:1.0",
@@ -45,19 +45,19 @@
   },
   "disableDragonAreaSpawns": {
     "desc:": "Disables mob spawning on the Dragon island during the fight: default:true",
-    "disableDragonAreaSpawns": true
+    "disableDragonAreaSpawns": false
   },
   "descSpawnEntries": "Below are configuration options for entity spawning, when trying to use nbt append it right after the entity type, e.g. minecraft:zombie{}. Put a backslash in front of all quotation marks",
   "spawnoncrystaldestroy": {
     "desc:": "List of mobs spawning when a crystal is destroyed at range, intended to be flying or ranged to close the gap: e.g. format :  [\"minecraft:zombie\", \"minecraft:creeper\"]",
     "spawnoncrystaldestroy": [
-      "adventurez:void_shade"
+      "minecraft:phantom"
     ]
   },
   "spawnoncrystalrespawn": {
     "desc:": "List of mobs spawning on crystal respawn, intended to be ranged to ward of players from a distance: e.g. format :  [\"minecraft:zombie\", \"minecraft:creeper\"]",
     "spawnoncrystalrespawn": [
-      "adventurez:void_shade"
+      "minecraft:blaze"
     ]
   },
   "spawnwhilelanded": {

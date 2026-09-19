@@ -534,7 +534,7 @@ hash = "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e"
 
 [[files]]
 file = "config/dragonfight.json"
-hash = "1380265b02420d8b7c6447df7f38a731dcdfb1d5cb2a365a594e86af663b0df0"
+hash = "313bdc8d6596397381b4a282db08d675f0dd1b95bbc5498f7fdee0138abd773d"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
@@ -3015,6 +3015,10 @@ file = "kubejs/server_scripts/suppsquared_daub.js"
 hash = "905ffab7c842d8849798e612df7d99180ca338b912dd7f62735b811ea5563c83"
 
 [[files]]
+file = "kubejs/server_scripts/tranquil_lantern_end_restriction.js"
+hash = "6f2a7f411abac0b254b448bdeadcea7ee7818fde1976351203aff2b31953bc2b"
+
+[[files]]
 file = "kubejs/startup_scripts/amd_drivers.js"
 hash = "1421c6ca0cf25a4e14b2edc4259e291670d13c804cc52c58eb061b4147a5eaf9"
 
@@ -3585,6 +3589,10 @@ metafile = true
 file = "mods/double-doors.pw.toml"
 hash = "b207d018bd9a51630c58b82d5f2e4b75847254b7dedfdcf0dbaf25278f3f107a"
 metafile = true
+
+[[files]]
+file = "mods/dragon-hitbox-fix-0.1.0.jar"
+hash = "7e2cc4457bc18147dddd17650fc158fd03a0004946a257efe361dfb8ab1be166"
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
