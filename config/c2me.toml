@@ -136,7 +136,8 @@ globalExecutorParallelism = "default"
 	# 
 	asyncScheduling = "default"
 	# (Default: true) Whether to enable this feature
-	enabled = true
+	# Disabled after BetterEnd LakePiece heightmap crashed during parallel generation.
+	enabled = false
 
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen

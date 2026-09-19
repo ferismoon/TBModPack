@@ -246,7 +246,7 @@ hash = "2a392d1be04c523a3196b67c4052e90cd1f9b868c667c0f782f45c5628b4e5aa"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "d407809dd0e17bbe30f7ca94b8c947296b13075236c3a7af13257581a1f04768"
+hash = "6eda6cfd7b38777e3a0c032e8bba7eae83d694f97467f921c8e636c0af203c7d"
 
 [[files]]
 file = "config/cactus_config.toml"
