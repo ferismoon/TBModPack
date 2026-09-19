@@ -533,6 +533,10 @@ file = "config/doubledoors.json5"
 hash = "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e"
 
 [[files]]
+file = "config/dragonfight.json"
+hash = "1380265b02420d8b7c6447df7f38a731dcdfb1d5cb2a365a594e86af663b0df0"
+
+[[files]]
 file = "config/drippyloadingscreen/options.txt"
 hash = "f53d59ccc9f423ebf033b557f6669f87e127e5e276b7733e0a26d4679984ba99"
 
