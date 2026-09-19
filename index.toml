@@ -5025,6 +5025,10 @@ hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
 metafile = true
 
 [[files]]
+file = "mods/void-shade-tweaks-0.2.0.jar"
+hash = "e0ae10036f4c7aec6523993f86f84563a65c4ebd616e8e01ce0f28fd4511e9a1"
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "853cff9dbfc40410ca264fbe1fb87d101af8166b5f6656cf422e8ea6c9823ca2"
 metafile = true
