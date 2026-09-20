@@ -3650,6 +3650,10 @@ hash = "4e659377f3db8a81ba68a2701d94da5ec28e640e10204c9717395dd4f2750054"
 metafile = true
 
 [[files]]
+file = "mods/end-tears-fix-0.1.0.jar"
+hash = "7aa6e1603c0f1eb77a7db43c3b846d6ff983dab4bba1f573111f2e692c5e8fa7"
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "fab5d7420de7216e160ad3c2ce7b3c06ae3008ddb432b564579d43a7f9130075"
 metafile = true
