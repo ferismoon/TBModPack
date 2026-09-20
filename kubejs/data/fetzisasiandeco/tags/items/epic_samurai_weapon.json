@@ -1,0 +1,129 @@
+{
+  "values": [
+    {
+      "id": "epicsamurai:katana",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:wakizashi",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:naginata",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:nagamaki",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:shuko",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:tetsubo",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:odachi",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:tonbukiri",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:kamayari",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:tanegashima",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:kunai",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:kama",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:sai",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:shuriken",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:katana_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:wakizashi_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:katana_oni",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:katana_kitsune",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:katana_kitsune_blue",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:katana_akaname",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:katana_jorogumo",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:naginata_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:nagamaki_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:shuko_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:tetsubo_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:odachi_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:tonbukiri_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:kamayari_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:kunai_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:kama_netherite",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:sai_netherite",
+      "required": false
+    }
+  ],
+  "replace": true
+}

@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "#nethervinery:spawns_warped_grape",
+      "required": false
+    }
+  ]
+}

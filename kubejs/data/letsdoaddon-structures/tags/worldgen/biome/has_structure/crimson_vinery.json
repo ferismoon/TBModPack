@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "#nethervinery:spawns_crimson_grape",
+      "required": false
+    }
+  ]
+}

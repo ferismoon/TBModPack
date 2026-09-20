@@ -1,12 +1,12 @@
 name = "True Bastard ModPack"
 author = "Moonie"
-version = "1.3.1"
+version = "1.3.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a333b6540ddd48354caa146214c33374067b291d631c0ed7938993c18739d88f"
+hash = "7e5fbde7c1c941ffeea0eea30e084c68d5ebfe9b1c18c9d5ceefd859d6020a7c"
 
 [versions]
 fabric = "0.18.4"

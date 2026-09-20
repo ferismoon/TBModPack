@@ -714,7 +714,7 @@ hash = "d0021532df9622867336c53f8bf596f12b7d56f04e52d3a660ed9d49c46ffd39"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "9f1484673978e0caad3e64e3775ad5f208402b58fcb98e0c7423392f5c5eca36"
+hash = "16826bf5e628c7345a53e4afb57b12c17c55d3e776361574f8720aa82006c698"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -2663,6 +2663,10 @@ file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/windswept_hills_spawns.
 hash = "f8e655566963cce7e5f7637a8bc168cb507b6fd85900a9042f1e8c7cc9ac986b"
 
 [[files]]
+file = "kubejs/data/fetzisasiandeco/tags/items/epic_samurai_weapon.json"
+hash = "b17699b724f27bfb354058b6fe1612f7b24c96344d7cbcabeafbd3c03a49bfc6"
+
+[[files]]
 file = "kubejs/data/forced_relocation/worldgen/biome_modifier/creeper_badlands.json"
 hash = "ee17867a0ca5d214c8e33912da0ed536c151c804455dbd0ba166fdf49260d553"
 
@@ -2721,6 +2725,30 @@ hash = "fe5971334550e11dac1139cc995f01df2bcd2321489201de643b5381a27fc5c4"
 [[files]]
 file = "kubejs/data/letsdoaddon-structures/loot_tables/chests/warped_vinery.json"
 hash = "1ca5c746a33dcc23f6fc273b4ddfcf76fe37ebdc0b34393c8253c9c8259f6194"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/tags/worldgen/biome/has_structure/crimson_vinery.json"
+hash = "17f6a19fc197ce1aba7efde12a8066d68bd19794dc4deb09cc49f777fd8981d3"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/tags/worldgen/biome/has_structure/mangrove_hut.json"
+hash = "ec08b5a0fbd6f134d29e1ecc711fe44e48577aecfc0e448c30cbbf1d45a508ac"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/tags/worldgen/biome/has_structure/mangrove_outpost.json"
+hash = "ec08b5a0fbd6f134d29e1ecc711fe44e48577aecfc0e448c30cbbf1d45a508ac"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/tags/worldgen/biome/has_structure/mangrove_pond.json"
+hash = "ec08b5a0fbd6f134d29e1ecc711fe44e48577aecfc0e448c30cbbf1d45a508ac"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/tags/worldgen/biome/has_structure/swamp_well.json"
+hash = "12f7912eea2ca57427b15ececc2372aaa9f9dc8894f56711c09db9d9e318975e"
+
+[[files]]
+file = "kubejs/data/letsdoaddon-structures/tags/worldgen/biome/has_structure/warped_vinery.json"
+hash = "fa1fd3d21c7a41306680e07d1e16ed1fabda16db902d294f1d428ca0e0426d18"
 
 [[files]]
 file = "kubejs/data/letsdoaddon-structures/worldgen/structure_set/mangrove_pond.json"
@@ -2913,6 +2941,10 @@ hash = "3bb85b725c049b2ac4aee89703c24a3652bea444a4db85b2cbf63f806cda528c"
 [[files]]
 file = "kubejs/data/structory_towers/worldgen/structure_set/towers.json"
 hash = "0cb0eba061cb3257211f65e341600cec56158733129768893110a50bdd40029d"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/tags/items/tools.json"
+hash = "f1768f50bc32150adae7a1bc8ed2cad5ce5fa650f498378acc06325ed55a2350"
 
 [[files]]
 file = "kubejs/data/towns_and_towers/worldgen/structure_set/towers.json"
