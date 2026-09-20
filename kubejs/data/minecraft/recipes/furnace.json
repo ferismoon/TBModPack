@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "betterend:azure_jadestone"
+      },
+      {
+        "item": "betterend:flavolite"
+      },
+      {
+        "item": "betterend:sandy_jadestone"
+      },
+      {
+        "item": "betterend:smaragdant_crystal"
+      },
+      {
+        "item": "betterend:sulphuric_rock"
+      },
+      {
+        "item": "betterend:umbralith"
+      },
+      {
+        "item": "betterend:violecite"
+      },
+      {
+        "item": "betterend:virid_jadestone"
+      },
+      {
+        "item": "biomeswevegone:rocky_stone"
+      },
+      {
+        "item": "meadow:cobbled_limestone"
+      },
+      {
+        "item": "minecraft:cobbled_deepslate"
+      },
+      {
+        "item": "minecraft:cobblestone"
+      },
+      {
+        "item": "natures_spirit:chert"
+      },
+      {
+        "item": "natures_spirit:cobbled_travertine"
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}

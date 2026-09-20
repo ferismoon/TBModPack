@@ -714,7 +714,7 @@ hash = "d0021532df9622867336c53f8bf596f12b7d56f04e52d3a660ed9d49c46ffd39"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "16826bf5e628c7345a53e4afb57b12c17c55d3e776361574f8720aa82006c698"
+hash = "0cc96795c5329e47d8fef7178c9f8b649320504b303819d7b1a50bc36d189675"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -2771,6 +2771,10 @@ file = "kubejs/data/meadow/worldgen/structure_set/chalet.json"
 hash = "3e5a6ca217e6823a823b46582d7eadeba4713a465e915155760ce53d3306c638"
 
 [[files]]
+file = "kubejs/data/minecraft/recipes/furnace.json"
+hash = "83ec61aa3c3944e944c1f52e7fcc1903d4e807f2a7449108cc6f2334edbf4e6d"
+
+[[files]]
 file = "kubejs/data/mns/worldgen/structure_set/medium_house_2.json"
 hash = "ca39eb02f6b39bcd6e317577b4f8eb594e1abe4da0d81abaa843b7f27d58733b"
 
@@ -2923,6 +2927,14 @@ file = "kubejs/data/qrafty/worldgen/structure_set/well.json"
 hash = "a82fc04e7cd6b9a8984ba66f422332ab640c5b46b501c2c9f9ae99b152ef1f3f"
 
 [[files]]
+file = "kubejs/data/sliceanddice/recipes/filling/hot_cocoa_from_fluid.json"
+hash = "1d6915ae4d57dc30f6c55cd86d888f91ff2607ff5eb9ce7dd722dea6a902b1c4"
+
+[[files]]
+file = "kubejs/data/sliceanddice/recipes/filling/rich_soil.json"
+hash = "c216011f5a73df58a8745bbd31248e652a2577cf54584aa751c428d83465a589"
+
+[[files]]
 file = "kubejs/data/spawn/worldgen/structure_set/ant_mount.json"
 hash = "3b7be17eeac625043087ea2d6290f8eb72172a253ef5d6d774a35f10d23ef8db"
 
@@ -2941,6 +2953,58 @@ hash = "3bb85b725c049b2ac4aee89703c24a3652bea444a4db85b2cbf63f806cda528c"
 [[files]]
 file = "kubejs/data/structory_towers/worldgen/structure_set/towers.json"
 hash = "0cb0eba061cb3257211f65e341600cec56158733129768893110a50bdd40029d"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/flax.json"
+hash = "1b49b38d9473228b399799a66f2fe9ecfc556bdee7a0e2e824411113848cb713"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_excavator.json"
+hash = "5709735f93fb124901e093df44f9e312bf16c43dd836c93fd8626ec1c1e7df05"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_excavator_smelting_alloy.json"
+hash = "5c8173d522c331c99eedefa879238cb4b3a647093d5f90f199fbd5a40e69edab"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_excavator_smelting_ingot.json"
+hash = "18d500a9c64ffa8b6cfbe496f88d6eedfc8edfad3236643c36e2dc4ca0fdd8c4"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_hammer.json"
+hash = "e4ca73566126ba20417fc11fbeb4e93bc645650245df1633507f7bd98cd4e159"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_hammer_smelting_alloy.json"
+hash = "a23c9f70079733d5c621edfdda1e6e4249a3a5a35b312b37ca79a7413f640e5b"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_hammer_smelting_ingot.json"
+hash = "9dc2ad1680b75983de945162ee99bf9e0b6c987b03fe11b59988820efbe71864"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_lumber_axe.json"
+hash = "2b2d292c25617bdf6e11e6fa7bdf530579d758fb65e90c0fcf6307081b607017"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_lumber_axe_smelting_alloy.json"
+hash = "8c75efa0ce005930f343652dc6c723a803bdc8ace56796f1fdec6cb3480a0862"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_lumber_axe_smelting_ingot.json"
+hash = "fc641ab6b1ed79646d0bcb998371ecf79506dae89098f72d0bdcb13097098d65"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_scythe.json"
+hash = "1aae3d13bb071a7743c51a23a0ef86ae0f17c07ccb10df9772c379f48086c26b"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_scythe_smelting_alloy.json"
+hash = "1dfc6be213a25bcb3feeb48c687497659dd3efaea1ea5c6efd145aa30575da24"
+
+[[files]]
+file = "kubejs/data/tokimistoolshed/recipes/rose_gold_scythe_smelting_ingot.json"
+hash = "c38cae6498ab044b7e037481edd166010a4810ae2b5c7095f28e9d441a7f3e7a"
 
 [[files]]
 file = "kubejs/data/tokimistoolshed/tags/items/tools.json"
@@ -2997,10 +3061,6 @@ hash = "4fc329485333d65b2400052de80a8782f0a2a27d7246885d48b83315c91417fe"
 [[files]]
 file = "kubejs/server_scripts/flour.js"
 hash = "d37b0f74bdb57db810c54adb9b710bfc8e84c2495fe9805654b90d70b2ce8e71"
-
-[[files]]
-file = "kubejs/server_scripts/furnace_fix.js"
-hash = "88fd2ed247e6d8dc32834335e198b261baf0fcd6d0ed0aac159fee80ab75e0de"
 
 [[files]]
 file = "kubejs/server_scripts/generated_player_plushies.js"
@@ -3086,6 +3146,10 @@ hash = "46f7c9b0eb9a4fde4461184ad9b649e25998178cc396e66d11e5be0b1ffd4626"
 file = "mods/3dskinlayers.pw.toml"
 hash = "f9a59df2232ac145a6d3d5a8d170860afd36610150bd115c65fdd8ab26812c5f"
 metafile = true
+
+[[files]]
+file = "mods/Necronomicon-Fabric-1.6.0+1.20.1-refmap-fix.jar"
+hash = "1a4a5230fef8bf83f1c17980d675bf8aa5cedeaf724ab839beb8200303f177b5"
 
 [[files]]
 file = "mods/SignCopy-Fabric-1.20.1-1.1.1.jar"
@@ -4370,11 +4434,6 @@ hash = "6aa67b9fb9f296e709ff121e8fa025a688109f3488c4bd6a656a0c6298b3b5bf"
 metafile = true
 
 [[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
 hash = "d37112c85b0f74ae0081f7f2778ea563446cf2d2edad4aee7a6fc8a7f1dc91d2"
 metafile = true
@@ -4835,6 +4894,10 @@ hash = "ced6fc15e8e1db49a6d6dce2c8d1341eaa547cf6d60216e32744eb03fab84182"
 metafile = true
 
 [[files]]
+file = "mods/squish-pig-compat-0.1.0.jar"
+hash = "7f0b2e5c7698b87978d4e2e091d9929d3a9c41a9184ed70e2ca47945363c3212"
+
+[[files]]
 file = "mods/squish.pw.toml"
 hash = "0c45dcdefb8d2e7a243279f8254a1835ad8938693840384f665f6a0f77db3000"
 metafile = true
@@ -4898,6 +4961,10 @@ metafile = true
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "2cdb12edbde8a61debc9795ac68d17ec93299588de63f89ee017eb427741f263"
 metafile = true
+
+[[files]]
+file = "mods/supplementaries-loot-compat-0.1.0.jar"
+hash = "03994bd545dde1aa4493a72b9249c9e18fbe6ad5ee3e1c100244dbb8d40c8834"
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RSR",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "tag": "tokimistoolshed:rose_gold_repair_materials"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "tokimistoolshed:rose_gold_hammer"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:registry_contains",
+      "registry": "minecraft:item",
+      "values": [
+        "tokimistoolshed:rose_gold_hammer"
+      ]
+    }
+  ]
+}

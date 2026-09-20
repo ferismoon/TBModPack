@@ -1,0 +1,26 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:any_mod_loaded",
+      "values": [
+        "farmersdelight"
+      ]
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:organic_compost"
+    },
+    {
+      "amount": 40500,
+      "fluid": "sliceanddice:fertilizer",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "farmersdelight:rich_soil"
+    }
+  ]
+}
