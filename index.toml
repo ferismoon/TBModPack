@@ -714,7 +714,7 @@ hash = "d0021532df9622867336c53f8bf596f12b7d56f04e52d3a660ed9d49c46ffd39"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "0cc96795c5329e47d8fef7178c9f8b649320504b303819d7b1a50bc36d189675"
+hash = "9eb8cce959446f9396b48c69ec7d2ac8030e1ac5c41886f245d2eb555632585f"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -3085,6 +3085,10 @@ hash = "b48b05f74bacfe400b08e40f364cf3b362aee1d712b526f23f4079841b9b0c6e"
 [[files]]
 file = "kubejs/server_scripts/misc.js"
 hash = "505de2b2045cfedf7f901a1dab539c432b100732f8d7d696e3120f79db25d4d2"
+
+[[files]]
+file = "kubejs/server_scripts/remove_blackstone_haunting.js"
+hash = "2bc5679c8d5dd864b53776d8be78f926574a2c2949b00745e69ad11b60e1209f"
 
 [[files]]
 file = "kubejs/server_scripts/remove_broken_compat_recipes.js"
