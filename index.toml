@@ -2167,6 +2167,10 @@ file = "kubejs/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.j
 hash = "4c486e17adfcbe847f0ad2d618f54feb7e46ef178bc908fadb262188ec4d4e00"
 
 [[files]]
+file = "kubejs/data/c/tags/items/plates/copper.json"
+hash = "aa2705a53631e083d8ff5d57966a5c9a78ad1eed1d900a261c7dc9ff03e324c7"
+
+[[files]]
 file = "kubejs/data/c/tags/worldgen/biome/badlands.json"
 hash = "60bba483e194c39aba9a5bc71bafc312f27639f2d027bc0cb38dca9ae430d34b"
 
